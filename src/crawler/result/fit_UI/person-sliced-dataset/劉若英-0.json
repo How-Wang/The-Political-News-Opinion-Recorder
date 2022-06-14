@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉若英.png",
+    "opinions": [
+        {
+            "person": "劉若英",
+            "verb": "表示",
+            "opinion": "「成全了你的瀟灑與冒險」,他決定退出桃園市長選舉,繼續行腳,為台灣人民祈福。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "冒險",
+                "退出"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-07 12:44"
+        }
+    ]
+}

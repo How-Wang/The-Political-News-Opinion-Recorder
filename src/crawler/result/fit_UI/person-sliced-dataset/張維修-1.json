@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張維修.png",
+    "opinions": [
+        {
+            "person": "張維修",
+            "verb": "提到",
+            "opinion": "期望外界在參與設計時,可以回應三個重點,包括「使用營運的轉變」(包含去威權、回應歷史等)、「空間場域的更動」、「意義詮釋上的新生」,讓中正紀念堂園區轉型後,將在台灣當代城市生活的形塑和社會價值的再造上,扮演更開闊高遠的角色。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "紀念",
+                "期望"
+            ],
+            "datetime": "2022-05-30 16:50"
+        }
+    ]
+}

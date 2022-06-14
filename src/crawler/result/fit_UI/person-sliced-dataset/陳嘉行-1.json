@@ -1,0 +1,45 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳嘉行.png",
+    "opinions": [
+        {
+            "person": "陳嘉行",
+            "verb": "說",
+            "opinion": "是不是該請北市長柯文哲取消員警的兩次申誡?徐巧芯日前爆發違停事件,當時還被質疑拉下口罩表明議員身分施壓,警方昨晚也公布密錄器影像,揭露警員與徐巧芯針對紅線違停的對話內容。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "取消",
+                "揭露",
+                "質疑",
+                "爆發",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:53"
+        },
+        {
+            "person": "陳嘉行",
+            "verb": "表示",
+            "opinion": "請台北市長柯文哲取消員警2支申誡。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:05"
+        },
+        {
+            "person": "陳嘉行",
+            "verb": "發現",
+            "opinion": "僅有高中學歷,卻可以就讀中山大學社會學系碩士班,中山大學遭質疑為陳嘉行量身打造的「焦糖條款」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 05:30"
+        }
+    ]
+}

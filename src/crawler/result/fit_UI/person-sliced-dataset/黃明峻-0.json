@@ -1,0 +1,64 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃明峻.png",
+    "opinions": [
+        {
+            "person": "黃明峻",
+            "verb": "表示",
+            "opinion": "自己前往參與5月17日到24日在台灣友邦宏都拉斯的比賽,17日晚間近10時,主辦單位公布出賽單,上面他的國籍寫是台灣,裁判在將近12時忽然另公布一張賽程表,裡面唯一變更就是他的國籍被改為「中華台北,台灣」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 14:35"
+        },
+        {
+            "person": "黃明峻",
+            "verb": "表示",
+            "opinion": "他立刻在比賽群組表達他的國籍是台灣,並宣布他與另一位台灣選手連林嵐隔天將以退賽抗議。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 14:35"
+        },
+        {
+            "person": "黃明峻",
+            "verb": "發現",
+            "opinion": "裁判在接近晚間12點發布新賽程表,他們的國籍竟被改成「ChineseTaipeiTaiwan」,就算他在群組裡抗議,夜深了沒有任何人回應,二人討論之後決定「不出賽」抵制,並且嚴正抗議「我的國籍是台灣,不是ChineseTaipeiTaiwan,台灣不是中國的一部分」。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "抗議",
+                "沒有",
+                "抵制",
+                "不出",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-26 11:48"
+        },
+        {
+            "person": "黃明峻",
+            "verb": "表示",
+            "opinion": "一直來他們比賽都是用台灣名稱出賽,再者這次的比賽地點跟主辦單位,他們曾在2018年參賽過一次,那時用台灣名義參賽也都沒問題,豈料這回卻有變動,「不應該是這樣的,所以我們發現後即時反應,用停賽抗議讓大家重視這個問題。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "抗議",
+                "問題",
+                "變動",
+                "不應該",
+                "問題"
+            ],
+            "positive_list": [
+                "重視"
+            ],
+            "datetime": "2022-05-27 13:35"
+        }
+    ]
+}

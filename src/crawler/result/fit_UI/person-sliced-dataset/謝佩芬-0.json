@@ -1,0 +1,653 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝佩芬.png",
+    "opinions": [
+        {
+            "person": "謝佩芬",
+            "verb": "強調",
+            "opinion": "民進黨感謝美國政府對於台海安全及台灣參與國際組織的高度重視。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "重視",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-27 15:16"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "布林肯(AntonyBlinken)美東時間26日在喬治華盛頓大學發表對中政策演說中表示,美國政策沒有改變,改變的是北京不斷試圖切斷台灣與世界各國的關係,阻止台灣參與國際組織,共機更幾乎每天在台灣週邊活動,還有愈來愈挑釁的言論;這些言行嚴重破壞穩定、增加誤判風險、威脅台海的和平與穩定。",
+            "negative_score": 14,
+            "positive_score": 3,
+            "negative_list": [
+                "不斷",
+                "切斷",
+                "沒有",
+                "阻止",
+                "威脅",
+                "挑釁",
+                "挑釁的",
+                "破壞",
+                "嚴重",
+                "嚴重破壞",
+                "沒有",
+                "威脅",
+                "挑釁",
+                "破壞"
+            ],
+            "positive_list": [
+                "和平",
+                "增加",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 15:16"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "近來美國行政、立法部門多次對台灣海峽的安全穩定與台灣的國際參與表達高度關切,包括拜登總統、布林肯國務卿,以及美國不分黨派的參、眾議員,都有堅定表態。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "堅定",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 14:42"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨感謝美國政府再次重申對台灣的安全承諾,以及對台灣參與國際事務的支持。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "承諾",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-27 14:42"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "近來美國行政、立法部門多次對台灣海峽的安全穩定與台灣的國際參與表達高度關切,包括拜登總統、布林肯國務卿,以及美國不分黨派的參、眾議員,都有堅定表態。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "堅定",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 17:43"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "近來美國行政、立法部門多次對台灣海峽的安全穩定與台灣的國際參與表達高度關切,包括拜登總統、布林肯國務卿,以及美國不分黨派的參、眾議員,都有堅定表態。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "堅定",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 15:03"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨感謝美國政府再次重申對台灣的安全承諾,以及對台灣參與國際事務的支持。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "承諾",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-27 15:03"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "誠摯歡迎高度友台的好朋友在不到一年內二度率團來訪,很高興這次達克沃絲在台灣有更充裕時間,親眼見證台灣對民主、自由、人權堅持,並為台美友好的情誼再添佳話。",
+            "negative_score": 2,
+            "positive_score": 12,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "友好",
+                "友好的",
+                "充裕",
+                "自由",
+                "高興",
+                "堅持",
+                "誠摯",
+                "歡迎",
+                "自由",
+                "高興",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-05-31 12:14"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "達克沃絲身為「參議院台灣連線」的成員,長期堅定支持台灣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-05-31 12:14"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨誠摯歡迎高度友台的好朋友在不到一年內二度率團來訪,倍感親切。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "誠摯",
+                "親切",
+                "歡迎",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-05-31 13:11"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "去年6月,台灣疫情嚴峻之際,達克沃絲參議員、蘇利文參議員(DanSullivan,R-AK),以及昆斯參議員(ChrisCoons,D-DE)等三人專程搭乘軍機訪台,宣布捐贈台灣疫苗,達克沃絲參議員並強調「不會讓台灣孤軍奮戰」,他們當時展現的及時幫助與堅定情誼,讓台灣人民非常感動。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "嚴峻",
+                "不會"
+            ],
+            "positive_list": [
+                "捐贈",
+                "堅定",
+                "感動",
+                "幫助",
+                "感動"
+            ],
+            "datetime": "2022-05-31 13:11"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨誠摯歡迎高度友台的好朋友在不到一年內二度率團來訪,讓我們倍感親切。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "誠摯",
+                "親切",
+                "歡迎",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-05-31 11:58"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "去年6月,台灣疫情嚴峻之際,達克沃絲參議員、蘇利文參議員(DanSullivan,R-AK),以及昆斯參議員(ChrisCoons,D-DE)等三人專程搭乘軍機訪台,宣布捐贈台灣疫苗,達克沃絲參議員並強調「不會讓台灣孤軍奮戰」,他們當時展現的及時幫助與堅定情誼,讓台灣人民非常感動。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "嚴峻",
+                "不會"
+            ],
+            "positive_list": [
+                "捐贈",
+                "堅定",
+                "感動",
+                "幫助",
+                "感動"
+            ],
+            "datetime": "2022-05-31 11:58"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "今年四月份美國聯邦眾議院議長裴洛西(NancyPelosi)預計訪台,當時國民黨一方面在推特用英文寫下「誠摯歡迎」,另一方面又透過親中媒體放話「這對台灣國防安全沒有實質幫助」,如此大玩兩面手法,無益於對美關係的改善,民進黨希望朱立倫不要重蹈今年4月的覆轍。",
+            "negative_score": 4,
+            "positive_score": 10,
+            "negative_list": [
+                "沒有",
+                "無益",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "安全",
+                "希望",
+                "改善",
+                "誠摯",
+                "幫助",
+                "歡迎",
+                "希望",
+                "改善",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-06-01 16:18"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "他要遏止國民黨內,在國內操作反美疑美、在華府親美的雙面作法。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "遏止",
+                "遏止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:18"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "長期以來,美國是台灣的堅定盟友,民進黨執政後穩健推動對美外交,包括深化經貿合作、國防安全合作,以及以民主價值為核心的外交路線。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "堅定",
+                "穩健",
+                "合作"
+            ],
+            "datetime": "2022-06-01 16:18"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "回應",
+            "opinion": "對於朱立倫願意出訪華府著手修補與美國關係,修正過去錯誤的親中反美路線,民進黨正面看待。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "錯誤",
+                "錯誤的"
+            ],
+            "positive_list": [
+                "正面",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-01 16:06"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "長期以來,美國是台灣的堅定盟友,民進黨執政後穩健推動對美外交,包括深化經貿合作、國防安全合作,以及以民主價值為核心的外交路線。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "堅定",
+                "穩健",
+                "合作"
+            ],
+            "datetime": "2022-06-01 16:06"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "強調",
+            "opinion": "相較國民黨在適逢選舉需求而在外交立場上的搖擺,民進黨將持續穩健推動對美關係,深化與盟友的合作,爭取更多國際支持,並呼籲國民黨重回一致對外的正軌,堅定與民主盟友的關係,勿再左右搖擺、對內對外各說一套的作法。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "搖擺"
+            ],
+            "positive_list": [
+                "一致",
+                "合作",
+                "堅定",
+                "穩健",
+                "合作"
+            ],
+            "datetime": "2022-06-01 16:06"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "長期以來,美國是台灣的堅定盟友,民進黨執政後穩健推動對美外交,包括深化經貿合作、國防安全合作,以及以民主價值為核心的外交路線。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "堅定",
+                "穩健",
+                "合作"
+            ],
+            "datetime": "2022-06-01 15:25"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "對於朱立倫願意出訪華府,著手修補與美國關係,修正其過去錯誤的親中反美路線,民進黨正面看待,但也呼籲朱立倫要遏止國民黨內,在國內操作反美疑美、在華府親美的雙面作法,並應向美方完整說明過去錯誤的親中反美路線,讓盟友能對台灣充分信任與安心。",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "遏止",
+                "錯誤",
+                "錯誤的",
+                "遏止"
+            ],
+            "positive_list": [
+                "充分",
+                "正面",
+                "完整",
+                "信任",
+                "說明",
+                "願意",
+                "安心",
+                "願意"
+            ],
+            "datetime": "2022-06-01 15:25"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "指出",
+            "opinion": "民進黨認為台美關係的穩固與發展,應是不分朝野、團結一致的共同目標。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "一致的",
+                "發展",
+                "穩固"
+            ],
+            "datetime": "2022-06-01 15:25"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "指出",
+            "opinion": "對於朱立倫願意出訪華府,著手修補與美國關係,修正其過去錯誤的親中反美路線,民進黨正面看待,但也呼籲朱立倫要遏止國民黨內在國內操作反美疑美、在華府親美的雙面作法,並應向美方完整說明過去錯誤的親中反美路線,讓盟友能對台灣充分信任與安心。",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "遏止",
+                "錯誤",
+                "錯誤的",
+                "遏止"
+            ],
+            "positive_list": [
+                "充分",
+                "正面",
+                "完整",
+                "信任",
+                "說明",
+                "願意",
+                "安心",
+                "願意"
+            ],
+            "datetime": "2022-06-01 15:55"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "指出",
+            "opinion": "民進黨認為台美關係的穩固與發展,應是不分朝野、團結一致的共同目標。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "一致的",
+                "發展",
+                "穩固"
+            ],
+            "datetime": "2022-06-01 15:55"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "長期以來,美國是台灣的堅定盟友,民進黨執政後穩健推動對美外交,包括深化經貿合作、國防安全合作,以及以民主價值為核心的外交路線。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "堅定",
+                "穩健",
+                "合作"
+            ],
+            "datetime": "2022-06-01 15:55"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "勞倫契克副議長及友台小組主席歐舒斯基均長期支持台灣;此次訪團成員還包括外交、國防、財政及歐洲事務四個委員會的跨黨派國會議員:席曼諾娃(AnnaZemanova)、列霍茨基(TomasLehotsky)、齊阿克(MiroslavZiak)、史丹奇克(AndrejStancik)。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 12:41"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "指出",
+            "opinion": "去年9月,斯洛伐克政府將捐贈給台灣的疫苗由1萬劑增加為16萬劑,台灣人民點滴在心頭。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈",
+                "增加"
+            ],
+            "datetime": "2022-06-06 12:41"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "指出",
+            "opinion": "勞倫契克副議長及友台小組主席歐舒斯基均長期支持台灣;此次訪團成員還包括外交、國防、財政及歐洲事務四個委員會的跨黨派國會議員席曼諾娃(AnnaZemanova)、列霍茨基(TomasLehotsky)、齊阿克(MiroslavZiak)、史丹奇克(AndrejStancik)。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:26"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "指出",
+            "opinion": "去年9月,斯洛伐克政府將捐贈給台灣的疫苗由1萬劑增加為16萬劑,台灣人民點滴在心頭。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈",
+                "增加"
+            ],
+            "datetime": "2022-06-06 13:26"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "感謝斯洛伐克國會連續2年支持台灣參與世界衛生大會(WHA),民進黨相信,台灣與斯洛伐克會持續發展更加緊密的夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "發展",
+                "感謝",
+                "夥伴",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 12:40"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "布拉提斯拉瓦省省長德若巴(JurajDroba)、馬拉基(Malacky)市市長瑞哈(JurajRiha)等重要地方首長的到訪,更顯示兩國關係的全面發展。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "重要",
+                "發展"
+            ],
+            "datetime": "2022-06-06 12:40"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨樂見朱立倫願意著手與美國修補關係,希望朱立倫回到台灣後能繼續堅持對美方承諾的立場,不要又為國民黨內親中勢力束縛,走回反美的老路。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "束縛",
+                "不要",
+                "束縛"
+            ],
+            "positive_list": [
+                "希望",
+                "承諾",
+                "堅持",
+                "願意",
+                "希望",
+                "樂見",
+                "願意"
+            ],
+            "datetime": "2022-06-11 13:11"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨樂見朱立倫願意著手與美國修補關係,希望朱立倫回到台灣後能繼續堅持對美方承諾的立場,不要又為國民黨內親中勢力束縛,走回反美的老路。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "束縛",
+                "不要",
+                "束縛"
+            ],
+            "positive_list": [
+                "希望",
+                "承諾",
+                "堅持",
+                "願意",
+                "希望",
+                "樂見",
+                "願意"
+            ],
+            "datetime": "2022-06-11 12:29"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "強調",
+            "opinion": "朱立倫願意帶領國民黨走回與美交往的正軌,和政府一起努力讓台美關係更緊密,共同站在民主自由陣營的一方,民進黨誠摯歡迎。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "努力",
+                "誠摯",
+                "願意",
+                "歡迎",
+                "自由",
+                "誠摯",
+                "願意",
+                "歡迎"
+            ],
+            "datetime": "2022-06-11 12:35"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "表示",
+            "opinion": "民進黨樂見朱立倫願意著手與美國修補關係,希望朱立倫回到台灣後能繼續堅持對美方承諾的立場,「千萬不要」重演在美國說一套騙取信任,在台灣說一套騙取選票,面對中共又是另一套的老戲碼。",
+            "negative_score": 1,
+            "positive_score": 8,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "承諾",
+                "信任",
+                "堅持",
+                "願意",
+                "希望",
+                "樂見",
+                "願意"
+            ],
+            "datetime": "2022-06-11 12:35"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "說",
+            "opinion": "朱立倫願意帶領國民黨走回與美交往的正軌,和政府一起努力讓台美關係更緊密,共同站在民主自由陣營的一方,民進黨誠摯歡迎。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "努力",
+                "誠摯",
+                "願意",
+                "歡迎",
+                "自由",
+                "誠摯",
+                "願意",
+                "歡迎"
+            ],
+            "datetime": "2022-06-11 15:11"
+        },
+        {
+            "person": "謝佩芬",
+            "verb": "提到",
+            "opinion": "由於國民黨前主席洪秀柱、前總統馬英九等人最近親中、媚中的誇張言行,言猶在耳,民進黨也誠心希望,朱立倫在美國聲稱國民黨捍衛台灣的決心,往後確實能開始在國民黨人士的身上看到。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "誇張"
+            ],
+            "positive_list": [
+                "希望",
+                "決心",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-11 15:11"
+        }
+    ]
+}

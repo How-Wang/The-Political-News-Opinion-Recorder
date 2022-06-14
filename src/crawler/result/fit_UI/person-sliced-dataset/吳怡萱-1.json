@@ -1,0 +1,71 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "吳怡萱",
+            "verb": "表示",
+            "opinion": "目前最重要的是給家長清楚的指引,並且擴充兒童收治量能,讓兒童加護病房儘速到位。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "清楚",
+                "清楚的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-25 12:40"
+        },
+        {
+            "person": "吳怡萱",
+            "verb": "說",
+            "opinion": "近來出現兒童因為確診併發腦炎死亡個案,讓家長人心惶惶是事實;醫護人員從四月開始承受極大壓力、被當「得來速」也是事實,郭彥均幫忙前線發聲,卻被網友、側翼出征到刪文,這是什麼樣的世界?尤其王浩宇帶風向誤導大眾,要郭彥均講出是「哪家醫院」,根本就是獵巫式的行為。",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "承受",
+                "誤導",
+                "壓力",
+                "人心惶惶",
+                "承受",
+                "根本就",
+                "被當",
+                "惶惶"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:38"
+        },
+        {
+            "person": "吳怡萱",
+            "verb": "痛批",
+            "opinion": "政府「追殺講實話的人」,更點名前桃園市議員王浩宇,直言「全台家長與醫護絕對不會忘記你」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "忘記",
+                "絕對",
+                "不會",
+                "追殺"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:38"
+        },
+        {
+            "person": "吳怡萱",
+            "verb": "呼籲",
+            "opinion": "除了善待前線醫護人員,我希望不論立場,都能設身處地為不同立場意見的人著想。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 15:38"
+        }
+    ]
+}

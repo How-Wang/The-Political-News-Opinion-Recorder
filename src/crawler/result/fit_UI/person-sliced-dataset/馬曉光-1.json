@@ -1,0 +1,93 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/馬曉光.png",
+    "opinions": [
+        {
+            "person": "馬曉光",
+            "verb": "回應",
+            "opinion": "「九二共識」不容任意扭曲,兩岸在此基礎上協商談判,中共和國民黨也展開交流;並稱兩岸是「家裡事」,不需假手外人。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "任意",
+                "扭曲",
+                "假手"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:22"
+        },
+        {
+            "person": "馬曉光",
+            "verb": "指出",
+            "opinion": "「九二共識」是1992年海協會與台灣海基會經由香港會談及其後函電往來,達成各自以口頭方式表述「海峽兩岸均堅持一個中國原則」的共識,雙方函電往來中都清晰表明瞭堅持一個中國原則、追求國家統一的立場和態度,白紙黑字清清楚楚。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "明瞭",
+                "堅持",
+                "清晰",
+                "清楚",
+                "達成"
+            ],
+            "datetime": "2022-06-09 09:55"
+        },
+        {
+            "person": "馬曉光",
+            "verb": "指出",
+            "opinion": "「台灣是中國的一部分,兩岸的事是兩岸同胞的家裡事,應該由家裡人商量著辦,不需假手外人。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "假手"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 09:55"
+        },
+        {
+            "person": "馬曉光",
+            "verb": "說",
+            "opinion": "中國共產黨是以為中國人民謀幸福、為中華民族謀復興作為自己初心使命的政黨,已經走過了一百年的光輝歷程,「人民和歷史已經作出正確的評判。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "正確",
+                "正確的",
+                "光輝",
+                "幸福",
+                "幸福"
+            ],
+            "datetime": "2022-06-09 09:55"
+        },
+        {
+            "person": "馬曉光",
+            "verb": "說",
+            "opinion": "當前台海形勢複雜嚴峻,兩岸關係日趨緊張。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "緊張",
+                "複雜",
+                "嚴峻",
+                "緊張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 10:27"
+        },
+        {
+            "person": "馬曉光",
+            "verb": "批評",
+            "opinion": "「要保持頭腦清醒」、「站在歷史正確一邊,而不是相反」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "相反",
+                "不是"
+            ],
+            "positive_list": [
+                "正確"
+            ],
+            "datetime": "2022-06-10 11:31"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/北雲林同鄉會.png",
+    "opinions": [
+        {
+            "person": "北雲林同鄉會",
+            "verb": "回應",
+            "opinion": "「這是我們主動要舉辦的,但當然有跟他們講一下」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "主動",
+                "當然"
+            ],
+            "datetime": "2022-06-02 11:30"
+        }
+    ]
+}

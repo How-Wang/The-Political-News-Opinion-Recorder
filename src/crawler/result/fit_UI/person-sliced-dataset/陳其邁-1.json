@@ -1,0 +1,767 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "「我們現在防疫優先,等我們疫情告一段落再來評論。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 18:06"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "現在COVID-19(2019冠狀病毒疾病)防疫優先,等疫情告一段落再評論。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "疾病"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:16"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "目前北部是維持一定比例,沒有往上攀升,研判目前疫情雖然仍是增加中,但是已經呈現比較緩和狀態。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "增加",
+                "緩和"
+            ],
+            "datetime": "2022-05-23 16:06"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "指出",
+            "opinion": "由於受到實驗室量能的影響,北部會出現一些黑數,另外,採檢的時間差也是原因之一:陳其邁說,北市的數字可能會落後2天,而在高雄的部分,在星期五快篩陽性,晚上就可以PCR檢驗,最慢星期六早就會知道結果,「時間差會比較短一點」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "落後"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-23 16:06"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "指出",
+            "opinion": "北部的狀況跟中南部稍微不同,台中、台南和高雄確診人數相對少一點,PCR採檢的量能還是非常夠,高雄23個採檢站,幾乎都是在很短時間就可以採檢,也不用預約,拿著快篩試劑去就可以篩檢,車來速就比較久一點,但幾乎都沒有在排隊,「量能充足的情況下,就即時反應了疫情指標,大概是處於停滯在6000、7000。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "停滯",
+                "沒有"
+            ],
+            "positive_list": [
+                "充足",
+                "充足的"
+            ],
+            "datetime": "2022-05-23 17:05"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "指出",
+            "opinion": "北部有黑數的原因是檢驗數據大概落後真實疾病發生數2天,有些人快篩陽也沒去PCR採檢,就關在家,不過他根據住院占床數判斷,北部疫情有比前幾天稍微趨緩。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "疾病",
+                "落後",
+                "關在",
+                "沒去"
+            ],
+            "positive_list": [
+                "真實"
+            ],
+            "datetime": "2022-05-24 16:21"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "「清冠一號是處方藥,要由醫師開立處方給藥」,沒有吃完的話還是要由醫師開立處方給藥,「不是說你就拿給他吃,這樣不行」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:45"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "認為",
+            "opinion": "目前中南部還是以緩步發展的方式,控制在醫療負載能承受的範圍之內,高雄也透過基層診所分流與增加醫院病床數來應對疫情高峰到來。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "承受",
+                "承受"
+            ],
+            "positive_list": [
+                "發展",
+                "增加"
+            ],
+            "datetime": "2022-05-24 13:19"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "「我們要從整個流行的趨勢來看,而不是一個點來看,在北部地區盛行率大概在8%~11%,確診數多相對來講他在集體的免疫,相對來講就會比較高,再加上疫苗的施打,這樣在疾病的傳播中後期就比較緩和。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "疾病",
+                "病的",
+                "不是"
+            ],
+            "positive_list": [
+                "流行",
+                "流行的",
+                "緩和"
+            ],
+            "datetime": "2022-05-24 13:19"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "「我們高雄在盛行率只有3%的情況之下,我們要做的就是慢慢慢慢地讓它上來,不要超過我們的醫療量能負擔。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "負擔",
+                "超過",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 13:19"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "強調",
+            "opinion": "目前高雄盡力在做的事,把曲線的斜率壓低,同時將提升醫療量能。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-05-24 17:43"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "目前高雄的盛行率為3.2%,比台北的8.5%低,目前正積極提升醫療量能,確保所有中重症風險都能獲最好照顧,並未直接針對「黃金交叉」做出回應。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "最好",
+                "提升",
+                "積極",
+                "黃金"
+            ],
+            "datetime": "2022-05-24 17:43"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "這週五會增加到2241床,再加上輕重症分流,以確保流行曲線是在這條線下面,就能讓所有中重症風險都能獲最好照顧。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "流行",
+                "最好",
+                "增加"
+            ],
+            "datetime": "2022-05-24 17:43"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "發現",
+            "opinion": "36.3%認為侯友宜防疫表現較好,接著依序為柯文哲27.5%,陳其邁26.9%,台中市長盧秀燕16.1%,桃園市長鄭文燦9.6%,台南市長黃偉哲7.2%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "較好"
+            ],
+            "datetime": "2022-05-24 08:40"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "宣布",
+            "opinion": "自6月1日開始,幼兒園、國小學童,將由學校發放每人2支快篩,在2歲以下嬰幼兒、65歲長輩、原鄉原住民部分,則由里長發放,一樣是每人發放2支。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 16:04"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說明",
+            "opinion": "清冠一號是處方用藥,經醫師開立才能服用,不是養生茶,所以不能留給其他人使用。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-05-25 21:44"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "宣布",
+            "opinion": "加碼發送145萬劑快篩後,就有新北市民跑去陳其邁的臉書留言許願,希望新北市長也可以比照高雄;還有高雄市民表示,自己在高雄三代同堂,算一算可以領到10支快篩,自稱快要變成「快篩富翁」了。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "自稱"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-26 17:27"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "感謝市民的支持,未來將持續努力。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-26 12:53"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "「畢業典禮假如原來決定,在下禮拜舉行,打疫苗是安排在下個禮拜開始,就按照下個禮拜開始打的期程,不受影響。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不受"
+            ],
+            "positive_list": [
+                "決定",
+                "舉行"
+            ],
+            "datetime": "2022-05-26 17:32"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "指出",
+            "opinion": "龍舟賽是戶外活動相對風險比較低,呼籲參加比賽時也要注意防疫的落實,台北和新北也持續舉行,希望讓市民逐漸在防疫過程能有日常節慶跟活動,所以加強防疫,也舉辦龍舟賽。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "注意",
+                "參加",
+                "舉行",
+                "希望"
+            ],
+            "datetime": "2022-05-26 10:47"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "下午防疫會議做完整說明;針對是否會提早放暑假,陳其邁也說,下午統一做比較完整說明,因為有些配套措施。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完整",
+                "說明"
+            ],
+            "datetime": "2022-05-26 10:47"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "「收到我們的簡訊開始,我們大概五個小時內,就可以開放你可以下載居隔單,很快就會發簡訊,務必拜託請你在兩個小時內,回傳確診者跟同住家人資訊,節省了從PCR通報,到法傳系統中間的時間,大概一般來講要四小時到五小時。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-05-28 18:47"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "「就是要輕重症分流,所以就是要早期診斷,早期治療,分級的醫療,這個是我們在預防重症跟死亡,最重要的一部,所以我們在基層診所,從一站式的從篩檢領藥治療,然後再進行居家照護,把輕症的病人能夠盡量的,由基層的醫療的量能來負擔,這樣才不會造成醫療體系的崩盤。」",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "死亡",
+                "負擔",
+                "病人",
+                "不會"
+            ],
+            "positive_list": [
+                "治療",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "進行"
+            ],
+            "datetime": "2022-05-28 18:47"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "總統蔡英文、行政院長蘇貞昌已指示國防部釐清事故原因,並協助家屬處理後續事宜。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "事故"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-31 15:04"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說明",
+            "opinion": "學校接種部分也都在安排,現在高雄第一劑打了45.9%還不錯,希望6月1日中央設站後,排程比較後面學校可以往前提早打,展覽館是很熟悉打疫苗的地方,場地早就做好準備,感謝中央能撥補疫苗到大的展館,非常感謝。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "感謝",
+                "準備",
+                "熟悉",
+                "希望",
+                "感謝"
+            ],
+            "datetime": "2022-05-31 16:29"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "宣布",
+            "opinion": "開始分階段紓困第一階段8.6億元,1999專線電話諮詢會轉到各局處,包括租金及規費減免、營業場所市有租金減租20%-60%、建物標租案減租等、地方稅可延遲或分期付款等等。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "延遲"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 16:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說明",
+            "opinion": "高雄市第一階段紓困措施8.6億元,將在5月起算到7月,希望解決民生相關問題,包括租金及規費減免、安心上工、青創貸款延期等等。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "延期",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "解決",
+                "安心",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-31 16:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "宣布",
+            "opinion": "醫師、護理師、專責醫事放射人員、專責感染管制人員等,高雄市政府將多加碼1000元,「在他們最辛苦的時候,給他們最大的鼓勵和敬意」。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "辛苦",
+                "辛苦的",
+                "放射",
+                "苦的",
+                "感染"
+            ],
+            "positive_list": [
+                "鼓勵"
+            ],
+            "datetime": "2022-05-31 16:47"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "現場有音樂與可愛汽球、玩偶,讓8歲兒子入場時心情就不緊張,現場氣氛歡樂。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [
+                "可愛",
+                "音樂",
+                "歡樂",
+                "可愛",
+                "音樂",
+                "歡樂"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "合作有些節點要協調的都必須把協調做好,跟台中市、台南市、嘉義都常常通電話,跟醫院也是,「防疫大家是同個隊伍,彼此互相補位才能做好」。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "合作",
+                "協調",
+                "合作"
+            ],
+            "datetime": "2022-06-02 16:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "了很多意見,2人有時候會討論到半夜,他認為這是很好的溝通方式。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-02 16:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "陳其邁詢問陳水扁是否在高雄,如果在高雄將啟動治療計劃。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "治療"
+            ],
+            "datetime": "2022-06-02 09:35"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "若他在高雄,將啟動治療計劃。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "治療"
+            ],
+            "datetime": "2022-06-02 13:43"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "防疫工作是隨時的,尤其現在流行高峰高原期,社區盛行率高雄到今天應該達到7%,要到11%、12%左右高原期才會過去。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "流行",
+                "達到"
+            ],
+            "datetime": "2022-06-03 11:30"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "說",
+            "opinion": "這段時間比較擔心活動力比較高的人進到家裡讓長輩染疫,長輩重症風險會增加,所以拜託從外縣市回家裡盡量回來時能快篩,回家中有長輩的人盡量戴好口罩、減少共餐機會,才能讓住院比例降低。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "降低",
+                "減少",
+                "擔心",
+                "拜託",
+                "擔心"
+            ],
+            "positive_list": [
+                "才能",
+                "增加",
+                "機會"
+            ],
+            "datetime": "2022-06-03 11:30"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "施打站就是希望能夠打得又快又好,高雄也在展覽館站安排一些減少小朋友緊張的方式,讓他們打得舒服,家長也能夠一起陪伴,舒緩他們緊張的情緒,相當盡心安排。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "減少",
+                "緊張",
+                "緊張的",
+                "緊張"
+            ],
+            "positive_list": [
+                "希望",
+                "舒服",
+                "希望"
+            ],
+            "datetime": "2022-06-03 11:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "盡心安排希望在短期間提高疫苗覆蓋,跟時間賽跑,因為中央的支持,展覽館站或其他施打站打得非常順利,比預期增加速度提早了15%。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "提高",
+                "順利",
+                "增加",
+                "希望"
+            ],
+            "datetime": "2022-06-03 11:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "今年在COVID-19(2019冠狀病毒疾病)疫情下舉辦,23隊來自全台各地的英雄好漢齊聚愛河畔,彼此較勁。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "疾病",
+                "較勁"
+            ],
+            "positive_list": [
+                "英雄"
+            ],
+            "datetime": "2022-06-03 21:55"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "Omicron傳染力強,已逐漸成為競爭較強的病毒株,高雄疫情現在處於高原期,但民眾無須過度擔心,目前醫療量能充足,空床率超過5成,高雄轄下大型醫院是傳染病防治應變管制區,主要負責或支援屏東、澎湖、台東等地重症後送,鄰近區域如有不足,將透過CDC協調平台,彼此協助合作補位。",
+            "negative_score": 9,
+            "positive_score": 8,
+            "negative_list": [
+                "不足",
+                "超過",
+                "傳染",
+                "傳染病",
+                "過度",
+                "擔心",
+                "競爭",
+                "不足",
+                "擔心"
+            ],
+            "positive_list": [
+                "支援",
+                "充足",
+                "合作",
+                "成為",
+                "協助",
+                "協調",
+                "負責",
+                "合作"
+            ],
+            "datetime": "2022-06-04 21:18"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "認為",
+            "opinion": "高雄市疫情高原期將持續7至10天,這是建立「群體免疫」的必要過程。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-06-06 11:50"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "提出",
+            "opinion": "在野大聯盟的高雄市長應該由朱立倫或柯文哲兩位黨主席之一親自掛帥,是最能帶動高雄市在野力量聯合的黃金人選!因為高雄市是雖然是綠營長期執政,但也曾於2018年產生帶動全台風潮的「韓流」,若說如今的高雄市是台灣的「漢中」,雖不中亦不遠矣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "聯合",
+                "黃金"
+            ],
+            "datetime": "2022-06-06 12:25"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "宣布",
+            "opinion": "8日起在關懷包加發確診者1劑快篩,可於7天解隔前使用。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-06-08 17:34"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "高雄、台中、台南都處於高原期,疫情比較慢上來也比較慢下去,比在陡升陡降的北部縣市,中南部的高原期會較長,目前最重要的就是要維持醫療量能,在過外有很多例子,是在社會活動高的年輕人,瞬間大量傳染給老人時,因而擠爆醫院造成醫療體系崩盤。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "傳染"
+            ],
+            "positive_list": [
+                "很多",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-08 16:57"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "停課期間維持1000人確診左右,希望避免復課後,又因確診匡列隔離而「停停上上」,會造成更多不便;他說,高雄目前屬於高原期,預估大概維持7至10天,所以下星期一疫情應該可以趨緩,經過專家會議整體考量,認為延長線上課程對校園防疫來說,是較好的決定。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不便",
+                "隔離",
+                "避免",
+                "不便"
+            ],
+            "positive_list": [
+                "希望",
+                "決定",
+                "專家",
+                "較好",
+                "避免",
+                "希望"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "為讓縣市合併後,道路品質一致,市府除增加原縣區預算,也感謝立委邱議瑩積極向中央爭取補助,改善道路品質。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "改善",
+                "感謝",
+                "增加",
+                "積極",
+                "改善",
+                "感謝"
+            ],
+            "datetime": "2022-06-11 18:25"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "高雄疫情從5月25日開始是比較平緩部份,已累計10天左右,確診數也比過去下降,曲線會逐步緩降。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:12"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "指出",
+            "opinion": "發現部分營業機構損失受疫情影響比較大,如補習班、安親班、托育中心等,大概受到影響比較大,會針對可能受疫情衝擊比較大的產業、工作、行業,啟動第二階段紓困。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "損失",
+                "衝擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:12"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "回應",
+            "opinion": "針對各局處有不同預算執行,包括立即在做的就是減收租金等,會優先進行,現在在規劃第二階段紓困還有哪些要加強。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-12 16:12"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "表示",
+            "opinion": "確診者染疫的過程會有自然保護力,建議確診後3個月才能再次施打疫苗。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "自然",
+                "保護"
+            ],
+            "datetime": "2022-06-12 17:05"
+        },
+        {
+            "person": "陳其邁",
+            "verb": "解釋",
+            "opinion": "11日確診數字高是因中央調整統計時間,而12日的新增確診數字仍因假日失準,由於高雄的疫情升溫緩慢,高原期拖得比較長,若從5日均線圖來看,累計到現在大概10天左右,預計疫情下周起就會穩定緩慢降溫,新增確診數會降至1萬人以下。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "緩慢"
+            ],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-06-12 17:05"
+        }
+    ]
+}

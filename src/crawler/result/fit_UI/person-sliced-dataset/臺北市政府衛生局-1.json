@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/臺北市政府衛生局.png",
+    "opinions": [
+        {
+            "person": "臺北市政府衛生局",
+            "verb": "呼籲",
+            "opinion": "如無相關發燒、喉嚨痛、咳嗽、流鼻水症狀或快篩檢測結果為陰性,請遵循中央流行疫情指揮中心防疫規範,做好個人防護,持續自我健康管理。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "自我",
+                "發燒"
+            ],
+            "positive_list": [
+                "流行",
+                "健康",
+                "規範",
+                "管理"
+            ],
+            "datetime": "2022-05-31 15:40"
+        }
+    ]
+}

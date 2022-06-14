@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/潘家洛.png",
+    "opinions": [
+        {
+            "person": "潘家洛",
+            "verb": "表示",
+            "opinion": "台灣是一日生活圈,航空產業已經不能再像過往般遍地開花,而小港機場是南部最大、唯一的國際機場,政府可以在一日生活圈的基礎上,把小港機場定位成桃園機場的衛星機場,甚至是桃園機場的第四航廈。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 13:48"
+        }
+    ]
+}

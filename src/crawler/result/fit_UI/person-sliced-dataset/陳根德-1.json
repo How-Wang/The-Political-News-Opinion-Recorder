@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳根德.png",
+    "opinions": [
+        {
+            "person": "陳根德",
+            "verb": "說",
+            "opinion": "「我們感天大帝一定會庇佑,張廖簡光善張善政院長順利高票來當選。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "順利"
+            ],
+            "datetime": "2022-06-02 18:05"
+        }
+    ]
+}

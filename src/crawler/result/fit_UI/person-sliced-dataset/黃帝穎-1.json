@@ -1,0 +1,193 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃帝穎.png",
+    "opinions": [
+        {
+            "person": "黃帝穎",
+            "verb": "說",
+            "opinion": "第一步表明身分;直接拉下口罩表明,徐巧芯:「我是徐巧芯喔」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 23:51"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "提出",
+            "opinion": "疑問,如果沒有網友揭露,這張原本就該開的違規停車罰單,會補開嗎?拉下口罩亮身分的違反防疫行為,會開單?他也替當事員警說話,「基層警察真辛苦,被議員施壓把罰單吞下去,還要被記申誡。」",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "辛苦",
+                "揭露",
+                "違反",
+                "疑問",
+                "沒有",
+                "違反",
+                "違規",
+                "疑問"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:44"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "認為",
+            "opinion": "徐巧芯態度尚可,但實質上就是施壓。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:45"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "說",
+            "opinion": "這一連串說明,從表明身分,到撂話,再嗆不怕罰款強化壓力等,態度尚可,但這種施壓當然有效。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "罰款",
+                "壓力"
+            ],
+            "positive_list": [
+                "有效",
+                "當然",
+                "說明"
+            ],
+            "datetime": "2022-05-28 09:05"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "批評",
+            "opinion": "新北市府曲解《政府資訊公開法》,主張涉及公務員隱私拒絕提供音檔,擺明曲解法令,於法於情都不該硬卡恩恩爸。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "曲解",
+                "拒絕"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-03 09:45"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "表示",
+            "opinion": "可能有隱私權期待的,反而是打電話到新北市政府的人民,但今天申請錄音的就是打電話進來的人民(指恩恩爸),新北市政府就沒有理由說「這涉及你的隱私,所以不能給你」,否則是更嚴重的曲解法令。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "曲解",
+                "沒有",
+                "嚴重",
+                "嚴重的",
+                "沒有"
+            ],
+            "positive_list": [
+                "有理",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-03 09:45"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "指出",
+            "opinion": "「新北市政府明顯曲解法令,公務員在上班時間,以公務電話接受報案,這部分是公權力的行使,公務員沒有所謂私人的個人隱私權可言,有隱私權的反而是民眾。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "曲解",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "明顯",
+                "接受"
+            ],
+            "datetime": "2022-06-03 18:30"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "解釋",
+            "opinion": "並批新北曲解政府資訊公開法,於法於情都不該硬卡恩恩爸。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "曲解"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-03 10:36"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "強調",
+            "opinion": "恩恩爸只是想還原小孩最後階段的真相,衛福部依法坦然提供錄音,於法於情,新北市政府真的沒道理硬卡恩恩爸。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "沒道理"
+            ],
+            "positive_list": [
+                "道理"
+            ],
+            "datetime": "2022-06-03 10:36"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "表示",
+            "opinion": "這等於讓接受中國指示、資助者,可任意蒐集我軍方或公務人員名單並接觸,只要辯稱是一般交友,均可獲判無罪,這並不符經驗與論理法則,變相鼓勵中方以「交朋友」方式逐步行滲透之實。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不符",
+                "任意",
+                "滲透",
+                "變相"
+            ],
+            "positive_list": [
+                "接受",
+                "無罪",
+                "經驗",
+                "資助",
+                "鼓勵"
+            ],
+            "datetime": "2022-06-09 16:49"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "批評",
+            "opinion": "新北市府曲解《政府資訊公開法》,另有民進黨新北市議員前往監察院提行政調查。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "曲解"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-10 11:06"
+        },
+        {
+            "person": "黃帝穎",
+            "verb": "說",
+            "opinion": "「1922確實是公權力機關,所提供的服務電話,就跟雙北的1999是類似的,這個類似是指它有一個,轉介或諮詢性質,但是他沒有辦法,直接派出救護車或是警察,這部分去扯刑法跟行政程序法的,受託行駛公權力等等,其實是應該是斷章取義之後,對著稻草人打。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-12 17:09"
+        }
+    ]
+}

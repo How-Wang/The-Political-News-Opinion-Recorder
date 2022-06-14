@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/大陸商務部.png",
+    "opinions": [
+        {
+            "person": "大陸商務部",
+            "verb": "回應",
+            "opinion": "稱中方堅決反對「台美21世紀貿易倡議」,美方應恪守一個中國原則和中美三個聯合公報規定。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "堅決",
+                "聯合"
+            ],
+            "datetime": "2022-06-02 18:40"
+        }
+    ]
+}

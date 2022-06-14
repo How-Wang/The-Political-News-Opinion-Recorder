@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳彥伯.png",
+    "opinions": [
+        {
+            "person": "陳彥伯",
+            "verb": "說",
+            "opinion": "將搭配旅宿,平日入住一晚最多折抵800元,若住宿在自行車友社、環保標章、星級旅館等會另外加碼500元;觀光遊樂業則預計提供成人票3折補助。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:08"
+        }
+    ]
+}

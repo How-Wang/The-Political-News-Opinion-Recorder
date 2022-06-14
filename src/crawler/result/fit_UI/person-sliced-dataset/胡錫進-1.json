@@ -1,0 +1,80 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/胡錫進.png",
+    "opinions": [
+        {
+            "person": "胡錫進",
+            "verb": "說",
+            "opinion": "外交部長吳釗燮曾宣揚,台灣為抵抗中國要戰鬥到「最後一刻」,吳釗燮的說法是鼓動台灣民眾在未來戰爭中做肉盾,與登陸奪島的解放軍打城市巷戰,那將意味著島內民眾巨大而慘烈的傷亡,與當年日本軍國主義者號召國民一起「玉碎」如出一轍。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "抵抗",
+                "傷亡",
+                "鼓動",
+                "戰爭",
+                "戰鬥",
+                "慘烈"
+            ],
+            "positive_list": [
+                "巨大"
+            ],
+            "datetime": "2022-06-07 10:48"
+        },
+        {
+            "person": "胡錫進",
+            "verb": "認為",
+            "opinion": "「沒必要留活的,可以直接消滅」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "消滅"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-06-07 10:48"
+        },
+        {
+            "person": "胡錫進",
+            "verb": "說",
+            "opinion": "爭取以小時計摧毁台軍的防線,如果解放軍真有這個實力,早就跨過海峽了,又何必站在對岸打70多年的嘴砲?矢板明夫表示,中國的好朋友俄羅斯,三個月前也想速戰速決打敗烏克蘭,做了各種各樣的準備,結果還是陷入了戰爭的泥沼。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "陷入",
+                "戰爭",
+                "戰爭的",
+                "何必"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-08 21:57"
+        },
+        {
+            "person": "胡錫進",
+            "verb": "說",
+            "opinion": "兩岸一旦開戰,解放軍會以「小時計」速戰速決,直接消滅台獨分子,沒必要留活的。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "消滅",
+                "台獨"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-06-09 09:58"
+        },
+        {
+            "person": "胡錫進",
+            "verb": "說",
+            "opinion": "打台灣要力求速戰速決,這是軍事上的常識。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 09:58"
+        }
+    ]
+}

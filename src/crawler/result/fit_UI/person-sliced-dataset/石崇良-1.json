@@ -1,0 +1,103 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "石崇良",
+            "verb": "強調",
+            "opinion": "中央地方聯繫很頻繁,甚至早上都還在跟新北衛生局長溝通聯絡,市長與指揮官陳時中也常會通電話,議員更批評侯友宜市長是政治口水。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "批評",
+                "頻繁",
+                "批評"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 17:15"
+        },
+        {
+            "person": "石崇良",
+            "verb": "表示",
+            "opinion": "與病毒共存是生活逐漸回歸常態,因應醫療需求,政府放寬收治COVID-19病人不限於專責病房,也能回到專科病房的隔離病房處理,因此護病比需彈性調整,適當照顧病人也彈性運用人力。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "病人",
+                "隔離"
+            ],
+            "positive_list": [
+                "適當"
+            ],
+            "datetime": "2022-05-25 14:33"
+        },
+        {
+            "person": "石崇良",
+            "verb": "指出",
+            "opinion": "指揮中心將與護理師公會全國聯合會座談溝通。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-05-25 14:33"
+        },
+        {
+            "person": "石崇良",
+            "verb": "表示",
+            "opinion": "若Ct值超過25以上,可能存在偽陰性,民眾若有症狀且快篩陰性,應前往醫院求診;由於病毒量短時間不會變化太大,不建議一日快篩多次。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "超過",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:05"
+        },
+        {
+            "person": "石崇良",
+            "verb": "表示",
+            "opinion": "有很多種可能性,一來要看是否有臨床症狀,若臨床症狀持續,可能是在初始期;但若沒有症狀,可能是在感染後期「陰陰陽陽」的階段。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "感染",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-26 12:05"
+        },
+        {
+            "person": "石崇良",
+            "verb": "表示",
+            "opinion": "如果民眾有症狀且快篩陰性,應前往醫院求診,由醫師判斷是否採檢PCR。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:05"
+        },
+        {
+            "person": "石崇良",
+            "verb": "宣布",
+            "opinion": "將去函彰基要求提報告說明,同時將對彰基展開人事制度相關查核。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-07 23:05"
+        }
+    ]
+}

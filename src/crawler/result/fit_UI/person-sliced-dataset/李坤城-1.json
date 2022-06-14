@@ -1,0 +1,159 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李坤城",
+            "verb": "說",
+            "opinion": "「為什麼其他縣市沒有縮水,為什麼新北市會縮水。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:30"
+        },
+        {
+            "person": "李坤城",
+            "verb": "說",
+            "opinion": "「為什麼其他縣市沒有縮水,為什麼新北市會縮水。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 13:21"
+        },
+        {
+            "person": "李坤城",
+            "verb": "質疑",
+            "opinion": "市府給資料像擠牙膏一樣,且根據根據恩恩爸已披露的通聯紀錄,仍有二段時間疑點未說明,希望市長侯友宜站在第一線說明,不要讓市府員工擋子彈。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "子彈",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "說明",
+                "希望"
+            ],
+            "datetime": "2022-06-06 11:54"
+        },
+        {
+            "person": "李坤城",
+            "verb": "指出",
+            "opinion": "從通聯紀錄來看,整件事仍有二疑點,首先,從18:03消防局接獲恩恩媽的電話之後,為什麼直到18:32才找到衛生局,兩個局的橫向聯繫竟然拖了29分鐘;第二,衛生局直到18:52才第一次和家屬聯絡,表示消防車即將前往,為什麼衛生局又拖了20分鐘才和家屬聯絡,這段聯絡時間,也希望能對外說清楚。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "竟然",
+                "媽的"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 11:54"
+        },
+        {
+            "person": "李坤城",
+            "verb": "表示",
+            "opinion": "他相信絕大多數的公務員都是盡心盡力,他也非常尊重言論自由,但是在上班時間做非公務的事情,甚至有意帶風向,對於這種害群之馬的公務人員,請新北市府揪出來,依規定給予相關懲處,才對得起奉公守法的公務員。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "有意",
+                "馬的"
+            ],
+            "positive_list": [
+                "守法",
+                "守法的",
+                "自由",
+                "相信",
+                "尊重",
+                "給予",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-06-10 15:29"
+        },
+        {
+            "person": "李坤城",
+            "verb": "表示",
+            "opinion": "他相信絕大多數的公務員都是盡心盡力,他也非常尊重言論自由,但是在上班時間做非公務的事情,甚至有意帶風向,對於這種害群之馬的公務人員,請新北市府揪出來,依規定給予相關懲處,才對得起奉公守法的公務員。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "有意",
+                "馬的"
+            ],
+            "positive_list": [
+                "守法",
+                "守法的",
+                "自由",
+                "相信",
+                "尊重",
+                "給予",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-06-10 11:39"
+        },
+        {
+            "person": "李坤城",
+            "verb": "表示",
+            "opinion": "他接獲消息,至少還有兩個PTT帳號「qwerty110」及「titanbc」,在上班時間又到處亂逛嘴人,而且時間點還是在戴姓員工被四叉貓踢爆之後。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 11:39"
+        },
+        {
+            "person": "李坤城",
+            "verb": "表示",
+            "opinion": "這個「qwerty110」的IP位置是在新北市政府,利用上班時間惡意評論恩恩爸的事情,他要求市府找出這個人並依規定處理。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "惡意",
+                "利用"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:41"
+        },
+        {
+            "person": "李坤城",
+            "verb": "指出",
+            "opinion": "根據消息,「qwerty110」及「titanbc」都是新北市的公務員。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:41"
+        },
+        {
+            "person": "李坤城",
+            "verb": "說",
+            "opinion": "「疑點越來越多,但是侯友宜市長都完全沒向議會說清楚,到底當天消防局衛生局,還有雙和醫院的橫向聯繫,情況是怎麼樣。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 18:12"
+        }
+    ]
+}

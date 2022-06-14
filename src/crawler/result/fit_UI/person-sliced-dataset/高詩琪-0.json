@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "高詩琪",
+            "verb": "表示",
+            "opinion": "新北市有10家醫院提供兒童防疫急門診(亞東醫院、部立台北醫院、聯合醫院、淡水馬偕、輔大醫院、土城醫院、永和耕莘、新店耕莘、雙和醫院、台北慈濟醫院),民眾可以透過電話、網路預約,也可以在現場掛號。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-05-22 20:27"
+        }
+    ]
+}

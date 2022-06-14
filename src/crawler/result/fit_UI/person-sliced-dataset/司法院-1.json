@@ -1,0 +1,111 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "司法院",
+            "verb": "強調",
+            "opinion": "要人民放眼未來,因為「國民法官制度即將實施,司法改革將有長足進步。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "改革",
+                "進步"
+            ],
+            "datetime": "2022-05-21 15:51"
+        },
+        {
+            "person": "司法院",
+            "verb": "認為",
+            "opinion": "「這是我國司法史上首次由國民擔任法官參與審判的制度,讓司法判決可以反映人民的社會經驗與多元觀點,也可以讓人民更理解司法運作,藉由更緊密的交流對話,相信能夠提升司法信任度。」",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "判決",
+                "審判"
+            ],
+            "positive_list": [
+                "信任",
+                "相信",
+                "理解",
+                "提升",
+                "經驗"
+            ],
+            "datetime": "2022-05-21 15:51"
+        },
+        {
+            "person": "司法院",
+            "verb": "指出",
+            "opinion": "行政法院的審級分工宜將事件分流,形塑堅實的第一審行政法院,與發揮法律審功能的最高行政法院為目標,讓原分散於各地方法院的行政訴訟庭,改於高等行政法院增設地方行政訴訟庭。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "最高",
+                "分工"
+            ],
+            "datetime": "2022-05-25 19:14"
+        },
+        {
+            "person": "司法院",
+            "verb": "表示",
+            "opinion": "行政法院的審級分工宜將事件分流,形塑堅實的第一審行政法院,與發揮法律審功能的最高行政法院為目標,讓原分散於各地方法院的行政訴訟庭,改於高等行政法院增設地方行政訴訟庭。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "最高",
+                "分工"
+            ],
+            "datetime": "2022-05-25 12:36"
+        },
+        {
+            "person": "司法院",
+            "verb": "回應",
+            "opinion": "表示,尊重立法院職權,相關案件的後續審理,將由繫屬法院依法處理,司法院基於維護審判獨立,不便表示意見。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不便",
+                "審判",
+                "不便"
+            ],
+            "positive_list": [
+                "尊重",
+                "獨立",
+                "尊重"
+            ],
+            "datetime": "2022-05-30 13:58"
+        },
+        {
+            "person": "司法院",
+            "verb": "指出",
+            "opinion": "行政法院的審級分工宜將事件分流,形塑堅實的第一審行政法院,與發揮法律審功能的最高行政法院為目標,讓原分散於各地方法院的行政訴訟庭,改於高等行政法院增設地方行政訴訟庭。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "最高",
+                "分工"
+            ],
+            "datetime": "2022-05-31 11:00"
+        },
+        {
+            "person": "司法院",
+            "verb": "指出",
+            "opinion": "行政法院的審級分工宜將事件分流,形塑堅實的第一審行政法院,與發揮法律審功能的最高行政法院為目標,讓原分散於各地方法院的行政訴訟庭,改於高等行政法院增設地方行政訴訟庭。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "最高",
+                "分工"
+            ],
+            "datetime": "2022-05-31 11:36"
+        }
+    ]
+}

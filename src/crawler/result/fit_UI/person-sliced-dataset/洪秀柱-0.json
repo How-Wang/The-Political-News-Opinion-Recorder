@@ -1,0 +1,77 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪秀柱.png",
+    "opinions": [
+        {
+            "person": "洪秀柱",
+            "verb": "指出",
+            "opinion": "其中莫過於2015年,馬英九與習近平在新加坡的會面,這三次國共合作,都在做政治談判或政治議題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-06 18:08"
+        },
+        {
+            "person": "洪秀柱",
+            "verb": "說",
+            "opinion": "「看到每個人臉上那種燦爛的笑容和對未來的希望」也令國際社會側目。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "燦爛",
+                "燦爛的",
+                "希望"
+            ],
+            "datetime": "2022-06-06 09:23"
+        },
+        {
+            "person": "洪秀柱",
+            "verb": "說",
+            "opinion": "俄烏地區正籠罩在硝煙之中,兩國人民本是同根生,卻因受到西方世界「蠱惑」,讓美好家園成為人間煉獄,多麼令人心痛。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "蠱惑",
+                "心痛"
+            ],
+            "positive_list": [
+                "成為",
+                "美好"
+            ],
+            "datetime": "2022-06-07 17:20"
+        },
+        {
+            "person": "洪秀柱",
+            "verb": "說",
+            "opinion": "「真正令我們憂心的是,這些年來統一的聲音在台灣日益微弱,但凡有識之士都不該再保持緘默。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "微弱",
+                "憂心"
+            ],
+            "positive_list": [
+                "真正"
+            ],
+            "datetime": "2022-06-08 18:35"
+        },
+        {
+            "person": "洪秀柱",
+            "verb": "表示",
+            "opinion": "兩岸同文同種、同根同源,兩岸同屬一個中國的事實不會改變。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:46"
+        }
+    ]
+}

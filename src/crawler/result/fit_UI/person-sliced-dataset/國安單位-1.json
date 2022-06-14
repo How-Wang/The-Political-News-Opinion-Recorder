@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國安單位.png",
+    "opinions": [
+        {
+            "person": "國安單位",
+            "verb": "強調",
+            "opinion": "已經確定找到買主,不過擔心買方恐有中資疑慮。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "疑慮",
+                "擔心",
+                "疑慮",
+                "擔心"
+            ],
+            "positive_list": [
+                "確定"
+            ],
+            "datetime": "2022-06-10 13:02"
+        }
+    ]
+}

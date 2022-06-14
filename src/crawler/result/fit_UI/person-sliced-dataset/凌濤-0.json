@@ -1,0 +1,58 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/凌濤.png",
+    "opinions": [
+        {
+            "person": "凌濤",
+            "verb": "說",
+            "opinion": "台灣各界與美國互動都應視為好事,例如,朱立倫主席日前在舊金山舉行「國民黨訪問美國代表團記者會」,關於「台美21世紀貿易倡議就表示歡迎。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "好事"
+            ],
+            "positive_list": [
+                "好事",
+                "舉行",
+                "歡迎",
+                "好事",
+                "歡迎"
+            ],
+            "datetime": "2022-06-07 16:21"
+        },
+        {
+            "person": "凌濤",
+            "verb": "指出",
+            "opinion": "而對於區域和平穩定及兩岸立場,相對民進黨選舉愛用的「抗中保台」一招,朱立倫提到,「接觸和溝通要比衝突和交戰更為可取」。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "交戰",
+                "衝突",
+                "衝突"
+            ],
+            "positive_list": [
+                "可取",
+                "平穩",
+                "和平",
+                "穩定"
+            ],
+            "datetime": "2022-06-07 16:21"
+        },
+        {
+            "person": "凌濤",
+            "verb": "認為",
+            "opinion": "對於趙怡翔提到的產業鏈、單一市場,更是自曝民進黨短處,當初政府承諾「開放萊豬、進口核食」就可以加入CPTPP,今天是世界食品安全日,民眾吃進萊豬、核食,民進黨卻未兌現承諾。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "短處"
+            ],
+            "positive_list": [
+                "安全",
+                "承諾",
+                "開放"
+            ],
+            "datetime": "2022-06-07 16:21"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李淳即",
+            "verb": "表示",
+            "opinion": "鄧振中與戴琪的會面,確定台美彼此為「優先貿易夥伴關係」(prioritytradingpartners)之關係,無論台灣是否在首輪加入,台美關係仍持續緊密。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "夥伴",
+                "確定"
+            ],
+            "datetime": "2022-05-22 21:47"
+        },
+        {
+            "person": "李淳即",
+            "verb": "表示",
+            "opinion": "TIFA主要在解決雙方貿易、投資障礙,例如豬肉殘留值標準、金融投資限制過多等議題,偏向細節、技術性問題討論,但並無法以此了解美國政策的全面性與其在全球、印太推動重點。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "限制",
+                "問題",
+                "無法",
+                "過多",
+                "障礙",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [
+                "了解",
+                "全面",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "李淳即",
+            "verb": "指出",
+            "opinion": "這3個類型是美國目前在雙邊、印太區域、全球多邊貿易推動主軸,也是美國前幾週和歐盟開會重點,反映美國現在已將台灣當成如日本、歐盟一般的重要經貿夥伴,「和其他友邦談什麼,也跟台灣談什麼」,是以往不可能發生的事。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "重要",
+                "夥伴"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "李淳即",
+            "verb": "表示",
+            "opinion": "依據台美倡議內容,可切分成3種類型,第一,觸及台美雙邊問題,例如農業;第二,具「迷你IPEF」概念,代表美國決定將印太區域戰略重點放入台美雙邊推動;第三,涵蓋多邊意義,例如WTO改革、產業補貼等議題。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "觸及",
+                "問題"
+            ],
+            "positive_list": [
+                "改革",
+                "決定"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "李淳即",
+            "verb": "認為",
+            "opinion": "台美21世紀貿易倡議象徵台灣被美國認定,躋身與英國、歐盟齊位的「Tier1」貿易盟邦,亦可望為加入印太經濟架構(IPEF)作出實質準備。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "可望"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-02 12:05"
+        }
+    ]
+}

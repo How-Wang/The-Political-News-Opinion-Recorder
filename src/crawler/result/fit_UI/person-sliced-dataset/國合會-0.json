@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國合會.png",
+    "opinions": [
+        {
+            "person": "國合會",
+            "verb": "表示",
+            "opinion": "吳釗燮另以「未來我們應該走向國際,國際是我們的天下」鼓勵年輕學子積極參與援外事務,爭取台灣在國際上的能見度。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "鼓勵",
+                "積極"
+            ],
+            "datetime": "2022-06-09 21:00"
+        }
+    ]
+}

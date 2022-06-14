@@ -1,0 +1,67 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "經濟部",
+            "verb": "表示",
+            "opinion": "經長王美花於雙方會談中,向達克沃絲參議員致謝,為其長期致力於深化台美經貿關係,包含支持台灣成為印太經濟架構成員的努力;達克沃絲參議員回應,台灣是美國不可或缺重要的夥伴,並強調,經濟安全與國安具同等價值,將持續支持臺灣加入印太經濟架構。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "安全",
+                "成為",
+                "努力",
+                "重要",
+                "重要的",
+                "夥伴"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "經濟部",
+            "verb": "表示",
+            "opinion": "臺歐盟關係日益緊密,歐盟去年9月公布「歐盟印太合作戰略」時指出,將與臺灣尋求深度的貿易與投資關係,並將在半導體方面與臺灣等夥伴合作。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [
+                "合作",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-02 19:56"
+        },
+        {
+            "person": "經濟部",
+            "verb": "表示",
+            "opinion": "台歐盟經濟對話將在今晚以視訊方式舉行,雙方將聚焦於促進半導體供應鏈安全。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "促進",
+                "舉行"
+            ],
+            "datetime": "2022-06-02 18:04"
+        },
+        {
+            "person": "經濟部",
+            "verb": "解釋",
+            "opinion": "過FTA與BTA的差異,認為BTA是一種FTA。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "差異"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 07:10"
+        }
+    ]
+}

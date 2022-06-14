@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新華社.png",
+    "opinions": [
+        {
+            "person": "新華社",
+            "verb": "表示",
+            "opinion": "在新疆期間,洪秀柱與宗教人士、職業技能教育培訓中心結業學員、援疆學校支教老師和少數民族學生、紡織企業一線少數民族員工深入交流。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 09:39"
+        }
+    ]
+}

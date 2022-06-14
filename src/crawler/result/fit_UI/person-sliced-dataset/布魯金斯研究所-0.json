@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/布魯金斯研究所.png",
+    "opinions": [
+        {
+            "person": "布魯金斯研究所",
+            "verb": "說",
+            "opinion": "但卻意外爆出陳以信利用「立委身分」,要求外交部人員出席國民黨駐美代表處開幕,還施壓外交部協助安排美國國會行程,造成外交官相當困擾。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "要求",
+                "意外",
+                "利用",
+                "困擾"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-07 11:54"
+        }
+    ]
+}

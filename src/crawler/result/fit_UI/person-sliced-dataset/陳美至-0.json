@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳美至.png",
+    "opinions": [
+        {
+            "person": "陳美至",
+            "verb": "表示",
+            "opinion": "加拿大航空將提供兩張機票作為活動抽獎獎品,但因加航台灣航線今年年底前仍無復航計畫;因此提供的機票起點是加航所有亞太營運站任選,如香港或東京,終點則可選加拿大任一城市。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "獎品"
+            ],
+            "datetime": "2022-06-06 19:53"
+        }
+    ]
+}

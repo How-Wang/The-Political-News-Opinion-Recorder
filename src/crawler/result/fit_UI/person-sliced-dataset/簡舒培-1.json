@@ -1,0 +1,165 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/簡舒培.png",
+    "opinions": [
+        {
+            "person": "簡舒培",
+            "verb": "呼籲",
+            "opinion": "要求台北市政府把心力花在幫幼兒準備唾液快篩。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-27 17:52"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "說",
+            "opinion": "「如果你要選台北市長,除了疫情,應該有更多台北市政要拿來討論,台灣在整個防疫過程中,是受到全世界肯定,2個台北市長候選人,蔣萬安黃珊珊卻這麼不認同,要把防疫做好,而不是拿來當選戰工具。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "肯定",
+                "認同"
+            ],
+            "datetime": "2022-05-28 18:29"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "批評",
+            "opinion": "台北市政府指是個人行為,但這就是台北市政府的網軍,柯文哲只會切割。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:10"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "指出",
+            "opinion": "富邦證券的獨董、民眾黨員端木正,在去年參加台大EMBA考試時,在面試過程中被考試委員問到,這年輕當獨董,薪水不是很多?當時端木正竟回,薪水全部都要捐回給民眾黨。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "很多",
+                "參加"
+            ],
+            "datetime": "2022-06-10 15:14"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "質疑",
+            "opinion": "根據資料,有捐的只有張榮豐。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:14"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "說",
+            "opinion": "賴祥蔚是你的中評委,周鐘麒是你民眾黨中央委員,孫智麗是2020年民眾黨不分區立委第11名,端木正是第22名,「為什麼你說謊?你身為黨主席連中評委、中央委員與不分區立委都忘記嗎?」面對簡舒培質疑,柯文哲不滿反酸,「如果這樣,國營事業裡面有多少民進黨籍?我不想回答你這問題」。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "忘記",
+                "問題",
+                "說謊",
+                "質疑",
+                "不滿",
+                "問題",
+                "說謊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:07"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "指出",
+            "opinion": "柯文哲上任後富邦金控獨董席次增加到9席,富邦金控2席、台北富邦銀行2席、富邦人壽2席、富邦產險2席、富邦證券1席。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-06-10 15:07"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "說",
+            "opinion": "「你比郝龍斌多4席的獨董,結果這4席獨董,全部你們民眾黨黨員。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 19:56"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "說",
+            "opinion": "「端木正他在去年參加台大EMBA考試的時候,他說我的薪水全部都要捐回民眾黨,富邦金控的金庫通民眾黨黨庫。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-06-10 19:56"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "表示",
+            "opinion": "「新增4席都有民眾黨黨證」,自己做的事情自己承擔,不要轉移焦點,金管會有無查出此事?希望立委蔡壁如要求查富邦?她也說,遴選會議為何不公開、透明?柯文哲則承諾,從他上任以來獨董遴選都公開,市長會議室都有留檔,「沒問題...我會全部公開」,一週後公開。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "要求",
+                "問題",
+                "不公",
+                "不要",
+                "何不",
+                "問題"
+            ],
+            "positive_list": [
+                "公開",
+                "希望",
+                "承諾",
+                "透明",
+                "希望"
+            ],
+            "datetime": "2022-06-10 15:00"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "指出",
+            "opinion": "現在的獨董中,富邦金控是張榮豐、賴祥蔚,台北富邦銀行的有胡鶴浚、鄧家基,富邦人壽的有周鐘麒、何弘能,富邦產險的有孫智麗、胡均立,富邦證券是端木正,這9個人裡面,有多少位有台灣民眾黨的黨證?對此柯文哲回答,應該只有周鐘麒和端木正。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:36"
+        },
+        {
+            "person": "簡舒培",
+            "verb": "說",
+            "opinion": "賴祥蔚是民眾黨的中評委,周鐘麒是民眾黨中央黨員,孫智麗是2020民眾黨不分區立委第11號,端木正是22號。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:36"
+        }
+    ]
+}

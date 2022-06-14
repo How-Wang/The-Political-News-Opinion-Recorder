@@ -1,0 +1,32 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝龍.png",
+    "opinions": [
+        {
+            "person": "謝龍",
+            "verb": "說",
+            "opinion": "「每天都在你了的身邊主持記者會,接觸到的人就很相信他,這樣他才伸出了魔手。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-06-07 16:16"
+        },
+        {
+            "person": "謝龍",
+            "verb": "說",
+            "opinion": "「你可別重用他我沒騙你,小心駛得萬年船偷吃瞞不了牙齒。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "小心",
+                "不了"
+            ],
+            "positive_list": [
+                "小心"
+            ],
+            "datetime": "2022-06-07 16:16"
+        }
+    ]
+}

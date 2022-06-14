@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/工務局.png",
+    "opinions": [
+        {
+            "person": "工務局",
+            "verb": "表示",
+            "opinion": "仍在討論召開考績會期程。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:39"
+        }
+    ]
+}

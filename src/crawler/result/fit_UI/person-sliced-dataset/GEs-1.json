@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/GEs.png",
+    "opinions": [
+        {
+            "person": "GEs",
+            "verb": "表示",
+            "opinion": "為實現食品安全,應有各種制度性要求,例如決策程序需公開透明;決策程序的參與者,除業者以外,各種不同利害關係人,像是專家、消費者團體代表,也要共同參與。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "公開",
+                "安全",
+                "專家",
+                "透明",
+                "實現"
+            ],
+            "datetime": "2022-06-06 14:21"
+        }
+    ]
+}

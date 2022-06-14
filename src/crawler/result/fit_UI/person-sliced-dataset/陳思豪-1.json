@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳思豪.png",
+    "opinions": [
+        {
+            "person": "陳思豪",
+            "verb": "說",
+            "opinion": "「2020年開始已經進行,很多次大量解雇,員工心情都很複雜,消息傳出目前我們工會立場,還是樂見其成,希望資方可以留住所有員工,年終之類,希望可以延續之前的做法。」",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "解雇",
+                "複雜"
+            ],
+            "positive_list": [
+                "希望",
+                "很多",
+                "進行",
+                "希望",
+                "樂見"
+            ],
+            "datetime": "2022-06-10 13:02"
+        }
+    ]
+}

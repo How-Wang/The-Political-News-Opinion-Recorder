@@ -1,0 +1,202 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "WHO",
+            "verb": "提出",
+            "opinion": "邀請我國以觀察員身分出席WHA的議案時,當時的美國國務卿龐佩奧竟然表示『美國不適合參加連署』而拒絕,令人錯愕。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不適",
+                "拒絕",
+                "竟然"
+            ],
+            "positive_list": [
+                "參加",
+                "適合"
+            ],
+            "datetime": "2022-05-21 10:55"
+        },
+        {
+            "person": "WHO",
+            "verb": "提出",
+            "opinion": "邀請我國以觀察員身分出席WHA的議案時,當時的美國國務卿龐佩奧竟然表示「美國不適合參加連署」而拒絕,令人錯愕。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不適",
+                "拒絕",
+                "竟然"
+            ],
+            "positive_list": [
+                "參加",
+                "適合"
+            ],
+            "datetime": "2022-05-21 10:06"
+        },
+        {
+            "person": "WHO",
+            "verb": "指出",
+            "opinion": "第75屆WHA即將召開,但台灣仍有相當大程度被排除於全球公衛體系之外,台灣的專家現正盡全力對抗擴散中的COVID-19病毒社區感染,而阻擋台灣參加WHA將使這些努力受限,也有損全球健康安全。",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "排除",
+                "感染",
+                "對抗"
+            ],
+            "positive_list": [
+                "全力",
+                "安全",
+                "努力",
+                "健康",
+                "參加",
+                "專家"
+            ],
+            "datetime": "2022-05-21 15:42"
+        },
+        {
+            "person": "WHO",
+            "verb": "呼籲",
+            "opinion": "WHO及相關各方堅定支持將台灣納入WHO,完整參與WHO各項會議、機制及活動,與世界各國攜手落實WHO憲章「健康是基本人權」,及聯合國永續發展目標「不遺漏任何人」的願景。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "遺漏"
+            ],
+            "positive_list": [
+                "完整",
+                "健康",
+                "堅定",
+                "發展",
+                "聯合"
+            ],
+            "datetime": "2022-05-21 05:11"
+        },
+        {
+            "person": "WHO",
+            "verb": "說",
+            "opinion": "「因為疫情大家都很辛苦,很高興有機會能來這邊,和朋友也好久不見了,這都是民眾應該做的,促進健康,運動真的很重要。」",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不見",
+                "辛苦"
+            ],
+            "positive_list": [
+                "促進",
+                "重要",
+                "高興",
+                "健康",
+                "機會",
+                "高興"
+            ],
+            "datetime": "2022-05-22 18:06"
+        },
+        {
+            "person": "WHO",
+            "verb": "強調",
+            "opinion": "一中原則,也重複中國表示的「缺乏合法基礎」,然後唸了一次本次會議目標,表示這才是此次會議應該討論的。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "缺乏"
+            ],
+            "positive_list": [
+                "合法"
+            ],
+            "datetime": "2022-05-23 16:56"
+        },
+        {
+            "person": "WHO",
+            "verb": "呼籲",
+            "opinion": "世衛組織正視台灣人民健康權利及台灣作為國際醫療援助提供者的能量,研議以制度化方式接納台灣參與世衛大會。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-23 08:48"
+        },
+        {
+            "person": "WHO",
+            "verb": "說",
+            "opinion": "道:「台灣能幫忙,也一直在幫忙,請讓台灣幫忙。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 07:52"
+        },
+        {
+            "person": "WHO",
+            "verb": "指出",
+            "opinion": "台灣以往講究精準科技防疫、邊境風險嚴管等,曾成功圍堵疫情入侵,但Omicron變種病毒株自去年末席捲全球,台灣也隨其他國家進入廣泛的社區流行階段。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "流行"
+            ],
+            "datetime": "2022-05-25 06:21"
+        },
+        {
+            "person": "WHO",
+            "verb": "指出",
+            "opinion": "台灣以往講究精準科技防疫、邊境風險嚴管等,曾成功圍堵疫情入侵,但Omicron變種病毒株自去年末席捲全球,台灣也隨其他國家進入廣泛的社區流行階段。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "流行"
+            ],
+            "datetime": "2022-05-25 06:55"
+        },
+        {
+            "person": "WHO",
+            "verb": "表示",
+            "opinion": "台灣為全球衛生帶來「建設性貢獻」,無法參與令人「深感遺憾」,且無任何具公衛基礎的原因。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "建設",
+                "建設性",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-27 01:35"
+        },
+        {
+            "person": "WHO",
+            "verb": "表示",
+            "opinion": "COVID-19擾亂了供應鏈,美國總統拜登發布的印太經濟架構(IPEF)是緩解供應鏈問題及加強地區關係的框架,台灣須關注此一政策,並把握機會,成為美國和印太地區貿易和安全的關鍵夥伴。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "問題",
+                "擾亂",
+                "問題"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "成為",
+                "把握",
+                "夥伴",
+                "機會",
+                "把握"
+            ],
+            "datetime": "2022-05-31 14:04"
+        }
+    ]
+}

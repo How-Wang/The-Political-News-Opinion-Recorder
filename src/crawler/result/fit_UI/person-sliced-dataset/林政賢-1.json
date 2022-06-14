@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林政賢.png",
+    "opinions": [
+        {
+            "person": "林政賢",
+            "verb": "表示",
+            "opinion": "看板是一位藍營支持者贊助,該名支持者主張桃園需要「更多科技人領航」,認同「議員要選賢、市長要善政」的目標,期年底藍營贏回桃園。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "贊助",
+                "認同"
+            ],
+            "datetime": "2022-06-09 23:47"
+        }
+    ]
+}

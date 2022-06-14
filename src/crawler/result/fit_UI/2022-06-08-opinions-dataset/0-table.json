@@ -1,0 +1,8 @@
+{
+    "date": "2022-06-08",
+    "news_id": 0,
+    "title": "哥本哈根民主峰會9日登場 蔡總統受邀視訊演說",
+    "article": "哥本哈根民主峰會明天登場,民主聯盟基金會今天公布,邀請總統蔡英文以視訊方式演說,分享台灣面對威權、捍衛民主的經驗。今年大會主題包括烏克蘭情勢與民主陣營的安全,烏克蘭總統澤倫斯基將受邀到現場發表演說。這是蔡總統連續第3年應邀在哥本哈根民主峰會(CopenhagenDemocracySummit)發表專題演說。今年峰會將於9到10日舉行。民主聯盟基金會(AllianceofDemocracies)今天宣布,非常榮幸邀請到中華民國(台灣)總統蔡英文擔任視訊講者,分享台灣捍衛民主的經驗。蔡總統將以「台灣:全球民主聯盟不可或缺的夥伴」(TAIWAN:ANINTEGRALPARTNEROFTHEGLOBALDEMOCRATICALLIANCE)為題發表演說。根據議程,峰會9日將討論科技與民主的關聯,以及媒體和文化在民主發展中扮演的角色;10日則聚焦如何保衛烏克蘭、對抗獨裁國家以及建立民主國家聯盟。外交部晚間在推特(Twitter)轉發民主聯盟基金會的推文指出,民主不能被視為理所當然,民主是努力贏來的,需要受到自由開放社會所有成員的珍惜與保護,歡迎民眾踴躍線上註冊參與哥本哈根民主會議,觀看蔡總統分享台灣對抗威權、捍衛民主的努力過程。",
+    "opinions": "[{'person': '蔡英文', 'verb': '說', 'opinion': '分享台灣面對威權、捍衛民主的經驗。', 'order': 0, 'negative_score': 0, 'positive_score': 1, 'negative_list': [], 'positive_list': ['經驗']}, {'person': '澤倫斯基', 'verb': '說', 'opinion': '。這是蔡英文總統連續第3年應邀在哥本哈根民主峰會(CopenhagenDemocracySummit)發表專題演說。', 'order': 1, 'negative_score': 0, 'positive_score': 0, 'negative_list': [], 'positive_list': []}, {'person': '民主聯盟基金會', 'verb': '指出', 'opinion': '民主不能被視為理所當然,民主是努力贏來的,需要受到自由開放社會所有成員的珍惜與保護,歡迎民眾踴躍線上註冊參與哥本哈根民主會議,觀看蔡英文總統分享台灣對抗威權、捍衛民主的努力過程。', 'order': 2, 'negative_score': 2, 'positive_score': 8, 'negative_list': ['不能', '對抗'], 'positive_list': ['自由', '努力', '保護', '開放', '當然', '歡迎', '自由', '歡迎']}]",
+    "little_topic": "0"
+}

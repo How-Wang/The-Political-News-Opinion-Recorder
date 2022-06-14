@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/ZDF.png",
+    "opinions": [
+        {
+            "person": "ZDF",
+            "verb": "表示",
+            "opinion": "最近中國不僅派軍機入侵台灣防空識別區,還盡全力恐嚇台灣,表示隨時可發動戰爭,中國只需藉口就會併吞台灣。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "恐嚇",
+                "發動",
+                "戰爭",
+                "藉口",
+                "恐嚇",
+                "藉口"
+            ],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-06-08 18:38"
+        }
+    ]
+}

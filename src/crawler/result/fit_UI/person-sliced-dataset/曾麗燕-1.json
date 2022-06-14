@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾麗燕.png",
+    "opinions": [
+        {
+            "person": "曾麗燕",
+            "verb": "說",
+            "opinion": "非常感謝在陳其邁領導下做好防疫措施,讓暌違2年的競賽在可愛的愛河上再次舉行。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "可愛",
+                "可愛的",
+                "感謝",
+                "舉行",
+                "可愛",
+                "感謝"
+            ],
+            "datetime": "2022-06-03 21:55"
+        }
+    ]
+}

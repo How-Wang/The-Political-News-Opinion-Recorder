@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊弘旻.png",
+    "opinions": [
+        {
+            "person": "楊弘旻",
+            "verb": "說",
+            "opinion": "「民進黨所提出的質疑,說難聽一點,就是在打烏賊戰,誤導民眾而已。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "誤導",
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:43"
+        }
+    ]
+}

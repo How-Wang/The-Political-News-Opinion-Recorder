@@ -1,0 +1,45 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/郭岱君.png",
+    "opinions": [
+        {
+            "person": "郭岱君",
+            "verb": "表示",
+            "opinion": "日本打到武漢就僵持了好幾年,一直到1944年才有「一號作戰」,把後方軍隊都調過來。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "作戰",
+                "僵持",
+                "僵持"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:00"
+        },
+        {
+            "person": "郭岱君",
+            "verb": "指出",
+            "opinion": "日軍曾經幾度接近重慶,卻都無功而返。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:00"
+        },
+        {
+            "person": "郭岱君",
+            "verb": "指出",
+            "opinion": "日軍在抗戰前期信心滿滿,採取「速戰速決」戰略,不把戰線拉得太長,所以沒有攻占重慶的計畫。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "信心",
+                "信心"
+            ],
+            "datetime": "2022-06-01 09:00"
+        }
+    ]
+}

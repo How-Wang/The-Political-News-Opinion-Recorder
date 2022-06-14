@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國際戰略研究所.png",
+    "opinions": [
+        {
+            "person": "國際戰略研究所",
+            "verb": "表示",
+            "opinion": "作為亞太地區主要安全峰會,活動聚集來自亞太、歐洲、北美等地區的國防部長、資深官員及企業領袖與安全專家,一同討論關鍵安全議題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "專家"
+            ],
+            "datetime": "2022-06-11 11:22"
+        }
+    ]
+}

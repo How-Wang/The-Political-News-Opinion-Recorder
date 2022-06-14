@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/紀珈.png",
+    "opinions": [
+        {
+            "person": "紀珈",
+            "verb": "表示",
+            "opinion": "最近掀起防疫保單之亂,許多民眾產生保險爭議或遭退保,自己將利用法律專業,提供民眾免費法律諮詢;另外,許多民眾確診卻無親友協助領藥,她與其他候選人也會協助代為領藥,目前已服務多位選民。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "免費",
+                "協助",
+                "法律"
+            ],
+            "datetime": "2022-05-26 12:36"
+        }
+    ]
+}

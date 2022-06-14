@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李明賢.png",
+    "opinions": [
+        {
+            "person": "李明賢",
+            "verb": "表示",
+            "opinion": "國民黨內要有運動風潮,他跑馬拉松是跑全馬,大學時也是棒球校隊。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:05"
+        }
+    ]
+}

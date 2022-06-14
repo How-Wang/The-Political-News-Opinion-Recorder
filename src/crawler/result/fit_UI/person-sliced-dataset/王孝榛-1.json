@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王孝榛.png",
+    "opinions": [
+        {
+            "person": "王孝榛",
+            "verb": "指出",
+            "opinion": "王孝榛與任職某消防機關的陳貽斌姓、鄭姓主管,涉嫌以每票1萬元的金額行賄6名選民;另外王孝榛的胞妹還提供交通費用,給某位選民返回莒光鄉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "行賄"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:15"
+        }
+    ]
+}

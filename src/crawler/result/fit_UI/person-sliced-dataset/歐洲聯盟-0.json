@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/歐洲聯盟.png",
+    "opinions": [
+        {
+            "person": "歐洲聯盟",
+            "verb": "說",
+            "opinion": "歐洲領袖總算開始理解台灣的經濟重要性,半導體供應鏈的緊張局勢大大促進了這種體認。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [
+                "促進",
+                "重要",
+                "重要性",
+                "理解"
+            ],
+            "datetime": "2022-06-09 13:51"
+        }
+    ]
+}

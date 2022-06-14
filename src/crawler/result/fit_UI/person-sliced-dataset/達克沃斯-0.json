@@ -1,0 +1,55 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/達克沃斯.png",
+    "opinions": [
+        {
+            "person": "達克沃斯",
+            "verb": "指出",
+            "opinion": "希望今日的討論不只是包含全動署、國民兵等,也希望能討論經濟合作,尤其是IPEF印太經濟架構持續推展過程中,希望美國和台灣能有直接的互動、簽署協議,打造兩國互惠互利關係,她相信對國防來說,不只是軍事重要,經濟也是不可或缺的一部份。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "相信",
+                "重要",
+                "互利",
+                "互惠",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-05-31 17:16"
+        },
+        {
+            "person": "達克沃斯",
+            "verb": "表示",
+            "opinion": "在美國半導體晶片短缺、幾乎要停工時,台灣增加產量供給美國,讓美國產業能繼續運作,鞏固美國數十萬的工作機會,這就是台美友好的經濟關係。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "友好的",
+                "增加",
+                "機會"
+            ],
+            "datetime": "2022-05-31 17:16"
+        },
+        {
+            "person": "達克沃斯",
+            "verb": "宣布",
+            "opinion": "贈送疫苗後,不到一年時間,再度訪問我國。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 11:30"
+        }
+    ]
+}

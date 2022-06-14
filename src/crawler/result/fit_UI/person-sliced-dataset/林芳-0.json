@@ -1,0 +1,28 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林芳.png",
+    "opinions": [
+        {
+            "person": "林芳",
+            "verb": "表示",
+            "opinion": "在國際秩序面臨嚴峻挑戰的情況下,以俄羅斯入侵烏克蘭為標誌,歐洲和印太地區的安全問題已經不能單獨討論,北約和包括日本在內的夥伴國是該加強合作的時候了。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "不能",
+                "挑戰",
+                "問題",
+                "嚴峻",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "安全",
+                "秩序",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-11 07:10"
+        }
+    ]
+}

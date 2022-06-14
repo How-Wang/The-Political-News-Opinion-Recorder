@@ -1,0 +1,35 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃敏修",
+            "verb": "質疑",
+            "opinion": "選務不公,至少7、8人權益受損,黨部執行長兼選舉現場總協調的林振誠也坦承,一開始的查詢作業有疏失,才會引起爭議。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不公"
+            ],
+            "positive_list": [
+                "協調",
+                "權益"
+            ],
+            "datetime": "2022-05-22 18:22"
+        },
+        {
+            "person": "黃敏修",
+            "verb": "說",
+            "opinion": "「不是只有1個、2個個案,早上發生了7、8個案例,我們認為這是故意惡意的。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "故意",
+                "惡意",
+                "惡意的",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:22"
+        }
+    ]
+}

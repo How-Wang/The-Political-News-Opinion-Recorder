@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/連郁婷.png",
+    "opinions": [
+        {
+            "person": "連郁婷",
+            "verb": "指出",
+            "opinion": "新竹縣警局公布懲處的3人,都是記申誡一支,新竹縣警局副局長許豐統甚至更低,只記一次劣蹟;然而,北市警員卻因沒開台北市議員徐巧芯違停罰單,而遭記兩支申誡,明顯不符比例原則。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不符"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-31 17:59"
+        }
+    ]
+}

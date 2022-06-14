@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔣經國.png",
+    "opinions": [
+        {
+            "person": "蔣經國",
+            "verb": "宣布",
+            "opinion": "解除戒嚴,以及1989年的兩德統一、捷克斯洛伐克的天鵝絨革命,十年間,「民主自由」幾乎席捲了全球。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "革命",
+                "解除",
+                "自由"
+            ],
+            "datetime": "2022-06-04 21:55"
+        }
+    ]
+}

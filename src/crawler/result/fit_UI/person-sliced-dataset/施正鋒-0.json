@@ -1,0 +1,66 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "施正鋒",
+            "verb": "表示",
+            "opinion": "當權者自吹自擂乃人之常情,只不過,究竟人民的生活過得好不好,老百姓點滴在心頭,自是在選舉戰場可見真章。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "自吹",
+                "自吹自擂",
+                "戰場",
+                "不好",
+                "好不"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 08:10"
+        },
+        {
+            "person": "施正鋒",
+            "verb": "表示",
+            "opinion": "520是蔡英文連任2周年,由於Omicron確診人數竄升、疫情不斷延燒,民進黨政府不好過於張揚慶祝。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不斷",
+                "張揚",
+                "不好"
+            ],
+            "positive_list": [
+                "慶祝",
+                "慶祝"
+            ],
+            "datetime": "2022-05-22 08:10"
+        },
+        {
+            "person": "施正鋒",
+            "verb": "表示",
+            "opinion": "「儼然狄仁傑之於武則天」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 08:10"
+        },
+        {
+            "person": "施正鋒",
+            "verb": "提到",
+            "opinion": "對於政府老王賣瓜的所謂「防疫超前部署」,近半的選民更是嗤之以鼻,而蘇貞昌、及蔡英文的聲望則略有下降,可見是由陳時中擋下所有的子彈。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "下降",
+                "子彈",
+                "嗤之以鼻"
+            ],
+            "positive_list": [
+                "聲望"
+            ],
+            "datetime": "2022-05-22 08:10"
+        }
+    ]
+}

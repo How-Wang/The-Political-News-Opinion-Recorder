@@ -1,0 +1,68 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "台北隊",
+            "verb": "指出",
+            "opinion": "蔣萬安競選主軸會著重於後疫情時代,台北市要如何再起、提升經濟,希望帶領北市走向國際頂級都市的願景上,相關政策未來會一一呈現在市民眼前。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "提升",
+                "希望"
+            ],
+            "datetime": "2022-05-25 19:00"
+        },
+        {
+            "person": "台北隊",
+            "verb": "表示",
+            "opinion": "自己的競選團隊一直有在籌組,也積極拜訪有台北市政經與看法的前輩,他們也願意大力幫忙,而且是實質幫忙不要求特別職位。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "要求",
+                "不要"
+            ],
+            "positive_list": [
+                "特別",
+                "積極",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-25 15:01"
+        },
+        {
+            "person": "台北隊",
+            "verb": "說",
+            "opinion": "非常有信心在年底,帶領台北市民挺過疫情。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "有信心",
+                "信心",
+                "信心"
+            ],
+            "datetime": "2022-05-26 10:45"
+        },
+        {
+            "person": "台北隊",
+            "verb": "認為",
+            "opinion": "台北市三方鼎立,只要維持綠營基本盤就能勝出,是否憂心自己被邊緣化?蔣萬安則說,選舉是要爭取最多市民的支持,也要為台北擘畫未來最好的願景,民眾期待的是台北不要被國際邊緣化,而非誰被邊緣化。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不要",
+                "憂心"
+            ],
+            "positive_list": [
+                "最好",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-05-31 12:08"
+        }
+    ]
+}

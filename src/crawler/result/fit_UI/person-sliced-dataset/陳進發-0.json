@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳進發.png",
+    "opinions": [
+        {
+            "person": "陳進發",
+            "verb": "說",
+            "opinion": "這幾年的道路設計不是沒做改變,也做了很多廊道及護欄改變或交通管制,但也許做得還不夠好,會責成三工處在敏感路段做好生態檢核,也要做好溝通工作。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不夠",
+                "敏感",
+                "不是"
+            ],
+            "positive_list": [
+                "很多",
+                "敏感"
+            ],
+            "datetime": "2022-05-26 15:00"
+        }
+    ]
+}

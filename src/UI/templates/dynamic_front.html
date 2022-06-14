@@ -1,0 +1,39 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='front.css') }}">
+<header>
+    <div class="container">
+        <h1 class="logo">
+            政事新聞意見紀錄簿 <span></span>
+        </h1>
+        <section class="social">
+            {% set last_link = "/dynamic/page/" ~ topic_list[0][3] ~ "/" ~ "last" %}
+            <a class="btn" href={{ last_link }}>上一天新聞</a>
+            {% set next_link = "/dynamic/page/" ~ topic_list[0][3] ~ "/" ~ "next" %}
+            <a class="btn" href={{ next_link }}>下一天新聞</a>
+        </section>
+    </div>
+</header>
+
+<body>
+    <div class="content">
+        <div class="title-header pens-title-header">
+            <h1>新聞焦點</h1>
+        </div>
+        <div class="row">
+        {% for topic, title, article, date in topic_list %}
+            <div class="card" background=https://i.imgur.com/OtgfhxC.png>
+            {% set cluster_link = '/dynamic/cluster/' ~ date ~ '/' ~ topic %}
+            {% set pic_link = "/dynamic/cluster_pic/" ~ date ~ "/" ~ topic ~ ".png" %}
+            <figure class="card_header" style="background-image:url({{pic_link}});background-size: cover;">
+                <div class="wrap"><span class="ribbon6"> {{date}} </span></div>
+                <!-- <a href={{link}}><p><img src="https://i.imgur.com/OtgfhxC.png" alt="picture error"></p></a> -->
+            </figure>
+            <div class="card_text"><h2 class="card_title">
+              <a href={{cluster_link}}>{{ title }}</a></h2>
+              <p class="card_desc">{{ article|truncate(50, True, '...', 0) }}
+              </p> 
+            </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</body>

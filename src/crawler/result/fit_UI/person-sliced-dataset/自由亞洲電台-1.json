@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/自由亞洲電台.png",
+    "opinions": [
+        {
+            "person": "自由亞洲電台",
+            "verb": "宣布",
+            "opinion": "全區實行封控措施,任何人非必要不能出戶。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "必要",
+                "實行"
+            ],
+            "datetime": "2022-05-26 15:05"
+        }
+    ]
+}

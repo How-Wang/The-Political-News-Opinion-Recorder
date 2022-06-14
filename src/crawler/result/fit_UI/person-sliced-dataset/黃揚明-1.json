@@ -1,0 +1,256 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃揚明.png",
+    "opinions": [
+        {
+            "person": "黃揚明",
+            "verb": "表示",
+            "opinion": "郭彥均在25日凌晨2時34分發文,「徐芳麗」則在25日下午1時02分推文,明顯不是「源頭」,打臉調查局的說法。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-30 21:22"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "批評",
+            "opinion": "國民黨中央、選策會根本是自殺突擊隊,連苗栗這麼穩的地盤都可以搞成劇場。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "自殺"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 16:12"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "說",
+            "opinion": "據了解,王必勝在30日當天中午左右才聯繫這些將設置接種站的機構,有的機構甚至以為只是先諮詢,應該會花些時間先到現場看過才會定案,但下午2點的記者會就是直接公布,這樣的政策實施方案,和國民黨主席朱立倫的溝通模式有87分像。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-02 12:31"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "指出",
+            "opinion": "從六都接洽場地的管理機關中就可發現一些小細節,也感嘆「政治防疫,大可不必。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "感嘆"
+            ],
+            "positive_list": [
+                "管理"
+            ],
+            "datetime": "2022-06-02 12:31"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "認為",
+            "opinion": "能增加量能當然是好事,但別忘了,中央地方若彼此動機不純正,那麼根本是互相牽制。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不純",
+                "好事",
+                "牽制"
+            ],
+            "positive_list": [
+                "好事",
+                "當然",
+                "增加",
+                "好事"
+            ],
+            "datetime": "2022-06-02 12:31"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "說",
+            "opinion": "朱立倫幾乎每天都問心中屬意的人選,要不要去高雄選市長?可是那個人始終沒有點頭;至於清楚表態想選高雄的,例如張亞中是天天在高雄跑攤,這樣的蹲點會讓在地民眾認同度變高,所以如果針對高雄市長人選做民調,「搞不好張亞中就真的獲勝了」。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "沒有",
+                "不好",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "清楚",
+                "獲勝",
+                "認同"
+            ],
+            "datetime": "2022-06-03 09:31"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "指出",
+            "opinion": "如果高雄可以用協調式民調產生人選,那麼旁人就會去想,桃園為什麼不行?很可能下一步羅智強的聲勢可能又要起來了,所以這時候黨中央一定要穩住陣腳。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協調"
+            ],
+            "datetime": "2022-06-03 09:31"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "指出",
+            "opinion": "如今台灣重症率已經突破千分之1,死亡率也突破萬分之8,短時間內這些數據不斷攀升,疫情趨勢就是在往上走。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷",
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 08:00"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "表示",
+            "opinion": "當時否決兒童打疫苗就是因為沒有疫情,看不到疫情就覺得沒關係、不急,當時能買的只有兒童BNT疫苗,政府就覺得要跟BNT公司打交道很麻煩,這就是我們政府的態度。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "否決",
+                "沒有",
+                "麻煩",
+                "不到",
+                "沒有",
+                "沒關係",
+                "麻煩"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 08:00"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "表示",
+            "opinion": "各陣營使用PTT的網路帶風向者,得要特別注意的是,PTT並非匿名論壇,因為註冊的完整資料站方都持有,加上都會展示上線IP,「因此當你被盯上時,刪文是沒用的,因為現在網頁版都會存檔備份,逃都逃不掉。」",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "沒用"
+            ],
+            "positive_list": [
+                "完整",
+                "注意",
+                "注意的",
+                "特別"
+            ],
+            "datetime": "2022-06-05 18:15"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "解釋",
+            "opinion": "各政黨都有網路社群的操盤手,柯文哲過去常用「義勇軍」形容自己的支持群眾,但這些帳號上網IP是在北市府的時候,他有責任說清楚。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "有責任",
+                "清楚"
+            ],
+            "datetime": "2022-06-05 18:15"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "解釋",
+            "opinion": "各政黨、各陣營都有網路社群的操盤手,但凡透過IP就可輕易查到上網地點或真實身份的,一般而言,是水準最低的網路義勇軍或稱散兵游勇。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "最低"
+            ],
+            "positive_list": [
+                "真實"
+            ],
+            "datetime": "2022-06-05 18:15"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "說",
+            "opinion": "根據《公職人員財產申報法》第12條規定:「有申報義務之人故意隱匿財產為不實之申報者,處新臺幣20萬元以上400萬元以下罰鍰。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "故意",
+                "不實"
+            ],
+            "positive_list": [
+                "財產",
+                "義務"
+            ],
+            "datetime": "2022-06-07 13:49"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "表示",
+            "opinion": "沈債務欄慧虹可能有財產申報不實的問題,一是名下沒有保單卻以保單借款,二是有必要對外解釋其「終身壽險」是否要受「公職人員財產申報表填表說明」限制,三是為什麼註記受贈的轎車價值卻連變3年。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "限制",
+                "問題",
+                "債務",
+                "不實",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "必要",
+                "有財產",
+                "財產",
+                "說明"
+            ],
+            "datetime": "2022-06-07 13:49"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "表示",
+            "opinion": "爆料者對於造假、變造、切割錄音檔與否,相關說法比較委婉,新北市消防局主要也是針對這部份提告,一切靜待司法調查,但消防體系如果只想掩蓋真相,「這些官僚總有一天會被知道真相的人掩蓋。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "造假"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-08 14:07"
+        },
+        {
+            "person": "黃揚明",
+            "verb": "說",
+            "opinion": "沈慧虹可能有財產申報不實的問題,包括和前夫名下有3筆債務,總額230萬,但兩人名下沒申報任何保單,卻以保單借款,以及受贈的轎車,價值連變3年等等質疑。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "債務",
+                "質疑",
+                "不實",
+                "問題"
+            ],
+            "positive_list": [
+                "有財產",
+                "財產"
+            ],
+            "datetime": "2022-06-11 13:08"
+        }
+    ]
+}

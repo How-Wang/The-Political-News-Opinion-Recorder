@@ -1,0 +1,42 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/羅偉瑞.png",
+    "opinions": [
+        {
+            "person": "羅偉瑞",
+            "verb": "說",
+            "opinion": "警方及醫院,新竹縣警察局還代發羅偉瑞聲明,引發社會譁然。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:55"
+        },
+        {
+            "person": "羅偉瑞",
+            "verb": "說",
+            "opinion": "羅秉成的弟弟羅敬智,是羅偉瑞的臉書好友。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:33"
+        },
+        {
+            "person": "羅偉瑞",
+            "verb": "提出",
+            "opinion": "轉院,未料該保全往生後家屬致電,羅偉瑞接起電話就稱「心肌梗塞離世很可惜,真讓人感到遺憾」。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "可惜",
+                "梗塞",
+                "感到遺憾",
+                "遺憾",
+                "可惜",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:15"
+        }
+    ]
+}

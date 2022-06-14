@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝立功.png",
+    "opinions": [
+        {
+            "person": "謝立功",
+            "verb": "表示",
+            "opinion": "除台灣外,在東南亞有各式各樣粽子,台灣是端午節包粽子,越南則是過年包粽子,新住民事務委員會希望藉由活動,讓台灣民眾了解多元文化。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-29 14:01"
+        },
+        {
+            "person": "謝立功",
+            "verb": "說",
+            "opinion": "立法院會期已經結束,黨內應該會找時間與可能參選的對象,坐下來進行進一步的討論。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-05 12:15"
+        }
+    ]
+}

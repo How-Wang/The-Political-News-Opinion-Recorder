@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/麥當勞.png",
+    "opinions": [
+        {
+            "person": "麥當勞",
+            "verb": "回應",
+            "opinion": "不一定是疫情的關係,是基於整體商業考量」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:54"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/彭一書.png",
+    "opinions": [
+        {
+            "person": "彭一書",
+            "verb": "說",
+            "opinion": "「我覺得並不會焦慮啦,因為我們平常其實以前,就是深耕在基層做服務,所以我覺得最重要的,還是一樣要勤走基層。」",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "焦慮",
+                "不會",
+                "焦慮"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-28 13:00"
+        },
+        {
+            "person": "彭一書",
+            "verb": "說",
+            "opinion": "為了製作小孩也喜愛的香包,他特地詢問認識的中藥行兼具防疫、驅蟲和舒壓的帖子,彭一書說:「現在的孩子對於中藥材不太熟識,但透過手作來認識前人所留下的碩果,是對中藥相關產業的一大助力」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "喜愛",
+                "喜愛"
+            ],
+            "datetime": "2022-05-28 17:12"
+        },
+        {
+            "person": "彭一書",
+            "verb": "表示",
+            "opinion": "為了製作小孩也喜愛的香包,他特地詢問認識的中藥行兼具防疫、驅蟲和舒壓的帖子。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "喜愛",
+                "喜愛"
+            ],
+            "datetime": "2022-05-29 17:48"
+        },
+        {
+            "person": "彭一書",
+            "verb": "表示",
+            "opinion": "消防局向恩恩家屬說「錄音檔有吵雜背景音」,但根據自己從事義消工作多年,「我必須指出這並非事實!」他說,現在消防報案的通話紀錄,並不會有旁邊吵嘈的接線聲音或其他背景音,只會有該通報案的通話內容紀錄。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 14:07"
+        }
+    ]
+}

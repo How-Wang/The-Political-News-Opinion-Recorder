@@ -1,0 +1,34 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蘇仁和",
+            "verb": "說",
+            "opinion": "基隆市基層是藍大於綠,此外,去年四大公投雖然未過關,但基隆市4項公投同意票高於不同意票,民進黨必須有所警惕。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不同意",
+                "警惕"
+            ],
+            "positive_list": [
+                "同意",
+                "過關"
+            ],
+            "datetime": "2022-05-25 17:49"
+        },
+        {
+            "person": "蘇仁和",
+            "verb": "說",
+            "opinion": "「其他黨出來,尤其民眾黨,並不見得只會瓜分國民黨的票,一些淺綠,支持民進黨的,也多多少少會被拉到。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不見",
+                "瓜分"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 13:16"
+        }
+    ]
+}

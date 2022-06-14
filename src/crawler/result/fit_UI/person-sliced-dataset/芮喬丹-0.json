@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/芮喬丹.png",
+    "opinions": [
+        {
+            "person": "芮喬丹",
+            "verb": "表示",
+            "opinion": "今年香港、上海、北京的相關慶典都因疫情取消,在台灣的加拿大國慶活動將是整個東北亞規模最大者,「此一慶典彰顯了加拿大的價值,歡迎台灣民眾一起來喝杯冰啤酒或珍珠奶茶,同慶台加共享的自由價值」。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "自由",
+                "歡迎",
+                "自由",
+                "歡迎"
+            ],
+            "datetime": "2022-06-06 19:53"
+        },
+        {
+            "person": "芮喬丹",
+            "verb": "表示",
+            "opinion": "感謝台灣政府將疫情控制得宜,讓所有在台灣的本國人、外國人都能安全生活。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-06 19:53"
+        }
+    ]
+}

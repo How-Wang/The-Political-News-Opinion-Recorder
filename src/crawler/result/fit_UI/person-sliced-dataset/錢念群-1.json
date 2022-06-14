@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/錢念群.png",
+    "opinions": [
+        {
+            "person": "錢念群",
+            "verb": "表示",
+            "opinion": "青委會的成員有一些是機關的代表,那時候是由他們代表,目前都是待補的狀況,議員所提的兩人已經不是青委會成員。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:07"
+        }
+    ]
+}

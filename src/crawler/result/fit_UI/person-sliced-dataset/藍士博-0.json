@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/藍士博.png",
+    "opinions": [
+        {
+            "person": "藍士博",
+            "verb": "表示",
+            "opinion": "大家的歷史課都有教過「容共抗俄」,怎麼會創黨就「親美」?中國國民黨不是創黨就「親美」,而是佔據台灣之後才「靠美」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:08"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/政院會.png",
+    "opinions": [
+        {
+            "person": "政院會",
+            "verb": "表示",
+            "opinion": "預計獎勵旅行社團體旅遊,未來每團45人,一團補助2萬,如果雇用無雇主導遊、領隊,或是原住民解說員,可加碼補助至最高3萬。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "獎勵",
+                "獎勵"
+            ],
+            "datetime": "2022-05-26 15:08"
+        }
+    ]
+}

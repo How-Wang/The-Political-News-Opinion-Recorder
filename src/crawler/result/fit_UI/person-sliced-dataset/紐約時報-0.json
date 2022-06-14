@@ -1,0 +1,69 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "紐約時報",
+            "verb": "說",
+            "opinion": "法報導,美國政府為嚇阻中國對台動武,有意增強區域軍力展現,也吸取俄烏戰爭經驗,加快將台灣防衛系統重塑為官員口中的帶刺豪豬。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "動武",
+                "戰爭",
+                "有意"
+            ],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-05-25 12:17"
+        },
+        {
+            "person": "紐約時報",
+            "verb": "提到",
+            "opinion": "要將台灣打造成「豪豬」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:13"
+        },
+        {
+            "person": "紐約時報",
+            "verb": "說",
+            "opinion": "法報導,美國政府為嚇阻中國對台動武,有意增強區域軍力展現,也吸取俄烏戰爭經驗,加快將台灣防衛系統重塑為官員口中的帶刺「豪豬」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "動武",
+                "戰爭",
+                "有意"
+            ],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-05-26 07:44"
+        },
+        {
+            "person": "紐約時報",
+            "verb": "提到",
+            "opinion": "要將台灣打造成「豪豬」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:22"
+        },
+        {
+            "person": "紐約時報",
+            "verb": "指出",
+            "opinion": "「台美21世紀貿易倡議」啟動台美談判,是在對抗中國在亞太地區的影響力。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:52"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐少尉.png",
+    "opinions": [
+        {
+            "person": "徐少尉",
+            "verb": "表示",
+            "opinion": "相當不捨與沉痛,指示空軍務必全力協助家屬處理後續事宜,並且徹底釐清肇因,進行通盤檢討。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "協助",
+                "進行"
+            ],
+            "datetime": "2022-06-01 17:30"
+        }
+    ]
+}

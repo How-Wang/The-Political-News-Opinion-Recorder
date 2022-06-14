@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王心凌.png",
+    "opinions": [
+        {
+            "person": "王心凌",
+            "verb": "說",
+            "opinion": "「Ohbaby,情話多說一點,想我就多看一眼,表現多一點點,讓我能真的看見。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "一點點"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 18:24"
+        }
+    ]
+}

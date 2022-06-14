@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱金榮.png",
+    "opinions": [
+        {
+            "person": "邱金榮",
+            "verb": "說",
+            "opinion": "「如果某甲跟某乙說『某丙殺人』,那某丙真的殺人嗎?」並強調那份錄音檔不是他。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "殺人",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:06"
+        },
+        {
+            "person": "邱金榮",
+            "verb": "說",
+            "opinion": "「如果某甲跟某乙說『某丙殺人』,那某丙真的殺人嗎?」並強調那份錄音檔不是他。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "殺人",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:37"
+        },
+        {
+            "person": "邱金榮",
+            "verb": "說明",
+            "opinion": "其中1位是老鄰長,其他皆是退休人員,全部都是70歲以上的女性。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 23:14"
+        }
+    ]
+}

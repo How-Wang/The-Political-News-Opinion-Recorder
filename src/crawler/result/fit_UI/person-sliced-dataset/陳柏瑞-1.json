@@ -1,0 +1,58 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳柏瑞.png",
+    "opinions": [
+        {
+            "person": "陳柏瑞",
+            "verb": "說",
+            "opinion": "到,自己確實是個資深鄉民,什麼留言都有。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-02 21:31"
+        },
+        {
+            "person": "陳柏瑞",
+            "verb": "解釋",
+            "opinion": "事情是這樣,自己曾經在PTT的「出版版」發了一篇文章,關於出書的心得,隔天3月14日(一)的10:20左右,他在市府用電腦修改編輯,可是內容完全無關政治。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "全無",
+                "無關"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:31"
+        },
+        {
+            "person": "陳柏瑞",
+            "verb": "說",
+            "opinion": "結果有另一個帳號在網路PO文疑似攻擊中央政府,被揪出來IP位置也是在市府,與陳柏瑞以及其他人的PO文位置相同,「結果,我們就通通變網軍了」,他坦承自己確實是個資深鄉民,什麼留言都有,「有罵塔綠班的,但我也曾經推『阿中部長』」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "攻擊",
+                "擊中",
+                "攻擊"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-02 21:59"
+        },
+        {
+            "person": "陳柏瑞",
+            "verb": "解釋",
+            "opinion": "曾在PTT發過一篇文章,是關於出書的心得,隔天3月14日的10時20分許,他有使用過市府電腦修改編輯,不過內容無關政治。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "無關"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:59"
+        }
+    ]
+}

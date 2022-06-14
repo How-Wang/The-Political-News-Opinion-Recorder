@@ -1,0 +1,481 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "中國海警船對勵進研究船在菲律賓海域無理的干擾,不僅要譴責,也要呼籲,這是經過菲律賓政府同意,由中央大學跟菲律賓大學合作的計畫,事前都取得菲律賓正式的作業許可。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "干擾",
+                "譴責",
+                "干擾"
+            ],
+            "positive_list": [
+                "正式",
+                "正式的",
+                "同意",
+                "合作",
+                "合作的",
+                "許可",
+                "合作"
+            ],
+            "datetime": "2022-06-01 21:44"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "中國實在沒有必要在合法海域、獲得許可的工作範圍內,作無理的干擾,這是非常不可取,要嚴厲譴責。",
+            "negative_score": 8,
+            "positive_score": 6,
+            "negative_list": [
+                "干擾",
+                "不可",
+                "沒有",
+                "嚴厲",
+                "譴責",
+                "干擾",
+                "不可",
+                "沒有"
+            ],
+            "positive_list": [
+                "可取",
+                "必要",
+                "合法",
+                "許可",
+                "實在",
+                "獲得"
+            ],
+            "datetime": "2022-06-01 21:44"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "中國海警船是無端騷擾,非常不可取,行政院表達嚴厲譴責。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "嚴厲",
+                "騷擾",
+                "譴責",
+                "不可"
+            ],
+            "positive_list": [
+                "可取"
+            ],
+            "datetime": "2022-06-01 23:10"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "回應",
+            "opinion": "時指出,台灣的研究船勵進號是經過菲律賓政府同意,由台、菲兩國的大學合作,卻在合法海域遭到中國海警船騷擾。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "騷擾"
+            ],
+            "positive_list": [
+                "同意",
+                "合作",
+                "合法",
+                "合作"
+            ],
+            "datetime": "2022-06-01 23:10"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "回應",
+            "opinion": "時事議題記者會,被問及此事,羅秉成證實,鄧振中將與美國副貿易代表畢昂奇就台美相關貿易關係進行對話,如果有具體進展也會盡快對外說明。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "進行",
+                "說明"
+            ],
+            "datetime": "2022-06-01 12:04"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "回應",
+            "opinion": "時事議題時,針對有消息指出鄧振中今晚將與美方貿易代表視訊會議,羅秉成證實,鄧振中今晚會跟美國副貿易代表莎拉會面,因為戴琪女士有其他的要務,雙方會就台美相關貿易關係有一些對話,有具體進展也會盡快說明。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-01 11:20"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "台美經貿議題已經翻開新的一頁,若能持續推動,希望能達到簽署台美貿易協定的目標,「不會是空中樓閣,已經踏上第一階」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "希望",
+                "達到",
+                "希望"
+            ],
+            "datetime": "2022-06-02 14:35"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "台灣跟國際關係愈緊密,國家防禦才能更穩固,因為一旦台灣受影響,其他國家也會連帶被影響,另外也對亞太地區和平穩定有幫助,兩者密切相連。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "平穩",
+                "有幫助",
+                "和平",
+                "幫助",
+                "穩固",
+                "穩定"
+            ],
+            "datetime": "2022-06-02 14:35"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "說",
+            "opinion": "昨天記者會鄧振中政委也清楚說明,這是在TIFA架構底下經過長時間的密切、頻繁對話後的成果。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "頻繁"
+            ],
+            "positive_list": [
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-06-02 13:41"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "說",
+            "opinion": "這議題是比較偏重在經貿面,中間討論過程,沒有在所謂第三方干涉的議題上多所著墨。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "干涉",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 13:41"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "說",
+            "opinion": "昨天台美21世紀貿易倡議,正是一個啟動談判的重要關鍵,也就是說已經進入議題討論,而且第一次的會議也已經決定,「雖然很難講談判哪一天可以談成,這沒辦法預期,但已經知道要談的範圍、議題,而且要積極加速進行」。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [
+                "決定",
+                "知道",
+                "重要",
+                "進行",
+                "積極"
+            ],
+            "datetime": "2022-06-02 13:41"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "指出",
+            "opinion": "希望這是一個經貿議題,在議題上翻了新的一頁,要下個新的里程前進。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "前進",
+                "希望"
+            ],
+            "datetime": "2022-06-02 13:41"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "回應",
+            "opinion": "「這樣經貿關係建立跟深化,有助於亞太地區和平穩定」。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "平穩",
+                "有助",
+                "和平",
+                "穩定"
+            ],
+            "datetime": "2022-06-02 13:02"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "強調",
+            "opinion": "這個議題比較偏重經貿議題,中間討論過程,並沒有在第三方干涉議題上多所著墨,台灣在經貿議題上翻新一頁,要往下個新里程邁進,不樂見有太多其他政治干擾,順利推動台美之間貿易協定。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "干涉",
+                "干擾",
+                "不樂",
+                "沒有",
+                "干擾",
+                "沒有"
+            ],
+            "positive_list": [
+                "順利",
+                "樂見"
+            ],
+            "datetime": "2022-06-02 13:02"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "宣布",
+            "opinion": "正式推動「台美21世紀貿易倡議」,以具體行動深化雙邊關係。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正式"
+            ],
+            "datetime": "2022-06-02 10:52"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "台灣跟國際關係愈緊密,國家防禦才能更穩固,因為一旦台灣受影響,其他國家也會連帶被影響,另外也對亞太地區和平穩定有幫助,兩者密切相連。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "平穩",
+                "有幫助",
+                "和平",
+                "幫助",
+                "穩固",
+                "穩定"
+            ],
+            "datetime": "2022-06-02 15:41"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "台美經貿議題已經翻開新的一頁,若能持續推動,希望能達到簽署台美貿易協定的目標,「不會是空中樓閣,已經踏上第一階」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "希望",
+                "達到",
+                "希望"
+            ],
+            "datetime": "2022-06-02 15:41"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "蘇貞昌6日接見斯洛伐克訪問團時,落實防疫措施,包括座位安排保持安全距離、設置隔板、全程戴口罩等。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-09 13:42"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "因為相關的防疫規範也都很清楚,有那些情形是要做隔離的,以這種接見會議的形式,在會場都有相關的隔離和措施,就那位置的距離等等,也都有全程配戴口罩,蘇揆的健康情形良好,這我們也都會密切注意。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "良好",
+                "注意",
+                "健康",
+                "清楚",
+                "規範",
+                "良好"
+            ],
+            "datetime": "2022-06-09 12:28"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "他沒有掌握到相關確診消訊息,不過若有這樣的事實,不會影響蘇貞昌下午接見法國訪團的行程。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "掌握"
+            ],
+            "datetime": "2022-06-09 12:28"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "「對不起,我沒有掌握這情形」,如有這事實的話,不影響下午蘇貞昌接見法訪團行程。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "不起",
+                "沒有",
+                "對不起"
+            ],
+            "positive_list": [
+                "掌握"
+            ],
+            "datetime": "2022-06-09 12:34"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "院長健康情形良好,會再密切注意。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "良好",
+                "注意",
+                "健康",
+                "良好"
+            ],
+            "datetime": "2022-06-09 12:34"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "說",
+            "opinion": "近年來中國一再針對台灣農、水產品以不符國際慣例的方式橫加抵制、阻擋的作法,影響台灣農漁民權益,不僅傷害兩岸關係,讓台灣人民更加厭惡中共當局對台灣的肆意打壓。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "一再",
+                "不符",
+                "抵制",
+                "傷害",
+                "厭惡",
+                "打壓",
+                "傷害",
+                "厭惡"
+            ],
+            "positive_list": [
+                "權益"
+            ],
+            "datetime": "2022-06-11 14:02"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "指出",
+            "opinion": "行政院長蘇貞昌上午9時召開擴大防疫會議,討論國內外疫情、國內疫苗施打情形、邊境管制措施調整規劃以及快篩試劑盤整等議題;指揮中心在會中報告上述事項。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 13:00"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "台灣輸出的石斑魚均符合國際規範,但中國卻無視我國提出的調查結果與科學證據,並以不符國際慣例方式,片面決定全部暫停我國石斑魚之輸入,加以近年來中國一再針對我國農、水產品以不符國際慣例的方式橫加抵制、阻擋的做法,影響我國農漁民權益,不僅傷害兩岸關係,更讓台灣人民更加厭惡中共當局對台灣的肆意打壓。",
+            "negative_score": 9,
+            "positive_score": 4,
+            "negative_list": [
+                "一再",
+                "不符",
+                "抵制",
+                "傷害",
+                "厭惡",
+                "暫停",
+                "打壓",
+                "傷害",
+                "厭惡"
+            ],
+            "positive_list": [
+                "決定",
+                "符合",
+                "規範",
+                "權益"
+            ],
+            "datetime": "2022-06-11 13:47"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "蘇貞昌院長已指示農委會務必保障我國養殖業者權益,穩定國內產銷,並盡速啟動因應措施,以多元管道對國際銷售,並全力衝刺、開拓其他市場,保障農漁民之權益。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "開拓",
+                "穩定",
+                "權益"
+            ],
+            "datetime": "2022-06-11 13:47"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "蘇貞昌院長於今11日上午9時召開擴大防疫會議,針對國內外疫情、國內疫苗施打情形、邊境管制措施調整規劃以及快篩試劑盤整等議題進行討論。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-11 12:39"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "表示",
+            "opinion": "行政院長蘇貞昌已指示農委會務必保障我國養殖業者權益,穩定國內產銷,並盡速啟動因應措施,以多元管道對國際銷售,並全力衝刺、開拓其他市場,保障農漁民之權益。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "開拓",
+                "穩定",
+                "權益"
+            ],
+            "datetime": "2022-06-11 13:50"
+        },
+        {
+            "person": "羅秉成",
+            "verb": "說",
+            "opinion": "將盡速擬訂設置要點,成立推動轉型正義會報;首任人權處長為司法院前專委賴俊兆。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正義"
+            ],
+            "datetime": "2022-06-11 11:02"
+        }
+    ]
+}

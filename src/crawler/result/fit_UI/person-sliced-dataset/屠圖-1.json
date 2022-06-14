@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/屠圖.png",
+    "opinions": [
+        {
+            "person": "屠圖",
+            "verb": "指出",
+            "opinion": "真正的和解會掀開令人厭惡的一面,面對真相才能撫平傷痛,虛假的和解只能帶來虛假的復原。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "令人厭惡",
+                "令人厭惡的",
+                "假的",
+                "虛假",
+                "虛假的",
+                "厭惡",
+                "厭惡的",
+                "令人厭惡",
+                "厭惡"
+            ],
+            "positive_list": [
+                "才能",
+                "真正",
+                "真正的"
+            ],
+            "datetime": "2022-05-27 17:04"
+        }
+    ]
+}

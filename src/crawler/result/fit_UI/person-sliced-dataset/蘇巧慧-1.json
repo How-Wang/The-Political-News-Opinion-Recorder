@@ -1,0 +1,155 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蘇巧慧",
+            "verb": "強調",
+            "opinion": "應該在第三條中將法案中要處理的名詞定義清楚,「菸草本身和吸食器具本來就應該定義不一樣,怎麼會把加熱元件或組合元件放到菸品呢?超奇怪的,根本邏輯不合。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不合",
+                "奇怪",
+                "奇怪的"
+            ],
+            "positive_list": [
+                "清楚",
+                "邏輯"
+            ],
+            "datetime": "2022-05-24 15:11"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "認為",
+            "opinion": "三人都很不錯,但民進黨現在要先把防疫做好,再談選舉。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 18:01"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "表示",
+            "opinion": "「這一波的疫情讓我們知道,它就是要和世界接軌的最後一步,防疫要中央跟地方要一起努力的,如果有人不配合,只是把做不好的事情甩鍋中央,那我是覺得非常可惜。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "可惜",
+                "不好",
+                "不配",
+                "可惜"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "知道"
+            ],
+            "datetime": "2022-05-28 18:01"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "說",
+            "opinion": "「我們是用這樣真實紮實的成績,來爭取市民的認同,並不是靠所謂的母雞,所以和侯家軍這種,只是上媒體曝光發言,然後要靠母雞的情況完全不一樣。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不是",
+                "靠母"
+            ],
+            "positive_list": [
+                "真實",
+                "認同"
+            ],
+            "datetime": "2022-05-28 13:00"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "認為",
+            "opinion": "日前蘇巧慧院長點名的三位人選,都很不錯,但民進黨第一要務,要先把防疫做好再談選舉!蘇巧慧院長點名的三個人選,其中吳秉叡是現任立法委員,蘇系人馬,另外兩個,像是立委羅致政、還有內政部長徐國勇,都是英系人馬。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:27"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "呼籲",
+            "opinion": "侯友宜不要爭功諉過,把問題都推給中央。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "不要",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:27"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "強調",
+            "opinion": "防疫需要中央跟地方一起努力,才能早日度過;至於是否擔心疫情牽動選情,蘇巧慧也指出,民進黨作為執政黨,現在最重要的工作,就是顧好疫情。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "才能",
+                "努力",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-28 17:12"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "表示",
+            "opinion": "自己在立委任內,與新北市的中藥商一同努力過非常多的案子,而提到抗疫,中藥商們都很希望透過藥材為防疫工作盡一份力,於是她延伸端午節佩掛香包的習俗,促成這一場活動,希望增添端午氣氛,也讓民眾安心防疫。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "促成",
+                "安心",
+                "希望"
+            ],
+            "datetime": "2022-05-29 17:48"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "說",
+            "opinion": "「果然還是南部粽最好吃,吃完的粽葉也別放過,胸肌練起來,好運都來。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "好吃",
+                "好運",
+                "最好",
+                "好運"
+            ],
+            "datetime": "2022-06-03 17:58"
+        },
+        {
+            "person": "蘇巧慧",
+            "verb": "有感而發",
+            "opinion": "只是恩恩的生命喚不回,只求真相能夠盡早對外說清楚。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-10 10:39"
+        }
+    ]
+}

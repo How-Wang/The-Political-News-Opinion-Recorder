@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高副局長.png",
+    "opinions": [
+        {
+            "person": "高副局長",
+            "verb": "表示",
+            "opinion": "會帶著資料過去,8點多恩恩爸回訊說希望可以過來,但考量恩恩爸長途跋涉,市府堅持帶著資料過去跟親自說明,但是今早恩恩爸還是親自出門到市府。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "跋涉"
+            ],
+            "positive_list": [
+                "希望",
+                "堅持",
+                "說明",
+                "希望"
+            ],
+            "datetime": "2022-06-02 16:14"
+        }
+    ]
+}

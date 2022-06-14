@@ -1,0 +1,46 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林源富.png",
+    "opinions": [
+        {
+            "person": "林源富",
+            "verb": "提到",
+            "opinion": "基層員警執勤時「太認真」,民眾停不到1分鐘就被趕走,讓店家反應無法做生意。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "無法",
+                "趕走",
+                "不到",
+                "無法"
+            ],
+            "positive_list": [
+                "認真"
+            ],
+            "datetime": "2022-06-04 11:46"
+        },
+        {
+            "person": "林源富",
+            "verb": "呼籲",
+            "opinion": "身為民意代表應自律、自愛、自重,謹守權利使用之處,才對得起託付權力的人民。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 11:46"
+        },
+        {
+            "person": "林源富",
+            "verb": "指出",
+            "opinion": "尤其是在市區金三角和中山路全線等加強巡邏,員警只要看到車子一停,「逼逼逼!離開」,人家就還沒下車就在趕人,人家下來可能要買個東西或送個東西,員警就說要開單趕客人。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "離開",
+                "東西"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 11:46"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/達克沃斯.png",
+    "opinions": [
+        {
+            "person": "達克沃斯",
+            "verb": "宣布",
+            "opinion": "援贈疫苗後,今天再度造訪台灣,對她來說,算是在一年內二度訪問台灣,甚至也是在短短一個多月內,二度有美國參議員訪台。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 22:38"
+        }
+    ]
+}

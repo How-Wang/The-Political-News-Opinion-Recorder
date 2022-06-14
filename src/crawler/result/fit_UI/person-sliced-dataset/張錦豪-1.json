@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張錦豪.png",
+    "opinions": [
+        {
+            "person": "張錦豪",
+            "verb": "質疑",
+            "opinion": "侯家軍友宜市府的青年事務委員會有其子弟兵參選是否為酬庸。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:07"
+        },
+        {
+            "person": "張錦豪",
+            "verb": "質疑",
+            "opinion": "青年事務委員會有侯家軍友宜的子弟兵出來選舉,不曉得是否是侯放在裡面培養,再遴選出來,或是本來就有計畫放在裡面酬庸。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:07"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周春米.png",
+    "opinions": [
+        {
+            "person": "周春米",
+            "verb": "說",
+            "opinion": "中國單方面宣稱查出禁藥,但不提供資訊供查核,不符合國際慣例,是明顯用經濟打壓台灣的劣證。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不符",
+                "打壓"
+            ],
+            "positive_list": [
+                "明顯",
+                "符合"
+            ],
+            "datetime": "2022-06-11 14:49"
+        },
+        {
+            "person": "周春米",
+            "verb": "表示",
+            "opinion": "中國無預警禁止我國石斑魚輸入,但經過農委會與屏東縣政府的複驗,我國石斑魚僅3件查驗不合格,而不合格的紀錄與中方宣稱查驗出禁藥的批次與貨號均不吻合。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合格",
+                "不合格的",
+                "禁止"
+            ],
+            "positive_list": [
+                "合格"
+            ],
+            "datetime": "2022-06-11 14:49"
+        }
+    ]
+}

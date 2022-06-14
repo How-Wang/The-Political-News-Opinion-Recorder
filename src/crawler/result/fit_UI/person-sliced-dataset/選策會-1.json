@@ -1,0 +1,18 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "選策會",
+            "verb": "表示",
+            "opinion": "徐志榮民調最高,且最能獲得包括現任苗栗縣長徐耀昌、前縣長傅學鵬、劉政鴻及縣議會議長鍾東錦等地方意見領袖支持。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "獲得"
+            ],
+            "datetime": "2022-05-31 11:34"
+        }
+    ]
+}

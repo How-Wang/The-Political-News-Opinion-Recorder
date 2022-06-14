@@ -1,0 +1,127 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/空軍司令部.png",
+    "opinions": [
+        {
+            "person": "空軍司令部",
+            "verb": "表示",
+            "opinion": "中國解放軍空警-500機2架次、殲-16機6架次、殲-11機8架次等戰機,今天侵犯台灣西南空域防空識別區(ADIZ),空軍除了派遣空中巡邏及緊急起飛等兵力應對外,也以防空飛彈追監。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "侵犯",
+                "緊急"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:51"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "表示",
+            "opinion": "空軍官校一架AT-3教練機(機號0852),由少尉學官徐大鈞駕駛,於上午執行訓練時不幸失事殉職。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不幸",
+                "失事",
+                "不幸",
+                "失事"
+            ],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-05-31 11:39"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "說明",
+            "opinion": "空軍目前已經成立應變中心,並且派出調查小組實施搶救及調查。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:35"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "說明",
+            "opinion": "」臨時記者會,黃志偉說明,岡山基地每天都會進行驅鳥作業,同時也會觀察附近的鳥況,確定對航線上面沒有影響,飛機才會起飛。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "進行",
+                "說明",
+                "確定"
+            ],
+            "datetime": "2022-05-31 11:35"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "表示",
+            "opinion": "本屬空軍官校AT-3教練機乙架(機號0852),由少尉學官徐大鈞駕駛,0803時於空軍官校執行例行訓練,0806時於機場東北約5浬失聯,經本軍極力搜救,仍不幸接獲岡山消防分隊通報於岡山區田厝一路前空地發現飛機殘骸及飛行員忠骸。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不幸",
+                "殘骸",
+                "不幸"
+            ],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-05-31 12:42"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "說明",
+            "opinion": "」臨時記者會,黃志偉說明,岡山基地每天都會進行驅鳥作業,並會觀察附近的鳥況,確定對航線上面沒有影響,飛機才會起飛。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "進行",
+                "說明",
+                "確定"
+            ],
+            "datetime": "2022-05-31 12:42"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "表示",
+            "opinion": "本部深表哀痛與不捨,也會依照總統蔡英文指導全力查明事件原因,協助辦理後續事宜。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "哀痛",
+                "哀痛"
+            ],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-05-31 12:00"
+        },
+        {
+            "person": "空軍司令部",
+            "verb": "表示",
+            "opinion": "本屬空軍官校AT-3教練機乙架(機號0852),由少尉學官徐大鈞駕駛,0803時於空軍官校執行例行訓練,0806時於機場東北約5浬失聯,經本軍極力搜救,仍不幸接獲岡山消防分隊通報於岡山區田厝一路前空地發現飛機殘骸及飛行員忠骸。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不幸",
+                "殘骸",
+                "不幸"
+            ],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-05-31 12:00"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/舊金山.png",
+    "opinions": [
+        {
+            "person": "舊金山",
+            "verb": "強調",
+            "opinion": "國民黨的路線,是向來「親美」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 19:42"
+        }
+    ]
+}

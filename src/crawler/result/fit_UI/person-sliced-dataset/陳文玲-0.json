@@ -1,0 +1,57 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳文玲.png",
+    "opinions": [
+        {
+            "person": "陳文玲",
+            "verb": "提到",
+            "opinion": "如果哪天中國也遭到毀滅式制裁,那一定要把台積電搶到手裡。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "毀滅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "說",
+            "opinion": "得相當狠,但論述卻遭到不少中國網友無情吐槽,「寫的很好,屁用沒有。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "無情",
+                "屁用",
+                "沒有",
+                "無情"
+            ],
+            "positive_list": [
+                "很好"
+            ],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "表示",
+            "opinion": "「一定要收復台灣」、「要把台積電這本來屬於中國的企業搶到中國手裡。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 01:57"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "表示",
+            "opinion": "要把台積電搶到中國手裡,引發各界議論。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "議論"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:21"
+        }
+    ]
+}

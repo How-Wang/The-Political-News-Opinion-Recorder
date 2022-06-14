@@ -1,0 +1,685 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/郭彥.png",
+    "opinions": [
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「看到這(麼)多孩子,就這樣走」,言論真實性引發外界熱議。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "真實"
+            ],
+            "datetime": "2022-05-27 20:30"
+        },
+        {
+            "person": "郭彥",
+            "verb": "強調",
+            "opinion": "訊息遭到外界誤解,對於文章造成恐慌一事致歉:「我真的很抱歉!」對此,楊植斗發文指出,很多孩子走了,這點千真萬確。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "抱歉",
+                "恐慌",
+                "誤解",
+                "抱歉",
+                "恐慌"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-27 14:03"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「看到這(麼)多孩子,就這樣走」,言論真實性引發外界熱議,郭彥均彥除了迅速將PO文刪除外,也向外界道歉。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "刪除",
+                "道歉"
+            ],
+            "positive_list": [
+                "迅速",
+                "真實"
+            ],
+            "datetime": "2022-05-27 17:01"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "醫護友人表示院內同仁長期沒休息,許多孩子病況越來越慘,盼公眾人物能幫忙宣傳「不要群聚、愛護醫護」,未料對話中的「看到這麼多孩子,就這樣走」,遭到外界質疑真實性。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "質疑",
+                "不要"
+            ],
+            "positive_list": [
+                "休息",
+                "真實"
+            ],
+            "datetime": "2022-05-27 17:57"
+        },
+        {
+            "person": "郭彥",
+            "verb": "表示",
+            "opinion": "對話中醫護朋友提到「看到這多孩子就這樣走」不是指有單位知情不報或隱匿疫情,截圖中轉達的數字就是指揮中心公布的數字。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:42"
+        },
+        {
+            "person": "郭彥",
+            "verb": "表示",
+            "opinion": "「有很多孩子死了」,「很多」是個人主觀認知,自然沒有問題。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "有問題",
+                "死了",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "自然",
+                "很多"
+            ],
+            "datetime": "2022-05-28 20:07"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "是和醫護朋友的對話,對方哭訴,院內同仁長期沒休息,許多孩子病況越來越慘,「看到這麼多孩子,就這樣走了」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "哭訴"
+            ],
+            "positive_list": [
+                "休息"
+            ],
+            "datetime": "2022-05-28 18:21"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "到,對話截圖中朋友在文字上提到「看到這多孩子就這樣走」其實並不是說有單位知情不報或是隱匿疫情的情況,因為這樣私下的對話卻造成很多人的恐慌,也解讀成好像有更多隱匿數字這樣的誤會,「我真的很抱歉」。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "抱歉",
+                "恐慌",
+                "誤會",
+                "不是",
+                "抱歉",
+                "恐慌"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 16:27"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "到,這句話是她的轉達不是她說的,她想跟形容的是現在醫療的狀況,希望呼籲善待醫療而已,而截圖中轉達的數字指的就是指揮中心公布的數字,因為這樣私下的對話卻造成很多人的恐慌,也解讀成好像有更多隱匿數字這樣的誤會,「我真的很抱歉」。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "抱歉",
+                "恐慌",
+                "誤會",
+                "不是",
+                "抱歉",
+                "恐慌"
+            ],
+            "positive_list": [
+                "希望",
+                "很多",
+                "希望"
+            ],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "醫護朋友希望他可以寫一篇文章,呼籲大家如果有去醫療院所的朋友,可以善待醫療人員,不要帶有情緒或是口出惡言之類的狀況發生。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不要",
+                "惡言"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「很多孩子就這樣走了」,引發網友議論,郭彥均事後道歉並刪文,但有查核網站發現,2天內就有25個粉專轉發同樣內容的文字,其中19個的轉發時差更在10秒內。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "議論",
+                "道歉"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "郭彥",
+            "verb": "表示",
+            "opinion": "對話截圖中朋友在文字上提到「看到這多孩子就這樣走」其實並不是說有單位知情不報或是隱匿疫情的情況,因為這樣私下的對話卻造成很多人的恐慌,也解讀成好像有更多隱匿數字這樣的誤會,「我真的很抱歉」。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "抱歉",
+                "恐慌",
+                "誤會",
+                "不是",
+                "抱歉",
+                "恐慌"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 15:15"
+        },
+        {
+            "person": "郭彥",
+            "verb": "表示",
+            "opinion": "對話截圖中朋友在文字上提到「看到這多孩子就這樣走」其實並不是說有單位知情不報或是隱匿疫情的情況。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:37"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「看到這(麼)多孩子,就這樣走」,引發外界討論,而郭彥均因為網友抨擊刪除貼文,並發文道歉。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "刪除",
+                "抨擊",
+                "抨擊",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:38"
+        },
+        {
+            "person": "郭彥",
+            "verb": "認為",
+            "opinion": "她們真的很辛苦,很累也冒著很大風險在為大家服務,當下也覺得是應該的,就順手寫了文字發出去,而對話截圖中朋友在文字上提到「看到這多孩子就這樣走」其實並不是說有單位知情不報或是隱匿疫情的情況。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:38"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "醫護朋友希望他可以寫一篇文章,呼籲大家如果有去醫療院所的朋友,可以善待醫療人員,不要帶有情緒或是口出惡言之類的狀況發生。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不要",
+                "惡言"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 09:38"
+        },
+        {
+            "person": "郭彥",
+            "verb": "指出",
+            "opinion": "這種不實謠言,內容相近、類似,都由相近的團體有很明顯的操作痕跡,非常不法不宜,同時對於辛苦的防疫工作非常不尊重,並且引起社會恐慌大可不必,會加以咎責查辦,希望國人同胞不要相信假訊息,也不要亂傳未經查證的訊息。",
+            "negative_score": 13,
+            "positive_score": 7,
+            "negative_list": [
+                "不宜",
+                "不法",
+                "不尊重",
+                "未經",
+                "辛苦",
+                "辛苦的",
+                "苦的",
+                "恐慌",
+                "謠言",
+                "不要",
+                "不尊重",
+                "不實",
+                "恐慌"
+            ],
+            "positive_list": [
+                "希望",
+                "明顯",
+                "明顯的",
+                "相信",
+                "尊重",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 09:38"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "的話卻很有感,目前已經有十幾個小朋友離開,到底還要多少數字才算多?不管小孩、老人,命都是命。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "離開"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 17:42"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "對話中醫護朋友提到「看到這麼多孩子就這樣走」不是指有單位知情不報或隱匿新冠肺炎疫情,截圖中轉達的數字就是指揮中心公布的數字。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 14:31"
+        },
+        {
+            "person": "郭彥",
+            "verb": "認為",
+            "opinion": "郭彥均的貼文有提到確診死亡人數,可能會觸犯傳染病防治法。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "傳染",
+                "傳染病",
+                "觸犯",
+                "觸犯"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 17:17"
+        },
+        {
+            "person": "郭彥",
+            "verb": "批評",
+            "opinion": "政府防疫不力,發文稱「看到這(麼)多孩子,就這樣走」,行政院長蘇貞昌則表示,這種不實的謠言,「會加以究責查辦」,引發爭議,為此,國民黨團29日主動投案,不過因刑事局稍早已召開記者會,說明該案並沒有啟動偵辦及成案,副局長黃家琦出面邀請立委們上樓,但對方強調,「我們不進去喝茶,我們要進去做筆錄」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "刑事",
+                "沒有",
+                "謠言",
+                "不實",
+                "沒有"
+            ],
+            "positive_list": [
+                "主動",
+                "說明"
+            ],
+            "datetime": "2022-05-29 11:50"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "話,明天你說不了話」、「政府不要恐嚇平民百姓」、「這樣會被政府查辦~您好大我好怕」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "恐嚇",
+                "不了",
+                "不要",
+                "恐嚇"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 07:03"
+        },
+        {
+            "person": "郭彥",
+            "verb": "認為",
+            "opinion": "轉發此類訊息,應該提出證據證明,「看到很多孩子走了」到底是幾個孩子,還是發生在哪個醫院。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 00:22"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "他行醫以來最慘的日子」、「看到這(麼)多孩子就這樣走」等話語,因此遭到出征。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 00:15"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「看到這麼多孩子,就這樣走」的截圖,行政院長蘇貞昌說要查辦假訊息,國民黨、民眾黨則跳出來痛批政府,風波不斷延燒。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷",
+                "風波"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:41"
+        },
+        {
+            "person": "郭彥",
+            "verb": "表示",
+            "opinion": "台灣充分保障人民的言論自由,也是認知作戰的最前線,最重要的是保護孩子、國人健康,做好防疫,另外也要保護國家社會安定,「對資訊戰不能鬆懈」,他強調,對於重視的生命消逝,都感到不捨和難過,但同時也不能侵害到國家安定,對於資訊戰不能鬆懈和掉以輕心。",
+            "negative_score": 5,
+            "positive_score": 12,
+            "negative_list": [
+                "不能",
+                "作戰",
+                "侵害",
+                "難過",
+                "難過"
+            ],
+            "positive_list": [
+                "充分",
+                "安定",
+                "自由",
+                "保護",
+                "重要",
+                "重要的",
+                "重視",
+                "健康",
+                "最重要",
+                "最重要的",
+                "安定",
+                "自由"
+            ],
+            "datetime": "2022-05-29 10:55"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「看到這(麼)多孩子,就這樣走」,引起討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 09:58"
+        },
+        {
+            "person": "郭彥",
+            "verb": "認為",
+            "opinion": "郭彥均只是呼籲大家保持社交距離、避免疫情擴散,不要再給醫護製造壓力,「我看不出那裡煽動、造假?」他更強調,一個郭彥均,還有千千萬萬個郭彥均,事實不會因爲沒有聲音而消失。",
+            "negative_score": 12,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "消失",
+                "煽動",
+                "壓力",
+                "避免",
+                "不出",
+                "不要",
+                "不會",
+                "沒有",
+                "消失",
+                "造假"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-05-29 17:07"
+        },
+        {
+            "person": "郭彥",
+            "verb": "指出",
+            "opinion": "「很多孩子走了」引發爭議,行政院長蘇貞昌昨表示,會對網路上不實疫情訊息加以究責查辦。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 12:24"
+        },
+        {
+            "person": "郭彥",
+            "verb": "呼籲",
+            "opinion": "大家善待醫護,其中一句「看到這(麼)多孩子就這樣走(了)」引發外界爭議,而郭彥均也在事發後為此刪文道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:10"
+        },
+        {
+            "person": "郭彥",
+            "verb": "說",
+            "opinion": "」,說的內容是假,或者是模糊但可能製造恐慌的事實,那就不是該保障的言論自由。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "恐慌",
+                "模糊",
+                "不是",
+                "恐慌"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-29 12:00"
+        },
+        {
+            "person": "郭彥",
+            "verb": "指出",
+            "opinion": "「很多孩子走了」引發爭議,國民黨主席朱立倫號召聲援郭彥均,多名國民黨議員參選人今(29)日共同赴警察局遞交投案書要「投案」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 12:00"
+        },
+        {
+            "person": "郭彥",
+            "verb": "指出",
+            "opinion": "「很多孩子走了」引發爭議,甚至不少內容農場都刻意轉發文掀起資訊戰,行政院長蘇貞昌昨表示,會對網路上不實疫情訊息加以究責查辦。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 11:11"
+        },
+        {
+            "person": "郭彥",
+            "verb": "指出",
+            "opinion": "「很多孩子走了」引發爭議,行政院長蘇貞昌昨表示,會對網路上不實疫情訊息加以究責查辦。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 10:09"
+        },
+        {
+            "person": "郭彥",
+            "verb": "強調",
+            "opinion": "郭彥均若被移送法辦,會無償當對方的義務律師,捍衛小朋友和父母的權益。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "義務",
+                "權益"
+            ],
+            "datetime": "2022-05-29 09:46"
+        },
+        {
+            "person": "郭彥",
+            "verb": "表示",
+            "opinion": "將調查、刑事局表示不排除約談,此舉引發各界批評。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "刑事",
+                "批評",
+                "排除",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:45"
+        },
+        {
+            "person": "郭彥",
+            "verb": "批評",
+            "opinion": "政府防疫不力,發文稱「看到這(麼)多孩子,就這樣走」,行政院長蘇貞昌則表示,這種不實的謠言、內容相近類似,有的操作痕跡,非常不法、不宜,「會加以究責查辦」,卻引來批評。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不宜",
+                "不法",
+                "批評",
+                "謠言",
+                "不實",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:00"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「看到這(麼)多孩子就這樣走(了)」,遭到網軍出征,行政院長蘇貞昌還揚言要依法追究。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:34"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「很多孩子走了」,然後當時行政院長蘇貞昌說要法辦,引發軒然大波的看法,侯友宜說,面對這一段時間的疫情,大家都是要全心全力的把防疫做好,用積極正向的態度守護每一個人民最寶貴的生命,希望疫情能夠守住,讓大家都能夠平安度過這個難關。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "全力",
+                "全力的",
+                "希望",
+                "很多",
+                "積極",
+                "寶貴",
+                "寶貴的",
+                "希望"
+            ],
+            "datetime": "2022-05-30 15:06"
+        },
+        {
+            "person": "郭彥",
+            "verb": "呼籲",
+            "opinion": "大家多體諒基層醫護人員,他們真的很辛苦的防疫外,也用hashtag標註「很多孩子都死了」,使得行政院長蘇貞昌親上火線回應,甚至對外表示要嚴辦徹查,引起諸多民眾的譁然。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "辛苦",
+                "辛苦的",
+                "苦的",
+                "死了"
+            ],
+            "positive_list": [
+                "很多",
+                "體諒"
+            ],
+            "datetime": "2022-05-30 05:40"
+        },
+        {
+            "person": "郭彥",
+            "verb": "指出",
+            "opinion": "因為疫情「有很多孩子都走了」,引發各界議論,甚至一度上升至藍綠議題攻防。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "議論"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-31 11:59"
+        },
+        {
+            "person": "郭彥",
+            "verb": "提到",
+            "opinion": "「很多孩子都走了」,隨即引發綠營側翼出征,迫使其將臉書貼文下架並道歉,行政院長蘇貞昌、衛福部長陳時中更下令查辦是否有不實謠言。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "迫使",
+                "謠言",
+                "不實",
+                "道歉"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-01 06:00"
+        },
+        {
+            "person": "郭彥",
+            "verb": "解釋",
+            "opinion": "引發爭議的圖文內容,並強調發文目的「是要體現前線醫療人員辛苦現狀」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 06:10"
+        }
+    ]
+}

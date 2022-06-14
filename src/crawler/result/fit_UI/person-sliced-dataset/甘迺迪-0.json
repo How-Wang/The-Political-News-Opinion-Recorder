@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/甘迺迪.png",
+    "opinions": [
+        {
+            "person": "甘迺迪",
+            "verb": "說",
+            "opinion": "「我是柏林人」,歐舒斯基則喊,「我是台灣人」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:51"
+        }
+    ]
+}

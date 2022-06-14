@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/波恩達茲.png",
+    "opinions": [
+        {
+            "person": "波恩達茲",
+            "verb": "認為",
+            "opinion": "歐盟和台灣的合作不應局限於晶片等技術領域,還可在更廣泛的領域中找尋合作的可能性。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "局限"
+            ],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "合作"
+            ],
+            "datetime": "2022-06-09 13:51"
+        }
+    ]
+}

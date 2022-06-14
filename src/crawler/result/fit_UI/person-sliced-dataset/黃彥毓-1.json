@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃彥毓",
+            "verb": "說",
+            "opinion": "「其邁市長2年拚4年,他的政績大家有目共睹,所以我們都很期盼未來他會替我們輔選。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "期盼"
+            ],
+            "datetime": "2022-05-22 18:38"
+        }
+    ]
+}

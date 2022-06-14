@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣科技大學學生會.png",
+    "opinions": [
+        {
+            "person": "台灣科技大學學生會",
+            "verb": "指出",
+            "opinion": "在台科大24日的行政會議及25日的校務發展會議,校方提出擬接收華夏科技大學校產,爭取在校務會議中通過。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "通過",
+                "發展"
+            ],
+            "datetime": "2022-05-26 10:18"
+        }
+    ]
+}

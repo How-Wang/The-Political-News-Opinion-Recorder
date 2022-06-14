@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市政府衛生局.png",
+    "opinions": [
+        {
+            "person": "台北市政府衛生局",
+            "verb": "呼籲",
+            "opinion": "雖然確診者人數下降,仍然要提醒市民遵循中央流行疫情指揮中心防疫規範,請做好勤洗手、戴好口罩、維持社交距離等個人防護,持續自我健康管理。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "下降",
+                "自我"
+            ],
+            "positive_list": [
+                "流行",
+                "健康",
+                "規範",
+                "管理"
+            ],
+            "datetime": "2022-06-06 15:40"
+        }
+    ]
+}

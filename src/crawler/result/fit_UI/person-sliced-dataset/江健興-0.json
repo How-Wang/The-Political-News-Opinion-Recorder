@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/江健興.png",
+    "opinions": [
+        {
+            "person": "江健興",
+            "verb": "說",
+            "opinion": "「今年我們還是要求,基本工資仍應繼續調漲,你說對不對,你們沒有鼓掌總統沒聽到。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不對",
+                "沒有",
+                "要求",
+                "不對",
+                "沒有"
+            ],
+            "positive_list": [
+                "鼓掌"
+            ],
+            "datetime": "2022-06-06 18:56"
+        },
+        {
+            "person": "江健興",
+            "verb": "表示",
+            "opinion": "當面向蔡英文總統提到,蔡英文總統任內連續6年調漲基本工資,漲幅超過前兩任總統16年任期,今年全產總仍要求基本工資應繼續調漲,而且調幅要能抗通膨,別讓勞工薪資成長被通膨吃掉,並期盼台灣能實施最低工資法,接軌國際。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "最低",
+                "超過"
+            ],
+            "positive_list": [
+                "成長",
+                "期盼"
+            ],
+            "datetime": "2022-06-06 15:50"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/允晨.png",
+    "opinions": [
+        {
+            "person": "允晨",
+            "verb": "表示",
+            "opinion": "今年推出的購書抵用券對提升買氣有所幫助,業績較原本預期提升2成。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提升",
+                "幫助"
+            ],
+            "datetime": "2022-06-07 19:17"
+        }
+    ]
+}

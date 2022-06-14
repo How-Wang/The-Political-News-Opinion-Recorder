@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/廖義銘.png",
+    "opinions": [
+        {
+            "person": "廖義銘",
+            "verb": "說",
+            "opinion": "「最適合的人選應該是高雄市在地的,長期在高雄深耕的然後非政治的素人,讓這樣的人能夠成為,未來國民黨的政治人才。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "適合",
+                "適合的"
+            ],
+            "datetime": "2022-06-08 18:08"
+        }
+    ]
+}

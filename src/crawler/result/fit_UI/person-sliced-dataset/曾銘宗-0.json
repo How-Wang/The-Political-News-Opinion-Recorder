@@ -1,0 +1,141 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "這是好的開始,但未見FTA等重要項目,又被拿來做大內宣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-02 13:18"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "樂見台美貿易有重大突破,不過,這只是開始談而已,蔡政府就拿來做大內宣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重大",
+                "樂見"
+            ],
+            "datetime": "2022-06-02 11:21"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "國安、外交單位應好好評估,此舉對中華民國可能的衝擊;民進黨立委王定宇則指,重點是移除「台灣屬於中國」字眼,其餘修正可能是為了和緩中國跳腳、讓外交進程順暢等原因。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "衝擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 11:03"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "批評",
+            "opinion": "中央流行疫情指揮中心卸責,國民黨團給予最嚴厲的譴責,同時要求制定相關標準,還找來確診往生家屬王小姐進行視訊連線。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "嚴厲",
+                "嚴厲的",
+                "譴責"
+            ],
+            "positive_list": [
+                "流行",
+                "給予",
+                "進行"
+            ],
+            "datetime": "2022-06-07 15:15"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "謝謝羅智強顧全大局,退出桃園市長選舉,希望國民黨中央和桃園地方趕快整合,相信張善政參選桃園市長有勝選的可能。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [
+                "希望",
+                "相信",
+                "希望",
+                "謝謝"
+            ],
+            "datetime": "2022-06-07 12:44"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "對照現在執政的民進黨政府沒有提出好的論述和做為,兩岸關係急速惡化,國民黨藉著這次朱立倫訪美機會,說明好的論述,這是現階段最好的論述,希望兩岸關係和平穩定;希望民進黨陣營心胸放大,不要一味批評,歡迎提出更好論述,有助維持兩岸關係穩定,讓中華民國走出去,未來有更大的發展。",
+            "negative_score": 6,
+            "positive_score": 12,
+            "negative_list": [
+                "批評",
+                "沒有",
+                "惡化",
+                "不要",
+                "批評",
+                "沒有"
+            ],
+            "positive_list": [
+                "平穩",
+                "有助",
+                "希望",
+                "和平",
+                "最好",
+                "發展",
+                "說明",
+                "機會",
+                "穩定",
+                "歡迎",
+                "希望",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 14:51"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "這是現階段最好的論述;黨團首席副書記長李德維指出,國民黨立場沒變。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-08 14:51"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "呼籲",
+            "opinion": "中國不要傷害無辜農漁民,並要求蔡英文政府應好好溝通,兩岸要好好溝通才能解決問題。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "問題",
+                "傷害",
+                "不要",
+                "問題",
+                "傷害"
+            ],
+            "positive_list": [
+                "才能",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-12 11:09"
+        }
+    ]
+}

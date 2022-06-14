@@ -1,0 +1,2225 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "台灣有能力也有意願貢獻國際世界,感謝眾多國家發聲支持台灣參與WHA,台灣會繼續和世界重要支持民主夥伴堅定攜手相挺。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "有能力",
+                "重要",
+                "能力",
+                "堅定",
+                "感謝",
+                "夥伴",
+                "感謝"
+            ],
+            "datetime": "2022-05-21 12:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "從去年到現在,包括美國、歐洲議會、波羅的海三國訪團等歐洲國家訪團,以及三個友邦,也都親自來台表達對台灣的堅定支持,台灣也和日本及美國等國家,互相提供重要防疫物資,共同對抗疫情,這就是「患難見真情」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "重要",
+                "堅定"
+            ],
+            "datetime": "2022-05-21 20:44"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "過去一年來推特上也發生了無數重要的事件。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-05-21 12:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "台灣有能力、也有意願貢獻國際世界,感謝眾多國家發聲支持台灣參與WHA,台灣會繼續和世界重要支持民主夥伴堅定攜手相挺。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "有能力",
+                "重要",
+                "能力",
+                "堅定",
+                "感謝",
+                "夥伴",
+                "感謝"
+            ],
+            "datetime": "2022-05-21 12:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣還和日本及美國等國家,互相提供重要防疫物資,共同對抗疫情,這就是「患難見真情」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-21 12:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "她常透過推特向世界各國的朋友傳達台灣的聲音,透過共享民主自由價值的重要理念,全世界許多重要的國際夥伴都和台灣站在一起。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "重要",
+                "重要的",
+                "夥伴",
+                "自由"
+            ],
+            "datetime": "2022-05-21 14:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "法,表示自己任內「每年都參加WHA」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-21 21:34"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "法,表示自己任內「每年都參加WHA」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-21 16:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "這次的槍擊案,鄭達志用身軀攔下凶嫌的子彈,用自己的生命阻止可怕的屠殺,正如聖經上說「凡為我捨棄了生命,必救了生命!」她相信在每個人心目中,鄭達志的犧牲是台灣人秉性正直、善良,勇敢行義的最好見證,這個見證會永遠留在生命中。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "子彈",
+                "可怕",
+                "可怕的",
+                "阻止",
+                "屠殺",
+                "可怕",
+                "屠殺"
+            ],
+            "positive_list": [
+                "正直",
+                "勇敢",
+                "相信",
+                "最好",
+                "善良",
+                "犧牲"
+            ],
+            "datetime": "2022-05-22 23:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "鄭達志就如同所有認識的朋友所肯定的,是一位視病猶親、傑出專業的好醫生,是一位在社區當中,無私投入各項公共服務的台灣青年,更是台美人社團裡,暖心付出的好夥伴。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "肯定的",
+                "美人",
+                "傑出",
+                "夥伴"
+            ],
+            "datetime": "2022-05-22 23:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "駐美大使蕭美琴將代表她出席醫師鄭達志的追思禮拜,表達哀悼與敬意;同時洽請美方,務必保護在地的台灣人。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "哀悼"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-05-22 23:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "此時此刻需要團結彼此,拒絕仇恨與暴力,更要集結最大能量,為鄭達志所摯愛的家人,帶來溫暖的力量與支持,要記住鄭達志的無私與勇敢,一起為台灣的美好努力。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "仇恨",
+                "拒絕",
+                "暴力",
+                "仇恨",
+                "暴力"
+            ],
+            "positive_list": [
+                "努力",
+                "勇敢",
+                "美好",
+                "溫暖",
+                "溫暖的",
+                "溫暖"
+            ],
+            "datetime": "2022-05-22 23:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "疫情期間,台灣的血庫存量比較低,捐血行動更顯得特別重要,大家一起支持醫療量能,做醫護團隊的後盾;這次集合眾人力量,捐贈出的環保無動力捐血車,可以降低環境污染,讓捐血行動兼顧環保,她非常感謝大家的用心。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "污染",
+                "降低",
+                "污染"
+            ],
+            "positive_list": [
+                "重要",
+                "捐贈",
+                "特別",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 12:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "過程中有很多人參與設計、討論以及整個建造的過程,甚至還有洪易大師畫的公共藝術,是集眾人之力,所做出來的捐血車、運送車。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "藝術"
+            ],
+            "datetime": "2022-05-22 12:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "防疫最後關鍵時刻,民眾期待的是攜手解決問題,中央與地方都要一起合作;她透露曾致電給新北市醫師公會,希望基層醫師部分再協調一些力量,投入居家照護、遠距問診、第一線篩檢站服務的工作。",
+            "negative_score": 3,
+            "positive_score": 9,
+            "negative_list": [
+                "問題",
+                "透露",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "協調",
+                "期待",
+                "解決",
+                "合作",
+                "希望",
+                "期待",
+                "解決"
+            ],
+            "datetime": "2022-05-22 11:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "防疫最後關鍵時刻,民眾期待的是攜手解決問題,中央與地方都要一起合作,互相補位把防疫工作做得更好。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "期待",
+                "解決",
+                "合作",
+                "期待",
+                "解決"
+            ],
+            "datetime": "2022-05-22 11:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "這股來自國際社會的支持聲浪,應該被正視。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 09:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "台灣絕對有能力參與全球防疫體系,也願意做出貢獻。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-22 09:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "過去2年多來,全球面對疫情挑戰,更凸顯了健康防疫不該有國界。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-22 09:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "感謝各位鄉親為台灣站出來,為台灣努力爭取權利,政府會繼續讓全世界聽到台灣的聲音。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 09:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "質疑",
+            "opinion": "「過疫情而不入」,總統府發言人張惇涵則說,蔡英文關心各地方的防疫不會減少。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "減少",
+                "不會"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 19:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "回應",
+            "opinion": "僅回答:「發言人回答。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 15:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "回應",
+            "opinion": "僅回答:「發言人回答。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 12:01"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我們會繼續讓世界聽到台灣的聲音,台灣需要WHA,WHA也需要台灣,呼籲WHA不該排除台灣。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:02"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "過程中有很多人參與設計、討論,參與整個建造的過程,甚至於還有洪易大師畫的公共藝術,是集眾人之力,所做出來今天呈現的捐血車、運送車,再一次感謝所有投入的團隊。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "感謝",
+                "藝術",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 14:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "希望「小英號」的啟用,能夠拋磚引玉,讓更多人一起加入捐血的行列,一起來支持醫療量能,做醫護團隊的後盾。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-22 14:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "疫情期間,最重要的就是團結互助,我們互相提醒防疫資訊,互相關懷幫忙。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "互助",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "互助",
+                "關懷"
+            ],
+            "datetime": "2022-05-22 14:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "台灣正處在疫情的關鍵時刻,今天藉這個機會,她也要拜託大家,一起來幫忙提升疫苗覆蓋率,「請大家互相提醒親朋好友,一定要打滿3劑疫苗。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "提升",
+                "機會"
+            ],
+            "datetime": "2022-05-22 14:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「要請我們侯勝茂董事長代我向他們致謝,那在這裡,我也要再一次感謝所有的防疫團隊,醫療的團隊,他們這段時間確實很辛苦,我們要給他們多多關懷多多支持。」",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "感謝",
+                "確實",
+                "感謝",
+                "關懷"
+            ],
+            "datetime": "2022-05-22 13:08"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "過去兩年多來,全球面對疫情挑戰,更凸顯了健康防疫不該有國界。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣絕對有能力參與全球防疫體系,也願意做出貢獻。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "台灣被中國打壓的說法,更稱自己任內「年年都參加WHA」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-22 09:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "這兩年多來,台灣社會受到疫情的影響,在生活上有許多的改變。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:58"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "12歲到17歲青少年的第三劑,最快週三、5月25號就要開打。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:58"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "希望「小英號」的啟用,能夠拋磚引玉,讓更多人一起加入捐血的行列,一起來支持醫療量能,做醫護團隊的後盾。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-22 11:58"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "早有通電話聯繫基層醫師,「總統親自拜託新北市醫師公會的幹部,新北市醫師公會也跟指揮中心協調,我想指揮中心也有跟新北市政府這邊做一些討論。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "協調"
+            ],
+            "datetime": "2022-05-22 11:20"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "感謝各位鄉親為台灣站出來,為台灣努力爭取權利,政府會繼續讓全世界聽到台灣的聲音。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 11:04"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "台灣絕對有能力參與全球防疫體系,也願意做出貢獻。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-22 11:04"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "過去2年多來,全球面對疫情挑戰,更凸顯了健康防疫不該有國界。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-22 11:04"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "這股來自國際社會的支持聲浪,應該被正視。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:04"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "為確保在美國鄉親的安全,她已經請外交部、駐美代表處,洽請美方務必保護在地的台灣人,並請蕭美琴向鄉親們表達關心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "保護",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-23 11:15"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "駐美大使蕭美琴將代表她出席醫師鄭達志的追思禮拜,表達哀悼與敬意;同時洽請美方,務必保護在地的台灣人。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "哀悼"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-05-23 05:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "這次的槍擊案,鄭達志用身軀攔下凶嫌的子彈,用自己的生命阻止可怕的屠殺,正如聖經上說「凡為我捨棄了生命,必救了生命!」她相信在每個人心目中,鄭達志的犧牲是台灣人秉性正直、善良,勇敢行義的最好見證,這個見證會永遠留在生命中。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "子彈",
+                "可怕",
+                "可怕的",
+                "阻止",
+                "屠殺",
+                "可怕",
+                "屠殺"
+            ],
+            "positive_list": [
+                "正直",
+                "勇敢",
+                "相信",
+                "最好",
+                "善良",
+                "犧牲"
+            ],
+            "datetime": "2022-05-23 05:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "鄭達志就如同所有認識的朋友所肯定的,是一位視病猶親、傑出專業的好醫生,是一位在社區當中,無私投入各項公共服務的台灣青年,更是台美人社團裡,暖心付出的好夥伴。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "肯定的",
+                "美人",
+                "傑出",
+                "夥伴"
+            ],
+            "datetime": "2022-05-23 05:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "此時此刻需要團結彼此,拒絕仇恨與暴力,更要集結最大能量,為鄭達志所摯愛的家人,帶來溫暖的力量與支持,要記住鄭達志的無私與勇敢,一起為台灣的美好努力。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "仇恨",
+                "拒絕",
+                "暴力",
+                "仇恨",
+                "暴力"
+            ],
+            "positive_list": [
+                "努力",
+                "勇敢",
+                "美好",
+                "溫暖",
+                "溫暖的",
+                "溫暖"
+            ],
+            "datetime": "2022-05-23 05:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "很遺憾今年世界衛生大會再次將台灣排除在外,台灣有人才、有技術、豐富防疫經驗,絕對有能力為全球防疫體系作出貢獻;世界衛生組織(WHO)的做法,不會動搖台灣參與國際社會的決心。",
+            "negative_score": 7,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "動搖",
+                "排除",
+                "絕對",
+                "遺憾",
+                "不會",
+                "遺憾"
+            ],
+            "positive_list": [
+                "有能力",
+                "決心",
+                "能力",
+                "經驗",
+                "衛生",
+                "豐富",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 19:17"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "去年京元電子可以控制疫情,主要也是北榮團隊進駐、大規模採檢。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 19:17"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "世界衛生組織(WHO)的作法,並不會動搖台灣參與國際社會的決心,她也再次感謝北榮團隊所有護理師,更笑喊每次到榮總照顧她最好的就是護理師,即便父母住院,都可以看到護理師的親切,這讓家人非常感動,「也是讓家人記得一輩子的事」。",
+            "negative_score": 3,
+            "positive_score": 9,
+            "negative_list": [
+                "不會",
+                "動搖",
+                "不會"
+            ],
+            "positive_list": [
+                "決心",
+                "最好",
+                "感動",
+                "感謝",
+                "衛生",
+                "親切",
+                "感動",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 18:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "很遺憾全球需要團結的時刻,今年世界衛生大會再次把台灣排除在外,從北榮的表現、醫護人員身上都可以看到台灣有人才、有技術、有豐富防疫經驗,絕對可以為全球做出貢獻,WHO的作法不會動搖台灣參與國際社會的決心。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "動搖",
+                "排除",
+                "絕對",
+                "遺憾",
+                "不會",
+                "遺憾"
+            ],
+            "positive_list": [
+                "決心",
+                "經驗",
+                "衛生",
+                "豐富",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 18:20"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「台灣有人才、有技術、有豐富的防疫經驗,絕對有能力為全球防疫體系做出貢獻,我也要強調,WHO的作法不會動搖台灣參與國際社會的決心。」",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "動搖",
+                "絕對",
+                "不會"
+            ],
+            "positive_list": [
+                "有能力",
+                "決心",
+                "能力",
+                "經驗",
+                "豐富",
+                "豐富的"
+            ],
+            "datetime": "2022-05-25 18:45"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「台灣有人才、有技術、有豐富的防疫經驗,絕對有能力為全球防疫體系做出貢獻,我也要強調,WHO的作法不會動搖,台灣參與國際社會的決心。」",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "動搖",
+                "絕對",
+                "不會"
+            ],
+            "positive_list": [
+                "有能力",
+                "決心",
+                "能力",
+                "經驗",
+                "豐富",
+                "豐富的"
+            ],
+            "datetime": "2022-05-25 12:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "過去幾年,台歐盟在貿易、經濟、文化、學術與科技交流、供應鏈夥伴關係、人權諮商和民主團結等方面有積極充分的討論。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "充分",
+                "夥伴",
+                "積極"
+            ],
+            "datetime": "2022-05-27 00:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "解放軍航艦船團開到台灣東面,原來思考從陸基飛彈因應的模式,就有可能捉襟見肘,因此必須開始用不同的儎台。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "思考"
+            ],
+            "datetime": "2022-05-28 09:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "對於美國政府所倡議的印太經濟架構(IPEF),台灣會持續向美國政府表達參與的意願,也期待在短期內台美將以嶄新作為,一起規劃出具體途徑,共同深化台美雙邊的經貿夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "夥伴",
+                "嶄新",
+                "期待"
+            ],
+            "datetime": "2022-05-31 11:43"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "去年6月台灣疫情升溫的時候,達克沃絲與蘇利文、昆斯特別搭乘專機來台,也帶來了美國政府將提供台灣疫苗的好消息。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-31 11:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "去年7月達克沃絲參議員領銜提出「台灣夥伴法案」,獲得跨黨派的支持,也因此美國國防部正積極研究國民兵與台灣的交流,最近達克沃絲也進一步提出法案,支持美軍的印太部署要優先因應台灣的安全情勢,期待台美在區域安全的合作上可以更深化、緊密,同時面對後疫情時代的挑戰,台美也已經針對各項經貿合作議題進行盤點。",
+            "negative_score": 1,
+            "positive_score": 10,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "合作",
+                "安全",
+                "安全的",
+                "期待",
+                "進行",
+                "夥伴",
+                "積極",
+                "獲得",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-05-31 11:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "達克沃絲參議員的回憶錄《活著的每一天》在台灣獲得很好的評價,從書中可以看到,出身軍旅的達克沃絲參議員在國防上的專業、克服萬難的堅毅精神,還有對公益價值的精神,很高興她可以推薦這本書,讓更多台灣人認識「美國的好朋友」,並從中受到鼓舞。",
+            "negative_score": 0,
+            "positive_score": 12,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的",
+                "活著",
+                "活著的",
+                "高興",
+                "堅毅",
+                "推薦",
+                "鼓舞",
+                "獲得",
+                "克服",
+                "高興",
+                "鼓舞"
+            ],
+            "datetime": "2022-05-31 11:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "「對於美國政府所倡議的印太經濟架構,台灣會持續向美國政府表達,參與的意願,而我們也期待在短期內,台美將以嶄新的作為,一起規劃出具體的途徑,共同深化台美雙邊的經貿夥伴關係。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "夥伴",
+                "嶄新",
+                "嶄新的",
+                "期待"
+            ],
+            "datetime": "2022-05-31 13:24"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "達克沃絲的回憶錄《活著的每一天》今年初在台灣出版獲得很好的評價,書中可以看到出身軍旅的達克沃絲在國防軍事的專業、克服萬能的堅毅精神、對公益價值的堅持,推薦這本書讓更多台灣人民認識我們的美國好朋友,也從中受到鼓舞。",
+            "negative_score": 0,
+            "positive_score": 13,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的",
+                "活著",
+                "活著的",
+                "堅持",
+                "堅毅",
+                "推薦",
+                "萬能",
+                "萬能的",
+                "鼓舞",
+                "獲得",
+                "克服",
+                "鼓舞"
+            ],
+            "datetime": "2022-05-31 12:34"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "台灣和美國彼此在印太區域是重要的安全和經濟夥伴,共同對抗疫情,也捍衛民主自由,俄羅斯侵略烏克蘭,台灣和美國都對俄羅斯提出經濟制裁,也提供烏克蘭協助,上週美國拜登總統和日本岸田首相發表聯合聲明重申台海和平穩定的重要性,前幾天布林肯國務卿演講也再次強調維護台海和平穩定是全球繁榮穩定至關重要。",
+            "negative_score": 2,
+            "positive_score": 14,
+            "negative_list": [
+                "侵略",
+                "對抗"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "自由",
+                "協助",
+                "和平",
+                "重要",
+                "重要性",
+                "重要的",
+                "夥伴",
+                "繁榮",
+                "聯合",
+                "穩定",
+                "穩定的",
+                "自由"
+            ],
+            "datetime": "2022-05-31 12:34"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "台灣會持續向美國政府表達參與印太經濟架構(IPEF)的意願,也期待雙方在短期內能一起規劃出具體途徑,共同深化雙邊經貿夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "夥伴",
+                "期待"
+            ],
+            "datetime": "2022-05-31 12:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "去年6月台灣疫情升溫時,達克沃絲與參議員蘇利文(DanSullivan)、昆斯(ChrisCoons)搭乘專機訪問台灣,也帶來美國政府將提供台灣疫苗的好消息。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣位處印太地區的戰略前緣,民主自由的重要前線,會持續展現自我防衛的決心,厚植國防和經貿的實力,成為民主自由陣線最堅實的一環。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "成為",
+                "自由",
+                "自由的",
+                "決心",
+                "重要",
+                "自由"
+            ],
+            "datetime": "2022-06-01 15:43"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台海及印太區域的和平穩定,是國際社會安全繁榮不可或缺的一環,更是區域內各成員的共同責任,會持續與理念相近國家,共同捍衛民主自由的價值,並維護區域的和平穩定與繁榮發展。",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "自由",
+                "自由的",
+                "和平",
+                "發展",
+                "繁榮",
+                "穩定",
+                "自由"
+            ],
+            "datetime": "2022-06-01 15:43"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提出",
+            "opinion": "的「四點原則」及「五項作法」,我方期以和平對話方式,與國際社會共同處理南海議題。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "和平"
+            ],
+            "datetime": "2022-06-01 16:50"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣位處印太地區的戰略前緣,民主自由的重要前線,我們也會持續展現自我防衛的決心,厚植國防和經貿的實力,成為民主自由陣線最堅實的一環。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "成為",
+                "自由",
+                "自由的",
+                "決心",
+                "重要",
+                "自由"
+            ],
+            "datetime": "2022-06-01 17:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "海及印太區域的和平穩定,是國際社會安全繁榮不可或缺的一環,更是區域內各成員的共同責任。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "和平",
+                "繁榮",
+                "穩定"
+            ],
+            "datetime": "2022-06-01 17:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "面對全球經貿的劇烈變化,政府除了維持對外經貿關係的穩定發展,台美雙方更積極進行經貿上的溝通對話,深化多項合作議題上的具體策略及路徑,讓台灣在參與區域經貿的整合上更具有動力。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "劇烈"
+            ],
+            "positive_list": [
+                "合作",
+                "發展",
+                "進行",
+                "積極",
+                "穩定",
+                "合作"
+            ],
+            "datetime": "2022-06-01 17:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "台海及印太區域的和平穩定,是國際社會安全繁榮不可或缺的一環,更是區域內各成員的共同責任。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "和平",
+                "繁榮",
+                "穩定"
+            ],
+            "datetime": "2022-06-01 15:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣位處印太地區的戰略前緣,民主自由的重要前線,會持續展現自我防衛的決心;台美雙方積極進行經貿上的溝通對話,深化多項合作議題上的具體策略及路徑。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "合作",
+                "自由",
+                "自由的",
+                "決心",
+                "重要",
+                "進行",
+                "積極",
+                "合作",
+                "自由"
+            ],
+            "datetime": "2022-06-01 15:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "期望透過這項倡議,以具體方式,深化台美雙邊的貿易關係。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "期望"
+            ],
+            "datetime": "2022-06-02 00:47"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "經過行政院政委鄧振中和美國副貿易代表畢昂奇(SarahBianchi)進行視訊會議,台美宣布共同發起「台美21世紀貿易倡議」,首次會議將於6月底在美國華府登場,這將是台美經貿關係的重要進展。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "中和",
+                "重要",
+                "進行"
+            ],
+            "datetime": "2022-06-02 00:47"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "根據倡議架構,將就11個議題進行談判,包括:一、貿易便捷化;二、法規訂定原則;三、農業;四、反貪污;五、協助中小企業貿易;六、掌握數位貿易所帶來的利益;七、推廣以勞工為中心的貿易;八、支持環境及氣候行動;九、標準;十、國營事業;十一、非市場政策及做法。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "貪污",
+                "貪污"
+            ],
+            "positive_list": [
+                "利益",
+                "協助",
+                "掌握",
+                "進行"
+            ],
+            "datetime": "2022-06-02 00:47"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "倡議啟動後,台美將開始進行談判,目標是達成高標準且具經濟意義的貿易協定。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "進行",
+                "達成"
+            ],
+            "datetime": "2022-06-02 10:52"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "期望透過這項倡議,以具體方式,深化台美雙邊的貿易關係。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "期望"
+            ],
+            "datetime": "2022-06-02 05:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "根據倡議架構,將就11個議題進行談判,包括:一、貿易便捷化;二、法規訂定原則;三、農業;四、反貪污;五、協助中小企業貿易;六、掌握數位貿易所帶來的利益;七、推廣以勞工為中心的貿易;八、支持環境及氣候行動;九、標準;十、國營事業;十一、非市場政策及做法。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "貪污",
+                "貪污"
+            ],
+            "positive_list": [
+                "利益",
+                "協助",
+                "掌握",
+                "進行"
+            ],
+            "datetime": "2022-06-02 05:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "經過行政院政委鄧振中和美國副貿易代表畢昂奇(SarahBianchi)進行視訊會議,台美宣布共同發起「台美21世紀貿易倡議」,首次會議將於6月底在美國華府登場,這將是台美經貿關係的重要進展。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "中和",
+                "重要",
+                "進行"
+            ],
+            "datetime": "2022-06-02 05:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "「台灣有事」等於「日本有事」及「日美同盟有事」,並強調印太海洋絕不允許武力片面改變現狀。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "絕不"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 07:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "當民主受到威脅,而世界威權主義也正在擴張,台灣更需要堅守民主價值,並和共享民主自由理念的國際夥伴堅定互相扶持。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "自由",
+                "堅定",
+                "夥伴",
+                "自由"
+            ],
+            "datetime": "2022-06-04 12:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣在全民的努力下,這兩年的防疫工作也受到國際肯定,公開透明的民主監督機制,就是非常重要的關鍵,「相反的,威權國家一味封鎖真相,箝制討論,抹煞的不只是民主價值,更有可能因為資訊不流通,導致疫情的惡化與加劇」。",
+            "negative_score": 6,
+            "positive_score": 7,
+            "negative_list": [
+                "加劇",
+                "封鎖",
+                "相反",
+                "相反的",
+                "惡化",
+                "抹煞"
+            ],
+            "positive_list": [
+                "公開",
+                "努力",
+                "肯定",
+                "重要",
+                "重要的",
+                "透明",
+                "透明的"
+            ],
+            "datetime": "2022-06-04 12:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "去年的六月四日也正好日本捐贈的124萬劑AZ疫苗抵達台灣,台日間的深刻友誼讓大家都非常感動,也更是民主政體攜手防疫的具體展現。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "友誼",
+                "捐贈",
+                "深刻",
+                "感動",
+                "感動"
+            ],
+            "datetime": "2022-06-04 12:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "而身在民主國家應當珍惜言論自自所打造的強韌民主,但也更應該謹慎行使言論自由的權利。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "謹慎",
+                "自由"
+            ],
+            "datetime": "2022-06-04 12:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "「多年來始終維持以燭光晚會紀念六四的香港,今年首度完全沒有六四紀念活動的集會申請。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-06-04 12:41"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "不同的政府體制,面對防疫時有不同的治理策略與回應方式,也可能對疫情發展帶來相當不同的影響,在國際上這也是被討論及研究的重要課題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "發展"
+            ],
+            "datetime": "2022-06-04 12:41"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "這確實刺激蔡英文認真思考成立台版國土防衛隊,而且是「非常、非常認真在想」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "刺激",
+                "刺激"
+            ],
+            "positive_list": [
+                "思考",
+                "認真",
+                "確實"
+            ],
+            "datetime": "2022-06-04 08:30"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我們也希望能夠持續地每一年,都有機會調高工資,我們一定會排除萬難,務必讓我們的最低工資,能夠持續地往上調升。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "排除",
+                "最低"
+            ],
+            "positive_list": [
+                "希望",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-06-06 18:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "提升勞工權益也是執政團隊一直努力的目標。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "提升",
+                "權益"
+            ],
+            "datetime": "2022-06-06 16:23"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "今天現場的得獎人,就是在第一線捍衛勞工權益的夥伴,這些人來自不同的領域,包括交通、金融、水電以及菸酒等等許多的產業,這也代表著在各行各業都有專業又熱情的工會組織者,為勞工朋友服務。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "得獎",
+                "夥伴",
+                "熱情",
+                "熱情的",
+                "權益",
+                "熱情"
+            ],
+            "datetime": "2022-06-06 16:23"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "上個月勞工職業災害保險及保護法已經正式上路,對於災前預防、災害補償、災後重建都提供更健全機制與保障;從今年1月開始,父母可同時請領育嬰留職停薪的津貼,津貼額度也從6成提高到8成,可以促進更多男性一起參與家中照顧工作,讓勞工在育嬰留停期間有更充裕經濟支持。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "災害"
+            ],
+            "positive_list": [
+                "充裕",
+                "正式",
+                "保護",
+                "促進",
+                "健全",
+                "提高"
+            ],
+            "datetime": "2022-06-06 15:50"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "政府確實是有計畫地希望每一年都能夠調高基本工資,受疫情衝擊較大的中小型企業,如果調高基本工資有困難,政府也會提供協助;她強調,政府一定會排除萬難,務必讓最低工資能夠持續往上調升。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "有困難",
+                "困難",
+                "排除",
+                "最低",
+                "衝擊",
+                "困難"
+            ],
+            "positive_list": [
+                "希望",
+                "協助",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-06 15:50"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "她知道大家都很關心疫情對勞工的影響,從前年開始,政府推動一連串措施,協助企業維持員工薪資,提供員工訓練課程,對於沒有固定雇主的勞工,也提供津貼,度過困難的時刻,執行各項計畫協助失業或有貸款需求的勞工,幫助大家降低經濟壓力。",
+            "negative_score": 8,
+            "positive_score": 7,
+            "negative_list": [
+                "失業",
+                "困難",
+                "困難的",
+                "沒有",
+                "降低",
+                "壓力",
+                "困難",
+                "沒有"
+            ],
+            "positive_list": [
+                "協助",
+                "固定",
+                "知道",
+                "訓練",
+                "幫助",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-06 15:44"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "最低工資法現在在立法院協商,確實有很多版本同時在協商,立委管碧玲也在現場,可以更積極促成最低工資法可以順利在立法院通過。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "最低"
+            ],
+            "positive_list": [
+                "促成",
+                "很多",
+                "通過",
+                "順利",
+                "確實",
+                "積極"
+            ],
+            "datetime": "2022-06-06 15:44"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "她知道大家都很關心疫情對勞工的影響,從前年開始,政府推動一連串措施,協助企業維持員工薪資,提供員工訓練課程,對於沒有固定雇主的勞工,也提供津貼,度過困難的時刻,執行各項計畫協助失業或有貸款需求的勞工,幫助大家降低經濟壓力。",
+            "negative_score": 8,
+            "positive_score": 7,
+            "negative_list": [
+                "失業",
+                "困難",
+                "困難的",
+                "沒有",
+                "降低",
+                "壓力",
+                "困難",
+                "沒有"
+            ],
+            "positive_list": [
+                "協助",
+                "固定",
+                "知道",
+                "訓練",
+                "幫助",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-06 15:14"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "最低工資法現在在立法院協商,確實有很多版本同時在協商,立委管碧玲也在現場,可以更積極促成最低工資法可以順利在立法院通過。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "最低"
+            ],
+            "positive_list": [
+                "促成",
+                "很多",
+                "通過",
+                "順利",
+                "確實",
+                "積極"
+            ],
+            "datetime": "2022-06-06 15:14"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "提升勞工權益,是執政團隊一直努力的目標,政府連續6年調高基本工資,也推動專法,讓職災保障體系更周全,政府確實是有計畫地希望每一年都能調高基本工資,有時候確實碰到困難,比如在疫情期間,很多行業受到影響,但她要感謝行政院團隊,排除萬難,即便在疫情期間,還是調高了基本工資。",
+            "negative_score": 3,
+            "positive_score": 10,
+            "negative_list": [
+                "困難",
+                "排除",
+                "困難"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "希望",
+                "很多",
+                "提升",
+                "感謝",
+                "確實",
+                "權益",
+                "希望",
+                "感謝"
+            ],
+            "datetime": "2022-06-06 16:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "對於受疫情衝擊較大的中小型企業,如果在調高基本工資有困難時,政府也會提供協助,讓調高基本工資成為政策中非常重要的一環。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "有困難",
+                "困難",
+                "衝擊",
+                "困難"
+            ],
+            "positive_list": [
+                "成為",
+                "協助",
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-06-06 16:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "分享台灣面對威權、捍衛民主的經驗。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-06-08 22:34"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "只要他還有一口氣,就會與台灣站在一起捍衛民主。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 14:23"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "在今年初提出強化歐洲鏈結計畫就是期待加速推動台灣、歐盟洽簽雙邊投資協定,共同打造具有韌性的供應鏈體系。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-09 11:06"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "在這裡要謝謝各位對台灣的支持,在上個月舉行的世界衛生大會,我們看到法國為台灣發聲,葛里歐也致函譚德塞,重申法國304位參議員持WHA,展現力挺台灣的情誼。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "舉行",
+                "衛生",
+                "謝謝"
+            ],
+            "datetime": "2022-06-09 11:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "上週剛舉行的台歐盟經貿會議,首次提升到部長級對話,對於風電、晶片都有深入的交流。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提升",
+                "舉行"
+            ],
+            "datetime": "2022-06-09 11:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "今天很高興看到葛里歐再度來訪,這次再度來訪來訪代表對台灣的重視,以及對台法雙邊的重大意義。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "大意"
+            ],
+            "positive_list": [
+                "重大",
+                "重視",
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-09 11:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "外,無黨籍立委林昶佐也受邀參與與談,將以「對抗中國的威權主義」為題與他國國會議員對話。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 20:27"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我們也期待未來台灣和法國,在各領域持續深化合作,這是深化雙方經濟夥伴關係的重大里程碑,我在今年初提出強化歐洲鏈結計畫,就是期待加速推動台灣跟歐盟,洽簽雙邊投資協定,共同打造具有韌性的供應鏈體系。」",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "重大",
+                "期待",
+                "夥伴",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-06-09 12:38"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "她今年初提出強化歐洲鏈結計畫,就是期待加速推動與歐盟洽簽雙邊投資協定,打造雙方具有韌性的供應鏈體系,台法歐是理念相近的夥伴,在三方共同努力下能帶動彼此國家的進步發展,為人民創造更多福祉。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "創造",
+                "期待",
+                "發展",
+                "進步",
+                "夥伴",
+                "多福",
+                "期待",
+                "福祉"
+            ],
+            "datetime": "2022-06-09 11:25"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "「台灣與烏克蘭同在,烏克蘭也必須站在台灣這邊」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 09:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣和烏克蘭一樣,不會屈服於壓力。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "屈服",
+                "壓力",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 20:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "貿易投資合作仍將是我們共同抵禦及因應威權主義的關鍵支柱。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-10 20:48"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「很高興昨天能夠見到一位優秀的女性」,蔡英文真是一位傑出的女性,她分享的資訊都非常有所助益,希望法國有朝一日也能有蔡英文這樣傑出的女性總統。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "助益",
+                "希望",
+                "高興",
+                "傑出",
+                "傑出的",
+                "優秀",
+                "優秀的",
+                "希望",
+                "高興"
+            ],
+            "datetime": "2022-06-10 17:08"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "外,立委林昶佐也代表台灣國會與來自丹麥、印度、烏干達的代表對談,討論民主國家如何面對如中國、俄羅斯這些極權國家的壓迫及新興的數位獨裁手段,他也呼籲,世界各國應解除跟台灣的交往限制。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "限制",
+                "獨裁",
+                "壓迫",
+                "獨裁"
+            ],
+            "positive_list": [
+                "解除"
+            ],
+            "datetime": "2022-06-10 22:27"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣非常樂意分享對抗威權勢力的經驗,也已經準備好深化與理念相近國家在所有共享利益領域的合作,共同捍衛民主世界的秩序及維持區域和平安全。",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "平安",
+                "合作",
+                "安全",
+                "利益",
+                "和平",
+                "秩序",
+                "準備",
+                "經驗",
+                "樂意",
+                "合作",
+                "樂意"
+            ],
+            "datetime": "2022-06-10 21:26"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "內容全文如下:首先,我要感謝拉斯穆森(AndersFoghRasmussen)創辦人今年再度邀請我在這個重要的民主倡議人士聚會中致詞,我要對您長期支持台灣,以及我們的民主生活方式表達感謝。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-10 21:26"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "立院也組跨黨派立委訪問團前往丹麥參加此盛會。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-06-10 10:02"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "內容全文:首先,我要感謝拉斯穆森(AndersFoghRasmussen)創辦人今年再度邀請我在這個重要的民主倡議人士聚會中致詞,我要對您長期支持臺灣,以及我們的民主生活方式表達感謝。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-10 20:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "將加速與美簽定BTA;宣布「台美21世紀貿易倡議」後,鄧振中也是說BTA,但6月7日的專訪,鄧振中一直講FTA。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 07:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "三項防疫新措施,向大家報告,隨著疫情的發展,持續滾動調整防疫措施,今天,指揮中心公布三項新措施,要請大家一起注意。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "發展"
+            ],
+            "datetime": "2022-06-11 20:04"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "昨天晚上中國再次突襲式通知,片面停止台灣石斑魚輸入,這是再次違反國際貿易規範。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "突襲",
+                "停止",
+                "違反",
+                "違反"
+            ],
+            "positive_list": [
+                "規範",
+                "通知"
+            ],
+            "datetime": "2022-06-11 16:26"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "批評",
+            "opinion": "這對兩岸的貿易正常往來毫無幫助,更是片面傷害兩岸關係,表達嚴正譴責。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "毫無",
+                "無幫助",
+                "傷害",
+                "譴責",
+                "傷害"
+            ],
+            "positive_list": [
+                "正常",
+                "毫無",
+                "幫助"
+            ],
+            "datetime": "2022-06-11 16:26"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "我們要表達嚴正譴責,第一、中國違反國際貿易規範:處置的慣例是個案退運或銷毀,而不是全面禁止進口,中國的做法已經違反國際貿易邊境檢驗慣例。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "處置",
+                "禁止",
+                "違反",
+                "譴責",
+                "不是",
+                "違反"
+            ],
+            "positive_list": [
+                "全面",
+                "規範"
+            ],
+            "datetime": "2022-06-11 15:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "她已經指示農委會即刻啟動三項因應措施,保護台灣漁民,包括多元對內行銷拓展通路、調節上市期間及產量、獎勵加工及外銷。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "內行",
+                "保護",
+                "獎勵",
+                "獎勵"
+            ],
+            "datetime": "2022-06-11 15:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "中國違反國際貿易規範,處置的慣例是個案退運或銷毀,而不是全面禁止進口,中國的做法已經違反國際貿易邊境檢驗慣例,台灣也不排除向WTO申訴。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "排除",
+                "處置",
+                "禁止",
+                "違反",
+                "不是",
+                "申訴",
+                "違反"
+            ],
+            "positive_list": [
+                "全面",
+                "規範"
+            ],
+            "datetime": "2022-06-11 15:52"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "已經指示行政院農業委員會,即刻啟動三項因應措施,保護台灣漁民,包括多元對內行銷拓展通路、調節上市期間及產量、獎勵加工及外銷,「因為確診隔離中的主委陳吉仲,依然堅守崗位坐鎮指揮」。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "內行",
+                "保護",
+                "獎勵",
+                "獎勵"
+            ],
+            "datetime": "2022-06-11 15:52"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "中國已經違反了國際貿易規範,指出處置的慣例是個案退運或銷毀,而不是全面禁止進口,中國的做法已經違反國際貿易邊境檢驗慣例,她並表示「台灣也不排除向WTO申訴」。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "排除",
+                "處置",
+                "禁止",
+                "違反",
+                "不是",
+                "申訴",
+                "違反"
+            ],
+            "positive_list": [
+                "全面",
+                "規範"
+            ],
+            "datetime": "2022-06-11 16:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "台灣提供了科學證據,中國卻都不願回應。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 16:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "昨天晚上,中國再次以突襲式的通知,片面停止台灣石斑魚輸入,這是再次違反國際貿易規範,這對兩岸的貿易正常往來毫無幫助,更是片面傷害兩岸關係。",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "突襲",
+                "停止",
+                "毫無",
+                "無幫助",
+                "傷害",
+                "違反",
+                "傷害",
+                "違反"
+            ],
+            "positive_list": [
+                "正常",
+                "毫無",
+                "規範",
+                "通知",
+                "幫助"
+            ],
+            "datetime": "2022-06-11 15:23"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "「我已經指示行政院農業委員會,即刻啟動三項因應措施,保護台灣漁民,包括多元對內行銷拓展通路、調節上市期間及產量、獎勵加工及外銷。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "內行",
+                "保護",
+                "獎勵",
+                "獎勵"
+            ],
+            "datetime": "2022-06-11 15:23"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "。蔡英文演說主題為「台灣:全球民主聯盟不可或缺的夥伴」;蔡英文強調,貿易投資合作仍將是台灣與國際共同抵禦威權主義的關鍵支柱;台灣在建立安全的全球供應鏈上,扮演重要角色,在各種關鍵產業領域,台灣也已經準備好成為歐洲不可或缺的夥伴。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "合作",
+                "安全",
+                "安全的",
+                "成為",
+                "重要",
+                "準備",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-11 09:03"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "外,林昶佐也代表台灣國會與來自丹麥、印度、烏干達的代表對談,討論民主國家如何面對如中國、俄羅斯這些極權國家的壓迫及新興的數位獨裁手段,他也呼籲,希望各國政府除了持續支持台灣加入國際組織外,也能解除與台灣政府交往的諸多限制,讓台灣與國際社會的關係更穩定而永續。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "限制",
+                "獨裁",
+                "壓迫",
+                "獨裁"
+            ],
+            "positive_list": [
+                "希望",
+                "解除",
+                "穩定",
+                "希望"
+            ],
+            "datetime": "2022-06-11 09:21"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我要強調和烏克蘭一樣,台灣不會屈服於壓力,儘管威脅與日俱增,我們決心捍衛我們的國家,和民主的生活方式,我們相信如同烏克蘭,我們的決心將獲得其他民主國家的支持。」",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "屈服",
+                "威脅",
+                "壓力",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "決心",
+                "相信",
+                "調和",
+                "獲得"
+            ],
+            "datetime": "2022-06-11 13:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "批評",
+            "opinion": "這對兩岸的貿易正常往來毫無幫助,更是片面傷害兩岸關係。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "毫無",
+                "無幫助",
+                "傷害",
+                "傷害"
+            ],
+            "positive_list": [
+                "正常",
+                "毫無",
+                "幫助"
+            ],
+            "datetime": "2022-06-12 16:27"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "我們相信,如同烏克蘭我們的決心將獲其他民主國家的支持。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "決心",
+                "相信"
+            ],
+            "datetime": "2022-06-12 09:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "批評",
+            "opinion": "這對兩岸的貿易正常往來毫無幫助,更是片面傷害兩岸關係。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "毫無",
+                "無幫助",
+                "傷害",
+                "傷害"
+            ],
+            "positive_list": [
+                "正常",
+                "毫無",
+                "幫助"
+            ],
+            "datetime": "2022-06-12 16:55"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳儀深",
+            "verb": "表示",
+            "opinion": "檔案不但沒有被移除、割裂,且數位化提供應用,指控完全脫離現實。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "指控",
+                "現實",
+                "脫離",
+                "割裂",
+                "沒有",
+                "指控",
+                "現實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 10:43"
+        },
+        {
+            "person": "陳儀深",
+            "verb": "說",
+            "opinion": "國史館會找機會告訴大眾如何上網查詢史料;其次,如何解讀史料,要看前後脈絡,不可以只選擇符合己意的來看。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "符合",
+                "機會"
+            ],
+            "datetime": "2022-05-21 10:43"
+        }
+    ]
+}

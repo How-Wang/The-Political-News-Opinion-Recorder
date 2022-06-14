@@ -1,0 +1,2275 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/恩恩.png",
+    "opinions": [
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "4月中兒子確診後高燒不退,在短時間內病情迅速惡化,但他們多次試圖求助中和衛生所電話卻打不通,打通新北消防局後又收到必須回頭和衛生局確認的回覆,「前前後後四通撥給119的電話,81分鐘才等到車,是我們夫妻人生中最漫長的一段時間。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "惡化",
+                "求助"
+            ],
+            "positive_list": [
+                "中和",
+                "迅速",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-30 10:28"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "家屬要的不是回應,而是要求新北市政府消防局、衛生局,公布當時與他們的通聯記錄、語音文字記錄、錄音檔,以及在接收到他與妻子的求助後,內部的橫向機制聯繫,通聯時間點,通話紀錄及語音紀錄都要公布。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "不是",
+                "求助"
+            ],
+            "positive_list": [
+                "衛生",
+                "求新",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 15:03"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "家屬要的不是回應,而是要求新北市政府消防局、衛生局,公布當時與他們的通聯記錄、語音文字記錄、錄音檔,以及在接收到他與妻子的求助後,內部的橫向機制聯繫,通聯時間點,通話紀錄及語音紀錄都要公布。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "不是",
+                "求助"
+            ],
+            "positive_list": [
+                "衛生",
+                "求新",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 15:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "等相關通聯紀錄還原後,真相就會水落石出,要是加上內部橫向聯繫有做什麼處置,就可以知道為何要他們等上81分鐘,「這是我們要知道的真相。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "處置"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-31 10:46"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "已拿到他與1922的通話紀錄,但仍沒拿到新北市相關資料。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:40"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "當時打電話求救等了81分鐘救護車才到,錯過了黃金救治時間,要求能夠調閱完整通聯還原真相。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "錯過",
+                "求救"
+            ],
+            "positive_list": [
+                "完整",
+                "黃金"
+            ],
+            "datetime": "2022-06-01 18:40"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "目前已拿到1922通話紀錄,但他先婉拒了與新北市衛生局長陳潤秋以及消防局長黃德清的見面。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "婉拒"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 17:50"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "需求都已提出,不知道還要說明什麼,只希望可以盡快拿到資料。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不知"
+            ],
+            "positive_list": [
+                "希望",
+                "知道",
+                "說明",
+                "希望"
+            ],
+            "datetime": "2022-06-01 17:50"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "已經拿到1922錄音檔,卻還沒看到新北市府任何資料,恩恩父親呼籲市府加速作業,也提到衛生局副局長有致電相約見面,不過恩恩父親拒絕,因為他要的不是說明,而是直接拿到資料。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "拒絕",
+                "不是"
+            ],
+            "positive_list": [
+                "說明",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 18:22"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「我們要求的東西合情合理,依照政府資訊公開法,我們是利害關係當事人,我們要求的檔案內容,無損於公共利益,我們就只是想釐清,當初的81分鐘的真相,我也不是要拿這個真相,去謀取什麼利益。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "不是",
+                "東西"
+            ],
+            "positive_list": [
+                "公開",
+                "合理",
+                "利益"
+            ],
+            "datetime": "2022-06-01 18:22"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "恩恩爸拒絕見面原因,是市府想在檯面下做小動作,為何沒辦法像1922一樣直接提供?劉和然則說,就像恩恩爸所說的「單純要了解發生情況」,市府不可能有小動作,希望這樣彼此善意,不要在外界有不同解讀。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "不可",
+                "拒絕",
+                "不可",
+                "不要",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "了解",
+                "希望",
+                "善意",
+                "生情",
+                "希望"
+            ],
+            "datetime": "2022-06-01 16:26"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「我昨天也跟他們高副局長講了,我們不想要說明,想要直接提供正式的資料過來,讓我們趕快拼湊起來,訴求很明確你們也告訴我們說,你們收到文件申請也知道內容,那請趕快提供出來,畢竟1922已經提供一部分。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "正式的",
+                "明確",
+                "知道",
+                "說明"
+            ],
+            "datetime": "2022-06-01 13:11"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "已經拿到1922錄音檔,卻還沒看到新北市府任何資料,恩恩父親呼籲市府加速作業,也提到衛生局副局長有致電相約見面,不過恩恩父親拒絕,因為他要的不是說明,而是資料。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "拒絕",
+                "不是"
+            ],
+            "positive_list": [
+                "說明",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 13:11"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他在31日下午拿到衛服部資料,獲得第一塊拼圖「我和1922之間的通話錄音」,希望能快點拿到第二塊拼圖「1922在接到我的電話後跟其他單位的橫向聯繫紀錄」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "獲得",
+                "希望"
+            ],
+            "datetime": "2022-06-01 09:59"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "還是要先看到資料,不清楚對方有何考量。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "不清"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "基於這樣的處理模式,新北已把資料全部都準備好,也請衛生局副局長高淑真與恩恩爸爸聯繫。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "準備",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「如果恩恩爸爸堅持將資料送過去,我們也會遵照其要求。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "堅持"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "新北市的紀錄也都還沒收到,而新北衛生局副局長高淑真希望能夠今天說明,但他要的不是說明,而是拿到與新北的通話錄音與報案紀錄。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "沒收",
+                "不是"
+            ],
+            "positive_list": [
+                "希望",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 10:39"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "已經拿到他與1922的通話紀錄,但還沒拿到新北的。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:39"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "當時打了7通電話、等了81分鐘救護車才來,錯過救治時間,要求調閱完整通聯紀錄查明真相。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "錯過"
+            ],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-06-01 10:39"
+        },
+        {
+            "person": "恩恩",
+            "verb": "批評",
+            "opinion": "新北市政府副發言人張劭斌回應,「很難想像,林鶴明副秘書長裝睡裝習慣了?還是不願意知道新北市已經準備好資料的來龍去脈!蔡主席可以這樣縱容下屬惡搞發言嗎?請不要再消費別人來擷取自己的政治利益。」",
+            "negative_score": 4,
+            "positive_score": 7,
+            "negative_list": [
+                "不願意",
+                "縱容",
+                "不要",
+                "惡搞"
+            ],
+            "positive_list": [
+                "利益",
+                "知道",
+                "習慣",
+                "想像",
+                "準備",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-02 17:16"
+        },
+        {
+            "person": "恩恩",
+            "verb": "提到",
+            "opinion": "新北市府連日強調資料都準備好了,但他最一開始要求的通話音檔至今仍無法帶回,他認為,走到這地步公道自在人心,他消化完資料,會再聯繫市府。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "自在",
+                "準備",
+                "自在"
+            ],
+            "datetime": "2022-06-02 17:04"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "當時打電話求救等了81分鐘救護車才到,錯過了黃金救治時間,要求能夠調閱完整通聯還原真相。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "錯過",
+                "求救"
+            ],
+            "positive_list": [
+                "完整",
+                "黃金"
+            ],
+            "datetime": "2022-06-02 15:45"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "他不能理解,為何一直不能提供音檔?劉和然表示,市府今日一早已經資料寄給恩恩爸,但恩恩爸一早來市府,因此市府還是馬上印了資料給對方,恩爸在當下看完資料後提出了一些疑問,相關同仁了解他的疑問後也馬上為他說明,隨後同仁也表示,如果要聽音檔,可以馬上聽取,「不過恩恩父親當下回應他不要聽。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "疑問",
+                "不要",
+                "疑問"
+            ],
+            "positive_list": [
+                "了解",
+                "理解",
+                "說明"
+            ],
+            "datetime": "2022-06-02 15:38"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "願意親自前往市府取件,但市府仍執意以郵件方式寄發給當事人,導致相關文件至今恩恩爸仍未取得。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-02 15:15"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "當時打電話求救等了81分鐘救護車才到,錯過了黃金救治時間,要求能夠調閱完整通聯還原真相。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "錯過",
+                "求救"
+            ],
+            "positive_list": [
+                "完整",
+                "黃金"
+            ],
+            "datetime": "2022-06-02 12:12"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "他不能理解,為何一直不能提供音檔?語氣顯得相當無奈。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "無奈"
+            ],
+            "positive_list": [
+                "理解"
+            ],
+            "datetime": "2022-06-02 11:44"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「關鍵的事發當下,,我老婆聲聲呼喊救護車,怎麼還不來聲聲呼喊,每一通電話包含這些,小朋友狀況變更差,我覺得我聽這個一定會很難受,所以我才跟他們說,你要把這原始檔給我,讓我回去消化整理吸收啊。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "難受"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 19:04"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「我今天先消化吸收,整理一下情緒,我一定會再未來三天內,我會再聯繫高副局長,或者是消防局黃德清局長,我會再確認一個地點,我應該會直接去消防局聽。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 19:04"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「他們只給了我,我們家我的老婆,打給他們五通電話紀錄的譯本,欠缺了消防局回電給我老婆通話譯本,欠缺了什麼,消防局橫向聯繫衛生局的通話譯本,欠缺了什麼,欠缺了消防局到醫院的譯本。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "欠缺"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 19:04"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "他今天不想聽,因此市府也表達,如果這幾天想聽錄音帶,市府一定會有專人送到新竹讓恩恩爸聽。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 16:14"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "對照一樣都是政府機關,中央1922可以給通話錄音,為何新北市府無法提供?新北市副市長劉和然聲稱,119是勤務中心,每天要接到數萬通、數千通電話,有一定原則規範,「不能給的標準就是,119勤務中心到目前對待每個民眾方式是一模一樣的」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-06-02 16:14"
+        },
+        {
+            "person": "恩恩",
+            "verb": "回應",
+            "opinion": "結束聯訪,侯友宜快速上樓到議會備詢,面對國內首位重症死亡個案,恩恩爸爸還在等,那消失81分鐘的通聯紀錄。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "消失",
+                "消失"
+            ],
+            "positive_list": [
+                "首位"
+            ],
+            "datetime": "2022-06-02 14:22"
+        },
+        {
+            "person": "恩恩",
+            "verb": "提出",
+            "opinion": "資料需要補充,劉和然表示,都有記錄其需求,只要符合政府資訊公開法,若可提供,市府承諾後續會再補足。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "承諾",
+                "符合",
+                "補足"
+            ],
+            "datetime": "2022-06-02 17:33"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "關鍵81分鐘的譯本,還少了消防局回電給他老婆的通話譯本、消防局橫向聯繫衛生局的譯本、消防局找到醫院的譯本。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 16:55"
+        },
+        {
+            "person": "恩恩",
+            "verb": "強調",
+            "opinion": "要把原始檔給他才能消化吸收,硬要他去局裡現場放給他聽,正常人都很難當下聽完。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "正常"
+            ],
+            "datetime": "2022-06-02 16:55"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "今天確認新北市消防局在5時59分進線時,花費將近25分鐘才連繫到新北市衛生局,且當時消防局也聯繫不到中和衛生所,最後才連繫到衛生局,很明顯驗證他的說明,中和衛生所在當時都打不通。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "中和",
+                "明顯",
+                "說明",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 16:29"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "恩恩意識不佳、叫不起來,這不符合緊急救護原則嗎?一定堅持要找到衛生局嗎?對方則說不符合。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不符",
+                "緊急",
+                "不佳",
+                "不起"
+            ],
+            "positive_list": [
+                "堅持",
+                "符合",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 16:29"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他以為新北市府都準備好了,所以他親自過來拿取最重要的錄音檔,其他都是拼圖比較其次的部分,「這塊我很失望」。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "失望",
+                "失望"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "準備"
+            ],
+            "datetime": "2022-06-02 15:15"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "關鍵81分鐘的錄音檔能否還原,確認他跟他老婆極盡所能做了所有事。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:15"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "後來新北市衛生局、消防局的專員將資料帶下來給他看,而衛生局確實提供通話的紀錄時間點,包括打給中和衛生所、衛生局打不通的電話記錄,但因為沒有錄音,所以沒有相關內容。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "中和",
+                "確實",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 15:15"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "要全力協助,還說資料都準備好,但他提出的申請書包括要複製、抄錄錄音檔,都無法做到的話,「怎能說你們都好了,會全力協助」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "準備"
+            ],
+            "datetime": "2022-06-02 15:15"
+        },
+        {
+            "person": "恩恩",
+            "verb": "提出",
+            "opinion": "疑問,同仁也馬上為他說明,並表示若想要聽音檔,可以馬上聽取,但當下恩恩爸爸婉拒現場聽取。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "婉拒",
+                "疑問",
+                "疑問"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-02 19:52"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "未料在前往市府路上收到新北市衛生局高副局長訊息,稱他要的東西已寄出,令他不解,後經他要求才在市政大廳現場確認衛生局和消防局的寄件明細,這時才發現,市府以牽涉機關人員「聲紋」,以個資隱私權的理由,拒絕提供電話錄音原始檔。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "拒絕",
+                "要求",
+                "東西"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 11:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "因延誤就醫導致憾事,正積極追查真相。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-06-03 11:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "強調",
+            "opinion": "要帶回錄音複製回去聆聽的原因是,因81分鐘通話錄音原始檔內,充滿老婆聲嘶力竭地哭泣聲音,他不願在陌生的地方被人看到他的崩潰。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "陌生",
+                "陌生的",
+                "哭泣",
+                "崩潰",
+                "哭泣"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 11:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "他發現衛生局和消防局的資料有所遺漏,包括老婆打給119的5通電話、119打給我老婆的3通電話、19打給衛生局的1通電話、119打給雙和醫院的1通電話,全數拒絕提供通話錄音,且大多不提供譯本。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "拒絕",
+                "遺漏"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 11:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "昨天晚上回到家,他給老婆看了譯文,太太情緒不太好,他目前沒辦法再和太太討論這件事情。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不太",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "太好"
+            ],
+            "datetime": "2022-06-03 12:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "他對於新北市府提供的資料很失望,他看了新北市府譯文的內容他看不下去,請老婆幫忙看了一下,「覺得沒辦法充分還原現場」,雖然有情緒性字眼在上面,說老實話,他還是需要還原錄音,他不確定哪個環節出了問題,這幾天他消化後,連假過後,他會找一天消防局去聆聽,他也只能這麼做。",
+            "negative_score": 8,
+            "positive_score": 3,
+            "negative_list": [
+                "不確",
+                "不確定",
+                "失望",
+                "問題",
+                "不下",
+                "失望",
+                "沒辦法",
+                "問題"
+            ],
+            "positive_list": [
+                "充分",
+                "老實",
+                "確定"
+            ],
+            "datetime": "2022-06-03 12:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "救護車延誤81分鐘就醫導致憾事發生,他希望拿到音檔卻僅得到通聯逐字譯文,新北市府提出譯文表示,因受限法律,無法提供錄音檔,但可派專人隨時送錄音檔供恩爸聽取比對;恩恩爸3日表示:「昨天已看過譯文,但資訊有落差,不能還原現場」。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "延誤",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "希望",
+                "法律",
+                "得到",
+                "希望"
+            ],
+            "datetime": "2022-06-03 12:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "昨天高副局長跟專員都在現場,他明確說顧慮跟理由,不知道為什麼離開新北市政府、接受聯訪後,才從媒體看到新北市府的最新回應,說他拒絕聆聽通話錄音。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "拒絕",
+                "離開",
+                "不知"
+            ],
+            "positive_list": [
+                "明確",
+                "知道",
+                "接受"
+            ],
+            "datetime": "2022-06-03 12:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "強調",
+            "opinion": "國賠不是重點,拿到的資料不齊全,連錄音檔無法複製帶走,6月2日市府甚至還說他拒絕聆聽,讓他直呼無法接受。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "拒絕",
+                "無法",
+                "不是",
+                "無法"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-03 18:34"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「錢再多也喚不回恩恩的生命,賠這個字眼太沉重了,我只是想知道真相。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "沉重"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-03 18:34"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「原來你一開始就不打算給我,通話錄音的原始檔,我要求你們把副本帶過來給我,親自確認到底有什麼東西的時候,你們才第一次告訴我,你們沒辦法提供錄音檔案給我。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "什麼東西",
+                "沒辦法",
+                "東西"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 18:30"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "到,賠這個字太沉重,錢再多都換不回恩恩的生命,只是想要知道真相。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "沉重"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-03 13:20"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "這字眼對他來說不是很恰當,他要的是真相,只想知道為什麼恩恩可以遭受到81分鐘送醫的延誤,只想知道這塊哪環節出問題,讓真相釐清,政府的SOP不管是中央1922轉送、傳達給地方衛生局流程,或地方消防局聯繫衛生局有沒有問題,為什麼那麼久,想一一拼湊,沒想到國賠字眼。",
+            "negative_score": 11,
+            "positive_score": 4,
+            "negative_list": [
+                "不管",
+                "沒有",
+                "延誤",
+                "問題",
+                "遭受",
+                "不是",
+                "有問題",
+                "沒有",
+                "沒想",
+                "沒想到",
+                "問題"
+            ],
+            "positive_list": [
+                "知道",
+                "恰當",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 13:20"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他只是要還原真相,若拿到錄音是不會公布,但譯文與記憶有落差,他也不排除提出行政救濟。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "排除",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 13:20"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "「消失的81分鐘發生了什麼事情?」,要求調閱通聯記錄還原真相,引發社會討論,不過新北119基層因此抱怨成了「代罪羔羊」。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "代罪羔羊",
+                "抱怨",
+                "要求",
+                "消失",
+                "抱怨",
+                "消失"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 13:03"
+        },
+        {
+            "person": "恩恩",
+            "verb": "強調",
+            "opinion": "只是要還原真相,拼湊所有時間序拼圖,錄音檔裡充滿老婆聲嘶力竭哭喊、求救和慌亂無助,透過視訊電話都還歷歷在目,這東西很悲傷,不想流傳在網路上,目前想法是不會想公布在網路上,只想聆聽核對譯文,希望趕緊拿到新北市消防局和衛生局、醫院橫向聯繫的錄音跟譯文,才充分說服我們在這段時間做了多少努力。",
+            "negative_score": 8,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "悲傷",
+                "無助",
+                "不會",
+                "求救",
+                "東西",
+                "悲傷",
+                "慌亂"
+            ],
+            "positive_list": [
+                "充分",
+                "努力",
+                "希望",
+                "說服",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 13:03"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "昨天現場去確認東西時後卻沒有,才說因為聲紋隱私,後來副市長則又說消防局環境現場吵雜會收到其他報案人人聲,「但現場不是這樣說的,只說是聲紋考量」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有",
+                "東西"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 13:03"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "之前聯繫多次問有沒有錄音檔這件事,「只說好了都好了,我不知道都好了是什麼內容」。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "沒有",
+                "不知",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-03 12:19"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "當下高副局長跟專員都在現場,他明確說顧慮跟理由,不知道為什麼離開新北市政府、接受聯訪後才從媒體看到新北市府的最新回應,說他拒絕聆聽通話錄音,「這東西讓我非常不明白,高副局長和消防局專員怎麼跟長官副市長報告?我當下已經把態度跟想法明白告訴,我不是拒絕聆聽,我是對你們提供的資料很失望」。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不明",
+                "不知",
+                "不知道",
+                "失望",
+                "拒絕",
+                "離開",
+                "不知",
+                "不是",
+                "失望",
+                "東西"
+            ],
+            "positive_list": [
+                "明白",
+                "明確",
+                "知道",
+                "接受"
+            ],
+            "datetime": "2022-06-03 12:19"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他目前會先拼湊手邊有的東西,若他覺得沒拿到關鍵檔案會尋求行政救濟,這幾天有很多律師要給予協助,他感謝大家關心,他只想拼湊真相有媒體詢問會不會申請國賠?恩恩爸爸表示,這樣講對他來說不是很恰當,因為他要的是真相,他想知道為什麼恩恩會有81分鐘送醫延誤的時間,到底哪裡出問題。",
+            "negative_score": 7,
+            "positive_score": 9,
+            "negative_list": [
+                "不會",
+                "延誤",
+                "問題",
+                "不是",
+                "不會",
+                "東西",
+                "問題"
+            ],
+            "positive_list": [
+                "協助",
+                "知道",
+                "很多",
+                "恰當",
+                "給予",
+                "感謝",
+                "關心",
+                "感謝",
+                "關心"
+            ],
+            "datetime": "2022-06-03 17:58"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「賠」這個字眼太沉痛了,他只是想要真相。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 17:58"
+        },
+        {
+            "person": "恩恩",
+            "verb": "強調",
+            "opinion": "這件事可以讓他早點知道,而不是讓他與對方聯繫提到相關資料的細項都閉口不答,結果昨到現場才跟他說有聲紋隱私權,不能提供。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-03 13:48"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他很尊敬消防員,只是想要釐清真相。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "尊敬"
+            ],
+            "datetime": "2022-06-03 13:48"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "他希望能盡快拿到新北市消防局、衛生局的橫向聯繫,才能充分說服做了多少努力。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "充分",
+                "努力",
+                "希望",
+                "說服",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 13:48"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他提出的政府資訊公開法申請書,有強調要調閱、聆聽、複製、抄錄錄音檔,向1922申請也是一樣格式,以為新北也會給。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-03 12:53"
+        },
+        {
+            "person": "恩恩",
+            "verb": "強調",
+            "opinion": "「我需要時間把錄音檔帶回家,我慢慢聆聽,當我聽見關鍵點,或累的時候,可以按暫停,我不想在陌生的環境,有情緒性崩潰的表現。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "陌生",
+                "陌生的",
+                "崩潰",
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 12:53"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "他不知道衛生局副局長高淑真與該消防局專員是如何向上級報告。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不知"
+            ],
+            "positive_list": [
+                "知道",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 12:53"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "從新北市政府團隊手中拿到的東西有所遺漏,在文中也透露自己的無奈,「和新北市政府的正常溝通有這麼難嗎?」民進黨新北市議員戴瑋姍日前在三立電視《鄭知道了》節目中痛批新北市長侯友宜「以拖待變」,且她質疑秘密就藏在機關與機關的對話紀錄中。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "秘密",
+                "透露",
+                "質疑",
+                "遺漏",
+                "東西",
+                "無奈"
+            ],
+            "positive_list": [
+                "正常",
+                "知道"
+            ],
+            "datetime": "2022-06-03 10:54"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說明",
+            "opinion": "。第一、公務員以公務電話處理公務,這是公權力行使,沒有公務員私人隱私可言,以政府資訊公開法第18條稱涉及公務員隱私,拒絕提供錄音給恩恩爸,就是擺明曲解法令。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "曲解",
+                "沒有",
+                "拒絕",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-03 10:36"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "延誤就醫導致憾事,奔走各方追查真相,卻難獲最關鍵的81分鐘通聯錄音檔。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 22:12"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "因延誤就醫導致憾事,恩恩爸爸要求新北市府提供錄音,但新北市長侯友宜卻都沒有出面說明,民進黨副祕書長林鶴明昨質疑,侯友宜爽過端午,外界希望侯友宜別再神隱盡快還原真相。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "延誤",
+                "要求",
+                "質疑",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "說明",
+                "希望",
+                "求新"
+            ],
+            "datetime": "2022-06-04 16:02"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "和新北市政府團隊尋求81分鐘關鍵錄音檔,市府卻只願提供譯本,「正常溝通有這麼難嗎?」新北市消防局長黃德清今(4)日表示,恩恩爸要的逐字譯文以掛號寄出,若急需會親自送過去,副市長劉和然說明,3個逐字稿都寄出,「錄音帶會派專人送到新竹給恩恩父母來聽」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "說明"
+            ],
+            "datetime": "2022-06-04 15:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "因延誤就醫導致憾事,正積極追查真相。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-06-04 15:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「放心,我們都會做你的後盾。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "放心"
+            ],
+            "datetime": "2022-06-04 10:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "因延誤就醫導致憾事,恩恩爸爸要求新北市府提供錄音,但新北市長侯友宜卻都沒有出面說明,遭質疑神隱,對此,行政院長蘇貞昌今(5)日回應時表示,此事讓人深感遺憾和痛苦,同時喊話新北市盡速給恩恩爸媽需要的資料。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "延誤",
+                "要求",
+                "痛苦",
+                "質疑",
+                "遺憾",
+                "沒有",
+                "痛苦",
+                "遺憾"
+            ],
+            "positive_list": [
+                "說明",
+                "求新"
+            ],
+            "datetime": "2022-06-05 18:33"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "今天(5日)下午家裡已經有收到新北市政府消防局補寄的另外三通「消防局回電給我老婆」的通話譯文,待會就會開始整理消化,連同先前已收到的5通「我老婆撥給消防局」的譯文、消防局和衛生局的橫向簡易紀錄、1922的通話錄音,這幾個手邊資料,一起釐清一些時序。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "簡易",
+                "衛生"
+            ],
+            "datetime": "2022-06-05 16:25"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "最快明天會去消防局聽錄音檔。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 15:26"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "事實上已經有把雙方處置作為的橫向聯繫資料給恩恩爸爸。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "處置"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 15:26"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他收到新北市消防局補寄的另外三通「消防局回電給我老婆」的通話譯文,會開始消化資料、釐清時序。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 14:35"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "他剛剛得知補寄的譯文已經寄到他家後,也先傳了訊息給衛生局副局長高淑真以及消防局專員,提了下週他可以過去的幾個時間。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-05 14:35"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "他在整理新北市提供的書面資料時,也發現了幾段聯繫上空白的時間,他會在聽完消防局錄音後,持續整理另外,恩恩爸爸表示,還有衛福部6月1日有說過1922的橫向聯繫資料有「準備好了」,但她還沒有接到衛福部通知我去拿資料。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "通知",
+                "準備"
+            ],
+            "datetime": "2022-06-05 14:35"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "因延誤就醫導致憾事,恩恩爸爸要求新北市府提供錄音,但新北市長侯友宜卻都沒有出面說明,遭質疑神隱,對此,行政院長蘇貞昌今(5)日回應時表示,孩子都是我們心頭的寶貝,而一個小生命的消逝,讓人深感遺憾和痛苦,他的父母親一定最想知道真相。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "延誤",
+                "要求",
+                "痛苦",
+                "質疑",
+                "遺憾",
+                "沒有",
+                "痛苦",
+                "遺憾"
+            ],
+            "positive_list": [
+                "知道",
+                "說明",
+                "求新"
+            ],
+            "datetime": "2022-06-05 11:07"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "目前已經收到消防局跟妻子的通話譯文,最快6月6日早上,就可以去消防局聽錄音。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 18:44"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "今天已經收到新北消防局補寄的三通「消防局回電給我老婆」的通話譯文,應該最快明天早上就可以去消防局聽錄音,「我在整理新北市提供的書面資料時,也發現了幾段聯繫上空白的時間,我會在聽完消防局錄音後,持續整理。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 15:06"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「消防局通話錄音品質很好,基本上我沒有聽到黃德清局長說,會錄到其他報案同仁的個資,有聽到個資的部分,可以用嗶嗶嗶的聲音,把其他民眾的個資蓋掉,這個我同意我也接受,跟你們簽切結書,我不把錄音檔外流。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "同意",
+                "很好",
+                "接受"
+            ],
+            "datetime": "2022-06-06 18:27"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "消防局通話錄音品質很好,沒聽到其他報案民眾的聲音。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很好"
+            ],
+            "datetime": "2022-06-06 19:39"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "消防局要同時處理其他來電,當時的時空背景以及針對確診者有何SOP?新北市消防局長黃德清在新北市疫情記者會表示,當天在17時59分接到恩恩媽媽的電話後,又接到另外一通緊急救護的案件,因為非常緊急,處理完後就立即連繫衛生單位,均未接通。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "緊急",
+                "媽的"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 16:30"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他詢問後,市府表示是因為同一個接線員可能尚未處理好原案件,又有新案件進線,之後才會回頭處理。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "尚未"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:34"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "比對譯文與通話錄音,前者不足以全面還原當時情況,包括妻子請求119派車過程急促慌張的語氣、贅詞或口語化名詞等都不在譯文裡。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不足",
+                "急促",
+                "慌張",
+                "贅詞",
+                "不足"
+            ],
+            "positive_list": [
+                "全面",
+                "請求"
+            ],
+            "datetime": "2022-06-06 14:34"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "今天聽錄音檔當下還是有情緒起伏,並要求市府其他人員離場,僅留1人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:08"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他只是想追求真相,而新北市府內部的橫向聯繫資料,經抗議後,仍是拿不到。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "抗議",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:08"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "這對他們來說的確是很難過的事情,因為要把小朋友放進去,也等不及他的姐姐、姊夫到火化場。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "難過",
+                "難過"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-06-06 14:08"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "有與對方協調變通做法,如果還是擔心有其他報案民眾的個資,可以用「嗶嗶嗶」的方式蓋掉。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "協調"
+            ],
+            "datetime": "2022-06-06 13:44"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他今天聽了妻子向119報案的5通電話,以及消防局回撥妻子的3通,共8通通話錄音檔。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:44"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他今天聽錄音檔的時候有請市府人員都離場,只留一人陪伴,並自行操作電腦、核對譯文,今天心情有比較平靜。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "平靜",
+                "平靜"
+            ],
+            "datetime": "2022-06-06 13:18"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "他還不能聽錄音檔的原因是擔心情緒崩潰。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "崩潰",
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:18"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "讓自己相當氣憤,「因為我看到的,無非是一位失去孩子的父親,奮力想尋回過程中遺失的片段,讓同樣的悲劇,別再發生在其他人的身上。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "失去",
+                "氣憤",
+                "悲劇",
+                "遺失",
+                "失去"
+            ],
+            "positive_list": [
+                "奮力"
+            ],
+            "datetime": "2022-06-06 14:28"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 23:50"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 21:51"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 21:34"
+        },
+        {
+            "person": "恩恩",
+            "verb": "回應",
+            "opinion": "6月5日傍晚,與消防局呂股長通話時,有提到6日能否有機會去報案中心看一下接聽的環境,順便了解是否如同黃德清局長在媒體上說明的,因為報案中心環境吵雜,通話錄音容易收錄到其他報案人個資。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "容易",
+                "說明",
+                "機會"
+            ],
+            "datetime": "2022-06-07 20:57"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "中斷的部分,消防局長官你們的回覆是因為執勤員接聽其他報案電話,如果為真,那你消防局的軟硬體升級根本都是謊言,如果為假,那你又是在怕什麼要來假造並切割錄音檔?局長黃德清、宣導科長官,你們摸著良心說實話好嗎?還要繼續擦脂抹粉嗎?我真的念在曾經你們是我上級的情份,勸你們到此為止。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "中斷",
+                "謊言",
+                "謊言"
+            ],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-07 20:56"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 20:18"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 19:20"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「超譯法條,因為很多律師或臉友都出來打臉,公務人員執行公務的時候,他是因為我們是報案人的請求,他執行公務相關公務的時候沒有隱私權,那又不是我要他們的聊天記錄。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多",
+                "請求"
+            ],
+            "datetime": "2022-06-07 18:17"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "「當6/6到達消防局時,便由陳主秘和報案中心李主任以及許多消防弟兄陪同我到達報案中心看看現場環境。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:41"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "我不知道報案中心的狀況是不是「模擬」的,沒有任何人和我說明過!至於指使部屬模擬給恩恩爸看的就是「李主任」,當初規劃這一齣的理由也曝光。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "沒有",
+                "不知",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道",
+                "說明"
+            ],
+            "datetime": "2022-06-07 22:41"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "自己不知道報案中心的狀況是不是「模擬」的,因為沒有任何人和我說明過,但網路上爆出演戲、假報案後,我才知道這一切可能是「模擬」的,「現在我很錯愕,這跟我認知中的消防員形象落差太大,我暫時無法評論。」",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "沒有",
+                "無法",
+                "不知",
+                "不是",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [
+                "知道",
+                "說明"
+            ],
+            "datetime": "2022-06-07 19:53"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "在6/5號傍晚,和消防局呂股長通話時,自己有提到6/6上午能否有機會去報案中心看一下接聽的環境,順便了解是否如同黃局長在媒體上說明的,因為報案中心環境吵雜,通話錄音容易收錄到其他報案人個資。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "容易",
+                "說明",
+                "機會"
+            ],
+            "datetime": "2022-06-07 19:53"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 19:50"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "當地方政府失能,遲遲等不到救護車,中央的1922也未能及時發揮功能,他需要疾管署交代更完整的資料,不是只是簡單的文字說明。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不到",
+                "不到",
+                "不是"
+            ],
+            "positive_list": [
+                "完整",
+                "完整的",
+                "說明"
+            ],
+            "datetime": "2022-06-08 16:16"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "新北市消防局為了圓一個謊,結果演了這一齣戲,到底是誰下了指令?一名自稱曾擔任新北市消防員的張姓網友,日前透過臉書直指恩恩爸到新北消防局聽取錄音檔時,消防局動員科室人員致電119「假報案」演給恩恩爸爸看,其中有2件還是演戲給恩恩爸聽的假案件。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "自稱"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:32"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "另外3通被抽掉,李宇松解釋,恩恩爸首次到市府領取就要求另外3通,消防局隔2天就有補給恩恩爸,透過掛號寄送下去。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:25"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "他無法接受1922橫向聯繫花了143分鐘。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-08 15:30"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-08 10:35"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "瞭解"
+            ],
+            "datetime": "2022-06-08 09:51"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "目的是要符合恩恩爸告知全貌真相的需求,也符合公務體系運作劉和然說,消防局被質疑造假,這對公務同仁是嚴重的指控,所以同仁為了捍衛清白尊嚴與形象,已經做了該有的司法處置,「會併同此案檢送所有資料給司法單位」。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "指控",
+                "處置",
+                "質疑",
+                "嚴重",
+                "嚴重的",
+                "指控",
+                "造假"
+            ],
+            "positive_list": [
+                "清白",
+                "符合",
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-09 16:08"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922接到電話後,花了143分鐘才轉送。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:51"
+        },
+        {
+            "person": "恩恩",
+            "verb": "發現",
+            "opinion": "是中央的1922、地方的新北市衛生局、消防局橫向聯繫出了大問題,導致就醫延宕81分鐘,最後恩恩急救6天不治。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-09 11:02"
+        },
+        {
+            "person": "恩恩",
+            "verb": "發現",
+            "opinion": "從他打電話告知恩恩陷入昏迷算起,1922花了143分鐘聯繫上新北市衛生局。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "昏迷",
+                "陷入"
+            ],
+            "positive_list": [
+                "知恩",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-09 23:01"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922接到電話後,花了143分鐘才轉送。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 21:43"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "。對此,台北市議員許淑華9日質詢時問及此事,市長柯文哲說,「要是我的話就全部拿出來,你要打就打,哪邊要改,回去改一改就好」,反正逃也逃不掉,就全部交出來。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:21"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "昨收到市府文件,不過,裡面橫向聯繫內容資料完全一樣,跟市府所答應的完全不同,質疑市府拖延。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "拖延",
+                "質疑"
+            ],
+            "positive_list": [
+                "答應"
+            ],
+            "datetime": "2022-06-09 16:14"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說",
+            "opinion": "是要還原當時繁忙現場。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:04"
+        },
+        {
+            "person": "恩恩",
+            "verb": "指出",
+            "opinion": "自己收到一份新北市府內部早就準備好、但打死不給的通聯報告,點出「我只能說,新北市府沒給恩恩爸的資料可多了」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "打死",
+                "死不"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-09 09:58"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922接到電話後,花了143分鐘才轉送,但中央流行疫情指揮中心指揮官陳時中說,1922是疫情通報和諮詢服務中心,是發包委託民間經營,不具有公權力,引發質疑。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [
+                "流行",
+                "經營"
+            ],
+            "datetime": "2022-06-10 15:31"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "送醫延誤風波延燒,民進黨新北市議員戴瑋姍今(10日)踢爆,新北內部規定119不能跳過衛生局直接派車,但4月14日當天衛生所和衛生局失聯斷訊,根本找不到人。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不到",
+                "不能",
+                "延誤",
+                "風波",
+                "不到"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-10 13:36"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922專線涉延誤轉送,但衛福部長陳時中澄清「1922不具公權力」,引發關注。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-10 11:49"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "有延誤就醫的問題,近來緊追電話通聯記錄的真相,接著新北消防局爆出「重現」報案場景的爭議,引發外界討論。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 10:20"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922接到電話後,花了143分鐘才轉送,是否延誤就醫,中央流行疫情指揮中心指揮官陳時中回應,1922是發包委託民間經營,不具有公權力。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [
+                "流行",
+                "經營"
+            ],
+            "datetime": "2022-06-10 09:53"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922接到電話後,花了143分鐘才轉送,但中央流行疫情指揮中心第一時間回應沒有調度119的權限,指揮官陳時中也說,1922是疫情通報和諮詢服務中心,是發包委託民間經營,不具有公權力。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "流行",
+                "經營"
+            ],
+            "datetime": "2022-06-10 09:15"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "地方政府失能,遲遲等不到救護車。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:47"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "1922的橫向聯繫總共花了143分鐘,地方政府失能,遲遲等不到救護車。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:13"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "「看到越來越多吹哨者,提供出這些內部報案的資料,包含卓冠廷先生或者是,前張姓消防員甚至,今天早上戴瑋姍議員提供的,我覺得我的心很痛,因為我的恩恩就是這樣消失了,我沒有資格知道這些真相。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "消失",
+                "有資格",
+                "沒有",
+                "消失"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-10 14:05"
+        },
+        {
+            "person": "恩恩",
+            "verb": "表示",
+            "opinion": "1922的橫向聯繫總共花了143分鐘,地方政府失能,遲遲等不到救護車。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 10:11"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說明",
+            "opinion": "將所有資料提交給司法單位,包括8通通話內容、音檔及橫向聯繫資料,捍衛消防人員尊嚴。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-10 17:29"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "消防局透過提告,是要用偵查不公開阻礙恩恩爸取得資料?侯友宜強調,透過司法途徑,是要證明錄音帶及所有錄音檔相關資料沒有偽變造,還給消防同仁清白跟尊嚴。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "阻礙",
+                "不公",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "清白",
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-10 11:51"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "1922專線涉延誤轉送。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 11:36"
+        },
+        {
+            "person": "恩恩",
+            "verb": "質疑",
+            "opinion": "1922接到電話後,花了143分鐘才轉送,但中央流行疫情指揮中心指揮官陳時中稱,1922是委託民間經營,不具公權力,此話引發爭論。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "爭論"
+            ],
+            "positive_list": [
+                "流行",
+                "經營"
+            ],
+            "datetime": "2022-06-11 10:44"
+        },
+        {
+            "person": "恩恩",
+            "verb": "說明",
+            "opinion": "1922專線之業務涵蓋防疫管制、檢疫、預防注射、隔離、篩檢、疫情通報與傳染病諮詢等服務,無調度119或防疫計程車等權限。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "傳染",
+                "傳染病",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 14:50"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "1922專線涉延誤轉送。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 15:05"
+        },
+        {
+            "person": "恩恩",
+            "verb": "認為",
+            "opinion": "1922專線涉延誤轉送。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 14:36"
+        }
+    ]
+}

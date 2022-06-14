@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林儒彬.png",
+    "opinions": [
+        {
+            "person": "林儒彬",
+            "verb": "說",
+            "opinion": "「那因為提袋都放在桌上,所以我們同仁就把它,把我們的黨部文宣,就塞到這個袋子裡面,那如果因此造成社會大眾的誤解,那我們也在此跟大家道歉。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "誤解",
+                "塞到",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 13:04"
+        },
+        {
+            "person": "林儒彬",
+            "verb": "表示",
+            "opinion": "當天發放地點鄰近國民黨地方黨部,因黨籍魚池鄉長參選人也在附近,便一同到場協助招呼領補助的老人,同時也發放政黨文宣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-11 09:53"
+        }
+    ]
+}

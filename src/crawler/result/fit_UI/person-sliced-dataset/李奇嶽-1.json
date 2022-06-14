@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李奇嶽.png",
+    "opinions": [
+        {
+            "person": "李奇嶽",
+            "verb": "說",
+            "opinion": "「我們這邊是禁止出團的,但日本那邊是只收旅行團,第二點就是隔離政策,這兩個沒有解決的話,我們當然相對困難。」",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "困難",
+                "沒有",
+                "禁止",
+                "隔離",
+                "困難",
+                "沒有"
+            ],
+            "positive_list": [
+                "當然",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-27 18:57"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/Adlib.png",
+    "opinions": [
+        {
+            "person": "Adlib",
+            "verb": "批評",
+            "opinion": "藍綠、幫民眾黨與柯文哲拉票講好話等;「kuloda」為交通局科長林育生,「Adlib」則是觀傳局科員宋承恩。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:41"
+        }
+    ]
+}

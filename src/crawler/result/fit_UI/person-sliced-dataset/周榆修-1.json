@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周榆修.png",
+    "opinions": [
+        {
+            "person": "周榆修",
+            "verb": "表示",
+            "opinion": "民眾可以至戶籍地區公所社會課或居住地社會福利服務中心,臨櫃申請或郵寄申請或於本府市民服務大平臺線上申請,只要經審符合資格通過,可領取3,000元。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "符合",
+                "通過",
+                "福利"
+            ],
+            "datetime": "2022-06-08 17:52"
+        },
+        {
+            "person": "周榆修",
+            "verb": "說明",
+            "opinion": "只要在3個月內工作受疫情影響,以致生活陷困之本市市民,申請人須檢具工作受疫情影響證明,如失業證明、停工證明條件、無支薪證明、薪資單、領薪證明等相關證明文件。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "失業"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:52"
+        }
+    ]
+}

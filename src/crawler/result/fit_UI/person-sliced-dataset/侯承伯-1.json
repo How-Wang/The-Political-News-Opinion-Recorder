@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/侯承伯.png",
+    "opinions": [
+        {
+            "person": "侯承伯",
+            "verb": "表示",
+            "opinion": "「院長的辛苦,院長知道」,所以今特別來看侯承伯院長及其領導的團隊,同時表達肯定與感謝,當然感謝的不止今天,而是兩年來大大小小的事。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "知道",
+                "肯定",
+                "特別",
+                "感謝",
+                "感謝的",
+                "當然",
+                "感謝"
+            ],
+            "datetime": "2022-05-29 15:22"
+        }
+    ]
+}

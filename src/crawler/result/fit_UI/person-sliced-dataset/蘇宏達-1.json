@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蘇宏達.png",
+    "opinions": [
+        {
+            "person": "蘇宏達",
+            "verb": "批評",
+            "opinion": "故宫政策)、醫師(蘇偉碩反萊豬)、到地方議員(爆料三倍券有假),防疫二年多期間更是不勝枚舉。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 07:20"
+        }
+    ]
+}

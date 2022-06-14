@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/觀傳局.png",
+    "opinions": [
+        {
+            "person": "觀傳局",
+            "verb": "表示",
+            "opinion": "宋承恩姓科員發文只是抒發心情感想或張貼新聞,沒有發表過與業務、市政相關的言論,且已近一年未使用過PTT,被網友討論的「請於108年12月15日前提報執行成果」一文,是把PTT當記事本打草稿後誤發,刪文行為則是不願再被議論。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "被議論",
+                "議論",
+                "沒有"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-07 12:17"
+        }
+    ]
+}

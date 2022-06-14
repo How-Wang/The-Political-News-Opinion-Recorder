@@ -1,0 +1,70 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉政鴻.png",
+    "opinions": [
+        {
+            "person": "劉政鴻",
+            "verb": "回應",
+            "opinion": "。不過,國民黨苗栗縣黨部今天透過媒體聯繫群組發布代轉黨中央聲明指出,「中央黨部未委託民調機構於5月27日至28日執行苗栗縣縣長選舉相關民意調查,中央組發會特此嚴正聲明」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 22:47"
+        },
+        {
+            "person": "劉政鴻",
+            "verb": "說",
+            "opinion": "「在5月27日、5月28日,晚上6點~9點民調,請各位鄉親能夠再支持政鴻,讓政鴻再有機會,為苗栗鄉親來建設,為苗栗鄉親來造福。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "建設",
+                "機會"
+            ],
+            "datetime": "2022-05-27 19:38"
+        },
+        {
+            "person": "劉政鴻",
+            "verb": "表示",
+            "opinion": "因家人反對、勸退,他決定不選了,將支持國民黨推出的人選。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-30 21:38"
+        },
+        {
+            "person": "劉政鴻",
+            "verb": "表示",
+            "opinion": "願意擔任徐志榮競選總幹事,鍾東錦議長表示會全力輔選徐志榮,自己則爭取連任議長。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-30 18:26"
+        },
+        {
+            "person": "劉政鴻",
+            "verb": "表示",
+            "opinion": "因家人反對、勸退,所以才決定不選了,將支持國民黨推出的人選。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-31 08:56"
+        }
+    ]
+}

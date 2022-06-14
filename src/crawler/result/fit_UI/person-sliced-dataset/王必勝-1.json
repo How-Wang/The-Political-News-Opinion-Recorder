@@ -1,0 +1,399 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "王必勝",
+            "verb": "回應",
+            "opinion": "當前要先量能是否有必要擴充,反倒是希望實驗室量能增加給北市,譬如台大400擴充至800或1000人次。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "必要",
+                "希望",
+                "增加",
+                "希望"
+            ],
+            "datetime": "2022-05-21 10:56"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "自己今早到部北醫院、松山機場(中央設置在新北、台北大站)了解整備及實際運作的狀況。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "實際"
+            ],
+            "datetime": "2022-05-26 17:15"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "整體服務速度順暢、秩序良好,呼籲民眾快篩陽性後,可運用基層診所視訊或實體看診完成確診程序,台灣基層診所優質堅強的實力,是民眾可以依賴的力量。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "依賴",
+                "依賴的"
+            ],
+            "positive_list": [
+                "完成",
+                "良好",
+                "秩序",
+                "堅強",
+                "堅強的",
+                "優質",
+                "良好"
+            ],
+            "datetime": "2022-05-26 17:15"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "醫護人員這麼辛苦,中央不斷調高醫護人員協助防疫的加給,這些加給「是否能像藥一樣,1小時就能收到」,醫護人員這麼辛苦,這方面還要慢就不應該,如果再刻扣就更不應該。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不斷",
+                "辛苦",
+                "不應該"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-29 15:22"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "熟悉台北市的人都知道自由廣場好大。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "知道",
+                "熟悉",
+                "自由"
+            ],
+            "datetime": "2022-05-30 18:48"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "今日桃園新增一站點為陸軍專科學校,提醒家長可有2種選擇,除依照縣市原先規劃時程接種,如果時間無法配合、比較心急,可以到大型接種站接種,各個醫院也都希望先上網預約,減少排隊時間,維持秩序,但如果到現場也會接受服務。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "減少",
+                "無法",
+                "心急",
+                "無法"
+            ],
+            "positive_list": [
+                "希望",
+                "秩序",
+                "接受",
+                "希望"
+            ],
+            "datetime": "2022-05-31 18:06"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "雖然都是自由廣場,但兒童疫苗施打站與車來速有很明確的動線區隔,也有很遠的距離,「熟悉台北市的人都知道自由廣場好大。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "明確",
+                "知道",
+                "熟悉",
+                "自由"
+            ],
+            "datetime": "2022-05-31 15:36"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "自己有向台北市副市長黃珊珊再說明相關狀況,中央一定要與地方合作,中央也是為了讓兒童趕快施打疫苗,所以提供多元選擇,讓父母能順利帶孩子把疫苗打好,這是不變的原則,也是中央跟地方同樣想執行的事情。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "順利",
+                "說明",
+                "合作"
+            ],
+            "datetime": "2022-05-31 10:14"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "將於明日開站的台北市自由廣場兒童疫苗施打站,仍將由台北榮總優質團隊負責規劃執行。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "負責",
+                "優質",
+                "自由"
+            ],
+            "datetime": "2022-05-31 10:00"
+        },
+        {
+            "person": "王必勝",
+            "verb": "回應",
+            "opinion": "是高雄市長陳其邁,他會打來表達自己要做什麼、講很多意見,他也知道指揮中心每個人的工作,會分別跟不同的人討論,非常認真,有時討論到半夜,這是很好的討論方式。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "很多",
+                "很好",
+                "很好的",
+                "認真"
+            ],
+            "datetime": "2022-06-01 22:20"
+        },
+        {
+            "person": "王必勝",
+            "verb": "回應",
+            "opinion": "是高雄市長陳其邁,他會打來表達自己要做什麼、講很多意見,他也知道指揮中心每個人的工作,會分別跟不同的人討論,非常認真,有時討論到半夜,這是很好的討論方式。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "很多",
+                "很好",
+                "很好的",
+                "認真"
+            ],
+            "datetime": "2022-06-01 22:09"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "有些家長想提前打、時間搭配不上、或臨時不行,診所疫苗又有限度,甚至淋雨排隊等等,這些聲音都有,因此希望市府安排之外,中央再出一份力,讓家長有第二個選擇、還有一個地方可以打,「只要5歲到11歲的小朋友能夠打到疫苗,地方打的、中央打的,誰打的有差嗎?只要他有打到就好。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "限度"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-01 19:47"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "每一個縣市都有他的期程,比如幾月幾號到幾月幾號、在學校哪裡打,這個指揮中心都知道,地方政府會去做分配,有一些早一點、有一些晚一點,那這個時間到了自然數字就會上來,所以這個數字只是一個暫時性的。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自然",
+                "知道"
+            ],
+            "datetime": "2022-06-01 19:47"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "每個小孩都是國家的寶,政府願意多花資源讓小朋友盡快接種疫苗,體恤家長,提供多些管道盡速完成接種工作。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "資源",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-01 15:38"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "雖然都是自由廣場,但兒童疫苗施打站與車來速有很明確的動線區隔,也有很遠的距離,「熟悉台北市的人都知道自由廣場好大。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "明確",
+                "知道",
+                "熟悉",
+                "自由"
+            ],
+            "datetime": "2022-06-01 10:06"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "行政院長蘇貞昌在早上10點公布後,就很急著去安排,「來不及跟我們說。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:10"
+        },
+        {
+            "person": "王必勝",
+            "verb": "提到",
+            "opinion": "指揮中心每天都開會到半夜11點,各都縣市首長、衛生局長也常常打給自己,像是台北市副市長黃珊珊就很常和他溝通討論,雖然有很多事情的意見都不一致,但就從各自的意見中找到平衡,再去執行。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "不一致"
+            ],
+            "positive_list": [
+                "一致",
+                "平衡",
+                "很多",
+                "衛生",
+                "平衡",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 16:18"
+        },
+        {
+            "person": "王必勝",
+            "verb": "強調",
+            "opinion": "自己每天都有和王必勝傳LINE、通話,「我也是晚上10點睡覺前會跟他(王必勝)通電話,都有啊!」接著汪志冰詢問柯文哲有無和衛福部長陳時中、王必勝等人通電話?柯文哲直言「沒有。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:08"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "運作狀況,他也意在言外表示,真的有在做事的人不會不懂。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會",
+                "不懂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:21"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "今天加入桃園巨蛋站及桃園陸專站,兩站開放預約5000名額全滿。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-06-02 12:21"
+        },
+        {
+            "person": "王必勝",
+            "verb": "提到",
+            "opinion": "其中有一個市長每天固定打電話來,主持人詢問是誰?他才坦承是高雄市長陳其邁,王必勝透露,陳其邁每天打電話,都會明確表達要做什麼,說了很多意見並討論,且他也知道指揮中心每個人的工作項目,會分別跟不同的人討論,非常認真,有時甚至討論到半夜,取得協議後,才會合作執行,讓王必勝認為是很好的討論方式。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "透露"
+            ],
+            "positive_list": [
+                "合作",
+                "固定",
+                "明確",
+                "知道",
+                "很多",
+                "很好",
+                "很好的",
+                "認真",
+                "合作"
+            ],
+            "datetime": "2022-06-02 06:32"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "截至今(3)日17時統計,今日兒童接種站打了7802人,三日(6/1~3)累計20662人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 18:54"
+        },
+        {
+            "person": "王必勝",
+            "verb": "指出",
+            "opinion": "中央協助設置的北北基桃大型篩檢站,陸續開設了12站。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-08 18:18"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "大雨滂沱,澆不熄為國為民服務的熱忱。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "大雨"
+            ],
+            "positive_list": [
+                "熱忱",
+                "熱忱"
+            ],
+            "datetime": "2022-06-08 18:18"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "各大站在成功完成任務後,將陸續結束服務。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "完成"
+            ],
+            "datetime": "2022-06-08 18:18"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "目前快篩陽看診後判定通報由院所進行順利,其中約60%由基層診所執行後通報,後續開立藥物也很穩定流暢,加上北部疫情判斷已過高峰,因此各大站在成功完成任務後,將陸續結束服務。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "完成",
+                "流暢",
+                "進行",
+                "順利",
+                "穩定"
+            ],
+            "datetime": "2022-06-08 18:18"
+        }
+    ]
+}

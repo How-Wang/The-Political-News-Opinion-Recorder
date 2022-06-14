@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李察.png",
+    "opinions": [
+        {
+            "person": "李察",
+            "verb": "提出",
+            "opinion": "「支持台灣參與國際組織工作」決議案並獲高票通過,創下法國參議院通過友台決議首例。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-09 23:58"
+        }
+    ]
+}

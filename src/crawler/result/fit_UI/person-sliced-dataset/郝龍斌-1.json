@@ -1,0 +1,111 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/郝龍斌.png",
+    "opinions": [
+        {
+            "person": "郝龍斌",
+            "verb": "表示",
+            "opinion": "在善意狀況下論壇應續辦,「善意表現是大陸應該要思考的一件事」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "思考",
+                "善意"
+            ],
+            "datetime": "2022-05-30 11:51"
+        },
+        {
+            "person": "郝龍斌",
+            "verb": "說",
+            "opinion": "無論是他的團隊還是前總統馬英九任市長時的團隊,都有政務官定期幫蔣萬安上課,蔣萬安現在對市政已很嫻熟,感覺得到是個合適且會表現良好的台北市長。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合適",
+                "良好",
+                "良好的",
+                "得到",
+                "良好"
+            ],
+            "datetime": "2022-05-30 11:51"
+        },
+        {
+            "person": "郝龍斌",
+            "verb": "說",
+            "opinion": "「雙城論壇應該在既有的基礎上,持續辦下去,對於共機擾台這件事情,我相信這不是一個善意的行為。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "相信",
+                "善意",
+                "善意的"
+            ],
+            "datetime": "2022-05-30 13:24"
+        },
+        {
+            "person": "郝龍斌",
+            "verb": "提到",
+            "opinion": "民進黨可能「強推」衛生福利部長陳時中披戰袍上戰,讓蔣萬安直言:「不會因為派誰而改變事實。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "福利",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-30 11:17"
+        },
+        {
+            "person": "郝龍斌",
+            "verb": "認為",
+            "opinion": "當初他積極推動促成雙城論壇,過程中強烈感受到此舉是增進雙方了解、降低誤會,他也相信,雙城論壇在既有基礎下舉辦,中國可以了解台灣民眾心聲,而中國軍機擾台不是一個善意行為。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "降低",
+                "強烈",
+                "誤會",
+                "不是"
+            ],
+            "positive_list": [
+                "了解",
+                "促成",
+                "相信",
+                "善意",
+                "增進",
+                "積極"
+            ],
+            "datetime": "2022-05-30 11:07"
+        },
+        {
+            "person": "郝龍斌",
+            "verb": "提出",
+            "opinion": "續辦雙城論壇,前提是共機不再擾台,但昨晚空軍發布共機動態指出,昨天共有30架共機侵擾台灣西南防空識別區(ADIZ),數量是今年第二多。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "侵擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:13"
+        },
+        {
+            "person": "郝龍斌",
+            "verb": "呼籲",
+            "opinion": "「藍白合」,另也傳出有「新竹換北市」的呼聲,也就是國民黨禮讓民眾黨立委高虹安選新竹市,換民眾黨禮讓國民黨立委蔣萬安選台北市。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:39"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/布魯金斯研究院.png",
+    "opinions": [
+        {
+            "person": "布魯金斯研究院",
+            "verb": "說",
+            "opinion": "內容包括探討國際關係,以及台美關係的未來等。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:40"
+        },
+        {
+            "person": "布魯金斯研究院",
+            "verb": "說",
+            "opinion": "內容包括探討國際關係,以及台美關係的未來等。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 14:39"
+        },
+        {
+            "person": "布魯金斯研究院",
+            "verb": "說",
+            "opinion": "談到「九二共識」時,自創新解,宣稱是「沒有共識的共識」,還強調就是故意不能說清楚。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "故意",
+                "沒有"
+            ],
+            "positive_list": [
+                "清楚",
+                "創新"
+            ],
+            "datetime": "2022-06-07 19:21"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蕭羽耘.png",
+    "opinions": [
+        {
+            "person": "蕭羽耘",
+            "verb": "說",
+            "opinion": "年輕人「不敢生、養不起」和台灣工時過高,是台灣少子化的主要原因。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不起",
+                "養不起"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 13:23"
+        },
+        {
+            "person": "蕭羽耘",
+            "verb": "批評",
+            "opinion": "民進黨政府雖然聲稱兒童「國家一起養」,但是以一般年輕人實際生活現況根本不敢生養。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-05-26 12:05"
+        }
+    ]
+}

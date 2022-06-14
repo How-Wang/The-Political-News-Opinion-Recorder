@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/捷運局.png",
+    "opinions": [
+        {
+            "person": "捷運局",
+            "verb": "表示",
+            "opinion": "至於流標主因是營建市場同時推出多件大型工程廠商承攬能力趨於飽和、受到COVID-19(2019冠狀病毒疾病)疫情影響導致勞工短缺、工資及大宗材料價格飆漲等因素。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "疾病"
+            ],
+            "positive_list": [
+                "能力"
+            ],
+            "datetime": "2022-06-11 10:52"
+        },
+        {
+            "person": "捷運局",
+            "verb": "表示",
+            "opinion": "會訪談廠商了解原因,並將重新招標。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-11 10:52"
+        }
+    ]
+}

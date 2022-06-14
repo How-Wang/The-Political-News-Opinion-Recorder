@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/富邦獨.png",
+    "opinions": [
+        {
+            "person": "富邦獨",
+            "verb": "說",
+            "opinion": "張景森等人?以前那些民進黨的全部列出來。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:51"
+        }
+    ]
+}

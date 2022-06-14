@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市立聯合醫院.png",
+    "opinions": [
+        {
+            "person": "台北市立聯合醫院",
+            "verb": "強調",
+            "opinion": "防疫工作是場團體戰,面對病毒的威脅,大家會同心守護醫護夥伴,一起成為「防疫台北隊」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "成為",
+                "夥伴"
+            ],
+            "datetime": "2022-05-26 22:01"
+        },
+        {
+            "person": "台北市立聯合醫院",
+            "verb": "強調",
+            "opinion": "防疫工作是場團體戰,面對病毒的威脅,呼籲同心守護醫護夥伴,一起成為「防疫台北隊」,也感謝醫護人員的辛勞付出。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "成為",
+                "感謝",
+                "夥伴",
+                "感謝"
+            ],
+            "datetime": "2022-05-26 10:32"
+        }
+    ]
+}

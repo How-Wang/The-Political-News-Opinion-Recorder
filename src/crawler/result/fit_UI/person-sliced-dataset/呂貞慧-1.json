@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/呂貞慧.png",
+    "opinions": [
+        {
+            "person": "呂貞慧",
+            "verb": "說明",
+            "opinion": "台灣為符合CPTPP投資章節規範,已整合外資在台投資程序,並且完成許多法規準備工作;張愷致則介紹台灣落實國際仲裁的相關法規。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "符合",
+                "規範",
+                "準備"
+            ],
+            "datetime": "2022-05-27 21:30"
+        }
+    ]
+}

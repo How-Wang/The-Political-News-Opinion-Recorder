@@ -1,0 +1,162 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張亞中",
+            "verb": "質疑",
+            "opinion": "「朱立倫的道歉,到底是怎樣的道歉?」,點出國民黨不該用和稀泥方法處理爭議。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "怎樣",
+                "是怎樣",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 16:03"
+        },
+        {
+            "person": "張亞中",
+            "verb": "質疑",
+            "opinion": "「朱立倫道歉到底是怎樣的道歉」?國民黨想到的應該不是以前那種和稀泥方法,政黨當然比個人重要,但還是有個人情緒,相信張善政、邱奕勝、呂玉玲之後見面能演出和諧快樂的畫面,但對社會的錯誤印象已經造成。",
+            "negative_score": 5,
+            "positive_score": 8,
+            "negative_list": [
+                "錯誤",
+                "不是",
+                "怎樣",
+                "是怎樣",
+                "道歉"
+            ],
+            "positive_list": [
+                "人情",
+                "快樂",
+                "快樂的",
+                "和諧",
+                "相信",
+                "重要",
+                "當然",
+                "快樂"
+            ],
+            "datetime": "2022-05-25 11:10"
+        },
+        {
+            "person": "張亞中",
+            "verb": "指出",
+            "opinion": "國民黨面臨信任危機,民進黨民調逐漸下滑卻轉移到民眾黨那邊,民眾黨沒有真正執政過,所以大家對他懷有想像空間,國民黨很常掛嘴邊沒贏就甚麼都假的,民主政治裏需要贏毫無疑問,但需要怎麼贏?當人的認知固定了就很難翻回來。",
+            "negative_score": 8,
+            "positive_score": 7,
+            "negative_list": [
+                "危機",
+                "沒有",
+                "假的",
+                "毫無",
+                "疑問",
+                "危機",
+                "沒有",
+                "疑問"
+            ],
+            "positive_list": [
+                "固定",
+                "信任",
+                "真正",
+                "毫無",
+                "無疑",
+                "無疑問",
+                "想像"
+            ],
+            "datetime": "2022-05-25 10:40"
+        },
+        {
+            "person": "張亞中",
+            "verb": "說",
+            "opinion": "自己隨喜,但認為需要派強將牽制高雄選情,地方議員更希望中央多溝通,事緩則圓。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "牽制"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-29 18:32"
+        },
+        {
+            "person": "張亞中",
+            "verb": "提出",
+            "opinion": "黨中央在桃園、苗栗的提名都出狀況,讓很多藍軍支持者不滿。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "不滿"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-10 08:20"
+        },
+        {
+            "person": "張亞中",
+            "verb": "強調",
+            "opinion": "高雄對國民黨來說,應該是最重要的一環。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-10 08:20"
+        },
+        {
+            "person": "張亞中",
+            "verb": "說明",
+            "opinion": "這些人過去大部分屬於深藍,從上次高雄時補選投票來計算,「個性藍」在高雄大約有15%,他們以往都是含血、含淚、含恨投票,但現在不同了,這群人屆時若對黨不高興,可能就不出門投票,國民黨在高雄就會非常慘。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不高",
+                "不高興",
+                "含淚",
+                "不出",
+                "含恨"
+            ],
+            "positive_list": [
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-10 08:20"
+        },
+        {
+            "person": "張亞中",
+            "verb": "說",
+            "opinion": "國民黨秘書長黃健庭上週與高雄市議員座談,據了解有不少議員都支持他,當中也有重量級市議員。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-12 12:12"
+        },
+        {
+            "person": "張亞中",
+            "verb": "說",
+            "opinion": "他在高雄的潛在支持者超越黨中央想像,「人和與理念是國民黨要贏得高雄市選舉的不二法門,所以我不會去爭。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-06-12 12:12"
+        }
+    ]
+}

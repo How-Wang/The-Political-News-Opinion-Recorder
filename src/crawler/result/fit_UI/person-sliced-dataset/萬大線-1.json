@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/萬大線.png",
+    "opinions": [
+        {
+            "person": "萬大線",
+            "verb": "說",
+            "opinion": "陳水扁市長時期做出11,000公尺的道路,馬英九市長時期做完21,000公尺,郝龍斌市長做了7,800公尺,柯文哲市長時期結至上個月統計完工僅4,600公尺。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "至上"
+            ],
+            "datetime": "2022-06-02 17:38"
+        }
+    ]
+}

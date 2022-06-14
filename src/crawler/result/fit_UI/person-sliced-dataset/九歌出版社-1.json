@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/九歌出版社.png",
+    "opinions": [
+        {
+            "person": "九歌出版社",
+            "verb": "提到",
+            "opinion": "這屆台北國際書展人潮超出預期,假日甚至加派多位同事支援,也許是停辦2年緣故,整體買氣與往年書展相比甚至有好一點。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "超出"
+            ],
+            "positive_list": [
+                "支援"
+            ],
+            "datetime": "2022-06-07 19:17"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/湯詠瑜.png",
+    "opinions": [
+        {
+            "person": "湯詠瑜",
+            "verb": "說",
+            "opinion": "這個move寫錯了,高雄是單數專有名詞,後面動詞要加s,除非在高雄後面加逗號,才會變成祈使句。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "有名"
+            ],
+            "datetime": "2022-06-04 16:18"
+        }
+    ]
+}

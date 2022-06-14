@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞洲北約.png",
+    "opinions": [
+        {
+            "person": "亞洲北約",
+            "verb": "說",
+            "opinion": "。奧斯丁還提到了俄羅斯入侵烏克蘭的問題。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 14:44"
+        }
+    ]
+}

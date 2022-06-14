@@ -1,0 +1,1132 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "桃園跟高雄都是國門,兩位市長在國門防疫工作最為吃重,國門防疫從邊境管控,到在地防疫,兩個大城市也要鄰近支援其他縣市,所以總統徵詢他們的意見無可厚非,「只有心中有政治選舉的人,才會開口閉口都是政治跟選舉」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "無可"
+            ],
+            "positive_list": [
+                "支援"
+            ],
+            "datetime": "2022-05-23 14:58"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "蔡英文總統有打電話給侯友宜市長,對地方關心不會減少,侯友宜強調他尊重總統找誰開會的權力,但總統很忙,他會努力承擔新北市的事情,綠營議員批評地方也有責任,不要再噴政治口水。",
+            "negative_score": 6,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "批評",
+                "減少",
+                "不要",
+                "不會",
+                "批評"
+            ],
+            "positive_list": [
+                "有責任",
+                "努力",
+                "尊重",
+                "關心",
+                "尊重",
+                "關心"
+            ],
+            "datetime": "2022-05-23 12:51"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "3名總統警衛室勤員及1名憲兵皆無營區內密切接觸者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 19:40"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府自5月21日至今日,3天共新增13名確診案例,個案近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 19:40"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統蔡英文非常關心各地防疫,過去也曾打電話給新北市長侯友宜,對地方關心不會少,但引起台北市政府發言人陳智菡不滿,她表示,沒聽過柯文哲市長提起蔡英文總統有致電關心北部疫情,並批評總統4月在官邸召開防疫會議,卻對雙北「暗崁」(隱瞞)疫情即將大規模爆發。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不滿",
+                "批評",
+                "隱瞞",
+                "爆發",
+                "不會",
+                "不滿",
+                "批評"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-23 12:11"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "總統也期許李鴻鈞能展現建築工程專業,並憑藉其豐富的問政歷練,善盡憲法所賦予的職責,增益監察院運作,盡心為人民服務,落實公平正義及人權的實現。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "公平",
+                "正義",
+                "職責",
+                "豐富",
+                "豐富的",
+                "公平",
+                "期許",
+                "實現"
+            ],
+            "datetime": "2022-05-24 20:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文總統對於順利通過李鴻鈞人事同意權案表達感謝,也感謝朝野各黨團的辛勞。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "同意",
+                "通過",
+                "順利",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-24 20:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 20:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增5名確診案例,包括4名總統府員工及1名憲兵,這些案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 20:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "到,總統蔡英文對於這這次的人事同意權案表示感謝,也感謝各黨團的辛勞。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "同意",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-24 22:19"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文總統今天下午新增行程,並邀請黃珊珊一起前往北榮,替辛苦的醫護及藥師人員加油打氣。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦",
+                "辛苦的",
+                "苦的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 12:57"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "日前即有說明過,對於全國防疫工作,總統都非常關心,也希望中央地方共同努力。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "說明",
+                "關心",
+                "希望",
+                "關心"
+            ],
+            "datetime": "2022-05-24 12:57"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "北榮是防疫支援團隊的重要夥伴,兩年來承擔許多防疫重任。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "支援",
+                "重要",
+                "夥伴"
+            ],
+            "datetime": "2022-05-24 12:57"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 20:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "日前即有說明過,對於全國防疫工作,總統都非常關心,也希望中央地方共同努力。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "說明",
+                "關心",
+                "希望",
+                "關心"
+            ],
+            "datetime": "2022-05-24 13:15"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "總統前往北榮訪視的原因指出,北榮是防疫支援團隊的重要夥伴,兩年來承擔許多防疫重任。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "支援",
+                "重要",
+                "夥伴"
+            ],
+            "datetime": "2022-05-24 13:15"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增3名確診案例,包括2名總統府員工及1名憲兵,該名憲兵因於休假期間確診,故無營區內密切接觸者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 19:17"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 19:13"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增3名確診案例,包括2名總統府員工及1名憲兵,該名憲兵因於休假期間確診,故無營區內密切接觸者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 19:08"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府再增3例確診,個案近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 19:08"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 19:38"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 20:09"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:43"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增3名確診案例,包括2名總統府員工及1名憲兵,該名憲兵因於休假期間確診,故無同寢室密切接觸者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:37"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "台灣人民對達克沃絲並不陌生。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "陌生"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:08"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "這次訪問團是繼4月美國聯邦參議員葛瑞姆(LindseyGraham)率領重量級國會議員來訪後,相隔1個多月時間,美方再度有重量級參議員訪台;期待此行能讓台美在既有堅若磐石的基礎上,進一步深化合作夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "期待",
+                "夥伴",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-05-30 21:08"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "自5月28日至今天,總統府新增13名確診案例,包括5名總統府員工、3名國安會員工、4名總統警衛室勤員,以及1名憲兵;這些案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:36"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:36"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "此次訪問團是繼4月美國聯邦參議員葛瑞姆(LindseyGraham,R-SC)率領重量級國會議員來訪後,相隔1個多月的時間,美方再度有重量級參議員訪台。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "就近期而言,諸如這個月即提出「2022年強化台灣安全法案」(StrengthenTaiwan’sSecurityActof2022),支持台美加強協調因應台灣的安全情境,並提出強化台灣防衛戰力的具體作法。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "協調"
+            ],
+            "datetime": "2022-05-30 20:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "上述案例近期與總統蔡英文、副總統賴清德及總統府、國安會等官員皆無接觸史,總統府及國安會各項業務正常運作,並持續依照防疫指引,落實相關檢疫措施及防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-05-30 20:45"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "自5月28日至今日,總統府新增13名確診案例,包括5名總統府員工、3名國安會員工、4名總統警衛室勤員,以及1名憲兵。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:45"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "13名確診案例包括5名總統府員工、3名國安會員工、4名總統警衛室勤員,以及1名憲兵。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:37"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "總統府尊重立法院的決議,但仍期盼能夠理性進行議事。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "理性",
+                "尊重",
+                "進行",
+                "尊重",
+                "期盼"
+            ],
+            "datetime": "2022-05-30 14:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府尊重立法院的決議,但仍期盼能夠理性進行議事。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "理性",
+                "尊重",
+                "進行",
+                "尊重",
+                "期盼"
+            ],
+            "datetime": "2022-05-30 15:47"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "總統蔡英文對於英勇國軍不幸殉職深感哀慟不捨,並指示國防部徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "事故",
+                "不幸"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "英勇"
+            ],
+            "datetime": "2022-05-31 09:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統蔡英文對於英勇國軍不幸殉職深感哀慟不捨,並已指示國防部,徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "事故",
+                "不幸"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "英勇"
+            ],
+            "datetime": "2022-05-31 10:31"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統蔡英文對於英勇國軍不幸殉職深感哀慟不捨,並已指示國防部,徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "事故",
+                "不幸"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "英勇"
+            ],
+            "datetime": "2022-05-31 09:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職,蔡英文對於英勇國軍不幸殉職深感哀慟不捨,並已指示國防部,徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "事故",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "英勇"
+            ],
+            "datetime": "2022-05-31 09:26"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡總統對於英勇國軍不幸殉職深感哀慟不捨,並已指示國防部,徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "事故",
+                "不幸"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "英勇"
+            ],
+            "datetime": "2022-05-31 09:31"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:31"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "回應",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職,蔡英文總統對於英勇國軍不幸殉職深感哀慟不捨,並已指示國防部,徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "事故",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "英勇"
+            ],
+            "datetime": "2022-05-31 12:55"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "回應",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:17"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "回應",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:47"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "雖搜救團隊即刻展開救援任務,但至為遺憾的是,駕駛飛官徐大鈞少尉已尋獲但不幸殉職。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "遺憾",
+                "不幸",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "該名憲兵因於休假期間確診,故無營區內密切接觸者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 19:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增5名確診案例,包括4名總統府員工及1名憲兵。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 19:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "實際上,自今年初以來,截至5月31日為止,包括:總統府、國安會、外包廠商,以及必須群體生活的憲兵營、警衛室,總計確診人數為171人,這些總統府都有定期發布,這些確診數佔所有單位總人數的1,162人,約14.7%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-01 18:03"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "前年如此,去年如此,今年也是。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:03"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "刻意炒作確診人數絕對不是防疫的重點。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "絕對",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:03"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "就像我常講的,共同的敵人是病毒,不是彼此。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "敵人",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:03"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增11名確診案例。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 20:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 20:58"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增2名確診案例,分別為1名總統府員工,及1名總統警衛室勤員,該勤員無匡列同寢密切接觸者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 20:55"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增2名確診案例,與總統、副總統無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 20:55"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "總統府自109年全球疫情蔓延,一直都有公布確診數,眾所皆知。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "蔓延"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:39"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "實際上,自今年初以來,截至5月31日為止,包括:總統府、國安會、外包廠商,以及必須群體生活的憲兵營、警衛室,總計確診人數為171人,這些總統府都有定期發布,這些確診數佔所有單位總人數的1,162人,約14.7%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-02 09:45"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "沒有違反防疫規定,但卻確診的人,其實不需要道歉,也不應該被投以異樣眼光。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "違反",
+                "不應該",
+                "沒有",
+                "道歉",
+                "違反"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 09:45"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "相信此時此刻,最重要的是,中央地方要互相合作、互相補位,同事朋友之間互相關懷、互相協助。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "協助",
+                "相信",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "合作",
+                "關懷"
+            ],
+            "datetime": "2022-06-02 09:45"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "回應",
+            "opinion": "截至5月31日為止,包括總統府、國安會、外包廠商、憲兵營、警衛室,總計確診人數為171人,占所有單位總人數1162人約14.7%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:54"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "上述憲兵及正副總統警衛室勤員皆無匡列同寢密切接觸者,且近期與總統、副總統及總統府、國安會等官員皆無接觸史;總統府各項業務正常運作,並持續依照防疫指引,落實相關檢疫措施及防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-06-06 19:26"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "確診案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 19:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "6名確診案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 19:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "4名確診案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 20:04"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增4名確診案例。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 20:04"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府各項業務正常運作,並持續依照防疫指引,落實相關檢疫措施及防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-06-10 19:37"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "回應",
+            "opinion": "媒體詢問表示,部分人士刻意炒作內閣改組議題,這些炒作毫無意義,蔡英文總統也沒有內閣改組的打算。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "毫無",
+                "無意義",
+                "沒有"
+            ],
+            "positive_list": [
+                "毫無"
+            ],
+            "datetime": "2022-06-10 11:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "面對當前國內外政經局勢的複雜變遷,行政院長蘇貞昌所帶領的內閣團隊都是全力以赴,為國家拚建設、為人民拚福利,也全力拚防疫。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "複雜"
+            ],
+            "positive_list": [
+                "全力",
+                "建設",
+                "福利"
+            ],
+            "datetime": "2022-06-10 11:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "部分人士刻意炒作內閣改組議題,這些炒作毫無意義,總統蔡英文也沒有內閣改組的打算。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "毫無",
+                "無意義",
+                "沒有"
+            ],
+            "positive_list": [
+                "毫無"
+            ],
+            "datetime": "2022-06-10 11:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "面對當前國內外政經局勢的複雜變遷,行政院長蘇貞昌所帶領的內閣團隊都是全力以赴,為國家拚建設、為人民拚福利,也全力拚防疫。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "複雜"
+            ],
+            "positive_list": [
+                "全力",
+                "建設",
+                "福利"
+            ],
+            "datetime": "2022-06-10 11:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增2名確診案例,皆為總統府員工。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 19:29"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "總統府各項業務正常運作,並持續依照防疫指引,落實相關檢疫措施及防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-06-10 19:29"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "部分人士刻意炒作內閣改組議題,這些炒作毫無意義,「蔡總統也沒有內閣改組的打算」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "毫無",
+                "無意義",
+                "沒有"
+            ],
+            "positive_list": [
+                "毫無"
+            ],
+            "datetime": "2022-06-10 11:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "面對當前國內外政經局勢的複雜變遷,行政院長蘇貞昌所帶領的內閣團隊都是全力以赴,為國家拚建設、為人民拚福利,也全力拚防疫。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "複雜"
+            ],
+            "positive_list": [
+                "全力",
+                "建設",
+                "福利"
+            ],
+            "datetime": "2022-06-10 11:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "稍早聽聞陳時中確診訊息後,蔡英文總統認為,陳時中擔任指揮官兩年多來,為防疫工作勞心勞力,幾乎未曾休息,希望陳時中能夠好好休養、早日康復。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "休息",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-12 13:13"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統蔡英文近期沒有和陳時中開過會議,但時常且頻繁地透過電話,討論防疫工作;蔡英文總統也相信,陳時中在居家照護期間,仍然會盡心盡責,持續掌握各項防疫重大工作。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "頻繁",
+                "沒有"
+            ],
+            "positive_list": [
+                "相信",
+                "重大",
+                "掌握"
+            ],
+            "datetime": "2022-06-12 13:13"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文總統近期沒有和陳時中部長開過會議,但時常且頻繁地透過電話,討論防疫工作。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "頻繁",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 13:02"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "稍早聽聞陳宗彥時中部長確診訊息後,總統認為,陳宗彥時中部長擔任指揮官兩年多來,為防疫工作勞心勞力,幾乎未曾休息,希望陳宗彥時中部長能夠好好休養、早日康復。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "休息",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-12 13:02"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "總統也相信,陳宗彥時中部長在居家照護期間,仍然會盡心盡責,持續掌握各項防疫重大工作。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "重大",
+                "掌握"
+            ],
+            "datetime": "2022-06-12 13:02"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "稍早聽聞陳時中確診訊息後,總統認為,陳時中擔任指揮官兩年多來,為防疫工作勞心勞力,幾乎未曾休息,希望陳時中能夠好好休養、早日康復。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "休息",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-12 12:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統蔡英文近期沒有和陳時中部長開過會議,但時常且頻繁地透過電話,討論防疫工作。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "頻繁",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 12:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文近期沒有和陳時中開過會議,但時常且頻繁地透過電話討論防疫工作。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "頻繁",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 15:01"
+        }
+    ]
+}

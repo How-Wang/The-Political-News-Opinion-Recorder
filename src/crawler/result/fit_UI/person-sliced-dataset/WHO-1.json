@@ -1,0 +1,22 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "WHO",
+            "verb": "強調",
+            "opinion": "維持台海和平穩定的重要性。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "重要",
+                "重要性",
+                "穩定",
+                "穩定的"
+            ],
+            "datetime": "2022-05-21 22:58"
+        }
+    ]
+}

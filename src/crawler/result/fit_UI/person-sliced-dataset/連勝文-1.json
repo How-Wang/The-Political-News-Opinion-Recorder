@@ -1,0 +1,60 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/連勝文.png",
+    "opinions": [
+        {
+            "person": "連勝文",
+            "verb": "說",
+            "opinion": "「小孩的命也是命,老人的命也是命,不是只有民進黨大官的命,才是命,也不是只有民進黨豢養的鷹犬的命,才是命。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 18:21"
+        },
+        {
+            "person": "連勝文",
+            "verb": "回應",
+            "opinion": "相信蔣萬安只要腳踏實地努力奮鬥,面對挑戰就勇往直前,即便遇到網軍攻擊,也千萬不要因此就害怕或氣餒,最終會獲民眾認同。",
+            "negative_score": 8,
+            "positive_score": 6,
+            "negative_list": [
+                "攻擊",
+                "挑戰",
+                "害怕",
+                "氣餒",
+                "不要",
+                "攻擊",
+                "害怕",
+                "氣餒"
+            ],
+            "positive_list": [
+                "努力",
+                "相信",
+                "踏實",
+                "奮鬥",
+                "認同",
+                "奮鬥"
+            ],
+            "datetime": "2022-05-28 17:42"
+        },
+        {
+            "person": "連勝文",
+            "verb": "強調",
+            "opinion": "桃園是個非常重要的地方,有張善政就桃園未來發展而言是非常有幫助的。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "有幫助",
+                "有幫助的",
+                "重要",
+                "重要的",
+                "發展",
+                "幫助"
+            ],
+            "datetime": "2022-06-08 15:55"
+        }
+    ]
+}

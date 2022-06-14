@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/INTERPOL.png",
+    "opinions": [
+        {
+            "person": "INTERPOL",
+            "verb": "提出",
+            "opinion": "書面及口頭質詢外,上年5月6日更與參議院友台小組主席李察(AlainRichard)共同領銜發起,並獲得參議院高票一致決通過「支持台灣參與國際組織工作」決議案,創下法國參議院通過友我決議案的首例。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "通過",
+                "獲得"
+            ],
+            "datetime": "2022-06-07 12:32"
+        }
+    ]
+}

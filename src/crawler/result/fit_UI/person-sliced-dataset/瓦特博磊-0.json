@@ -1,0 +1,20 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "瓦特博磊",
+            "verb": "提到",
+            "opinion": "台法都是民主國家、都有民選總統,俄羅斯與烏克蘭的戰爭讓外界更加認知民主國家應該團結一心,盼台法不只在文化與經貿上合作,也能一起捍衛民主價值。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-10 18:41"
+        }
+    ]
+}

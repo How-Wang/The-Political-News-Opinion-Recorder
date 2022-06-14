@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周楷勳.png",
+    "opinions": [
+        {
+            "person": "周楷勳",
+            "verb": "說",
+            "opinion": "「會給它(鷹式飛彈)八個字,就是當今之世捨我其誰,我們在現今的戰爭下,都是優先爭奪空權包含戰機也是一樣,其實鷹式的精神不管後續新型的飛彈,都一樣會相續的傳承,捍衛我們中華民國的領空。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "戰爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:51"
+        }
+    ]
+}

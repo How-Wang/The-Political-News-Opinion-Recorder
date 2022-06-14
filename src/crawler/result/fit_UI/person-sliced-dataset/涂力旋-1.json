@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/涂力旋.png",
+    "opinions": [
+        {
+            "person": "涂力旋",
+            "verb": "提到",
+            "opinion": "「議員方面的提名登記作業已經告一段落,他也認為已經達到他階段性的任務,所以也提出這樣的一個請辭案。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "達到"
+            ],
+            "datetime": "2022-06-10 18:08"
+        }
+    ]
+}

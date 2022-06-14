@@ -1,0 +1,50 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃智賢.png",
+    "opinions": [
+        {
+            "person": "黃智賢",
+            "verb": "批評",
+            "opinion": "台灣學大陸,做出的中藥清冠一號,一個月產量只有8萬份。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 19:05"
+        },
+        {
+            "person": "黃智賢",
+            "verb": "指出",
+            "opinion": "在台灣當局躺平之後,人民沒有躺平。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 19:05"
+        },
+        {
+            "person": "黃智賢",
+            "verb": "說",
+            "opinion": "台灣29日新增確診7萬6539人,新增死亡145人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:28"
+        },
+        {
+            "person": "黃智賢",
+            "verb": "表示",
+            "opinion": "「我們日夜兼程,為中國統一與復興。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 19:55"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "徐定禎",
+            "verb": "說",
+            "opinion": "「畢竟這是國民黨家務事,不過就我這樣跑下來,我發現民心思變,苗栗也該到輪替時候了,不管是誰我都沒在怕。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 18:41"
+        },
+        {
+            "person": "徐定禎",
+            "verb": "說",
+            "opinion": "「不管對手是誰我都沒在怕的啦,我都全力以赴。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不管",
+                "對手"
+            ],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-05-27 19:38"
+        },
+        {
+            "person": "徐定禎",
+            "verb": "說",
+            "opinion": "「我知道他們目前派系間還鬥得很厲害,個人當然不敢講說是一場鬧劇,不過目前看起來似乎要團結也不容易,還是一團心結。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "派系",
+                "鬧劇"
+            ],
+            "positive_list": [
+                "知道",
+                "容易",
+                "當然"
+            ],
+            "datetime": "2022-05-28 18:22"
+        },
+        {
+            "person": "徐定禎",
+            "verb": "說",
+            "opinion": "他受寵若驚,不過,他有信心,民調結果會呈現,他的支持度高於劉政鴻。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "有信心",
+                "信心",
+                "信心"
+            ],
+            "datetime": "2022-05-28 18:22"
+        },
+        {
+            "person": "徐定禎",
+            "verb": "說",
+            "opinion": "「感覺上選戰還沒開始的感覺,我們祝福國民黨,最快的能夠產生候選人出來,大家君子之爭,讓鄉親來做抉擇,我戒慎恐懼繼續努力,我想就我走基層的感覺,我們苗栗鄉親也慢慢在改變了。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "恐懼",
+                "恐懼"
+            ],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-06-03 20:02"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/,萬.png",
+    "opinions": [
+        {
+            "person": ",萬",
+            "verb": "表示",
+            "opinion": "林智堅轄內的新竹市人口數跟桃園區差不多,城市治理幅員不太一樣,林智堅當初以年輕、清新的形象在新竹颳起旋風,但現在他是地方父母官,很難想像他會丟掉新竹市,然後跑來桃園參選。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不太",
+                "丟掉"
+            ],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-05-26 20:02"
+        }
+    ]
+}

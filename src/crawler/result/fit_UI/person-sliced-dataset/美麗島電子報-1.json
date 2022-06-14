@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/美麗島電子報.png",
+    "opinions": [
+        {
+            "person": "美麗島電子報",
+            "verb": "指出",
+            "opinion": "針對「民眾認為今年的防疫表現是不是退步?」有64.5%的受訪者表示認同;另外對於「是否認為目前的防疫狀況已經失控?」則有57.9%認為已經失控。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "失控",
+                "否認",
+                "退步",
+                "不是",
+                "失控"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-05-28 11:06"
+        }
+    ]
+}

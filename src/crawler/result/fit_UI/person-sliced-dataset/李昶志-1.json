@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李昶志.png",
+    "opinions": [
+        {
+            "person": "李昶志",
+            "verb": "認為",
+            "opinion": "「大家都是朋友,所以我把這次初選定義是比賽,而不是競爭。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "競爭",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 18:25"
+        }
+    ]
+}

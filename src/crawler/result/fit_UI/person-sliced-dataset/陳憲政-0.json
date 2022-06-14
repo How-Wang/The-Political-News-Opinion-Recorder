@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳憲政.png",
+    "opinions": [
+        {
+            "person": "陳憲政",
+            "verb": "說",
+            "opinion": "目前與海洋有關的法規,散落在各法律中,但因保護標的不一,導致管制標準有所差異,海洋保育因此無法落實;呼籲行政院為了漁業資源、海洋生育,應盡速催生海洋三法。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "差異",
+                "散落",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "生育",
+                "法律",
+                "保護",
+                "資源"
+            ],
+            "datetime": "2022-06-08 14:02"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李男.png",
+    "opinions": [
+        {
+            "person": "李男",
+            "verb": "強調",
+            "opinion": "不是要錢,是要捐給媽祖,檢方認為李男嫌涉犯偽造公、私文書及恐嚇危害安全罪等20罪,予以起訴。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "危害",
+                "恐嚇",
+                "起訴",
+                "偽造",
+                "不是",
+                "恐嚇",
+                "偽造"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-05-26 09:18"
+        }
+    ]
+}

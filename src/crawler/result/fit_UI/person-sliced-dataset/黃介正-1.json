@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃介正.png",
+    "opinions": [
+        {
+            "person": "黃介正",
+            "verb": "表示",
+            "opinion": "他們特別為國民黨駐美代表處,選一個能每天提醒自己「只有天空才是極限」,還能在美國首都看到「青天白日」的地方。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-09 04:07"
+        },
+        {
+            "person": "黃介正",
+            "verb": "表示",
+            "opinion": "他們特別為國民黨駐美代表處,選一個能每天提醒自己「只有天空才是極限」,還能在美國首都看到「青天白日」的地方。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-09 05:16"
+        },
+        {
+            "person": "黃介正",
+            "verb": "表示",
+            "opinion": "他們特別為國民黨駐美代表處,選一個能每天提醒自己「只有天空才是極限」,還能在美國首都看到「青天白日」的地方。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-09 07:06"
+        }
+    ]
+}

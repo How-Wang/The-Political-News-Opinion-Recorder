@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/沈詠佩.png",
+    "opinions": [
+        {
+            "person": "沈詠佩",
+            "verb": "表示",
+            "opinion": "「我們支持能源的轉型,也尊重專業的評估,同時也要求台電盡可能來提出,降低環境影響的評估方案。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "降低"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-01 17:18"
+        }
+    ]
+}

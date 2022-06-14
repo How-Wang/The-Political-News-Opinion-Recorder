@@ -1,0 +1,138 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市政府警察局.png",
+    "opinions": [
+        {
+            "person": "台北市政府警察局",
+            "verb": "宣布",
+            "opinion": "大巨蛋權利金採包底抽成分潤,營收1000元,台北市可分到6元,對此,台北副市長黃珊珊表示,原契約對台北市政府十分不利,所以議約難度很高,自己從頭到尾只有一個念頭,就是為台北市民取回應有的權益,「今天是從政以來最欣慰的一天,前朝做不到的,我們做到了,0權利金的不平等條約,就此終結。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "不利",
+                "不到",
+                "不平",
+                "不利",
+                "不到"
+            ],
+            "positive_list": [
+                "平等",
+                "權益"
+            ],
+            "datetime": "2022-05-31 15:57"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "說明",
+            "opinion": "會,北市府與遠雄簽署備忘錄,營收分潤採「抽成」與「保底」方式處理,由遠雄每年預估營收,若預估營收為60億元,而年營收低於60億元以下,分潤包底為0.6%,保底可收3600萬元;倘若年營收超過60億元,則分為2區間收取超額營收分潤,100%至120%以下收取營收1%,超過120%收取1.6%分潤。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:42"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "解釋",
+            "opinion": "『證據』是什麼意思」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:52"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "強調",
+            "opinion": "調查結果未出爐前,許多網民大肆評論肉搜,片面公布非當事人姓名,恣意公審,已損害北市員工名譽,更衍生「北市府養網軍?」負面報導。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "恣意",
+                "損害"
+            ],
+            "positive_list": [
+                "名譽"
+            ],
+            "datetime": "2022-06-02 23:15"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "宣布",
+            "opinion": "大巨蛋營收分潤採包底抽成,大巨蛋若營收1000元,北市府可分得6元。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 10:02"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "指出",
+            "opinion": "在影片顯示時間下午3點48分26秒左右,民視、台視、華視聯合提問時就有說到「儘管現在中央不強制24小時(影片即時字幕寫成20小時)內火化確診遺體」,當時柯文哲也在現場,但是這個問題是交由副市長黃珊珊答覆。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "強制",
+                "問題"
+            ],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-06-06 06:55"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "提出",
+            "opinion": "台北市振興政策,輸血給各行業。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 15:56"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "質疑",
+            "opinion": "是「養網軍帶風向」,特別是一名會展產業發展基金會的林育生姓員工散布「妻子中重症住院、3個孩子發高燒」,慘遭被記過2次、年度考績丙,確定拿不到年終獎金。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "特別",
+                "發展",
+                "確定"
+            ],
+            "datetime": "2022-06-08 16:49"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "發現",
+            "opinion": "多個帳號上班時間在批踢踢發政治文,外界質疑養網軍,爭議持續延燒,台北市長柯文哲備詢時也被問到此事。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:01"
+        },
+        {
+            "person": "台北市政府警察局",
+            "verb": "質疑",
+            "opinion": "這是市長柯文哲的「畢業成果發表會」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:41"
+        }
+    ]
+}

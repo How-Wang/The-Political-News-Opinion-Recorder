@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳文昌.png",
+    "opinions": [
+        {
+            "person": "陳文昌",
+            "verb": "說",
+            "opinion": "「她拿到64%的滿意度,她還很高興,還說敬好宜蘭,實際上我們知道說,根本是欺騙縣民,把縣民當成塑膠。」",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "欺騙",
+                "欺騙"
+            ],
+            "positive_list": [
+                "知道",
+                "高興",
+                "實際",
+                "滿意",
+                "高興",
+                "滿意"
+            ],
+            "datetime": "2022-05-30 23:20"
+        }
+    ]
+}

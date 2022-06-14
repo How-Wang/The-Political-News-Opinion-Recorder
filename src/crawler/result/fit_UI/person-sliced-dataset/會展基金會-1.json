@@ -1,0 +1,104 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/會展基金會.png",
+    "opinions": [
+        {
+            "person": "會展基金會",
+            "verb": "表示",
+            "opinion": "針對報載疑網軍PTT造謠發文「老婆3孩確診」被起底IP位於北市府1案,經查該IP及帳號「LXXXXXXr」確為本會同仁所使用。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "造謠",
+                "造謠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 22:48"
+        },
+        {
+            "person": "會展基金會",
+            "verb": "表示",
+            "opinion": "此案為同仁個人家庭成員在疫情之下的親身遭遇,而非惡意中傷造謠,純屬個人抒發不滿情緒之發言,而非報載所述為市府豢養網軍,純為個人所為,本會針對其於上班時間發表私人言論作為,實屬不當,亦檢討業務督導不周之責並依規定懲處。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "中傷",
+                "造謠",
+                "惡意",
+                "遭遇",
+                "不滿",
+                "造謠"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-03 02:42"
+        },
+        {
+            "person": "會展基金會",
+            "verb": "說明",
+            "opinion": "此案為同仁個人家庭成員在疫情之下的親身遭遇,而非惡意中傷造謠,純屬個人抒發不滿情緒之發言,而非報載所述為市府豢養網軍,純為個人所為,將依規定懲處。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "中傷",
+                "造謠",
+                "惡意",
+                "遭遇",
+                "不滿",
+                "造謠"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-06 18:22"
+        },
+        {
+            "person": "會展基金會",
+            "verb": "說",
+            "opinion": "謊,皆對會展基金會聲譽有重大影響,故人評會決議記過2次,年度考績丙等,無年終獎金」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重大",
+                "聲譽"
+            ],
+            "datetime": "2022-06-07 15:43"
+        },
+        {
+            "person": "會展基金會",
+            "verb": "表示",
+            "opinion": "此案為同仁個人家庭成員在疫情之下的親身遭遇,而非惡意中傷造謠,純屬個人抒發不滿情緒之發言,而非報載所述為市府豢養網軍,純為個人所為,本會針對其於上班時間發表私人言論作為,實屬不當,亦檢討業務督導不周之責並依規定懲處。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "中傷",
+                "造謠",
+                "惡意",
+                "遭遇",
+                "不滿",
+                "造謠"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-07 15:31"
+        },
+        {
+            "person": "會展基金會",
+            "verb": "說",
+            "opinion": "謊,皆對會展基金會聲譽有重大影響,故人評會決議記過2次,年度考績丙等,無年終獎金」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重大",
+                "聲譽"
+            ],
+            "datetime": "2022-06-08 09:13"
+        }
+    ]
+}

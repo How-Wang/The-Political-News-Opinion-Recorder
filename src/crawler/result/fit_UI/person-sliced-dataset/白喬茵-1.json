@@ -1,0 +1,94 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/白喬茵.png",
+    "opinions": [
+        {
+            "person": "白喬茵",
+            "verb": "說",
+            "opinion": "「因為有他們(爸媽),我才有正直的性格,還有勤勞的雙腳,特別把他們拉出來,陪我一起參與這最後的一役。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "拉出",
+                "拉出來"
+            ],
+            "positive_list": [
+                "正直",
+                "正直的",
+                "特別"
+            ],
+            "datetime": "2022-05-26 18:25"
+        },
+        {
+            "person": "白喬茵",
+            "verb": "說",
+            "opinion": "「不會找不到母雞,我們最近積極地走訪基層,大家唯一共同的心聲就是沒有意外,所以大家認為說,最大公約數就是川伯。」",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不會",
+                "沒有",
+                "意外",
+                "不到",
+                "不會",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-05-27 18:45"
+        },
+        {
+            "person": "白喬茵",
+            "verb": "表示",
+            "opinion": "雖然拿下過半支持,但絕對還有很多不足的地方,必須更努力勤走基層聆聽建議、更謙虛地向前輩學習在地經驗,她也會一一拜會這次初選中的所有對手,希望可以成功整合成一支最強的隊伍,一起團結拿下國民黨在左楠的關鍵第五席。",
+            "negative_score": 5,
+            "positive_score": 8,
+            "negative_list": [
+                "不足",
+                "不足的",
+                "絕對",
+                "對手",
+                "不足"
+            ],
+            "positive_list": [
+                "成功",
+                "努力",
+                "希望",
+                "很多",
+                "經驗",
+                "學習",
+                "謙虛",
+                "希望"
+            ],
+            "datetime": "2022-05-29 11:52"
+        },
+        {
+            "person": "白喬茵",
+            "verb": "說",
+            "opinion": "「我們勝出初選的這位新人,其實要贏得大選,真的要非常非常地用力,才有可能會開出紅盤。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "用力"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 18:32"
+        },
+        {
+            "person": "白喬茵",
+            "verb": "表示",
+            "opinion": "希望可以成功整合成一支最強的隊伍,一起團結拿下國民黨在左楠的關鍵第五席。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-29 11:36"
+        }
+    ]
+}

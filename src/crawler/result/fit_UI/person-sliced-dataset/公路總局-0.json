@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/公路總局.png",
+    "opinions": [
+        {
+            "person": "公路總局",
+            "verb": "說明",
+            "opinion": "我國國際駕照互惠之國家及地區有95個,美國有48州(加地方),加拿大13省,經統計2017至2019年每年核發國際駕照計16萬餘件、109年起受情影響出國人數,每年核發3萬餘件。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "互惠"
+            ],
+            "datetime": "2022-06-01 16:06"
+        },
+        {
+            "person": "公路總局",
+            "verb": "指出",
+            "opinion": "為強化我國國際駕駛執照之辨識性,於我國國際駕駛執照加註「TAIWAN」文字,以維護我國國人在海外駕車權益,自2022年7月1日起啟用。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "權益"
+            ],
+            "datetime": "2022-06-01 16:06"
+        }
+    ]
+}

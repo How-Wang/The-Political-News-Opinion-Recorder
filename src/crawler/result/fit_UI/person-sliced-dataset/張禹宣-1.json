@@ -1,0 +1,55 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張禹宣.png",
+    "opinions": [
+        {
+            "person": "張禹宣",
+            "verb": "質疑",
+            "opinion": "天虹科技副總經理羅偉瑞為政院發言人羅秉成堂弟等一事,羅秉成1日再次駁斥,強調對該車禍案件的始末毫無所悉,不曾為此事與該案相關人士有任何接觸,也絕無介入或干涉個案。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "干涉",
+                "毫無",
+                "駁斥",
+                "駁斥"
+            ],
+            "positive_list": [
+                "毫無",
+                "絕無"
+            ],
+            "datetime": "2022-06-01 15:55"
+        },
+        {
+            "person": "張禹宣",
+            "verb": "質疑",
+            "opinion": "天虹科技副總經理羅偉瑞為行政院發言人羅秉成堂兄弟,羅秉成駁斥,他絕無介入或干涉個案之情形存在,而他只有一個親弟弟,而他的父親也是獨子,所以他本人也沒有堂兄弟的親戚。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "干涉",
+                "沒有",
+                "駁斥",
+                "沒有",
+                "駁斥"
+            ],
+            "positive_list": [
+                "絕無"
+            ],
+            "datetime": "2022-06-01 16:33"
+        },
+        {
+            "person": "張禹宣",
+            "verb": "指出",
+            "opinion": "天虹科技副總羅偉瑞違規撞死騎士,接連被踢爆關說施壓警界,甚至遭質疑難道是「朝中有人」「高人指點」,請問這位高人是否就是政務委員兼發言人羅秉成。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑",
+                "違規",
+                "撞死"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:27"
+        }
+    ]
+}

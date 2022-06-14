@@ -1,0 +1,49 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/彭文正.png",
+    "opinions": [
+        {
+            "person": "彭文正",
+            "verb": "質疑",
+            "opinion": "判決遭政治干預,侵害他的訴訟權、名譽權,向張詠惠求償新台幣200萬元,北院去年判決彭文正敗訴。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "判決",
+                "侵害"
+            ],
+            "positive_list": [
+                "名譽"
+            ],
+            "datetime": "2022-06-10 22:02"
+        },
+        {
+            "person": "彭文正",
+            "verb": "質疑",
+            "opinion": "本案要一次辯論終結,並指法官未審先判,當庭聲請法官迴避。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辯論"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 22:02"
+        },
+        {
+            "person": "彭文正",
+            "verb": "質疑",
+            "opinion": "蔡英文總統學歷,向台北地方法院提起「確認博士論文不存在之訴」,北院一審認定,彭文正僅就蔡英文總統是否取得博士學位的事實請求確認,而非請求確認法律關係,不符民事訴訟法要件,予以駁回。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不存在",
+                "不符",
+                "駁回"
+            ],
+            "positive_list": [
+                "法律",
+                "請求"
+            ],
+            "datetime": "2022-06-10 22:02"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/星野.png",
+    "opinions": [
+        {
+            "person": "星野",
+            "verb": "表示",
+            "opinion": "在COVID-19(2019冠狀病毒疾病)疫情發生前,群馬縣日台議員聯盟每年訪台灣2、3次,上一次是2020年到台中參加台灣燈會,當時如果再晚一點可能就無法成行了。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "疾病",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-06-12 23:35"
+        }
+    ]
+}

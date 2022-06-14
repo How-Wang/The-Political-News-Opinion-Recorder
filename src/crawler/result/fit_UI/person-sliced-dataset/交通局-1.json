@@ -1,0 +1,154 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "交通局",
+            "verb": "回應",
+            "opinion": "表示影片中的文字並非出自台北市政府交通局提供。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 20:17"
+        },
+        {
+            "person": "交通局",
+            "verb": "說",
+            "opinion": "Cheap前面講述機車的「歷史」佔比太多了,要他減少或替換成機車肇事原因,像是「交通事故受傷人數最高的是機車」,並宣導注意車前狀況、不超速、「依規定禮讓大小客車」。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "事故",
+                "受傷",
+                "減少",
+                "傷人",
+                "機車"
+            ],
+            "positive_list": [
+                "注意",
+                "最高",
+                "最高的"
+            ],
+            "datetime": "2022-05-21 20:17"
+        },
+        {
+            "person": "交通局",
+            "verb": "表示",
+            "opinion": "關於影片中所提宣導重點,是要強調「勿與大型車併行,遠離大型車」等交安觀念。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "遠離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 20:17"
+        },
+        {
+            "person": "交通局",
+            "verb": "提到",
+            "opinion": "交通局說「機車要禮讓大小客車」、「牛排館比喻」等爭議言論都是公關加油添醋,交通局完全不知情。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不知",
+                "不知",
+                "加油添醋",
+                "機車"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 19:18"
+        },
+        {
+            "person": "交通局",
+            "verb": "痛批",
+            "opinion": "交通局,直說交通局明明有一個禮拜可以阻止,「是公關公司沒有轉達呢?還是台北市交通局沒在怕呢」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "阻止",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 19:18"
+        },
+        {
+            "person": "交通局",
+            "verb": "表示",
+            "opinion": "民眾可由現場收費牌面檢視該路段是否屬周日收費路段。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:16"
+        },
+        {
+            "person": "交通局",
+            "verb": "發現",
+            "opinion": "將造成車流堵塞而作罷,如今在議員要求之下,交通局將重啟評估。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "堵塞"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 23:05"
+        },
+        {
+            "person": "交通局",
+            "verb": "認為",
+            "opinion": "重新橋機車道(新莊往三重方向)事故頻繁,分析肇因及碰撞型態後,發現多為未保持安全車距及超速造成追撞事故,除完成橋梁系統化標誌整理及破損設施修復外,也建置區間平均速率執法設備,該路段限速40公里/小時,於今天(5日)上路,目前為宣導期,並不會開單,正式執法日期將再行公布。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "事故",
+                "碰撞",
+                "頻繁",
+                "不會",
+                "機車"
+            ],
+            "positive_list": [
+                "正式",
+                "安全",
+                "完成"
+            ],
+            "datetime": "2022-06-05 18:40"
+        },
+        {
+            "person": "交通局",
+            "verb": "回應",
+            "opinion": "已得知林育生於上班期間從事非公務行為,將提送考績會議處,至該林育生發言是否等同於外界所說的網軍,目前由資訊局進行調查中,若結果認為確有從事網軍行為,再進行檢討議處。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-06 20:19"
+        },
+        {
+            "person": "交通局",
+            "verb": "回應",
+            "opinion": "5日晚間得知本事件,目前正進行相關調查,已知部分為該同仁於上班期間有從事非公務行為,將提送考績會議處;至該同員網路發言是否等同於外界所說的網軍行為,目前由資訊局進行調查,其調查結果如認為同仁確有從事網軍行為,再進行後續檢討議處。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-06 15:23"
+        },
+        {
+            "person": "交通局",
+            "verb": "表示",
+            "opinion": "上午已召開考績會,對林育生將有行政處分,但紀錄尚在整理中,結果仍待核定為準。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:39"
+        }
+    ]
+}

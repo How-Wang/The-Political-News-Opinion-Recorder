@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新冠肺炎.png",
+    "opinions": [
+        {
+            "person": "新冠肺炎",
+            "verb": "說明",
+            "opinion": "此藥:仍在進行研究中,目前不知道所有風險;副作用則有,胃覺改變、腹瀉、高血壓、肌肉疼痛。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "疼痛",
+                "不知"
+            ],
+            "positive_list": [
+                "知道",
+                "進行"
+            ],
+            "datetime": "2022-06-02 09:11"
+        }
+    ]
+}

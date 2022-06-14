@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蘋果新聞網.png",
+    "opinions": [
+        {
+            "person": "蘋果新聞網",
+            "verb": "發現",
+            "opinion": "想投陳炳甫建仁時中時中贏過蔣萬安10%,不過,網路民調範圍不限制在台北市,而《蘋果》民調黃珊珊只有10%支持度,未來北市「三腳督」情況下棄保效應是否發酵,備受關注。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "限制"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:32"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/BRT.png",
+    "opinions": [
+        {
+            "person": "BRT",
+            "verb": "質疑",
+            "opinion": "胡志強硬推BRT,藍線捷運因此停擺,對此判決,林佳龍尊重現在市府處置。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "判決",
+                "處置"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-12 17:16"
+        }
+    ]
+}

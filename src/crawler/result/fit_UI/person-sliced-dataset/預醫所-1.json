@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/預醫所.png",
+    "opinions": [
+        {
+            "person": "預醫所",
+            "verb": "說明",
+            "opinion": "資料指具備生物戰劑研發科技基礎,是否意指預醫所有研發生物戰劑防止中共侵台。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "防止"
+            ],
+            "datetime": "2022-06-07 12:45"
+        }
+    ]
+}

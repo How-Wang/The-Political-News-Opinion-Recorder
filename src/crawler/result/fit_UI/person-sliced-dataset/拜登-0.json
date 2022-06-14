@@ -1,0 +1,1045 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "拜登",
+            "verb": "指出",
+            "opinion": "可預見台美將致力為印太地區的經貿環境建立高標準,此不僅有助台灣提升長期競爭力與經濟永續成長,也將在區域與全球經貿領域扮演領導地位,為台灣進一步參與區域經貿整合提供重要動力。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "成長",
+                "有助",
+                "重要",
+                "提升",
+                "地位"
+            ],
+            "datetime": "2022-05-21 13:34"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "印太經濟架構(IPEF)正式成立,而鄧振中與戴琪20日在泰國舉行雙邊會談,外界關心是否與印太經濟架構有關。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "舉行",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-21 12:39"
+        },
+        {
+            "person": "拜登",
+            "verb": "認為",
+            "opinion": "與中國互別苗頭意味濃。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "拜登",
+            "verb": "回應",
+            "opinion": "「yes」,他說這是美國對台灣的承諾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-23 22:32"
+        },
+        {
+            "person": "拜登",
+            "verb": "指出",
+            "opinion": "若北京發動武力侵略,美國會以武力保衛台灣。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "侵略",
+                "動武",
+                "發動"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 18:16"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動「印太經濟架構」(IPEF),是拜登政府為對抗中國擴張影響力所採取的行動之一,首輪名單包括美日韓等13國,佔全球經濟生產總值約4成。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "生產"
+            ],
+            "datetime": "2022-05-23 17:38"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "若北京發動武力侵略,美國會以武力保衛台灣。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "侵略",
+                "動武",
+                "發動"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:28"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "如果中國對台灣發起行動,美國將進行軍事干預,中方對此有何回應。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-23 17:04"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動「印太經濟架構IPEF」,但台灣不會被列入。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 16:47"
+        },
+        {
+            "person": "拜登",
+            "verb": "回應",
+            "opinion": "「Yes!這是美國對台灣的承諾」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-23 15:31"
+        },
+        {
+            "person": "拜登",
+            "verb": "回應",
+            "opinion": "「yes!這是美國對台灣的承諾」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-23 15:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動「印太經濟架構IPEF」,白宮國安顧問蘇利文透露,台灣不會成為IPEF的創始成員,但強調會在高科技領域,尋求深化與我經貿關係。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "透露",
+                "不會"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-23 12:45"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "若中國發動武力侵略,美國將會動用武力軍事防衛台灣;隨後白宮官員也重申,美國對台政策不變。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "侵略",
+                "動武",
+                "發動"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 18:14"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "若北京發動武力侵略,美國將會動用武力軍事防衛台灣,他還警告中國正在玩火。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "侵略",
+                "動武",
+                "發動",
+                "警告"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 16:30"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "「我希望這不會發生,也希望不會有人嘗試這麼做」,否則將造成與俄烏戰爭類似的影響,導致區域和平動盪。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "戰爭",
+                "不會"
+            ],
+            "positive_list": [
+                "希望",
+                "和平",
+                "希望"
+            ],
+            "datetime": "2022-05-23 15:59"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動「印太經濟架構」(IPEF),不過美國白宮國家安全顧問蘇利文(JakeSullivan)昨(22)日表示,台灣不會成為IPEF首輪參與國家。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "安全",
+                "成為"
+            ],
+            "datetime": "2022-05-23 13:41"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "美國雖然認可(agreewith)一個中國政策,但中國對台灣動武將是「非常不正當⋯⋯將會顛覆整個地區,類似烏克蘭的狀況。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不正",
+                "不正當",
+                "動武",
+                "顛覆",
+                "不正"
+            ],
+            "positive_list": [
+                "正當",
+                "認可"
+            ],
+            "datetime": "2022-05-23 14:39"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "美國有防衛台灣的承諾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-23 14:39"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "美國政府正在考慮調降中國進口商品的關稅。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "考慮"
+            ],
+            "datetime": "2022-05-23 14:39"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "錯話,而是美國在台灣問題上,已經從戰略模糊,轉變為戰略清晰。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "模糊",
+                "問題"
+            ],
+            "positive_list": [
+                "清晰"
+            ],
+            "datetime": "2022-05-24 21:11"
+        },
+        {
+            "person": "拜登",
+            "verb": "認為",
+            "opinion": "美方立場沒變,但走向建設性清晰!烏克蘭戰爭爆發後,美國對台政策出現微妙轉變,拜登的兩面手法,無疑讓賽局走向「真明確假模糊」。",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "模糊",
+                "戰爭",
+                "爆發"
+            ],
+            "positive_list": [
+                "明確",
+                "建設",
+                "建設性",
+                "清晰",
+                "無疑",
+                "微妙"
+            ],
+            "datetime": "2022-05-24 17:33"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "「中國認為它台灣可以被武力奪取,光是使用武力這件事就很不可行,這將破壞整個地區,並成為類似於烏克蘭發生的情況。」",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "武力",
+                "破壞",
+                "奪取",
+                "不可",
+                "破壞"
+            ],
+            "positive_list": [
+                "可行",
+                "成為"
+            ],
+            "datetime": "2022-05-24 17:33"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動「印太經濟架構」,不過台灣沒有被納入其中,國民黨立委江啟臣質疑,蔡政府一再對內宣傳台美關係堅若磐石,但美對台軍售延宕,美國挺台參與WHA也只有聲援,印太經濟架構也排除台灣。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "一再",
+                "沒有",
+                "排除",
+                "質疑",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:49"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "這就是我們做過的承諾。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-24 10:12"
+        },
+        {
+            "person": "拜登",
+            "verb": "強調",
+            "opinion": "美國信守北約第五條「集體防禦」的神聖承諾,若有人要入侵或對北約盟國採取行動,美國將會做出回應;日本、南韓、台灣亦然。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "承諾",
+                "神聖"
+            ],
+            "datetime": "2022-05-24 09:58"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "不定就是為了說這句話而來的。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不定",
+                "不定"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 10:18"
+        },
+        {
+            "person": "拜登",
+            "verb": "強調",
+            "opinion": "「這是我們做出的承諾(That'sthecommitmentwemade)」,拜登直言「我們同意『一中政策』,但若以武力達到目的,這絕不是可行的方式」,不過拜登也補充表示「希望這樣的事件不會發生」。",
+            "negative_score": 5,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "武力",
+                "不是",
+                "不會",
+                "絕不"
+            ],
+            "positive_list": [
+                "可行",
+                "可行的",
+                "同意",
+                "希望",
+                "承諾",
+                "達到",
+                "希望"
+            ],
+            "datetime": "2022-05-24 10:01"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "若中國武力侵略,美國會動用武力軍事防衛台灣。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "侵略"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 10:01"
+        },
+        {
+            "person": "拜登",
+            "verb": "提出",
+            "opinion": "IPEF構想;今年2月再提出他任內的首份《印太戰略報告》,把「主導印太的經濟架構」列為未來12到24個月內,展開的10大行動計畫之一。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 07:10"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "兩人確認「台海和平穩定的重要性」。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "重要",
+                "重要性",
+                "穩定",
+                "穩定的"
+            ],
+            "datetime": "2022-05-25 12:17"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "錯?田中光表示他不宜評論。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 10:18"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "軍事保衛台灣是美國的承諾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-25 09:37"
+        },
+        {
+            "person": "拜登",
+            "verb": "指出",
+            "opinion": "美國對台政策不變,仍致力於支持台海和平穩定,並確保不會片面改變現狀。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "穩定"
+            ],
+            "datetime": "2022-05-25 07:21"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "錯話,而是美國在台灣問題上,已經從戰略模糊,轉變為戰略清晰。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "模糊",
+                "問題"
+            ],
+            "positive_list": [
+                "清晰"
+            ],
+            "datetime": "2022-05-25 10:25"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "對台戰略模糊政策沒有改變,不過這席話引發國際高度關注。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 10:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "指出",
+            "opinion": "美國對台政策不變,仍致力於支持台海和平穩定,並確保不會片面改變現狀。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "穩定"
+            ],
+            "datetime": "2022-05-25 09:44"
+        },
+        {
+            "person": "拜登",
+            "verb": "說明",
+            "opinion": "這種重要的國際記者會,基本上由官方主導,因時間有限,能夠提問的記者只有幾個,為了避免問題重複,提出的問題事先都有和主辦方溝通。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "避免",
+                "問題"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "避免"
+            ],
+            "datetime": "2022-05-25 09:19"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "出兵保台,也是戰略模糊的一種可能性。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "模糊",
+                "模糊的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 21:49"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "一旦台灣遭到中國入侵,美國將以「軍事干預」防衛台灣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 21:25"
+        },
+        {
+            "person": "拜登",
+            "verb": "解釋",
+            "opinion": "當時許多媒體將拜登發言解讀為「失言」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 08:30"
+        },
+        {
+            "person": "拜登",
+            "verb": "提到",
+            "opinion": "若北京發動武力侵略,美國將會動用武力軍事防衛台灣,邱國正會前受訪表示,只要有利台澎防衛作戰,樂見也歡迎任何言論及作為,但他還是強調一句話,國軍立場很簡單,自助才會人助,國軍必須做好自己的戰訓本務,不能因別人一句話就高興、依賴,「國軍不會這樣做」。",
+            "negative_score": 9,
+            "positive_score": 7,
+            "negative_list": [
+                "不能",
+                "不會",
+                "作戰",
+                "依賴",
+                "武力",
+                "侵略",
+                "動武",
+                "發動",
+                "不會"
+            ],
+            "positive_list": [
+                "有利",
+                "高興",
+                "歡迎",
+                "自助",
+                "高興",
+                "樂見",
+                "歡迎"
+            ],
+            "datetime": "2022-05-26 10:13"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動IPEF時表示,IPEF未來將開放有意參與且願致力達成相關目標的國家申請加入,因此台灣雖未被納入首輪名單,但不表示就已遭排除在IPEF機制之外。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "未被",
+                "排除",
+                "有意"
+            ],
+            "positive_list": [
+                "開放",
+                "達成"
+            ],
+            "datetime": "2022-05-26 08:55"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "美國政策不變,拜登重申美方的一中政策與對台海和平穩定的承諾,以及在台灣關係法下向台灣提供軍事手段以自我防衛的承諾。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "承諾",
+                "穩定",
+                "穩定的"
+            ],
+            "datetime": "2022-05-26 07:44"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "如果北京發動武力侵略,美國將會動用武力軍事防衛台灣,國防部長邱國正26日回應,各個國家不管有沒有邦交,任何言論、作為對台灣的防衛作戰有利,國防部都表達歡迎,國軍的立場是做好戰訓本務,不會光憑人家一句話、一個動作就高興依賴。",
+            "negative_score": 12,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "不管",
+                "好戰",
+                "作戰",
+                "沒有",
+                "依賴",
+                "武力",
+                "侵略",
+                "動武",
+                "發動",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "有利",
+                "高興",
+                "歡迎",
+                "高興",
+                "歡迎"
+            ],
+            "datetime": "2022-05-26 09:36"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動「印太經濟架構」(IPEF),首輪名單包括美日韓等13國,但台灣不在其中,引發質疑。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 09:49"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "中國若武力犯台,美國會用軍事手段保衛台灣。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "武力"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:01"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "各個國家不管有沒有邦交,任何言論、任何作為只要對台灣作戰有利,我們樂見並表達歡迎。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不管",
+                "作戰",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "有利",
+                "歡迎",
+                "樂見",
+                "歡迎"
+            ],
+            "datetime": "2022-05-26 10:01"
+        },
+        {
+            "person": "拜登",
+            "verb": "回應",
+            "opinion": "「是的,這是我們的承諾」;美國國務卿布林肯發表對中國政策,則重申美國對一中政策立場不變,並譴責中國對台灣的打壓及脅迫。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "脅迫",
+                "譴責",
+                "打壓"
+            ],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-27 10:58"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "將評估由前總統川普加徵的對陸關稅,激勵美股期指和歐股早盤大漲。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "激勵",
+                "激勵"
+            ],
+            "datetime": "2022-05-27 06:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "中國若企圖武力犯台,美國願「軍事介入」保衛台灣,警告共機擾台之舉是「正在玩火」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "武力",
+                "警告"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 06:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "這是我們做出的承諾。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-27 06:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "拜登5月24日前腳剛離開日本,中、俄轟炸機就在西太平洋進行聯合戰略巡航,中國解放軍潛艦疑似在南海發射1枚潛射彈道導彈(SLBM),北韓也朝日本海發射3枚導彈,北韓一直就是這樣,可以理解,但這次更敏感的是,「中俄明顯聯手,等於是在俄羅斯發動戰爭被全世界孤立的狀況下,中國好像還是不在乎」。",
+            "negative_score": 9,
+            "positive_score": 7,
+            "negative_list": [
+                "不在乎",
+                "孤立",
+                "孤立的",
+                "敏感",
+                "敏感的",
+                "發動",
+                "戰爭",
+                "離開",
+                "轟炸"
+            ],
+            "positive_list": [
+                "在乎",
+                "明顯",
+                "敏感",
+                "敏感的",
+                "理解",
+                "進行",
+                "聯合"
+            ],
+            "datetime": "2022-05-28 08:40"
+        },
+        {
+            "person": "拜登",
+            "verb": "呼籲",
+            "opinion": "將台灣納入「印太經濟架構」(IPEF);她並曾與聯邦參議員柯寧(JohnCornyn)於去年7月共同提出「台灣夥伴法案」(TaiwanPartnershipAct),鼓勵各州國民兵與中華民國國軍建立夥伴計畫,已獲納入「2022會計年度國防授權法」(NDAA2022)通過立法。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "通過",
+                "鼓勵",
+                "夥伴"
+            ],
+            "datetime": "2022-05-31 20:54"
+        },
+        {
+            "person": "拜登",
+            "verb": "呼籲",
+            "opinion": "將台灣納入「印太經濟架構」(IPEF)。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:30"
+        },
+        {
+            "person": "拜登",
+            "verb": "回應",
+            "opinion": "「是」,並強調這是做過的承諾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-05-31 17:01"
+        },
+        {
+            "person": "拜登",
+            "verb": "提出",
+            "opinion": "的印太經濟架構,達克沃絲也與其他51名參議員聯名,呼籲台灣應加入其中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 07:45"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動IPEF,但首批成員並未納入台灣;CNN認為,如今美台發展類似雙邊架構的同時,官員似對最終讓台灣加入IPEF持開放態度。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "發展",
+                "開放"
+            ],
+            "datetime": "2022-06-02 10:52"
+        },
+        {
+            "person": "拜登",
+            "verb": "強調",
+            "opinion": "美國在《台灣關係法》之下對台灣的承諾「堅若磐石」;5月31日他在接見美國參議員達克沃絲(TammyDuckworth)來訪時,她也清楚傳達「美國將與台灣站在一起,不會讓台灣孤軍奮戰」之意。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "承諾",
+                "清楚"
+            ],
+            "datetime": "2022-06-02 16:23"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "啟動IPEF,但首批成員並未納入台灣;CNN認為,如今美台發展類似雙邊架構的同時,官員似對最終讓台灣加入IPEF持開放態度。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "發展",
+                "開放"
+            ],
+            "datetime": "2022-06-02 11:33"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "若中國犯台願用武力防衛台灣。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "武力"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 09:40"
+        },
+        {
+            "person": "拜登",
+            "verb": "表示",
+            "opinion": "「若中國武力侵台,美國願意以武力保衛台灣」,拜登還說「中國軍機靠近台灣是在台海玩火」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "武力"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-02 07:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "會軍事保台又改口,到國務院修改公開的對台政策,一進一退之間,都有細膩的戰略考量。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "公開的",
+                "細膩",
+                "細膩的"
+            ],
+            "datetime": "2022-06-03 17:06"
+        },
+        {
+            "person": "拜登",
+            "verb": "宣布",
+            "opinion": "要花7億美元軍援烏克蘭,其中還有海馬斯引導火箭彈。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 13:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "認為",
+            "opinion": "美國真的會出兵保衛台灣?朱立倫強調,拜登政府的一中政策和兩岸立場是美國長期以來的立場,會因為印太局勢有所調整,拜登現在訪問日韓,是因應新政府成立;拜登表達對台灣的關心,朱立倫表示感謝,「但還是要靠自己努力」。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "感謝",
+                "關心",
+                "感謝",
+                "關心"
+            ],
+            "datetime": "2022-06-03 12:10"
+        },
+        {
+            "person": "拜登",
+            "verb": "質疑",
+            "opinion": "他們對世衛組織的巨額財務捐助究竟符合哪方的利益」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "利益",
+                "符合"
+            ],
+            "datetime": "2022-06-04 06:00"
+        },
+        {
+            "person": "拜登",
+            "verb": "提到",
+            "opinion": "日本原本不想和中國關係搞太僵,但俄烏戰爭後,日中分別站在兩個對立的陣營,兩國關係短時間內難以修補,因此日本政府決定此時對台灣問題「先往前走一步」。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "對立",
+                "對立的",
+                "戰爭",
+                "難以",
+                "問題",
+                "對立"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-06 08:20"
+        },
+        {
+            "person": "拜登",
+            "verb": "認為",
+            "opinion": "可用外交途徑解決,與先前作戰到底的姿態顯然不同,讓人有軍事支持烏克蘭虎頭蛇尾之感,台灣民眾普遍對拜登政府的堅持力更加懷疑。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "作戰",
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [
+                "可用",
+                "堅持",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-08 06:40"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "道美國將軍事協防台灣,很明顯兩個目的:1.試探中國的反應2.增加台灣人對美國的信心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "明顯",
+                "信心",
+                "增加",
+                "信心"
+            ],
+            "datetime": "2022-06-08 06:10"
+        },
+        {
+            "person": "拜登",
+            "verb": "說",
+            "opinion": "如果中國攻擊台灣,美國將軍事介入。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 14:44"
+        }
+    ]
+}

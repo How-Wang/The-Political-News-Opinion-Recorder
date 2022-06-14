@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許修睿.png",
+    "opinions": [
+        {
+            "person": "許修睿",
+            "verb": "認為",
+            "opinion": "新竹市長林智堅執政兩任,不儘早推出人選,怎麼對抗執政優勢。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "優勢"
+            ],
+            "datetime": "2022-06-11 18:55"
+        }
+    ]
+}

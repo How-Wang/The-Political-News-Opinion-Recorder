@@ -1,0 +1,19 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃任瑋",
+            "verb": "指出",
+            "opinion": "新竹市連年平均每戶可支配所得都名列全國前3,也因此造成計算基數高,成長率相對低。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "支配"
+            ],
+            "positive_list": [
+                "成長"
+            ],
+            "datetime": "2022-05-31 13:05"
+        }
+    ]
+}

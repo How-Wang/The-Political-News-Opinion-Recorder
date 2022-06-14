@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台文超.png",
+    "opinions": [
+        {
+            "person": "台文超",
+            "verb": "強調",
+            "opinion": "優質的出版品,像是台語文藉由小說、繪本、漫畫、有聲書等形式出版,將有助於國家語言的復振,政府應多加支持。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "有助",
+                "優質",
+                "優質的"
+            ],
+            "datetime": "2022-06-05 17:05"
+        }
+    ]
+}

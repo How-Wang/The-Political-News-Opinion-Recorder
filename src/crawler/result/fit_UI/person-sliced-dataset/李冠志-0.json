@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李冠志.png",
+    "opinions": [
+        {
+            "person": "李冠志",
+            "verb": "表示",
+            "opinion": "兩年多來防疫政策持續在修正檢討,除考量產業界,也要考量國內社會各種生活的層面,以及醫療的量能。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:51"
+        }
+    ]
+}

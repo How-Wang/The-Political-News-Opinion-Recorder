@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/兆豐產.png",
+    "opinions": [
+        {
+            "person": "兆豐產",
+            "verb": "表示",
+            "opinion": "考慮保戶在今年4到7月疫情期間是否有足夠保障,已投保其他家防疫險的保單生效日,若是落在2022年1月1日之後者,才會列入核保考量婉拒投保,在此之前的,就不列入考慮。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "婉拒"
+            ],
+            "positive_list": [
+                "生效",
+                "考慮",
+                "足夠"
+            ],
+            "datetime": "2022-06-06 18:37"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/經貿辦.png",
+    "opinions": [
+        {
+            "person": "經貿辦",
+            "verb": "指出",
+            "opinion": "食品安全議題部分,共有中興大學法政學院副院長林昱梅、陽明交通大學教授倪貴榮、政治大學教授楊培侃及行政院食品安全辦公室主任許輔等人與會;投資人保障議題方面,則有經貿辦副總談判代表楊珍妮、東吳大學教授李貴英、經濟部投資審議委員會副執行秘書呂貞慧、東吳大學助理教授張愷致參與。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-05-27 21:30"
+        },
+        {
+            "person": "經貿辦",
+            "verb": "指出",
+            "opinion": "結合中美洲友邦貝里斯、瓜地馬拉、宏都拉斯特色美食與文化所打造的「中美洲友邦胖卡餐車環台之旅」,自4月2日起陸續走訪全台各地,4輛胖卡下午齊聚台北兒童新樂園,與現場大小朋友一起同樂。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "特色",
+                "樂園"
+            ],
+            "datetime": "2022-05-29 16:43"
+        },
+        {
+            "person": "經貿辦",
+            "verb": "指出",
+            "opinion": "瓜地馬拉對台的貿易額穩定提升,瓜國大使葛梅斯日前更跟著餐車,親自到宜蘭、高雄,推廣傳統美食,可見兩國互動緊密。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提升",
+                "穩定"
+            ],
+            "datetime": "2022-05-29 19:07"
+        },
+        {
+            "person": "經貿辦",
+            "verb": "指出",
+            "opinion": "瓜地馬拉對台的貿易額穩定提升,像是白蝦、酪梨、咖啡等產品在台有高市占率,顯示台、瓜互動密切。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提升",
+                "穩定"
+            ],
+            "datetime": "2022-05-29 16:52"
+        }
+    ]
+}

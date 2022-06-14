@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王興煥.png",
+    "opinions": [
+        {
+            "person": "王興煥",
+            "verb": "指出",
+            "opinion": "面對中國的國族主義與宗法社會所形成的超穩定結構,中國人必須了解,中國的民主化只能冀望自己,全世界只能給予祝福,但沒有責任。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "冀望"
+            ],
+            "positive_list": [
+                "了解",
+                "有責任",
+                "給予",
+                "穩定"
+            ],
+            "datetime": "2022-06-04 09:51"
+        },
+        {
+            "person": "王興煥",
+            "verb": "認為",
+            "opinion": "這對世界、中國與台灣而言,各有不同的意義。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 09:51"
+        },
+        {
+            "person": "王興煥",
+            "verb": "指出",
+            "opinion": "提名大概在這兩周會比較明朗,台灣基進大約在台中整體會提出2到4席的議員參選人,等到確定後,就會正式對外公布。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "確定"
+            ],
+            "datetime": "2022-06-07 13:20"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新北市警局.png",
+    "opinions": [
+        {
+            "person": "新北市警局",
+            "verb": "指出",
+            "opinion": "成州派出所座落在五股成泰路上,是二層樓的紅白磚瓦派出所,民國78年啟用迄今已33年,是當地居民的守護神,但歷經921地震主體結構受損,並有建築材料老化的問題,目前已呈現老舊斑駁現象。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "地震",
+                "問題",
+                "斑駁",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 12:21"
+        }
+    ]
+}

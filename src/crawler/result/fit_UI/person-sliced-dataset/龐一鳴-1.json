@@ -1,0 +1,42 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/龐一鳴.png",
+    "opinions": [
+        {
+            "person": "龐一鳴",
+            "verb": "說明",
+            "opinion": "「數位證明系統新增確診者隔離通知書補發功能」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "通知"
+            ],
+            "datetime": "2022-05-29 18:55"
+        },
+        {
+            "person": "龐一鳴",
+            "verb": "說",
+            "opinion": "補發功能今天零時上線後,到上午10時左右,已有7000人申請補發。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:32"
+        },
+        {
+            "person": "龐一鳴",
+            "verb": "表示",
+            "opinion": "5月1日以來,部分資料不全,缺電話號碼有20%,因此無法直接發簡訊給他。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "FAZ",
+            "verb": "說",
+            "opinion": "台灣與北約交換意見的機會愈來愈多,未來應當有合作的空間;特別是過去一年,越來越多歐洲國家表達對印太地區的高度關注,有助台灣獲得國際支持;台灣將持續加強與美歐理念相近國家的交流與合作。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "有助",
+                "特別",
+                "機會",
+                "獲得",
+                "合作"
+            ],
+            "datetime": "2022-06-10 17:33"
+        },
+        {
+            "person": "FAZ",
+            "verb": "說",
+            "opinion": "台灣與北約交換意見的機會愈來愈多,未來應當有合作的空間。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "機會",
+                "合作"
+            ],
+            "datetime": "2022-06-11 09:50"
+        }
+    ]
+}

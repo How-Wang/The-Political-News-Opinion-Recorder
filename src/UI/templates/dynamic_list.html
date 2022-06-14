@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='list.css') }}">
+<header>
+    <div class="header">
+        <h1 class="logo">
+            新聞議題 ‧ 分類列表 <span></span>
+        </h1>
+        <section class="social">
+            {% set last_link = "/dynamic/page/" ~ date ~ "/" ~ "now" %}
+            <a class="btn" href={{ last_link }}>回到首頁</a>
+        </section>
+    </div>
+</header>
+
+<body>
+    <div class="cent">
+        <div class="card">
+            <figure class="card_header">
+                {% set  title_link = "/dynamic/opinions/" ~date ~"/" ~ represent_news_id %}
+                {% set pic_link = "/dynamic/cluster_pic/" ~ date ~ "/" ~ topic ~ ".png" %}
+                <a href={{title_link}}><p><img src={{pic_link}} alt="picture error"></p></a>
+            </figure>
+            <div class="card_text">
+            <h2 class="card_title"><a href={{title_link}}>{{represent_title}}</a></h2>
+            <p class="card_desc">{{represent_article|truncate(100, True, '...', 0)}}</p> 
+            <div class="tag">
+                <h2><mark class="green">議題關鍵字</mark></h2>
+                {% for tag_item in tag %}
+                    <span class="tag_item">{{tag_item}}</span>
+                {% endfor %}
+            </div>
+            <h2 class="card_title"><mark class="orange">相關新聞列表</mark></h2>
+            </div>
+        </div>
+        <div class="gradient-list">
+            {% for title, article,index in article_list %}
+                <div class="card_text">
+                    {% set link = "/dynamic/opinions/" ~ date ~"/" ~ index %}
+                    <h2 class="card_title"><a href={{link}}>{{ title }}</a></h2>
+                    <p class="card_desc">{{ article|truncate(50, True, '...', 0) }}</p> 
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>

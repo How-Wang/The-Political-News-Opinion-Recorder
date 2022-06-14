@@ -1,0 +1,404 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃德清.png",
+    "opinions": [
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "因為119報案電話本身涉及雙方個資問題,過去除司法單位調閱,一般碰到類似陳情案件,都是經過雙方當事人,即打電話的人與受理人同意下在現場聽取作為原則。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "去除",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "去除",
+                "同意"
+            ],
+            "datetime": "2022-06-02 11:44"
+        },
+        {
+            "person": "黃德清",
+            "verb": "提到",
+            "opinion": "一早已寄出10幾頁逐字譯文就是當日5通報案電話詳細逐字內容,可以很清楚顯現當時報案相關資訊,如恩恩爸有疑慮,會派專人把資料送過去,讓他當面聽取。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "疑慮",
+                "疑慮"
+            ],
+            "positive_list": [
+                "清楚",
+                "詳細"
+            ],
+            "datetime": "2022-06-02 11:44"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說",
+            "opinion": "提供的資料是當天5通119報案的逐字譯文,昨天本來想前往新竹與恩爸做說明,目前先將資料寄出,如恩爸有疑慮,我們隨時可派專人把錄音檔案資料給他聽取。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "疑慮",
+                "疑慮"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-02 10:33"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說明",
+            "opinion": "當時的中央指引規定,確診送醫需要送至專門的收治醫院,因此花了時間在安排醫療院所,但一切也是依照中央的指引來做相關的派遣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "專門",
+                "專門的"
+            ],
+            "datetime": "2022-06-02 10:33"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說",
+            "opinion": "「因為保護個資的問題,所以我們給他的資料,錄音檔的逐字的內容。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-06-02 19:04"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說",
+            "opinion": "「其中恩恩爸爸一直提到的錄音檔案,我們是用錄音檔的按逐字譯文的內容代替。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:22"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "恩恩爸爸提到的錄音檔案是用錄音檔按逐字譯文的內容代替,因為119報案電話涉及到雙方個資問題,過去除了司法單位調閱外,碰到類似陳情案件,都是經過雙方當事人同意下在現場聽取。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "去除",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "去除",
+                "同意"
+            ],
+            "datetime": "2022-06-02 10:23"
+        },
+        {
+            "person": "黃德清",
+            "verb": "回應",
+            "opinion": "基於個資問題,錄音檔案不宜公開。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-02 10:23"
+        },
+        {
+            "person": "黃德清",
+            "verb": "指出",
+            "opinion": "「衛生局之間相關的通聯內容,醫院相關通訊內容,因為恩恩爸爸不是當事人,所以在這個部分,初期是沒有提供給他的。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 18:30"
+        },
+        {
+            "person": "黃德清",
+            "verb": "提到",
+            "opinion": "昨日新北已經把事發當時119有回撥給恩恩媽媽的那三通電話逐字譯文掛號給恩爸,如果恩爸有需要聽取音檔,市府會請專人親送給他。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "媽的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:48"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說",
+            "opinion": "因涉及隱私、個資的保護,恩恩爸爸不是通話的雙方,所以不能提供。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-06-04 15:48"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "當時恩恩媽媽報案的錄音內容都準備好,隨時都可聽,可以派員去新竹,或是恩恩爸來消防局都會配合安排。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-05 15:26"
+        },
+        {
+            "person": "黃德清",
+            "verb": "指出",
+            "opinion": "「律師的說法我們都尊重,我們還是強調說基於,個人的隱私跟個資的保護,那119與衛生局還有,119與雙和醫院的這個通話的錄音,因為恩恩爸爸不是對話,雙方的通話者,所以我們不會提供。」",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "不是",
+                "不會"
+            ],
+            "positive_list": [
+                "保護",
+                "尊重",
+                "衛生",
+                "尊重",
+                "衛生"
+            ],
+            "datetime": "2022-06-05 18:44"
+        },
+        {
+            "person": "黃德清",
+            "verb": "回應",
+            "opinion": "尊重律師說法,並再次強調基於「個人隱私、個資保護」,因為恩恩爸不是通話者,所以不會提供錄音檔。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不是",
+                "不會"
+            ],
+            "positive_list": [
+                "保護",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-05 15:42"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說",
+            "opinion": "119與新北市政府衛生局間通話,恩恩父親非相關通話當事人,涉及隱私、個人資料保護,不提供音檔或譯文,僅提供處理過程文字說明。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "保護",
+                "說明",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-05 12:49"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說",
+            "opinion": "「在當天傍晚5點59分,我們接到恩恩媽媽第一通電話後,同時我們值勤員又接到另外一通,緊急救護案件因為非常緊急,所以我們處理完之後,我們就立即連繫衛生單位,均未來接通。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 18:27"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "恩恩爸爸的說法都尊重,不過法制人員再次說明,報案電話的資訊受「政府資訊公開法」、「個人資料保護法」,基於隱私及個人保護,才會請恩恩爸爸來消防局聽取錄音檔。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "保護",
+                "尊重",
+                "說明",
+                "尊重"
+            ],
+            "datetime": "2022-06-06 19:39"
+        },
+        {
+            "person": "黃德清",
+            "verb": "提到",
+            "opinion": "報案電話屬業務機密,且同時間也有其他的報案電話會在錄音裡,涉及其他救災救護案件的地址、身分等個資,且具有無法切割性,故不宜公開,也都受到通訊保障及監察法的規範恩恩爸爸今天表示,消防局通話錄音品質很好,他將錄音檔全部聽完,但沒聽到有其他報案同仁的個資等。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不宜",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "公開",
+                "很好",
+                "規範"
+            ],
+            "datetime": "2022-06-06 13:44"
+        },
+        {
+            "person": "黃德清",
+            "verb": "說明",
+            "opinion": "尊重恩恩爸,但因政府資訊公開法及個人資料保護法規範,才會提出這個方法,而新北市副市長劉和然補充,若有需要都會全力配合恩恩爸,錄音也可派專人送過去給他再次聆聽。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "全力",
+                "保護",
+                "規範",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-06 15:54"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "基於隱私及個人保護,無法提供錄音檔拷貝,但會再與法務人員討論。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-06-07 12:26"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "這部分已經跟跟恩恩爸詳細說明,能提供的市府一定提供相關不能提供的,有相關規定所以我們不能提供針對昨天「還原」勤務中心現場,黃德清重申,昨天有發聲明,恩恩爸是主動要來了解119相關作業環境,新北指揮中心要還原當時疫情期間,119確實非常忙碌、案件非常多。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "詳細",
+                "說明",
+                "確實"
+            ],
+            "datetime": "2022-06-08 10:35"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "因為恩恩爸主動了解作業環境,所以才會還原當時的疫情狀況。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "主動"
+            ],
+            "datetime": "2022-06-08 10:35"
+        },
+        {
+            "person": "黃德清",
+            "verb": "指出",
+            "opinion": "中央相關指引包括,「110年11月1日疾管署修訂居家隔離檢疫或自主健康管理者接受醫療照護時的管理措施,及110年6月1日內政部消防署針對消防機關因應嚴重特殊傳染性肺炎第三級疫情警戒救護應變指引」,他堅稱,當時就是依照中央指引進行後送就醫。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "傳染",
+                "傳染性",
+                "隔離",
+                "嚴重"
+            ],
+            "positive_list": [
+                "自主",
+                "健康",
+                "接受",
+                "進行",
+                "管理"
+            ],
+            "datetime": "2022-06-10 16:09"
+        },
+        {
+            "person": "黃德清",
+            "verb": "解釋",
+            "opinion": "當時就是依照中央規定「兩項指引」進行後送就醫。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-10 16:09"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "因當時雙和醫院正進行清消。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-10 17:29"
+        },
+        {
+            "person": "黃德清",
+            "verb": "表示",
+            "opinion": "消防局已向新北地檢署提告捍衛尊嚴,一切進入司法調查,讓公正司法查明真相。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "公正",
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-10 11:06"
+        }
+    ]
+}

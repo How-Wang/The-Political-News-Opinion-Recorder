@@ -1,0 +1,138 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/海軍司令部.png",
+    "opinions": [
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "為強化海、空軍訓練,近日首次驗證海巡署平戰轉換納入國軍防衛作戰序列機制,國軍已於九鵬基地及東部海域,實施年度飛彈射擊訓練,驗證海、空軍及海巡艦艇實彈射擊與接戰能力,精進聯合作戰效能。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "作戰",
+                "射擊"
+            ],
+            "positive_list": [
+                "合作",
+                "效能",
+                "能力",
+                "訓練",
+                "聯合",
+                "合作"
+            ],
+            "datetime": "2022-05-27 17:44"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "指出",
+            "opinion": "第一布雷艇中隊日前執行水雷裝載訓練,官兵發揮團隊默契,順利完成。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "水雷"
+            ],
+            "positive_list": [
+                "完成",
+                "訓練",
+                "順利"
+            ],
+            "datetime": "2022-06-06 14:49"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "指出",
+            "opinion": "媒體報導「塔江艦瞄不準?海軍基隆外海空層空域操演傳成關鍵」,報導內容純屬臆測,並非事實。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:37"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "公告23日在基隆外海申請之空層空域,為執行年度例行性演訓,並未實施任何武器射擊。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "射擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:37"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "日前公告6月23日將在基隆外海申請的空層空域,主要是執行年度例行性演訓,並未實施任何武器射擊;關於媒體指稱演訓目的,是為了改善131艦隊所屬塔江艦「瞄不準」,內容純屬臆測。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "射擊"
+            ],
+            "positive_list": [
+                "改善",
+                "改善"
+            ],
+            "datetime": "2022-06-12 22:14"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "強調",
+            "opinion": "塔江軍艦在2021年9月9日成軍服役,裝備狀況均正常,希望媒體勿臆測報導,造成民眾誤解。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "誤解"
+            ],
+            "positive_list": [
+                "正常",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-12 22:14"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "本部公告6月23日於基隆外海申請之空層空域,為執行年度例行性演訓,並未實施任何武器射擊。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "射擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:17"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "報導內容純屬臆測,並非事實。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:17"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "報導為臆測並非事實,並進一步表示,本部公告6月23日於基隆外海申請之空層空域,為執行年度例行性演訓,並未實施任何武器射擊。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "射擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 15:42"
+        },
+        {
+            "person": "海軍司令部",
+            "verb": "表示",
+            "opinion": "報導內容純屬臆測,並非事實。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 15:42"
+        }
+    ]
+}

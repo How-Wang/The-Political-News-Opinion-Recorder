@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/戴寧.png",
+    "opinions": [
+        {
+            "person": "戴寧",
+            "verb": "表示",
+            "opinion": "否認犯罪,對法官所問的犯罪事實保持沉默」,委任律師則說,戴寧身心難以負荷,無法好好陳述,合議庭決定改14日再開庭。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "犯罪",
+                "否認",
+                "負荷",
+                "無法",
+                "難以",
+                "沉默",
+                "無法"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-01 18:26"
+        }
+    ]
+}

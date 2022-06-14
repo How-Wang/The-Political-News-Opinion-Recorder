@@ -1,0 +1,109 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳柏惟.png",
+    "opinions": [
+        {
+            "person": "陳柏惟",
+            "verb": "表示",
+            "opinion": "在台中縣市合併後,縣區發展與基礎建設較市區落後,尤其是人民有感的接管率與下水道,直接影響可居住區域的生活品質,更不用說農工業區還有疏濬灌溉與排水的問題,台北市沒有農工業區,也沒有縣市合併,經驗不足可以理解。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "不足",
+                "沒有",
+                "問題",
+                "落後",
+                "不足",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "建設",
+                "理解",
+                "發展",
+                "經驗"
+            ],
+            "datetime": "2022-05-27 18:37"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "質疑",
+            "opinion": "「防疫期間是誰在貼這個,市長後援會嗎,還是國民黨幹部」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:59"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "表示",
+            "opinion": "台積電的概念也是一樣,它要有土地資源,它要有政策配合,它要有人才科技。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "資源"
+            ],
+            "datetime": "2022-06-07 17:49"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "說",
+            "opinion": "「像我剛剛也接到一個陳情,是中榮員工近日熱烈討論的話題,原文照刊。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "熱烈"
+            ],
+            "datetime": "2022-06-07 12:31"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "說",
+            "opinion": "「不是地方政府所管轄的台中榮總,卻由市長來要求他們,在端午連假繼續上班,讓台中榮總的院長,說出認為這樣的措施「近乎殘忍」。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "殘忍",
+                "不是",
+                "殘忍"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:26"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "強調",
+            "opinion": "他的立場就是貼貼紙叫公務員加班很落伍啦,誰都一樣,有網友質疑桃園有標註「公費」快篩試劑,實際上,沒有問題不用強說愁;另對於外界質疑自己是「監督在野黨的在野黨」,陳柏惟反問:「知道我是被在野黨罷免的嗎?當初用同樣的標準監督『監督我的在野黨』,我也支持你」,台中執政黨是國民黨,他正在監督。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "落伍",
+                "質疑",
+                "有問題",
+                "沒有",
+                "問題",
+                "落伍"
+            ],
+            "positive_list": [
+                "知道",
+                "實際"
+            ],
+            "datetime": "2022-06-07 17:36"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "說",
+            "opinion": "「外界對我的印象,是從3Q陳柏惟的堂哥開始。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:15"
+        }
+    ]
+}

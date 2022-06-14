@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳淑蓉.png",
+    "opinions": [
+        {
+            "person": "陳淑蓉",
+            "verb": "表示",
+            "opinion": "陳吉仲主委已完成3劑疫苗接種,目前健康狀況良好,居家照護期間由3位副主委持續推動相關業務,陳吉仲主委也會透過電話、視訊方式,掌握各項工作推動進度。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "良好",
+                "健康",
+                "掌握",
+                "良好"
+            ],
+            "datetime": "2022-06-09 22:37"
+        }
+    ]
+}

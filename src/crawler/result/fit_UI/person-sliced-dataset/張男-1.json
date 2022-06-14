@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張男.png",
+    "opinions": [
+        {
+            "person": "張男",
+            "verb": "表示",
+            "opinion": "「消防局的法務,你們要加油喔!」張男姓網友被消防局提告後,7日晚間在臉書發文說,「消防局告人速度很快,目前不回訊息,先泡茶休息」,還酸「消防局的法務,你們要加油喔」,引起網友熱議。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "休息"
+            ],
+            "datetime": "2022-06-07 21:48"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北高等行政法院.png",
+    "opinions": [
+        {
+            "person": "台北高等行政法院",
+            "verb": "認為",
+            "opinion": "身分證確實沒必要記載父母、配偶姓名與役別,准予換發;但照片等項目因具有公益目的,駁回陳男請求。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "駁回"
+            ],
+            "positive_list": [
+                "必要",
+                "確實",
+                "請求"
+            ],
+            "datetime": "2022-06-08 14:55"
+        }
+    ]
+}

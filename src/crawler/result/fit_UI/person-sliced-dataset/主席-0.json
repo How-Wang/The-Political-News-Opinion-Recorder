@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/主席.png",
+    "opinions": [
+        {
+            "person": "主席",
+            "verb": "說",
+            "opinion": "台灣與斯洛伐克有許多相似點,如對抗威權的歷史、在科技代工領域、年輕的民主制度等,未來希望兩國間的合作可持續深化,並藉此機會重申斯洛伐克與台灣繼續合作的決心。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "希望",
+                "決心",
+                "機會",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-09 16:14"
+        }
+    ]
+}

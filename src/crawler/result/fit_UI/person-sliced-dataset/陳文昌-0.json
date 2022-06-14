@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳文昌.png",
+    "opinions": [
+        {
+            "person": "陳文昌",
+            "verb": "說",
+            "opinion": "「妳一定是要給縣民,做一個清楚的交代,妳就學習2008年,蘇治芬縣長的時代,她用絕食來抗議。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "清楚",
+                "清楚的",
+                "學習"
+            ],
+            "datetime": "2022-06-07 18:43"
+        }
+    ]
+}

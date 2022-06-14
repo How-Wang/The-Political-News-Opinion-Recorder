@@ -1,0 +1,36 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "如無相關症狀或檢測結果為陰性,仍請遵循中央流行疫情指揮中心防疫規範,做好個人防護,持續自我健康管理。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "流行",
+                "健康",
+                "規範",
+                "管理"
+            ],
+            "datetime": "2022-05-22 15:47"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "新北今年至今確診達59萬3843人,最高峰在5月18日有2.7萬人確診,高峰期在過去一周,隨後呈現下降趨勢,但仍要觀察。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-06-01 12:45"
+        }
+    ]
+}

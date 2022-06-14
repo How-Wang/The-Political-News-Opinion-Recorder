@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台積電.png",
+    "opinions": [
+        {
+            "person": "台積電",
+            "verb": "宣布",
+            "opinion": "已完全停止供貨給俄國及其上游供應商,台積電則表示會致力遵守政府的新出口管制規定。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [
+                "遵守"
+            ],
+            "datetime": "2022-06-09 09:22"
+        }
+    ]
+}

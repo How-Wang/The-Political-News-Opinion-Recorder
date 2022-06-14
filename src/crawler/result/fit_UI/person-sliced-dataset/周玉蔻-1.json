@@ -1,0 +1,502 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "「當然要關心她的身體健康,我跟她沒有什麼交惡,做個媒體人直播,難免會擦槍走火,但是我也蠻關心她的,我有請律師送一些東西給她吃,希望她身體比較好,其實我也是蠻尊重,老大姐嘛!」也因為館長的暖男行為,2人關係才變好。",
+            "negative_score": 4,
+            "positive_score": 11,
+            "negative_list": [
+                "沒有",
+                "老大",
+                "沒有",
+                "東西"
+            ],
+            "positive_list": [
+                "比較好",
+                "希望",
+                "健康",
+                "尊重",
+                "當然",
+                "較好",
+                "關心",
+                "變好",
+                "希望",
+                "尊重",
+                "關心"
+            ],
+            "datetime": "2022-05-21 16:25"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "宣布",
+            "opinion": "和館長和解,並撤回告訴,消息曝光後,也引來鄉民女神黃瓊慧留言「哇~520欸該喊在一起嗎?」網友們也紛紛大讚「這是最好的發展」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "撤回"
+            ],
+            "positive_list": [
+                "最好",
+                "發展"
+            ],
+            "datetime": "2022-05-21 16:25"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "質疑",
+            "opinion": "「柯文哲不是說不吃會死很多人嗎?自己確診為什麼不馬上吃,小心喔。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "小心",
+                "不是"
+            ],
+            "positive_list": [
+                "小心",
+                "很多"
+            ],
+            "datetime": "2022-05-24 15:17"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "質疑",
+            "opinion": "「柯文哲不是說不吃會死很多人嗎?自己確診為什麼不馬上吃,小心喔。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "小心",
+                "不是"
+            ],
+            "positive_list": [
+                "小心",
+                "很多"
+            ],
+            "datetime": "2022-05-24 12:22"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "質疑",
+            "opinion": "徐巧芯28日上午召開記者會說明,表示議長只要看到議員有新聞,一向都會找當事人去了解狀況,所以包括5/19跟後來的情況,她都跟議長據實以報。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "說明"
+            ],
+            "datetime": "2022-05-28 11:36"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "再提醒妳「徐違停」一百次,本人解嚴前就在媒體界工作,再三年滿半個世紀,妖魔鬼怪見過無數,仍然屹立不搖自有專業努力的功力,妳這種小鬼頭、小模小様揑造、抹黑、說謊、人身攻擊的技倆,手法過於低劣,沒效!不要再醜人多作怪啦。",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "低劣",
+                "攻擊",
+                "說謊",
+                "魔鬼",
+                "人身攻擊",
+                "不要",
+                "作怪",
+                "低劣",
+                "攻擊",
+                "沒效",
+                "抹黑",
+                "說謊"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的"
+            ],
+            "datetime": "2022-05-28 10:25"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "再提醒妳「徐違停」一百次,本人解嚴前就在媒體界工作,再三年滿半個世紀,妖魔鬼怪見過無數,仍然屹立不搖自有專業努力的功力,妳這種小鬼頭、小模小様揑造、抹黑、說謊、人身攻擊的技倆,手法過於低劣,沒效!不要再醜人多作怪啦。",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "低劣",
+                "攻擊",
+                "說謊",
+                "魔鬼",
+                "人身攻擊",
+                "不要",
+                "作怪",
+                "低劣",
+                "攻擊",
+                "沒效",
+                "抹黑",
+                "說謊"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的"
+            ],
+            "datetime": "2022-05-28 09:06"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "質疑",
+            "opinion": "內容不只這樣,要求警方公開全部內容,並要徐巧芯滾出政壇,對此徐巧芯回擊,稱若影片有經過剪輯,她願意退出政壇,反之則請周玉蔻永遠離開螢光幕前。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "退出",
+                "遠離",
+                "離開"
+            ],
+            "positive_list": [
+                "公開",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 17:57"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "「對於一個小小的議員,她用特權來傷害,執法者的公權力這件事情。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "特權",
+                "傷害",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 17:57"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說明",
+            "opinion": "的期間,周玉蔻則到了白沙屯拱天宮,並在臉書打卡寫下,正義、誠信、愛等5個字,還附上8個愛心。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正義",
+                "愛心",
+                "愛心"
+            ],
+            "datetime": "2022-05-28 12:33"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "質疑",
+            "opinion": "密錄器真偽,徐巧芯也在臉書反擊,稍早在記者會上再度公開向周玉蔻嗆賭,並說如果周玉蔻不更正相關文章,不排除提告。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-05-28 11:06"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "提出",
+            "opinion": "質疑,怒嗆「二分鐘?騙誰啊?二分鐘就已經那麼不堪了,全部內容呢?」徐巧芯也隨即反擊對賭,直言若公開的密錄器內容有任何遺漏「我退出政壇;如果沒有,你退出媒體圈」,今(28)日上午10點半徐巧芯開記者會說明,痛批「周玉蔻施壓警政高層」。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "退出",
+                "質疑",
+                "遺漏",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "公開的",
+                "說明"
+            ],
+            "datetime": "2022-05-28 11:01"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "「周玉蔻看完密錄器內容不服氣,說市警局跟我選擇性公布密錄器片段,要求公佈『全部內容』。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:43"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "「周玉蔻看完密錄器內容不服氣,說市警局跟我選擇性公布密錄器片段,要求公佈『全部內容』。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:38"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "質疑",
+            "opinion": "密錄器內容僅2分鐘「騙誰啊?二分鐘就已經那麼不堪了,全部內容呢?」周玉蔻呼籲台北市警察局應該下令信義分局公布密錄器完整內容,並表示要求「撤銷對員警的懲處」,最後她還怒轟徐巧芯滾出政壇。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "撤銷"
+            ],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-05-28 08:35"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "痛批",
+            "opinion": "徐巧芯,「轉移焦點、選擇性公布密錄器二分鐘不到的片斷(段),解決不了妳施壓警員不要開單,又威脅事後再消單的醜陋事實!」最後,周玉蔻表示,全台灣百分之一百的民意都支持公布密錄器全部內容,若是光明正大,心內無鬼,就請台北市警察局公布密錄器完整影像。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不到",
+                "威脅",
+                "醜陋",
+                "不了",
+                "不到",
+                "不要",
+                "威脅"
+            ],
+            "positive_list": [
+                "正大",
+                "光明",
+                "完整",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-28 08:11"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "提出",
+            "opinion": "質疑,並呼籲把全部內容公布,今(28)日又再度發文反擊。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:11"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "如果周玉蔻不更正相關文章,不排除提告。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 07:39"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "「徐巧芯某年某月某日妳在台北市,哪一個分局長被妳叫到辦公室去罵,妳再給我渾球下去我把妳給撕了。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:39"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "指出",
+            "opinion": "徐巧芯以前就曾為了罰單,把分局長叫到辦公室痛罵。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:39"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "強調",
+            "opinion": "正義伸張、天地司法有正氣,「顏寬恒控告我評論侵害名譽的民事訴訟案,法官剛剛宣判,顏寬恒敗訴。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "侵害",
+                "宣判",
+                "控告"
+            ],
+            "positive_list": [
+                "正義",
+                "名譽"
+            ],
+            "datetime": "2022-05-31 18:11"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "批評",
+            "opinion": "顏清標寬恒家長期霸占法拍屋,害他人不敢投標,導致法院拍賣流標,金額降到1千萬元後竟然由顏寬恒買回;父子甚至聯手坑殺銀行,欠債高達6千多萬,遭強制執行,顏清標竟還脫產給兒子。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "強制",
+                "竟然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 18:11"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "顏寬恒控告她中二補選期間評論侵害名譽的民事訴訟案,法官剛剛宣判顏寬恒敗訴!判決主文為,「原告之訴及假執行之聲請均駁回訴訟費用由原告負擔」。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "判決",
+                "侵害",
+                "宣判",
+                "負擔",
+                "控告",
+                "駁回"
+            ],
+            "positive_list": [
+                "名譽"
+            ],
+            "datetime": "2022-05-31 11:05"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "批評",
+            "opinion": "顏清標涉嫌脫產給兒子顏寬恒,被提告妨害名譽並求償145萬元,且得登報道歉。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "妨害",
+                "道歉"
+            ],
+            "positive_list": [
+                "名譽"
+            ],
+            "datetime": "2022-05-31 11:35"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "比對財產申報資料,顏清標自2005年起至2011年間的財產持續不斷減少,但幾乎同時,兒子顏寬恒的財產卻持續快速增加,且和收入明顯不符,其中還有顏清標被法拍的財產,顯示是顏寬恒買回來的。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不符",
+                "不斷",
+                "減少"
+            ],
+            "positive_list": [
+                "明顯",
+                "財產",
+                "增加"
+            ],
+            "datetime": "2022-05-31 11:35"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "說",
+            "opinion": "「家屬說他們4月17日跟侯友宜視訊連線的時候,就已經把要求提供給了侯友宜市長,結果新北市政府花了45天的時間,沒有答案。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 19:08"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "恩恩爸很堅強、冷靜,和視訊連線一樣,不多話,字字珠璣。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "冷靜"
+            ],
+            "positive_list": [
+                "冷靜",
+                "堅強",
+                "冷靜"
+            ],
+            "datetime": "2022-06-04 10:49"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "提到",
+            "opinion": "專訪恩恩爸的過程很受衝擊,「看到恩恩爸爸今天來到攝影棚,初見他本人,好心疼,想哭」,成為「媒體工作生涯刻骨銘心的時刻。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "衝擊",
+                "心疼"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-04 10:49"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "沒有,地不在此,「對選舉這件事,我沒有道德勇氣」,過去、現在、未來都沒有(要參選),我自己的決定」。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "有道德",
+                "決定",
+                "勇氣",
+                "道德",
+                "勇氣"
+            ],
+            "datetime": "2022-06-08 10:16"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "表示",
+            "opinion": "當年郝龍斌市府指派自己人趙少康擔任富邦金董事,被剛上任的台北市長柯文哲正義凜然罵了一頓後,立刻被請辭。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正義"
+            ],
+            "datetime": "2022-06-10 16:20"
+        },
+        {
+            "person": "周玉蔻",
+            "verb": "指出",
+            "opinion": "當年郝龍斌擔任市長的台北市政府,指派自己人趙少康擔任富邦金董事,被剛接任的台北市長柯文哲正義凜然罵了一頓後,立刻被請辭。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正義"
+            ],
+            "datetime": "2022-06-10 17:16"
+        }
+    ]
+}

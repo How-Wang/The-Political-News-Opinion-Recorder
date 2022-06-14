@@ -1,0 +1,516 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "侯友宜",
+            "verb": "解釋",
+            "opinion": "事情並沒有外傳的那麼嚴重,只是講話才比較大聲,現在中央把問題解決就好。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "大聲",
+                "沒有",
+                "問題",
+                "嚴重",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-21 16:12"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說明",
+            "opinion": "會指出,新北市今天新增本土確診病例2萬698人,居家照護執行中為12萬848人,居家隔離列管數4萬1270人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 19:08"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "指出",
+            "opinion": "他的整體聲量高點卻是落在4月19日(2.4萬),侯友宜因新北兩歲童等不到救護車離世一案,遭到質疑。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "質疑",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 21:55"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "「我知道總統太忙了,我會一肩承擔新北市的大小事,一定守好新北市!」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-22 21:52"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "從這些地方,就可以知道新北基層診所的醫護和市府團隊並肩作戰,熱血投入,守護著新北市,「也讓我們得以保留醫療量能,守住中重症病患!」侯友宜指出,總統沒空,新北在疫情最前線,新北市府依舊自立自強,保全醫療量能,訂定解決之道,全力以赴。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [
+                "全力",
+                "自立",
+                "知道",
+                "解決",
+                "自立自強",
+                "解決"
+            ],
+            "datetime": "2022-05-22 18:58"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "指出",
+            "opinion": "總統到了這個星期四才打了電話給新北市基層醫師,「我想總統可能忙到不知道,您還沒致電羅醫師的快一個月前,新北市早在4/28已經邀請了新北市620家的基層診所,共同啟動居家照護第三階段計畫,投入居家照護以及遠距醫療,到現在基層診所派案每天達到六千人,已經達到居家照護數的35%。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不知"
+            ],
+            "positive_list": [
+                "知道",
+                "達到"
+            ],
+            "datetime": "2022-05-22 18:58"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "已經向中央反映一個月以上,關鍵須解決中央系統問題,實在忍無可忍。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "無可",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "實在",
+                "解決"
+            ],
+            "datetime": "2022-05-22 17:04"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "質疑",
+            "opinion": "為何不儘速全面開放,侯友宜指出,這個問題自己一直搞不懂,當時中央是說有人權、偽陽性問題,但其他類就不會有這個問題嗎?「我還是一句話,尤其現在要達到疫情高峰,中央趕快做,卡實在。」",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "問題",
+                "不會",
+                "不懂",
+                "何不",
+                "問題",
+                "搞不懂"
+            ],
+            "positive_list": [
+                "全面",
+                "開放",
+                "達到",
+                "實在"
+            ],
+            "datetime": "2022-05-22 16:27"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "新北市最早5月1日就提出,而且不限對象,民眾PCR、採檢過程中要花費一段時間,甚至5天,這樣就延誤診斷、治療的時間,讓醫事人員不斷開篩檢站也沒辦法完全解決問題,新北篩檢站是全國最多、量能達70幾萬人次,既然民眾習慣自己快篩,新北市陽性率已經達到97%,快篩陽等於確診可以趕快做、別再拖。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "不斷",
+                "延誤",
+                "問題",
+                "斷開",
+                "沒辦法",
+                "問題"
+            ],
+            "positive_list": [
+                "治療",
+                "習慣",
+                "解決",
+                "達到",
+                "解決"
+            ],
+            "datetime": "2022-05-22 16:27"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "新北「居家照護計畫」由7家責任醫院(亞東醫院、淡水馬偕、台北慈濟、雙和醫院、新北聯醫、土城醫院、輔大醫院)做為29個行政區居家照護的責任醫院,讓輕症、無症狀者在宅照護,把醫療量能保留給中、重症患者。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "患者"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 15:52"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "新北市看到問題後馬上提出解決方案,從一開始就提出五大倡議,都是首創,讓新北市先行,各地有需要再跟進,包含4月11日為了輕重分流的居家照護,當時中央堅持要1500例才能開始,14號才同意辦理,一週後全國跟進。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "才能",
+                "同意",
+                "堅持",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-22 15:26"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "這些都是新北首創,最重要是保存醫療量能。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-05-22 15:26"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "呼籲",
+            "opinion": "總統蔡英文到疫情嚴重的雙北第一線去看看,就能了解民眾的需求與痛苦,蔡英文今(22)日終於前往新北,但不是去看疫情,而是前往民進黨的黨職選舉。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "痛苦",
+                "嚴重",
+                "嚴重的",
+                "不是",
+                "痛苦"
+            ],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-05-22 12:01"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "「新北市這五大項的倡議,4/11居家照護,4/22居隔轉型,在浪頭上新北先做。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:04"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "從這些地方,就可以知道新北基層診所的醫護和市府團隊並肩作戰,熱血投入,守護著新北市,也讓新北得以保留醫療量能,守住中重症病患。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-22 18:03"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "要戴口罩,能夠保持社交距離就保持,最重要的就是手部要用「三明治洗手法」,只要摸過的地方他就會用酒精噴一噴,因為三明治式的酒精消毒法最有用。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "有用",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-22 16:42"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說明",
+            "opinion": "會中透露自己的防疫撇步,家中設立隔離區、隨身帶酒精消毒,儘量不跟他人共食。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "透露",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 16:42"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "批評",
+            "opinion": "總統蔡英文未到疫情重災區的新北市視察外,他今(22)日下午也在臉書表示,他想,總統可能太忙了,疫情兩年多了,只來過唯一一通電話,雖然是在去年六月Alpha疫情已經下降時打來的,至少是去年曾經的問候。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:09"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "指出",
+            "opinion": "您說得好,防疫最後關鍵時刻,民眾期待的是我們攜手解決問題,中央地方都要一起來合作,所以我們看到問題、找到問題不但快速反應給中央,也主動找出這些解決之道,並且承擔先行。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "主動",
+                "合作",
+                "期待",
+                "解決",
+                "合作",
+                "期待",
+                "解決"
+            ],
+            "datetime": "2022-05-22 18:09"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "指出",
+            "opinion": "新北市目前居家照護執行中12萬848人,居家隔離列管數41,270人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 15:41"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "柯文哲為了防疫盡心盡力,真的非常辛苦,希望早日康復,再一起並肩作戰,他也用台語喊話:「柯文哲市長加油!你絕對沒問題!」柯文哲上午在臉書發文指出,早上覺得身體不適,喉嚨不舒服,在家進行快篩後,試劑出現陽性反應,目前已經到聯醫仁愛院區進行PCR採檢,尚在等待結果。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "不舒服",
+                "不適",
+                "作戰",
+                "辛苦",
+                "問題",
+                "絕對",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "舒服",
+                "進行",
+                "希望"
+            ],
+            "datetime": "2022-05-22 15:35"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "自己多次向中央反映,只差沒跪下去求。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:20"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "自己多次向中央反映,只差沒跪下去求。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "邊境開放是未來的趨勢,大部分的國家都是在疫情相對的穩定底下朝向邊境開放,但必須有4個考量,包括國際疫情趨勢、國內醫療量能、有節奏採高中低風險開放,以及群體免疫。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "開放",
+                "穩定"
+            ],
+            "datetime": "2022-05-28 12:50"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "提到",
+            "opinion": "最重要的是,要保全國內醫療量能,因為在開放後,醫療量能勢必會受到挑戰,所以醫療量能的保全是最重要,那為了要保全醫療量能,國內的群體免疫一定要大幅提高,尤其第三劑的施打率,包括第四劑脆弱族群的長者以及免疫不全的族群,一定要施打到一定的比例。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "挑戰",
+                "脆弱"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "提高",
+                "開放"
+            ],
+            "datetime": "2022-05-28 12:50"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "指出",
+            "opinion": "邊境開放是國際趨勢,國內需先做好醫療量能保護、有層次節奏開放其他國家、觀察國際情勢、跟國人說明加上地方充分準備,讓邊境開放同時兼顧民眾安全。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "充分",
+                "安全",
+                "保護",
+                "開放",
+                "準備",
+                "說明"
+            ],
+            "datetime": "2022-05-28 13:13"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "以7日平均確診數來看,形成高原期後慢慢趨緩,新北確診相對高點在5月13日至27日,這段期間民眾自主低度活動,若曲線接下來沒有穩定往下趨緩,難判定是否會再往上走。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "自主",
+                "穩定"
+            ],
+            "datetime": "2022-06-01 12:45"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "政府開放邊境就是要讓經濟與國際接軌,不過若放寬恐影響國內疫情,須思考4項指標。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "思考",
+                "開放"
+            ],
+            "datetime": "2022-06-01 12:45"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說明",
+            "opinion": "消防局為何拖了29分鐘才聯繫到衛生局,以及衛生局又拖了20分鐘才聯繫家屬,別讓職員出來擋子彈。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "子彈"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 12:38"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "要全力協助恩恩爸爸,但只看到市府局處「全力阻擋」真相公布。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-06-06 12:38"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "表示",
+            "opinion": "要好好努力團結為桃園做事,就像他在新北努力把握當下,盡自己的角色把事情做好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "把握",
+                "把握"
+            ],
+            "datetime": "2022-06-07 12:47"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "說",
+            "opinion": "「我們要好好努力,團結為桃園來做事,就像我在新北一樣。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-06-07 12:53"
+        },
+        {
+            "person": "侯友宜",
+            "verb": "回應",
+            "opinion": "最重要的是真的要好好團結為桃園做事,把握當下盡好自己的角色。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "把握",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "把握"
+            ],
+            "datetime": "2022-06-07 11:24"
+        }
+    ]
+}

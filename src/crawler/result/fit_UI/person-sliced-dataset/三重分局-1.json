@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/三重分局.png",
+    "opinions": [
+        {
+            "person": "三重分局",
+            "verb": "表示",
+            "opinion": "今天重新橋並無機車車禍事故發生,整體車流狀況良好,後續仍會觀察車流狀況。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "事故",
+                "機車"
+            ],
+            "positive_list": [
+                "良好",
+                "良好"
+            ],
+            "datetime": "2022-06-05 18:40"
+        }
+    ]
+}

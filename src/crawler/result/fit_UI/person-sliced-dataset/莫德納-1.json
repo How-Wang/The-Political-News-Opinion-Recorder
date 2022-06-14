@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/莫德納.png",
+    "opinions": [
+        {
+            "person": "莫德納",
+            "verb": "說",
+            "opinion": "過,第一劑不良反應低,莫德納產生抗體理論上較好,兩者都可選擇。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不良",
+                "不良"
+            ],
+            "positive_list": [
+                "較好"
+            ],
+            "datetime": "2022-05-29 13:47"
+        }
+    ]
+}

@@ -1,0 +1,517 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "面對即將到來的疫情高峰,他提出「紓困3箭」,第一箭「勞工紓困措施比照去年續辦」,相較去年疫情,今年疫情影響勞工人數更多、層面更廣,勞動部應該要積極跟行政院爭取紓困經費,不要只是建議或討論。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-05-22 17:30"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "第3箭是「產業紓困要及時」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 17:30"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "指出",
+            "opinion": "近期經濟部提出的餐飲業補助方案非常不接地氣,有業者向他的辦公室吐苦水「員工薪水跟房租都付不出來了,怎麼還有資源及力氣去做行銷方式」,呼籲政府應該直接現金補助,才是解決之道。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不出"
+            ],
+            "positive_list": [
+                "解決",
+                "資源",
+                "解決"
+            ],
+            "datetime": "2022-05-22 17:30"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "就是回到堅持中華民國的主權,認清分治的事實,以此作為與對岸交流溝通的基礎,是非常重要的,這也是台灣目前最大的公約數,也是他堅持的立場。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "堅持",
+                "堅持的"
+            ],
+            "datetime": "2022-05-27 10:36"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "說",
+            "opinion": "今天拜訪的不只是馬英九總統,也是馬英九市長,城市的發展是延續性的,馬英九在台北市長任內,不管是為台北市的永續發展、宜居,以及國際化等,都奠定了非常好的基礎。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-05-27 10:36"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "說",
+            "opinion": "「我就是我,我就蔣萬安」,今天是向有豐富城市治理經驗的前輩請益、拜會。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "經驗",
+                "豐富"
+            ],
+            "datetime": "2022-05-27 10:36"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "提到",
+            "opinion": "雙城論壇的舉辦,前提就是中共不再擾台、對台灣釋出善意,雙方在對等的情況下,論壇才有舉辦的意義。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-05-27 10:36"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "強調",
+            "opinion": "雙城論壇舉辦的前提是中共不再擾台,對台釋出善意,雙方地位對等才有舉辦的意義。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "善意",
+                "地位"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "指出",
+            "opinion": "一直以來,兩位蔣經國中正萬安總統對中華民國這片土地的貢獻是不容抹滅的,過去不管是蔣中正的土地改革到九年義務教育,到蔣經國推動十大建設以及「護國神山」,都是當時所奠下的基礎,對於兩位總統對這片土地的貢獻都非常感念,這是目前所有台灣民眾所認同的。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "改革",
+                "建設",
+                "義務",
+                "認同"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "說明",
+            "opinion": "自己的兩岸政策,就是回到堅持中華民國的主權,認清分治的事實,這作為與對岸交流溝通的基礎非常重要,這是目前台灣最大的公約數,也是他們所堅守的立場。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "堅持"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "指出",
+            "opinion": "未來「雙城論壇」的舉辦前提,就是中共不再擾台,對台灣釋出善意,且雙方地位要對等,才有舉辦的意義,更強調,有關國際其他城市之間的交流、汲取經驗也是非常重要,未來會擴大舉辦國際城市交流論壇。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "善意",
+                "經驗",
+                "地位"
+            ],
+            "datetime": "2022-05-27 11:09"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "每個人都有人生規劃,都會給予尊重與祝福。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "尊重",
+                "給予",
+                "尊重"
+            ],
+            "datetime": "2022-05-27 11:09"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "雙城論壇的舉辦前提,就是中共不再擾台,對台灣釋出善意,雙方地位對等才有舉辦的意義;另外,對於國際其它城市之間的交流、汲取經驗也是非常重要,所以未來會擴大舉辦國際城市交流論壇。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "善意",
+                "經驗",
+                "地位"
+            ],
+            "datetime": "2022-05-27 10:51"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "說",
+            "opinion": "「我就是我,我就是蔣萬安」,今天是向有豐富城市治理經驗的前輩請益、拜會。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "經驗",
+                "豐富"
+            ],
+            "datetime": "2022-05-27 11:25"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "就是回到堅持中華民國的主權,認清分治的事實,以此作為與對岸交流溝通的基礎,是非常重要的,這也是台灣目前最大的公約數,也是他堅持的立場。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "堅持",
+                "堅持的"
+            ],
+            "datetime": "2022-05-27 11:25"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "說",
+            "opinion": "今天拜訪的不只是馬英九總統,也是馬英九市長,城市的發展是延續性的,馬英九在台北市長任內,不管是為台北市的永續發展、宜居,以及國際化等,都奠定了非常好的基礎。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-05-27 11:25"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "說",
+            "opinion": "現在國人關心的是政府防疫政策,但似乎政府沒準備好,超前部署都是謊言,也看得出物資非常不足,希望政府能看見民眾的需求,提出對策。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不足",
+                "謊言",
+                "不足",
+                "謊言"
+            ],
+            "positive_list": [
+                "希望",
+                "準備",
+                "關心",
+                "希望",
+                "關心"
+            ],
+            "datetime": "2022-05-28 10:58"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "堅持中華民國的主權,認清分治的事實,以此作為與對岸交流溝通的基礎;他也表示,雙城論壇舉辦的前提,就是中共不再擾台、對台灣釋出善意,雙方地位對等,才有舉辦的意義。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "堅持",
+                "善意",
+                "地位"
+            ],
+            "datetime": "2022-05-28 10:58"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "舉辦前提就是中國不再擾台,對台釋出善意,雙方地位對等才有舉辦的意義,另外,對國際其他城市的交流汲取經驗也非常重要,未來會擴大舉辦國際城市交流論壇。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "善意",
+                "經驗",
+                "地位"
+            ],
+            "datetime": "2022-05-28 11:00"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "強調",
+            "opinion": "「但在共機擾台的情況下是不利於兩岸交流」,這點民眾非常清楚,北市議會也有相關決議,希望在善意狀況下有實質交流。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不利",
+                "不利"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "善意",
+                "希望"
+            ],
+            "datetime": "2022-05-28 11:00"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "強調",
+            "opinion": "就是回到堅持中華民國的主權,認清分治的事實,以此作為與對岸交流溝通的基礎,這也是台灣目前最大的公約數,也是他堅持的立場。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "堅持",
+                "堅持的"
+            ],
+            "datetime": "2022-05-28 15:02"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "回應",
+            "opinion": "對岸或是其他等國家,對於台灣或區域和平造成武力威脅等舉動都應該停止,因為民眾期待是在互信基礎上,和平相處、務實交流。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "武力",
+                "威脅",
+                "停止",
+                "威脅"
+            ],
+            "positive_list": [
+                "和平",
+                "務實",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-01 10:28"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "行政院大陣仗舉辦記者會,但沒有看到任何實質的內容,沒有看到雙方官員簽字、沒有法律約束力,包括大家關心的降低關稅、市場准入、貿易自由化課題也沒看到詳實敘述,「我想這部分只是再一次的大內宣而已」。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "約束",
+                "降低",
+                "沒有"
+            ],
+            "positive_list": [
+                "自由",
+                "法律",
+                "關心",
+                "自由",
+                "關心"
+            ],
+            "datetime": "2022-06-02 12:03"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "回應",
+            "opinion": "非常樂見可促進台美之間經貿交流。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "促進",
+                "樂見"
+            ],
+            "datetime": "2022-06-03 15:57"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "提出",
+            "opinion": "中國不再擾台,對台釋出善意,雙方地位對等才有舉辦的意義。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "善意",
+                "地位"
+            ],
+            "datetime": "2022-06-06 14:44"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "提出",
+            "opinion": "雙城論壇舉辦3前提,遭《中評社》評為國民黨偏向綠,點名台北市長柯文哲有望取代成為「兩岸交流派代言人」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-06 14:44"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "未來地方政府與對岸交流,也不會因為單方壓力退縮,絕對會盡最大的力量爭取所有有利的因素,在服務市民期待下「繼續辦理地方政府論壇」。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "絕對",
+                "壓力",
+                "不會",
+                "退縮"
+            ],
+            "positive_list": [
+                "有利",
+                "有利的",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-08 15:10"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "這次疫情造成250萬人確診、超過3000人離世,遠比想像嚴重,但政府喊著超前部屬完全是謊言,補救措施也是荒腔走板,「政府沒辦法做的,就由我來做。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "超過",
+                "謊言",
+                "嚴重",
+                "沒辦法",
+                "謊言"
+            ],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-06-08 15:10"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "國民黨捍衛中華民國決心不改變,不會因為單方壓力而退縮。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "壓力",
+                "不會",
+                "退縮"
+            ],
+            "positive_list": [
+                "決心"
+            ],
+            "datetime": "2022-06-08 12:14"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "表示",
+            "opinion": "國民黨捍衛中華民國決心不改變,不會因為單方壓力而退縮。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "壓力",
+                "不會",
+                "退縮"
+            ],
+            "positive_list": [
+                "決心"
+            ],
+            "datetime": "2022-06-08 11:11"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "指出",
+            "opinion": "「(他的扶龍命格會不會希望),(他還是支持對手比較好)哈哈哈,我想世堅議員他就是一個扶龍王,和柯市長一搭一唱,都在談論選舉少著墨在市政議題上,我覺得是很可惜有點遺憾。」",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "可惜",
+                "對手",
+                "遺憾",
+                "不會",
+                "可惜",
+                "遺憾"
+            ],
+            "positive_list": [
+                "比較好",
+                "希望",
+                "較好",
+                "希望",
+                "哈哈"
+            ],
+            "datetime": "2022-06-10 18:27"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "提到",
+            "opinion": "王世堅是「扶龍王」,但還是希望對方未來能好好討論市政。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-10 10:27"
+        },
+        {
+            "person": "蔣萬安",
+            "verb": "回應",
+            "opinion": "政治算計都不是民眾想看到的,「我想對我來講就是全力以赴,提出最好的政見讓選民認同我」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "全力",
+                "最好",
+                "認同"
+            ],
+            "datetime": "2022-06-10 10:46"
+        }
+    ]
+}

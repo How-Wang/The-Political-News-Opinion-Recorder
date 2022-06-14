@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何欣純.png",
+    "opinions": [
+        {
+            "person": "何欣純",
+            "verb": "說",
+            "opinion": "「不是宿命的問題啊,是我們警政單位,台中市政府要好好檢討,要拿出魄力拿出對策啊。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "宿命",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 17:25"
+        }
+    ]
+}

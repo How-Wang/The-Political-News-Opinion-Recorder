@@ -1,0 +1,32 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/體育署.png",
+    "opinions": [
+        {
+            "person": "體育署",
+            "verb": "表示",
+            "opinion": "初步規劃將國家運動科學中心籌備處設置於國訓中心園區內,一方面實際參與並深入了解現行運動科學支援體系的運作模式,另一方面則有利於妥善規劃運科中心未來的內部組織架構,銜接後續的後勤運科支援計畫。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "支援",
+                "有利",
+                "實際"
+            ],
+            "datetime": "2022-05-26 12:37"
+        },
+        {
+            "person": "體育署",
+            "verb": "指出",
+            "opinion": "本次指引修正如下:1.增列須完成3劑疫苗接種始得進入健身房之配套措施:顧客進入健身房應提供至少接種3劑疫苗證明,運動時無須佩戴口罩。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-05-27 12:58"
+        }
+    ]
+}

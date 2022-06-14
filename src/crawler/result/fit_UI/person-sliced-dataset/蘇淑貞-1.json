@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蘇淑貞.png",
+    "opinions": [
+        {
+            "person": "蘇淑貞",
+            "verb": "解釋",
+            "opinion": "動植物檢疫是海關邊境查緝重點,都是100%經過海關透過X光監測,若有疑似不實申報會開箱檢查,關務署會再加強海關人員判別影像的訓練。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-06-09 14:02"
+        }
+    ]
+}

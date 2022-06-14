@@ -1,0 +1,121 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "史丹奇克",
+            "verb": "說",
+            "opinion": "自己要「告解」,在來台短短幾天之內,「真的愛上台灣了」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "愛上"
+            ],
+            "datetime": "2022-06-10 12:58"
+        },
+        {
+            "person": "史丹奇克",
+            "verb": "指出",
+            "opinion": "一般認為亞洲國家較傳統,但在台灣立法院中,女性委員比例將近40%,而且通過同婚,國家也沒因此崩潰,還稱讚總統蔡英文是位振奮人心的女性。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "崩潰"
+            ],
+            "positive_list": [
+                "通過",
+                "稱讚",
+                "振奮",
+                "稱讚"
+            ],
+            "datetime": "2022-06-10 18:12"
+        },
+        {
+            "person": "史丹奇克",
+            "verb": "表示",
+            "opinion": "他們一開是認為亞洲國家是相當傳統的,但台灣非常有趣,總統是1位鼓舞人心的女性,她在美國接受教育,她的智慧能夠大大激勵斯洛伐克的政界。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "有趣",
+                "接受",
+                "智慧",
+                "鼓舞",
+                "鼓舞人心",
+                "鼓舞人心的",
+                "激勵",
+                "有趣",
+                "智慧",
+                "鼓舞",
+                "激勵"
+            ],
+            "datetime": "2022-06-10 10:05"
+        },
+        {
+            "person": "史丹奇克",
+            "verb": "提到",
+            "opinion": "一般認為亞洲國家較傳統,但台灣立法院女性委員比例將近4成,而且通過同婚國家也沒因此崩潰,還稱讚總統蔡英文是位振奮人心的女性。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "崩潰"
+            ],
+            "positive_list": [
+                "通過",
+                "稱讚",
+                "振奮",
+                "稱讚"
+            ],
+            "datetime": "2022-06-10 15:56"
+        },
+        {
+            "person": "史丹奇克",
+            "verb": "認為",
+            "opinion": "這些事情應對斯洛伐克有所啟發。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "啟發"
+            ],
+            "datetime": "2022-06-10 07:52"
+        },
+        {
+            "person": "史丹奇克",
+            "verb": "提到",
+            "opinion": "一般認知都覺得亞洲國家較為傳統,但台灣卻不太一樣,他稱讚台灣的總統蔡英文是位振奮人心的女性,她的智慧能激勵斯洛伐克的政界,而蔡英文也跟訪團分享,台灣社會女性扮演的角色越來越重要,在立院女性委員占近4成。",
+            "negative_score": 1,
+            "positive_score": 8,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "重要",
+                "智慧",
+                "稱讚",
+                "激勵",
+                "振奮",
+                "智慧",
+                "稱讚",
+                "激勵"
+            ],
+            "datetime": "2022-06-10 07:52"
+        },
+        {
+            "person": "史丹奇克",
+            "verb": "表示",
+            "opinion": "這次行訪團會晤總統蔡英文,也和幾位國會議員見面,很高興能加深彼此關係,而有幾件事情也讓他十分關注。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "加深"
+            ],
+            "positive_list": [
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-10 07:52"
+        }
+    ]
+}

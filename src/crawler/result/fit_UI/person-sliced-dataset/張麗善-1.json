@@ -1,0 +1,82 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張麗善",
+            "verb": "說",
+            "opinion": "「這是我有史以來第一次,不用使用鬧鐘,可以睡到自然醒的一天。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "自然"
+            ],
+            "datetime": "2022-05-21 18:24"
+        },
+        {
+            "person": "張麗善",
+            "verb": "表示",
+            "opinion": "各項民調都是施政的重要參考依據,表現好的面向縣府持續精進,表現較不足的面向縣府也會虛心檢討,會用平常心來看待民調;過去十多年雲林縣的發展確實落後許多,對於鄉親有感受到這三年多的進步,她相當欣慰,也會繼續努力打拚。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不足",
+                "不足的",
+                "落後",
+                "不足"
+            ],
+            "positive_list": [
+                "努力",
+                "重要",
+                "發展",
+                "進步",
+                "確實"
+            ],
+            "datetime": "2022-05-26 21:58"
+        },
+        {
+            "person": "張麗善",
+            "verb": "說",
+            "opinion": "「雲林縣的議員,應該是要為,我們孩子的健康來把關,不應該一昧的為中央護航,我想這個數字,我們應該是要充分準備,就算有一點寬鬆,也應該要保障,我們雲林縣孩子的基本權益。」",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不應該"
+            ],
+            "positive_list": [
+                "充分",
+                "健康",
+                "準備",
+                "權益"
+            ],
+            "datetime": "2022-06-06 18:12"
+        },
+        {
+            "person": "張麗善",
+            "verb": "表示",
+            "opinion": "「很多孩子非常懷念,他的同學同窗,還有下禮拜也正是,我們期末考非常重要的時間點,所以我們預計在,下個禮拜6月13日,我們恢復實體上課。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-06-08 17:33"
+        },
+        {
+            "person": "張麗善",
+            "verb": "說",
+            "opinion": "「下星期也正是期末考,一個非常重要的時間點,所以我們預計,下個星期6月13日開始,恢復實體上課。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-06-09 12:27"
+        }
+    ]
+}

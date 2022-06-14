@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/恩蔻希.png",
+    "opinions": [
+        {
+            "person": "恩蔻希",
+            "verb": "表示",
+            "opinion": "史瓦帝尼和台灣的友誼自1968年就開始了,與台關係非常悠久。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "友誼"
+            ],
+            "datetime": "2022-05-26 07:40"
+        },
+        {
+            "person": "恩蔻希",
+            "verb": "表示",
+            "opinion": "史瓦帝尼和台灣的友誼自1968年就開始了,與台關係非常悠久。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "友誼"
+            ],
+            "datetime": "2022-05-26 08:14"
+        }
+    ]
+}

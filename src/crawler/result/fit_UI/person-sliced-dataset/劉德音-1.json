@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉德音.png",
+    "opinions": [
+        {
+            "person": "劉德音",
+            "verb": "表示",
+            "opinion": "台積電會跟各國政府有相當溝通,包括台灣政府,而台灣也尊重台積電的商業決定,目前還在持續觀察和應變之中,請大家放心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "放心",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-08 13:08"
+        }
+    ]
+}

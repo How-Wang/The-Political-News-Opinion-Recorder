@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝欣舫.png",
+    "opinions": [
+        {
+            "person": "謝欣舫",
+            "verb": "說",
+            "opinion": "「高雄加上『逗號』moveforward,這是比較正確的說法,但其實一般在廣告文宣的時候,在文法上是會比較彈性的。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正確",
+                "正確的"
+            ],
+            "datetime": "2022-06-04 16:18"
+        }
+    ]
+}

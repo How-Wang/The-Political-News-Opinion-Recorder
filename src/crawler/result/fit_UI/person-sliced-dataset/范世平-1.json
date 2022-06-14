@@ -1,0 +1,95 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "范世平",
+            "verb": "強調",
+            "opinion": "柯文哲的人際關係差是眾所皆知,但是不能透過副市長或衛生局長與北市的醫學中心聯繫嗎?其實就是因為他的孤傲心態。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 11:16"
+        },
+        {
+            "person": "范世平",
+            "verb": "質疑",
+            "opinion": "怒轟柯文哲根本是「難伺候的巨嬰」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 11:16"
+        },
+        {
+            "person": "范世平",
+            "verb": "認為",
+            "opinion": "柯文哲其實就是怕被比下去。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 11:16"
+        },
+        {
+            "person": "范世平",
+            "verb": "認為",
+            "opinion": "「最蠢的,就是把郭彥均事件搞成藍綠對決」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:50"
+        },
+        {
+            "person": "范世平",
+            "verb": "指出",
+            "opinion": "「國民黨的支持度比上個月下跌0.4%,被民眾黨超車而淪為第三大黨;不但從1月迄今連續5個月都在15.6%以下,這個月的14.1%更創下2016年7月以來的第三低。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "下跌",
+                "淪為"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:50"
+        },
+        {
+            "person": "范世平",
+            "verb": "指出",
+            "opinion": "藝人郭彥均日前分享所謂「醫護朋友」對話,聲稱「看到這(麼)多孩子,就這樣走」,很多人批評此與事實不符,是製造社會恐慌,郭。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不符",
+                "批評",
+                "恐慌",
+                "批評",
+                "恐慌"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-30 10:50"
+        },
+        {
+            "person": "范世平",
+            "verb": "指出",
+            "opinion": "台灣任何社會事件只要有政黨介入,就不可能掀起狂風巨浪。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "狂風",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:20"
+        }
+    ]
+}

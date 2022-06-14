@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王薇君.png",
+    "opinions": [
+        {
+            "person": "王薇君",
+            "verb": "說",
+            "opinion": "新北市政府最新的說法,模擬演練是新北市消防局勤務中心「李宇松主任」的主意,認為李宇松主任恐背了黑鍋,呼籲新北市府高層應扛起責任,不要甩鍋給無辜基層。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:36"
+        },
+        {
+            "person": "王薇君",
+            "verb": "說",
+            "opinion": "李宇松主任背了這個鍋子,我要送你這個鍋子,因為你真的很了不起,新北市政府也真的了不起,要不要負責,順便報一下金鐘獎,可能還得大獎。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不要",
+                "不起"
+            ],
+            "positive_list": [
+                "了不起",
+                "負責",
+                "了不起"
+            ],
+            "datetime": "2022-06-08 10:40"
+        },
+        {
+            "person": "王薇君",
+            "verb": "說",
+            "opinion": "李宇松主任背了這個鍋子,我要送你這個鍋子,因為你真的很了不起,新北市政府也真的了不起,要不要負責,順便報一下金鐘獎,可能還得大獎。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不要",
+                "不起"
+            ],
+            "positive_list": [
+                "了不起",
+                "負責",
+                "了不起"
+            ],
+            "datetime": "2022-06-08 10:19"
+        }
+    ]
+}

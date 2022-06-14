@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃偉峰.png",
+    "opinions": [
+        {
+            "person": "黃偉峰",
+            "verb": "說",
+            "opinion": "「他一生就是希望堅持,他的清白,他也特別講到,他出生的時候,如一塊白布,生命結束的時候,他也希望能夠像一塊白布一樣。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "特別",
+                "堅持",
+                "清白",
+                "希望"
+            ],
+            "datetime": "2022-06-10 15:26"
+        }
+    ]
+}

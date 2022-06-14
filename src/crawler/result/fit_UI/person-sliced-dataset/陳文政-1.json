@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳文政.png",
+    "opinions": [
+        {
+            "person": "陳文政",
+            "verb": "表示",
+            "opinion": "COVID-19疫情發生2年多,台中市確診死亡累計逾200人,呼籲台中市府制定相關喪葬作業標準,讓死者的家屬及殯葬業者有所遵循。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "死者"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 20:28"
+        }
+    ]
+}

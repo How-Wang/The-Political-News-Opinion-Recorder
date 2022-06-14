@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/臺灣省工作委員會臺南市工委會.png",
+    "opinions": [
+        {
+            "person": "臺灣省工作委員會臺南市工委會",
+            "verb": "說明",
+            "opinion": "這是一個地區性的組織,它全國的部分又叫甚麼?在最近三年抗中保台的政治浪潮下,這個不可說出明確名字否則就會被詛咒的佛地魔,在台灣其實人盡皆知。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "被詛咒",
+                "被詛咒的",
+                "詛咒",
+                "不可",
+                "詛咒"
+            ],
+            "positive_list": [
+                "明確"
+            ],
+            "datetime": "2022-05-29 07:00"
+        }
+    ]
+}

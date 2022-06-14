@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中評會.png",
+    "opinions": [
+        {
+            "person": "中評會",
+            "verb": "說",
+            "opinion": "民進黨祕書長林錫耀在會中表示,全代會將改選黨職,包括中執委、中評委和中常委,但並未討論到選舉提名。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:36"
+        }
+    ]
+}

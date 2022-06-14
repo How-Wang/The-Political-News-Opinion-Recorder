@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳義雄.png",
+    "opinions": [
+        {
+            "person": "陳義雄",
+            "verb": "表示",
+            "opinion": "台北市已經20幾年沒有民進黨籍市長,提名人選非常重要,「這局若要贏,一定要推出對的人,不是推出自己人。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-02 12:02"
+        },
+        {
+            "person": "陳義雄",
+            "verb": "說",
+            "opinion": "「台北市已經20幾年,沒有民進黨籍市長,提名的人選非常非常重要,推出對的人不是推出自己人。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-02 14:15"
+        }
+    ]
+}

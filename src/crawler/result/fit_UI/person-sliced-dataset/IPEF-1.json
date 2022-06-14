@@ -1,0 +1,21 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "IPEF",
+            "verb": "宣布",
+            "opinion": "啟動「台美21世紀貿易倡議」(US-TaiwanInitiativeon21st-centuryTrade),台民進黨當局立即展開一波大內宣,再次誇稱「重大成果」,深恐沒人知道它高潮,急欲彰顯自己是小三,而不是「見不得人的小三」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不是",
+                "不得"
+            ],
+            "positive_list": [
+                "知道",
+                "重大"
+            ],
+            "datetime": "2022-06-07 05:40"
+        }
+    ]
+}

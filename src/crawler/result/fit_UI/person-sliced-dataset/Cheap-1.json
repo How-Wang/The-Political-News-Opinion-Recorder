@@ -1,0 +1,38 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "Cheap",
+            "verb": "說",
+            "opinion": "交通局要求的業配有4大重點,包括注意車前狀況、過彎減速、切換車道打方向燈、勿與大型車併行,遠離大車。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "遠離"
+            ],
+            "positive_list": [
+                "注意"
+            ],
+            "datetime": "2022-05-21 20:17"
+        },
+        {
+            "person": "Cheap",
+            "verb": "說",
+            "opinion": "台灣道路的設計與法規「對機車都非常不友善」,「(交通局)直接用一個傷亡數據就給機車族扣一個帽子,合理嗎」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不友善",
+                "傷亡",
+                "機車"
+            ],
+            "positive_list": [
+                "友善",
+                "合理",
+                "友善"
+            ],
+            "datetime": "2022-05-21 20:17"
+        }
+    ]
+}

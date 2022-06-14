@@ -1,0 +1,120 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新北市政府.png",
+    "opinions": [
+        {
+            "person": "新北市政府",
+            "verb": "表示",
+            "opinion": "民眾可以自選「0+7」或「3+4」,造成基層包括公衛、醫護還是要花很多時間跟心力,再次呼籲中央政府,能考慮做法一致,減輕第一線負擔,並調整和轉移防疫工作重心。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [
+                "一致",
+                "考慮",
+                "很多",
+                "減輕"
+            ],
+            "datetime": "2022-05-26 14:35"
+        },
+        {
+            "person": "新北市政府",
+            "verb": "說明",
+            "opinion": "」,礙於有事臨時取消,只是市府私下約見面的做法,綠營議員砲轟,根本是在搞小動作,帶風向,不過,藍營議員回擊說,約見面只是把事情說清楚,要綠營不要政治操作,藍綠隔空互槓,爭議持續延燒。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "取消",
+                "不要",
+                "搞小動作"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-01 19:08"
+        },
+        {
+            "person": "新北市政府",
+            "verb": "說",
+            "opinion": "這涉及隱私,所以不能給,否則是更嚴重的曲解法令。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "曲解",
+                "嚴重",
+                "嚴重的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 10:36"
+        },
+        {
+            "person": "新北市政府",
+            "verb": "說明",
+            "opinion": "會,對於記者提問陳時中確診,是否會建議他打1922請求協助嗎?侯友宜則回應,「我想他應該沒有打1922,我在這裡期待他早日康復,回到工作崗位」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "協助",
+                "期待",
+                "請求",
+                "期待"
+            ],
+            "datetime": "2022-06-12 18:59"
+        },
+        {
+            "person": "新北市政府",
+            "verb": "說明",
+            "opinion": "會,高詩琪表示,「我想議員可能是弄錯了、議員不太清楚」,新北市衛生局在6月2日以公文函復給恩恩父親時,就已經在所有的公文及資料上很明確地告知,「衛生局、衛生所沒有提供錄音設備」。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不太",
+                "弄錯",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "明確",
+                "清楚",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 16:02"
+        },
+        {
+            "person": "新北市政府",
+            "verb": "說明",
+            "opinion": "會,有關65歲以上、原住民55歲以上長者施打第四劑新冠肺炎疫苗,陳瑞秋說明,新北市主要在6月中旬以後,會比較多市民符合條件開始施打。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "符合",
+                "說明"
+            ],
+            "datetime": "2022-06-12 15:41"
+        },
+        {
+            "person": "新北市政府",
+            "verb": "說明",
+            "opinion": "會,有關陳時中確診新冠肺炎,侯友宜受訪時表示,「我想他應該沒有打1922,我在這裡期待他早日康復,回到工作崗位」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-12 15:23"
+        }
+    ]
+}

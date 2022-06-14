@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "吳秉叡",
+            "verb": "說",
+            "opinion": "台灣存託憑證就是屬於有價證券,大概在2020年時,立法院財政委員會就曾反對這個修法,現在又起爭議。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 14:48"
+        }
+    ]
+}

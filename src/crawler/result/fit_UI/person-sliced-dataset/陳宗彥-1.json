@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳宗彥.png",
+    "opinions": [
+        {
+            "person": "陳宗彥",
+            "verb": "說明",
+            "opinion": "指揮中心針對確診死亡有指引跟規範,而在地方殯葬的實務上還是依據24小時火化,相關的規範也都有訂定如何做好防護。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-06-05 10:31"
+        },
+        {
+            "person": "陳宗彥",
+            "verb": "說明",
+            "opinion": "實務上有相關機關和業者為了避免傳染,有24小時內火化的做法。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "傳染",
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-06-06 13:30"
+        }
+    ]
+}

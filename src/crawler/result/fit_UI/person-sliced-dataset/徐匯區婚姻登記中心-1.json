@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐匯區婚姻登記中心.png",
+    "opinions": [
+        {
+            "person": "徐匯區婚姻登記中心",
+            "verb": "表示",
+            "opinion": "有些人3月前遞交了離婚申請,一個月冷靜期過後,便需要咨詢領取領離婚證事宜,「不僅離婚著急,還有很多人急著結婚。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "著急",
+                "離婚",
+                "冷靜"
+            ],
+            "positive_list": [
+                "冷靜",
+                "很多",
+                "冷靜"
+            ],
+            "datetime": "2022-06-08 16:56"
+        }
+    ]
+}

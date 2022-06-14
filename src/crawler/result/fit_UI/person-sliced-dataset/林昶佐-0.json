@@ -1,0 +1,424 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "屆時將與德國、印度、烏干達的國會議員對談抵禦中國獨裁的主題。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "獨裁",
+                "獨裁的",
+                "獨裁"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 18:29"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "今年他能親身參加峰會,備感榮幸,一方面將傳達台灣的聲音與看法,更重要的是交流各國的經驗、彼此學習。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "參加",
+                "經驗",
+                "學習",
+                "榮幸"
+            ],
+            "datetime": "2022-05-25 18:29"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "哥本哈根民主峰會由民主聯盟基金會主辦,每年邀集來自世界各民主國家的政治人物、民間專家,探討重大國際政治議題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重大",
+                "專家"
+            ],
+            "datetime": "2022-05-25 18:29"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "屆時將與德國、印度、烏干達的國會議員對談抵禦中國獨裁的主題。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "獨裁",
+                "獨裁的",
+                "獨裁"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 22:43"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "今年他能親身參加峰會,備感榮幸,一方面將傳達台灣的聲音與看法,更重要的是交流各國的經驗、彼此學習。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "參加",
+                "經驗",
+                "學習",
+                "榮幸"
+            ],
+            "datetime": "2022-05-25 22:43"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "哥本哈根民主峰會由民主聯盟基金會主辦,每年邀集來自世界各民主國家的政治人物、民間專家,探討重大國際政治議題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重大",
+                "專家"
+            ],
+            "datetime": "2022-05-25 22:43"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "強調",
+            "opinion": "自己「備感榮幸」,點出將傳達台灣的聲音與看法,他認為,更重要的是交流各國的經驗、彼此學習。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "經驗",
+                "學習",
+                "榮幸"
+            ],
+            "datetime": "2022-05-26 09:34"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "這是「國際社會對台灣的重視」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重視"
+            ],
+            "datetime": "2022-05-26 09:34"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "提到",
+            "opinion": "台灣代表團抵達丹麥後先拜訪哥本哈根市長路特肯(Jens-KristianLütken),林昶佐就過去常來丹麥工作的經歷,與路特肯討論文化、新創產業與哥本哈根加深合作的可能,范雲、謝衣鳯、王婉諭、邱臣遠則就教育、農業、綠能等議題,與路特肯交換意見。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "加深"
+            ],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "合作"
+            ],
+            "datetime": "2022-06-09 08:36"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "今年包括美國前總統歐巴馬、烏克蘭總統澤倫斯基都將參與民主峰會,蔡英文也將再次以視訊的方式參加,由各國討論如何從行政及立法方面抵抗威權、強化民主的韌性,本次是台灣首次有立法委員受邀與談,期盼能為台灣發聲,也透過與各國的討論,深化與加強台灣民主的韌性。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "抵抗"
+            ],
+            "positive_list": [
+                "參加",
+                "期盼"
+            ],
+            "datetime": "2022-06-09 20:27"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "提到",
+            "opinion": "雖然台灣長年被中國打壓滲透,但也尚未有「最好的應對方式」,台灣會持續積極與各國交流,學習從行政與立法等不同層面調整與變革,與民主陣營一起合作面對持續進化的新興威權主義。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "尚未",
+                "滲透",
+                "變革",
+                "打壓"
+            ],
+            "positive_list": [
+                "合作",
+                "最好",
+                "學習",
+                "積極",
+                "合作"
+            ],
+            "datetime": "2022-06-10 21:23"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "台灣近年因應中國滲透修正國安五法,制定反滲透法,並向現場各國議員呼籲,盼各國政府解除與台灣政府交往的諸多限制。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "限制",
+                "滲透"
+            ],
+            "positive_list": [
+                "解除"
+            ],
+            "datetime": "2022-06-10 21:23"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "提到",
+            "opinion": "最後主持人問及是否擔心因為對抗獨裁中國而遭受人身威脅,他想到有些親中極端團體在台灣攻擊意見不同的人以及來台的香港民主人士,甚至我自己也曾收到生命威脅的訊息,「然後我想起我的家人還有米魯,我不敢說我不怕,但是我們參與國家的決策,必須堅持做對的事情」。",
+            "negative_score": 12,
+            "positive_score": 1,
+            "negative_list": [
+                "攻擊",
+                "威脅",
+                "極端",
+                "對抗",
+                "遭受",
+                "擔心",
+                "獨裁",
+                "攻擊",
+                "威脅",
+                "極端",
+                "擔心",
+                "獨裁"
+            ],
+            "positive_list": [
+                "堅持"
+            ],
+            "datetime": "2022-06-10 22:27"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "提到",
+            "opinion": "雖然台灣長年被中國打壓滲透,但也尚未有「最好的應對方式」,台灣會持續積極與各國交流,學習從行政與立法等不同層面調整與變革,與民主陣營一起合作面對持續進化的新興威權主義。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "尚未",
+                "滲透",
+                "變革",
+                "打壓"
+            ],
+            "positive_list": [
+                "合作",
+                "最好",
+                "學習",
+                "積極",
+                "合作"
+            ],
+            "datetime": "2022-06-10 23:04"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "台灣近年因應中國滲透修正國安五法,制定反滲透法,並向現場各國議員呼籲,盼各國政府解除與台灣政府交往的諸多限制。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "限制",
+                "滲透"
+            ],
+            "positive_list": [
+                "解除"
+            ],
+            "datetime": "2022-06-10 23:04"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "他在後台遇到結束民主峰會座談的歐巴馬,因此上前握手並自我介紹是來自台灣的國會議員,也提及當年許多台灣年輕人都曾經受到歐巴馬演講的啟發。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "啟發"
+            ],
+            "datetime": "2022-06-11 18:00"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "他參與哥本哈根民主高峰會,遇上結束座談的美國前總統歐巴馬,2人除握手寒暄,他也邀請歐巴馬訪台,歐巴馬笑著點頭回應。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 18:00"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "歐巴馬露出驚喜的表情回應,接著他則邀請歐巴馬有機會能造訪台灣,對方也笑著點點頭。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "機會",
+                "驚喜"
+            ],
+            "datetime": "2022-06-11 09:03"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "歐巴馬結束民主峰會座談後返回後台,他向前與歐巴馬握手,並自我介紹是來自台灣的國會議員FreddyLim,當年許多台灣年輕人都曾經受到其演講啟發,歐巴馬也露出驚喜表情回應。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "啟發",
+                "驚喜"
+            ],
+            "datetime": "2022-06-11 10:03"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "指出",
+            "opinion": "促成愈開放的國會,對內能強化民主,對外也能抗衡中國威脅。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "促成",
+                "開放",
+                "開放的"
+            ],
+            "datetime": "2022-06-12 11:49"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "指出",
+            "opinion": "他跟各國代表分享,台灣在產生開放國會行動方案的過程,本身就是公開審議模式的寶貴經驗。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "開放",
+                "經驗",
+                "寶貴"
+            ],
+            "datetime": "2022-06-12 11:49"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "的台獨份子底家啦!他超棒!我們絕對會再邀他來到丹麥」,還加上飛吻的表情符號,嗆爆中國。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "絕對",
+                "台獨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:25"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "「有自稱是來自「中國的學生」,傳訊息給我的經紀人寫下\"如果讓閃靈上台表演我們會殺了你們\",這些事這種死亡威脅不斷發生,我們...我不敢說我不怕(威脅),但我們必須堅持做對的事情(鼓掌)。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "死亡",
+                "自稱",
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "堅持",
+                "鼓掌"
+            ],
+            "datetime": "2022-06-12 17:25"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "回應",
+            "opinion": "「你們很棒!我們下次在台灣見」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很棒"
+            ],
+            "datetime": "2022-06-12 12:59"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "表示",
+            "opinion": "中國不願意當個負責任的國家,還透過使館用昧於事實、情緒化的言語來攻擊民主陣營,更顯得這場國際會議的重要性,深化國際社會合作刻不容緩。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "不願意",
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [
+                "合作",
+                "負責",
+                "重要",
+                "重要性",
+                "願意",
+                "合作",
+                "願意"
+            ],
+            "datetime": "2022-06-12 12:59"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "的台獨份子底家啦!我們絕對會再邀他來到丹麥」,直接嗆爆中國,力挺台灣。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "絕對",
+                "台獨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 12:55"
+        },
+        {
+            "person": "林昶佐",
+            "verb": "說",
+            "opinion": "「台獨份子在這!下次還要再邀他來。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "台獨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 09:31"
+        }
+    ]
+}

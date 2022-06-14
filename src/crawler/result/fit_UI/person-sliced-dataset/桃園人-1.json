@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/桃園人.png",
+    "opinions": [
+        {
+            "person": "桃園人",
+            "verb": "說",
+            "opinion": "是樂見的,畢竟我們有了更多的選則,3位參選人也都並無交惡,良性競爭下,對桃園市民來說,可以激盪出最好的市長人選。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "良性",
+                "最好",
+                "良性",
+                "樂見",
+                "激盪"
+            ],
+            "datetime": "2022-05-28 05:30"
+        }
+    ]
+}

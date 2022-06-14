@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "臺灣人民",
+            "verb": "表示",
+            "opinion": "兩岸有互信,國際社會樂見其成,就是年年出席WHA的原因。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "樂見"
+            ],
+            "datetime": "2022-05-22 18:17"
+        }
+    ]
+}

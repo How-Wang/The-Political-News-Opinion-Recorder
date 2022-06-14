@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝嘉興.png",
+    "opinions": [
+        {
+            "person": "謝嘉興",
+            "verb": "說",
+            "opinion": "均非北市府所使用(為其他單位所用),是否有涉及不法行為,須向主管機關政府網際服務網(GSN)申請調查,且基於資安防護考量,也僅限IP使用者自行申請,他人或其他機關無法代為申請調查。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "不法行為",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:39"
+        },
+        {
+            "person": "謝嘉興",
+            "verb": "說",
+            "opinion": "均非北市府所使用(為其他單位所用),是否有涉及不法行為,須向主管機關政府網際服務網(GSN)申請調查,且基於資安防護考量,也僅限IP使用者自行申請,他人或其他機關無法代為申請調查。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "不法行為",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:45"
+        }
+    ]
+}

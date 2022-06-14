@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/馮啟彥.png",
+    "opinions": [
+        {
+            "person": "馮啟彥",
+            "verb": "表示",
+            "opinion": "近年台灣新住民人口逐年增加,是台灣活力來源,這次透過活動展現多元文化之外,也藉機對醫護人員致敬。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "增加",
+                "活力"
+            ],
+            "datetime": "2022-05-29 14:01"
+        },
+        {
+            "person": "馮啟彥",
+            "verb": "質疑",
+            "opinion": "身為柯文哲愛將的他,懲處僅予告誡,等同全身而退,對此,民眾黨今(2)日回應,中評會做出最終決定,就會照案通過。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "告誡"
+            ],
+            "positive_list": [
+                "決定",
+                "通過"
+            ],
+            "datetime": "2022-06-02 09:55"
+        }
+    ]
+}

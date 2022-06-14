@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國安會.png",
+    "opinions": [
+        {
+            "person": "國安會",
+            "verb": "指出",
+            "opinion": "公務員除法令規定外,不得兼任領證職業及其他反覆從事同種類行為的業務。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "反覆",
+                "不得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:09"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃呂錦茹",
+            "verb": "表示",
+            "opinion": "張煥霖於5月9日正式上工,加入蔣萬安的競選團隊,「還不確定張煥霖是不是發言人,不過他一定會進入競選團隊」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不確",
+                "不確定",
+                "不是"
+            ],
+            "positive_list": [
+                "正式",
+                "確定"
+            ],
+            "datetime": "2022-05-21 17:51"
+        },
+        {
+            "person": "黃呂錦茹",
+            "verb": "說",
+            "opinion": "「我們(蔣萬安)持續都是領先,但是我們也不敢自滿,陳時中一直是我們最強的假想敵,我講過我們把陳時中,拿來做民調大概1、2年,持續把他跟民進黨的其他人做民調,陳時中都是領先的,我們已經把陳時中,早就當為我們的假想敵。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "自滿"
+            ],
+            "positive_list": [
+                "領先"
+            ],
+            "datetime": "2022-06-08 13:02"
+        },
+        {
+            "person": "黃呂錦茹",
+            "verb": "說",
+            "opinion": "台北市選民相當理性,不論是誰參選都要接受在地考驗,但曾任台中市長和交通部長的林佳龍未曾在台北市受過檢驗。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "接受",
+                "理性"
+            ],
+            "datetime": "2022-06-08 16:43"
+        },
+        {
+            "person": "黃呂錦茹",
+            "verb": "表示",
+            "opinion": "蔣萬安最近表現持續進步中,因為他意志堅定也做好許多準備,加上北市基本盤向來是藍大於綠,並坦言「內部民調蔣萬安雖然都持續領先,但陳時中就是他們藍營最強假想敵。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "堅定",
+                "進步",
+                "準備",
+                "領先"
+            ],
+            "datetime": "2022-06-08 16:43"
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林智堅",
+            "verb": "指出",
+            "opinion": "他特別將水潤餅作為外賓來訪的伴手禮,如今水潤餅不僅是新竹人的美食,更是新竹市推展城市外交的「秘密武器」,吃過的外賓都說讚。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "秘密"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-21 20:27"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "相關資訊子虛烏有,目前以防疫優先。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 20:06"
+        },
+        {
+            "person": "林智堅",
+            "verb": "說",
+            "opinion": "「市長從頭到尾沒有說要參戰2022,都是別人在幫他找頭路!」現階段林智堅除了聚焦疫情,也沒有就選舉有更進一步規劃,「通篇報導都是子虛烏有」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 19:35"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "鄭文燦在市政工作上有很好成績,桃園在地也有一些人選,此刻桃園與中央,民進黨都是執政黨,最重要的就是COVID-19(2019冠狀病毒疾病)防疫優先,談論選舉不會是民眾的期待。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "疾病",
+                "不會"
+            ],
+            "positive_list": [
+                "很好",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-05-25 22:32"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "近期未曾與總統蔡英文、桃園市長鄭文燦討論年底選舉。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 22:32"
+        },
+        {
+            "person": "林智堅",
+            "verb": "強調",
+            "opinion": "現在以疫情為重,民進黨會照規劃在6月提出人選。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 09:53"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "只要新竹市找到好的人選,他就願意到桃園參選,這個說法也引發政治圈的討論熱潮。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-25 12:28"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "自己一直都有收集馬克杯的習慣,出國也都會帶一個回來做紀念,一看到台積電35週年星巴克紀念馬克杯,他也好想擁有這款員工限定的「護國神杯」,就好想收藏一個,並且跟台積電的莊先生借來拍照,讓他暫時擁有這個新竹的驕傲。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "限定",
+                "驕傲",
+                "驕傲"
+            ],
+            "positive_list": [
+                "紀念",
+                "習慣",
+                "擁有"
+            ],
+            "datetime": "2022-05-25 10:41"
+        },
+        {
+            "person": "林智堅",
+            "verb": "說",
+            "opinion": "「市長從頭到尾沒有說要參戰2022,都是別人在幫他找頭路!」現階段林智堅除了聚焦疫情,也沒有就選舉有更進一步規劃,「通篇報導都是子虛烏有」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 09:42"
+        },
+        {
+            "person": "林智堅",
+            "verb": "認為",
+            "opinion": "林智堅是強勁對手,張善政回應,強勁不強勁自己不太清楚,但自己接受徵召時說,覺得桃園是六都最年輕的都市,最有發展潛力,若有好的政治帶領,讓桃園變成智慧科技新都,任何人願意加進來一起打造這樣的願景都是好事,不管是在什麼職位上面。",
+            "negative_score": 4,
+            "positive_score": 9,
+            "negative_list": [
+                "不太",
+                "不管",
+                "好事",
+                "對手"
+            ],
+            "positive_list": [
+                "好事",
+                "接受",
+                "清楚",
+                "智慧",
+                "發展",
+                "願意",
+                "好事",
+                "智慧",
+                "願意"
+            ],
+            "datetime": "2022-05-25 14:39"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "「都不支持」以及不表態的民眾,有47.5%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:29"
+        },
+        {
+            "person": "林智堅",
+            "verb": "強調",
+            "opinion": "中央及地方這段期間都忙著防疫,像蔡英文總統上週(19日)就造訪新竹市居家關懷照護中心慰問第一線醫護人員,他當時就特別跟到場的媒體說「今天談防疫、不談選舉」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "慰問",
+                "關懷"
+            ],
+            "datetime": "2022-05-26 10:06"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "桃園市長鄭文燦因為沒有被知會而對此頗有微詞。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:19"
+        },
+        {
+            "person": "林智堅",
+            "verb": "說",
+            "opinion": "「選對會因為疫情的關係,近期並沒有召開,那也沒有來跟我討論過選情的情況。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:43"
+        },
+        {
+            "person": "林智堅",
+            "verb": "強調",
+            "opinion": "現階段都以防疫為重,市政也持續推動。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:06"
+        },
+        {
+            "person": "林智堅",
+            "verb": "回應",
+            "opinion": "今又傳上週五總統蔡英文邀集桃園市長鄭文燦、新竹市長林智堅,討論林智堅參選桃園市長一事。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:41"
+        },
+        {
+            "person": "林智堅",
+            "verb": "強調",
+            "opinion": "因為疫情的關係,民進黨的選對會已很長時間沒有召開,如果未來疫情趨緩,選對會若有跟他討論新竹市長的人選,他會就新竹市目前的狀況作說明。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-30 12:41"
+        },
+        {
+            "person": "林智堅",
+            "verb": "解釋",
+            "opinion": "選桃園是子虛烏有,一方面又積極拉抬副市長沈慧虹。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-06-04 10:59"
+        },
+        {
+            "person": "林智堅",
+            "verb": "表示",
+            "opinion": "民進黨「會做很好的安排,也會推出很好的人選,大家照時間表完成就可以了。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成就",
+                "完成",
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-08 15:32"
+        }
+    ]
+}

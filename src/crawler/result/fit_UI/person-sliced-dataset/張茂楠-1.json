@@ -1,0 +1,160 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張茂楠",
+            "verb": "表示",
+            "opinion": "接主委是重擔,但他持續做好準備,他的責任與當選後最重要工作就是讓今年底台北市長勝選、市議員席次全壘打,光復首都。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "重擔"
+            ],
+            "positive_list": [
+                "重要",
+                "最重要",
+                "準備"
+            ],
+            "datetime": "2022-05-22 21:57"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "說",
+            "opinion": "這是一個重擔且已做好準備,他的責任就是讓今年台北市長選舉勝選、市議員席次全壘打。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "重擔"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-22 18:15"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "表示",
+            "opinion": "她是優秀的參選人,自己準備好扛起責任,國民黨將在5月25日提名立委蔣萬安參選台北市長,民進黨方面現階段以防疫為優先,但希望中央可以在6月底前提出台北市民最可以接受的人選。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "可以接受",
+                "可以接受的",
+                "希望",
+                "接受",
+                "準備",
+                "優秀",
+                "優秀的",
+                "希望"
+            ],
+            "datetime": "2022-05-22 20:02"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "認為",
+            "opinion": "現在疫情嚴重,推出人選後,沒辦法辦大型活動,也沒有用,推測應該要到7月中全代會才會提名。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "嚴重",
+                "沒有",
+                "沒有用",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "有用"
+            ],
+            "datetime": "2022-06-04 13:25"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "說",
+            "opinion": "「每週一個市政缺失,不管會勘、記者會,整個基層士氣要帶動起來,絕對不能好像沒母雞,小雞就不知所措沒事做,這不可以,一定要讓大家有事做。」",
+            "negative_score": 11,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "不知",
+                "不知所措",
+                "不能",
+                "不管",
+                "絕對",
+                "不可",
+                "不知",
+                "不知所措",
+                "沒事",
+                "沒事做"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:25"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "說",
+            "opinion": "接下來每週會發想一個市政缺失,帶著新人一起會勘、開記者會。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:25"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "指出",
+            "opinion": "中央規定確診死亡後於24小時內通報並盡快處理,但台北市長柯文哲卻說2天前才知道,若有誤會應該要釐清,否則有甩鍋中央之嫌,且以訛傳訛對於防疫是不力的,市長說話應該無戲言。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "誤會",
+                "之嫌",
+                "以訛傳訛"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-06 22:54"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "說",
+            "opinion": "「我要去中央來跟林錫耀秘書長,也來跟他請益啦,大家期待的東西我們都盡快在準備,應該很快就會有結論,主席有特別考量,不過我認為大概就不外乎,這一兩三個當中去選擇一個菁英。」",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "東西"
+            ],
+            "positive_list": [
+                "特別",
+                "期待",
+                "準備",
+                "期待"
+            ],
+            "datetime": "2022-06-11 12:31"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "說",
+            "opinion": "「這是我提出的不是他提的。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 10:57"
+        },
+        {
+            "person": "張茂楠",
+            "verb": "表示",
+            "opinion": "若蔣萬安擔任市長他要落實,「是我提出他要落實」,但他也強調,如果民進黨候選人出線,一區一槌球場也列入全民運動場地這件事,也會列入執政的計畫中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 10:57"
+        }
+    ]
+}

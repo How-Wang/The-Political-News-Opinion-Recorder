@@ -1,0 +1,55 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "程建人",
+            "verb": "說",
+            "opinion": "「你這個IPEF牽涉了很多國家嘛,所以在這種情況下的話,美國當然變得比較謹慎嘛,合乎他的利益的他做,合乎他馬上的利益的他馬上做,合乎長遠的利益的他慢慢做。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "他馬"
+            ],
+            "positive_list": [
+                "合乎",
+                "利益",
+                "很多",
+                "當然",
+                "謹慎"
+            ],
+            "datetime": "2022-05-23 16:47"
+        },
+        {
+            "person": "程建人",
+            "verb": "說",
+            "opinion": "「你這個IPEF牽涉了很多國家嘛,所以在這種情況下的話,美國當然變得比較謹慎嘛,合乎他的利益的他做,合乎他馬上的利益的他馬上做,合乎長遠的利益的他慢慢做。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "他馬"
+            ],
+            "positive_list": [
+                "合乎",
+                "利益",
+                "很多",
+                "當然",
+                "謹慎"
+            ],
+            "datetime": "2022-05-23 12:45"
+        },
+        {
+            "person": "程建人",
+            "verb": "強調",
+            "opinion": "美國是世界強國,且從古迄今永遠都以其國家利益為優先,但並非所有國家都願意聽從美國,因此在各種不同利益、背景下演變成現今的情況。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "利益",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-27 11:32"
+        }
+    ]
+}

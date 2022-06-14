@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/CNN.png",
+    "opinions": [
+        {
+            "person": "CNN",
+            "verb": "說",
+            "opinion": "「電影的美國海軍顧問,向《紐約郵報》表示,軍方沒花什麼錢,因為都是派拉蒙影業買單,每一筆稅金都有繳給財政部,而我們藉由電影,來招募新血與留住人才。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 18:48"
+        }
+    ]
+}

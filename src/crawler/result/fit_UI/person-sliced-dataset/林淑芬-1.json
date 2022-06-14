@@ -1,0 +1,52 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林淑芬.png",
+    "opinions": [
+        {
+            "person": "林淑芬",
+            "verb": "表示",
+            "opinion": "身體部位的命名不應該連結道德或價值,處女膜及惡露既名不符實,又有歧視的意涵,傷害全體女性,政府應研議適當名稱取代。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不符",
+                "傷害",
+                "不應該",
+                "歧視",
+                "傷害"
+            ],
+            "positive_list": [
+                "道德",
+                "適當"
+            ],
+            "datetime": "2022-05-26 11:03"
+        },
+        {
+            "person": "林淑芬",
+            "verb": "呼籲",
+            "opinion": "應修改「處女膜」、「惡露」等名詞,引發熱烈迴響。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "發熱"
+            ],
+            "positive_list": [
+                "熱烈"
+            ],
+            "datetime": "2022-05-26 10:37"
+        },
+        {
+            "person": "林淑芬",
+            "verb": "呼籲",
+            "opinion": "應修改「處女膜」、「惡露」等名詞,引發熱烈迴響。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "發熱"
+            ],
+            "positive_list": [
+                "熱烈"
+            ],
+            "datetime": "2022-05-26 10:20"
+        }
+    ]
+}

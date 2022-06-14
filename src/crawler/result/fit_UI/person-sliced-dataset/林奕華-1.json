@@ -1,0 +1,115 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林奕華",
+            "verb": "說",
+            "opinion": "WHO並沒有說加熱菸可以開放,只是說明有部分國家禁止、部分國家列入管理,「只是一個事實描述」,她所提案的版本是將加熱菸、電子煙或其他菸品都納入在新型菸品並且要求「雙禁」,同時新型菸品零配件也都包含在內,必須要納入管理。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "禁止",
+                "沒有"
+            ],
+            "positive_list": [
+                "開放",
+                "管理",
+                "說明"
+            ],
+            "datetime": "2022-05-24 15:11"
+        },
+        {
+            "person": "林奕華",
+            "verb": "表示",
+            "opinion": "今天的癥結點不是在於誰說,「而是10個我們覺得多,那蘇院長覺得不多,請告訴我們多少算多啊?他重點是講10個是假消息,所以要究責查辦,我們每個都講10個很多,所以要來自首啊,請究責查辦我們!」眾立委更不斷高喊:「請受理我們的自首,我們來做自首筆錄,要辦郭彥均先辦我們。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不斷",
+                "不是"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 12:00"
+        },
+        {
+            "person": "林奕華",
+            "verb": "說",
+            "opinion": "此次修法納入獨立調查機制、代理人員法制化等規定,並呼籲教育部應省思,為什麼大學、五專相關科系願意投入幼教職場的這麼少,應該增加在職進修機制,保障從業人員權益。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "增加",
+                "獨立",
+                "願意",
+                "權益",
+                "願意"
+            ],
+            "datetime": "2022-05-31 17:30"
+        },
+        {
+            "person": "林奕華",
+            "verb": "說",
+            "opinion": "「非常遺憾竟然沒有被民進黨接受」。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "遺憾",
+                "沒有",
+                "竟然",
+                "遺憾"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-31 15:30"
+        },
+        {
+            "person": "林奕華",
+            "verb": "質疑",
+            "opinion": "是否如期達標,並表示「是假訊息嗎?」請政府要查清真相。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 11:05"
+        },
+        {
+            "person": "林奕華",
+            "verb": "質疑",
+            "opinion": "福吉美唾液快篩試劑驗不出Omicron病毒。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不出"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:13"
+        },
+        {
+            "person": "林奕華",
+            "verb": "表示",
+            "opinion": "現在不要講超前部署,連抄襲部署都不會,其他國家的相關指引在網路上都有,世界衛生組織提出的遺體管理指引也早在2020年就頒布,這麼多可以參考的,結果政府根本就忘記檢討。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "忘記",
+                "不要",
+                "不會",
+                "根本就"
+            ],
+            "positive_list": [
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-09 13:12"
+        }
+    ]
+}

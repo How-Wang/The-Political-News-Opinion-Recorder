@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/望月.png",
+    "opinions": [
+        {
+            "person": "望月",
+            "verb": "表示",
+            "opinion": "澀川市與彰化縣社頭鄉締結觀光友好合作協定,澀川市議會於2017年訪問台灣,加深雙邊交流。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "加深"
+            ],
+            "positive_list": [
+                "友好",
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-12 23:35"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/Taipei.png",
+    "opinions": [
+        {
+            "person": "Taipei",
+            "verb": "指出",
+            "opinion": "層峰目前屬意的台北市長人選仍然是陳時中,不過,面對本土疫情將進入高原期,除了原本就是疫情「重災區」的北部縣市外,近期中南部確診人數也逐漸增加,必須先排解因疫情產生的大小民怨,才有可能推進選舉佈局。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "推進",
+                "增加"
+            ],
+            "datetime": "2022-05-28 21:00"
+        }
+    ]
+}

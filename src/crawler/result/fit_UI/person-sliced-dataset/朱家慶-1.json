@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/朱家慶.png",
+    "opinions": [
+        {
+            "person": "朱家慶",
+            "verb": "說",
+            "opinion": "其實在3年前就已開始爭取設置蒸煮中心,但目前最大的問題是沒有相關規範而難以建置,因此希望主管部會能盡速有明確的辦法來輔導他們設置蒸煮中心。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "難以",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "明確",
+                "規範",
+                "實在",
+                "希望"
+            ],
+            "datetime": "2022-05-27 12:53"
+        }
+    ]
+}

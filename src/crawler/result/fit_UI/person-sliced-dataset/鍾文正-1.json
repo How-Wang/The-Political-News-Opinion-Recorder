@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鍾文正.png",
+    "opinions": [
+        {
+            "person": "鍾文正",
+            "verb": "指出",
+            "opinion": "柬埔寨的經濟在去年下半年就恢復成長,今年預期會像其他東南亞國家協會(ASEAN)國家一樣強彈,張南蘋在此時接下重任,相信能幫助台商利用這一波經濟力道,在企業經營上再創高峰。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "成長",
+                "相信",
+                "經營",
+                "幫助"
+            ],
+            "datetime": "2022-05-30 10:11"
+        }
+    ]
+}

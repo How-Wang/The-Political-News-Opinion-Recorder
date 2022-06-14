@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鮑爾.png",
+    "opinions": [
+        {
+            "person": "鮑爾",
+            "verb": "認為",
+            "opinion": "他在先前強調通貨膨脹並不嚴重,但在被總統拜登(JoeBiden)提名後態度180度轉變,過去川普(DonaldTrump)執政時期鮑爾也都會顧慮其政策。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "通貨膨脹",
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:10"
+        }
+    ]
+}

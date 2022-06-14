@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/石木欽.png",
+    "opinions": [
+        {
+            "person": "石木欽",
+            "verb": "表示",
+            "opinion": "因為他確診了,被隔離在家,只好請假。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:58"
+        }
+    ]
+}

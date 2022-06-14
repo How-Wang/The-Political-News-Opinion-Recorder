@@ -1,0 +1,8 @@
+{
+    "date": "2022-05-23",
+    "news_id": 66,
+    "title": "路透:邀台灣參與世衛大會提案遭駁回",
+    "article": "路透社報導,台灣友邦邀請台灣參加世界衛生組織(WHO)年度會議「世界衛生大會」(WHA)的提案今日遭到駁回。睽違兩年,世界衛生大會全會今日以實體方式正式展開。根據世界衛生組織官網,由13個友邦提出的「邀請台灣以觀察員身分出席WHA」案,是本屆唯一的議程補充項目(supplementaryitem)提案。這13個友邦包括貝里斯、史瓦帝尼、瓜地馬拉、海地、宏都拉斯、馬紹爾群島、諾魯、帛琉、巴拉圭、聖克里斯多福及尼維斯、聖露西亞、聖文森及格瑞那丁、吐瓦魯。各國於5月間紛紛致函世界衛生組織秘書長譚德塞(TedrosAdhanomGhebreyesus)正式提案。但路透社指出,世界衛生大會已決定不把本案納入正式議程。(中央社日內瓦23日電)",
+    "opinions": "[{'person': '世界衛生組織', 'verb': '提出', 'opinion': '的「邀請台灣以觀察員身分出席WHA」案,是本屆唯一的議程補充項目(supplementaryitem)提案。', 'order': 0, 'negative_score': 0, 'positive_score': 0, 'negative_list': [], 'positive_list': []}, {'person': '路透社', 'verb': '指出', 'opinion': '世界衛生大會已決定不把本案納入正式議程。', 'order': 1, 'negative_score': 0, 'positive_score': 4, 'negative_list': [], 'positive_list': ['正式', '決定', '衛生', '衛生']}]",
+    "little_topic": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊培侃.png",
+    "opinions": [
+        {
+            "person": "楊培侃",
+            "verb": "表示",
+            "opinion": "加入CPTPP有助台灣在國際貿易及食品安全間取得平衡。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "平衡",
+                "安全",
+                "有助",
+                "平衡"
+            ],
+            "datetime": "2022-05-27 21:30"
+        }
+    ]
+}

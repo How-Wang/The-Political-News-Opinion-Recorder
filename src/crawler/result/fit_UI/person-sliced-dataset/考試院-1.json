@@ -1,0 +1,295 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "考試院",
+            "verb": "表示",
+            "opinion": "也將適時提供快篩試劑等防疫物資及生活協助,協助確診者安然渡過這一波疫情,回到正常生活,並確保機關業務運作順暢。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "協助",
+                "適時",
+                "安然"
+            ],
+            "datetime": "2022-05-21 13:33"
+        },
+        {
+            "person": "考試院",
+            "verb": "指出",
+            "opinion": "因應疫情,已通令所屬部會,即日起擴大現有防疫機制功能,成立關懷中心,主動提供考試院確診人員防疫資訊、醫療指引和緊急協助等服務。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "主動",
+                "協助",
+                "關懷"
+            ],
+            "datetime": "2022-05-21 13:33"
+        },
+        {
+            "person": "考試院",
+            "verb": "說",
+            "opinion": "關懷中心將針所屬人員或其同住家人有確診、快篩陽性或須居家隔離等情況時,提供更全面的協助,包括有關鄰近PCR篩檢站地點與預約資訊、防疫旅館名單及聯絡方式、隔離期間的計算、差勤處理方式及醫療相關資訊。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "全面",
+                "全面的",
+                "協助",
+                "關懷"
+            ],
+            "datetime": "2022-05-21 13:33"
+        },
+        {
+            "person": "考試院",
+            "verb": "表示",
+            "opinion": "台灣防疫邁入共存的階段,需要最大的互助能量以度過關鍵時刻,公私部門的雇主若能提供員工更多照顧與協助,可以減輕第一線公共服務人力的負擔,也讓員工在第一時間得到更充分的資訊與協助。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [
+                "互助",
+                "充分",
+                "協助",
+                "得到",
+                "減輕",
+                "互助",
+                "過關"
+            ],
+            "datetime": "2022-05-21 12:05"
+        },
+        {
+            "person": "考試院",
+            "verb": "說明",
+            "opinion": "高等考試一級考試設水產技術類科,暫定需用名額1人;高等考試二級考試設一般行政(一般組)等26類科(組),暫定需用名額計60人,合計共設27類科(組),暫定需用名額61人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:54"
+        },
+        {
+            "person": "考試院",
+            "verb": "指出",
+            "opinion": "其餘各類科(組)需用名額情形,將於考選部全球資訊網另行公告。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:54"
+        },
+        {
+            "person": "考試院",
+            "verb": "指出",
+            "opinion": "有關本考試各類科組的應考資格、應試科目、試題題型、成績計算與錄取方式等事項,分別依照公務人員高等考試一級考試規則、公務人員高等考試二級考試規則及公務人員考試總成績計算規則等相關法規辦理,相關規定將載明在應考須知。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:47"
+        },
+        {
+            "person": "考試院",
+            "verb": "說",
+            "opinion": "各類科組需用名額情形,將在考選部全球資訊網另行公告。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:47"
+        },
+        {
+            "person": "考試院",
+            "verb": "表示",
+            "opinion": "非自願染疫、卻被迫失去考試資格,也不理解為何疫情持續兩年多,考試院都沒有規劃配套。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "失去",
+                "沒有",
+                "非自願",
+                "不理",
+                "失去",
+                "沒有"
+            ],
+            "positive_list": [
+                "自願",
+                "理解"
+            ],
+            "datetime": "2022-05-27 11:34"
+        },
+        {
+            "person": "考試院",
+            "verb": "說明",
+            "opinion": "指出,這次修法重點,包括修正加班定義及補償方式,增訂實施輪班、輪休制度的業務性質特殊機關公務人員,及一般機關待命執行職務公務人員的加班補償,應予適當評價,並依評價的級距及下限訂定換算基準等條文。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "適當"
+            ],
+            "datetime": "2022-05-30 14:20"
+        },
+        {
+            "person": "考試院",
+            "verb": "說明",
+            "opinion": "上述3項考試增列需用名額,連同原公告需用名額,合計暫定需用名額2655人,各類科增列需用名額情形,將於考選部全球資訊網另行公告。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:37"
+        },
+        {
+            "person": "考試院",
+            "verb": "指出",
+            "opinion": "這3項考試原公告需用名額為2376人,分別為警察特考1133人、一般警察特考901人、鐵路特考342人,依據行政院人事行政總處再次提報缺額,增列需用名額計279人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:13"
+        },
+        {
+            "person": "考試院",
+            "verb": "說",
+            "opinion": "各類科增列需用名額情形,將在考選部全球資訊網另行公告。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:13"
+        },
+        {
+            "person": "考試院",
+            "verb": "指出",
+            "opinion": "考選部在考試院會中,以「公務人員高普考試應試專業科目彈性多元調整方案規劃草案」為題作專案報告,將在維持程序公平的前提下,推動調整檢討方案,減列高考三級及普通考試應試科目,並研議部分類科增加口試或其他考試方式的可行性。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "公平",
+                "公平的",
+                "可行",
+                "增加",
+                "公平"
+            ],
+            "datetime": "2022-06-09 18:43"
+        },
+        {
+            "person": "考試院",
+            "verb": "說",
+            "opinion": "該辦法最近一次修正至今已19年,運作實務上已有相當變化,因此依據實務現況以及相關法規修正,配合修正有關請發機關、證書應載內容、繳費通路、製證流程、英文證書申請等相關規定,將自發布日施行。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:11"
+        },
+        {
+            "person": "考試院",
+            "verb": "說",
+            "opinion": "配合國家考試及格證書數位化,院會通過修正發給各種考試及格暨訓練合格證書辦法,今年8月起先試行,並從民國112年起全面實施,各種國家考試都以發給電子證書為原則。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "全面",
+                "合格",
+                "訓練",
+                "通過"
+            ],
+            "datetime": "2022-06-09 16:11"
+        },
+        {
+            "person": "考試院",
+            "verb": "表示",
+            "opinion": "證書數位化前,少部分已製作完成的紙本及格證書,因及格人員多年未繳納證書規費,導致遲未寄發情形,這些紙本證書將公告限期請領,當事人如有需求,可在規定期限前繳費請領,如逾期仍未請領,將掃描建檔並造冊後不再保留原紙本。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "完成",
+                "完成的"
+            ],
+            "datetime": "2022-06-09 16:11"
+        },
+        {
+            "person": "考試院",
+            "verb": "指出",
+            "opinion": "及格人員仍可依本辦法規定,申請發給證明書,且考試及格身分或權益,並不因原證書保留與否而受影響。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "權益"
+            ],
+            "datetime": "2022-06-09 16:11"
+        },
+        {
+            "person": "考試院",
+            "verb": "表示",
+            "opinion": "國家考試及格證書數位化,將分兩階段推動。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "及格"
+            ],
+            "datetime": "2022-06-09 16:11"
+        },
+        {
+            "person": "考試院",
+            "verb": "說明",
+            "opinion": "「考試院發給各種考試及格暨訓練合格證書辦法」最近一次修正至今已經19年,運作實務上有相當變化,因此依據實務現況以及相關法規修正,配合修正有關請發機關、證書應載內容、繳費通路、製證流程、英文證書申請等相關規定,將自發布日施行。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "合格",
+                "訓練"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "考試院",
+            "verb": "表示",
+            "opinion": "這次修正是為了配合國家考試及格證書數位化將在今年試行,因此需要建立相關規範。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "規範"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "考試院",
+            "verb": "說",
+            "opinion": "及(合)格人員仍可依規定申請發給證明書,考試及(合)格身分或權益不因原證書保留與否而受影響。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "權益"
+            ],
+            "datetime": "2022-06-09 15:12"
+        }
+    ]
+}

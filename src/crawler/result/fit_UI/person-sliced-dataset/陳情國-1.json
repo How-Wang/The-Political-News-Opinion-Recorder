@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳情國.png",
+    "opinions": [
+        {
+            "person": "陳情國",
+            "verb": "說",
+            "opinion": "「這對我們確診考生來說也是非常不公平,甚至我可以說身邊有些朋友也參加考試,但是聽到我有這樣子的情況,他們反而不敢去測自己是否是陽性。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不公平",
+                "不公",
+                "不公平"
+            ],
+            "positive_list": [
+                "公平",
+                "參加",
+                "公平"
+            ],
+            "datetime": "2022-05-27 13:20"
+        }
+    ]
+}

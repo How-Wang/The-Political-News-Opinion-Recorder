@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台企聯.png",
+    "opinions": [
+        {
+            "person": "台企聯",
+            "verb": "呼籲",
+            "opinion": "放寬規定,讓因為疫情逾2年無法返台、導致戶籍被遷出者,可回台參加11月的地方選舉投票,而不需要在選前4個月先回台辦理戶籍恢復。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-26 16:16"
+        },
+        {
+            "person": "台企聯",
+            "verb": "批評",
+            "opinion": "政府「離境兩年移除戶籍」的相關規定,剝奪了20多萬台商參與年底九合一選舉的投票權。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "剝奪",
+                "剝奪"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 17:27"
+        },
+        {
+            "person": "台企聯",
+            "verb": "指出",
+            "opinion": "繼台灣廣受詬病的所謂「離境兩年移出戶籍」的規定,使得眾多在陸台人備受困擾。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "病的",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 17:45"
+        }
+    ]
+}

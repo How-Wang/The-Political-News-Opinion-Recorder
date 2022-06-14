@@ -1,0 +1,52 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/斯洛伐克.png",
+    "opinions": [
+        {
+            "person": "斯洛伐克",
+            "verb": "認為",
+            "opinion": "2國互動會越來越熱絡,這個小插曲他們應該不會放在心上。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:54"
+        },
+        {
+            "person": "斯洛伐克",
+            "verb": "強調",
+            "opinion": "斯洛伐克與台灣共享自由與民主的價值,與台灣朋友保證,「斯洛伐克一定會與台並肩前行。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "保證",
+                "自由"
+            ],
+            "datetime": "2022-06-10 12:58"
+        },
+        {
+            "person": "斯洛伐克",
+            "verb": "提到",
+            "opinion": "自己來到台灣5次,今天是第1次來到高雄,非常感謝市府的溫暖款待,覺得台灣人跟斯洛伐克人很相似,都十分親切,也同樣熱愛民主自由。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "感謝",
+                "溫暖",
+                "熱愛",
+                "親切",
+                "自由",
+                "感謝",
+                "溫暖",
+                "熱愛"
+            ],
+            "datetime": "2022-06-10 00:25"
+        }
+    ]
+}

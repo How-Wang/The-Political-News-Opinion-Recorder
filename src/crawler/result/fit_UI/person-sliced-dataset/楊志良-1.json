@@ -1,0 +1,82 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "楊志良",
+            "verb": "說",
+            "opinion": "「我們當然希望加入世界衛生組織,但是我們的政府公然說譚德塞,用最歧視的語言說他是NIGGER,你想想看非洲國家的票有多少,世界衛生組織的歷史上從來沒有過,秘書長公開舉行國際記者會,譴責台灣政府進得去嗎?」。",
+            "negative_score": 4,
+            "positive_score": 7,
+            "negative_list": [
+                "沒有",
+                "譴責",
+                "沒有",
+                "歧視"
+            ],
+            "positive_list": [
+                "公開",
+                "希望",
+                "當然",
+                "衛生",
+                "舉行",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 17:26"
+        },
+        {
+            "person": "楊志良",
+            "verb": "認為",
+            "opinion": "指揮中心的目的,就是希望讓約3成民眾在短期之內得到新冠肺炎,將這段期間拿到的8400億拿來大內宣,而台灣老百姓健忘,等到年底選舉,民進黨便能再度掌握政權。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "健忘"
+            ],
+            "positive_list": [
+                "希望",
+                "得到",
+                "掌握",
+                "希望"
+            ],
+            "datetime": "2022-05-25 08:30"
+        },
+        {
+            "person": "楊志良",
+            "verb": "痛批",
+            "opinion": "台灣藥害救濟SOP被中央及陳時中等人控制,此次來提告也只能說是「告心酸的」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "酸的",
+                "心酸"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:42"
+        },
+        {
+            "person": "楊志良",
+            "verb": "表示",
+            "opinion": "國家不作為造成馮母小妹死亡,有賠償責任,已遞狀請求衛福部國賠500萬元。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "請求"
+            ],
+            "datetime": "2022-05-26 12:04"
+        },
+        {
+            "person": "楊志良",
+            "verb": "說",
+            "opinion": "「楊志良比較會說真話。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:08"
+        }
+    ]
+}

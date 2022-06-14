@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/白卿芬.png",
+    "opinions": [
+        {
+            "person": "白卿芬",
+            "verb": "說",
+            "opinion": "「我國所有的領域,都頻頻遭受中國的資金,滲透嚴峻,以媒體製造台灣內部分裂,正是中國最便宜,最方便的策略。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "分裂",
+                "滲透",
+                "遭受",
+                "嚴峻",
+                "分裂"
+            ],
+            "positive_list": [
+                "方便",
+                "方便的",
+                "便宜"
+            ],
+            "datetime": "2022-06-10 13:02"
+        }
+    ]
+}

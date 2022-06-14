@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/環保署.png",
+    "opinions": [
+        {
+            "person": "環保署",
+            "verb": "指出",
+            "opinion": "「向海致敬」政策推動迄今,海岸廢棄物清理及源頭減量工作,包括結合地方政府推動刺網漁業漁具實名制、漁港設置廢棄物暫置區及鼓勵回收機制,並加強河面廢棄物攔除,治標與治本同步並進,結合海岸廢棄物監測數據,滾動檢討,落實讓海岸經常保持乾淨的目標。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "廢棄"
+            ],
+            "positive_list": [
+                "清理",
+                "鼓勵"
+            ],
+            "datetime": "2022-06-02 12:24"
+        }
+    ]
+}

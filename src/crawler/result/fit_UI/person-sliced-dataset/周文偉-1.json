@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周文偉.png",
+    "opinions": [
+        {
+            "person": "周文偉",
+            "verb": "表示",
+            "opinion": "國民黨與深藍暴力恐怖份子切割之決心。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "恐怖",
+                "暴力",
+                "恐怖",
+                "暴力"
+            ],
+            "positive_list": [
+                "決心"
+            ],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "周文偉",
+            "verb": "表示",
+            "opinion": "國民黨與深藍暴力恐怖份子切割之決心;以及紐約與華府,把過去2年來的每一句狠話,帥氣地再講一遍,大快人心。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "恐怖",
+                "暴力",
+                "恐怖",
+                "暴力"
+            ],
+            "positive_list": [
+                "決心"
+            ],
+            "datetime": "2022-06-03 09:28"
+        }
+    ]
+}

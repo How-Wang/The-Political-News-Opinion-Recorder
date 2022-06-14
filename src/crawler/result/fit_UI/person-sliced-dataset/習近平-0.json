@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/習近平.png",
+    "opinions": [
+        {
+            "person": "習近平",
+            "verb": "說",
+            "opinion": "出如何擺脫對單一市場的依賴。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "依賴",
+                "擺脫"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 09:37"
+        }
+    ]
+}

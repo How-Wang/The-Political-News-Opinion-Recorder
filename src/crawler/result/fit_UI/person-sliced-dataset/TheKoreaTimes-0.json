@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "TheKoreaTimes",
+            "verb": "提到",
+            "opinion": "台灣先前以精準的科技防疫模式,邊境風險嚴管及精準篩檢疫調等為主軸,成功圍堵疫情入侵,國民生活如常運作,並有正向經濟增長。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成功"
+            ],
+            "datetime": "2022-05-21 05:11"
+        }
+    ]
+}

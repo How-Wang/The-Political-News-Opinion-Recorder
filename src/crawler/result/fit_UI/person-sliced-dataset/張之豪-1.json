@@ -1,0 +1,163 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張之豪.png",
+    "opinions": [
+        {
+            "person": "張之豪",
+            "verb": "說",
+            "opinion": "1988到2022,34年,對每個「年輕人」來說,大麥在生命中,差不多就是在國中、高中那個年紀,是最常約見面的地點場所。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:54"
+        },
+        {
+            "person": "張之豪",
+            "verb": "指出",
+            "opinion": "這兩天,大麥門口貼了公告,5/29,要收了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:54"
+        },
+        {
+            "person": "張之豪",
+            "verb": "表示",
+            "opinion": "直譯睪丸變小,在外交場合畢竟有點失禮,這時可以用較為醫學的用詞,來表示國民黨人的重大發現,以及國民黨對美國產的豬肉,所有的疑慮。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "失禮",
+                "疑慮",
+                "疑慮"
+            ],
+            "positive_list": [
+                "重大"
+            ],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "張之豪",
+            "verb": "表示",
+            "opinion": "這是在美國宣布印太經濟架構(IPEF)首輪名單中,沒看到台灣後,美方對台灣具體的經貿倡議行動,但國民黨主張這是「大內宣」,就在國民黨要去美國華府參訪以前,國民黨直接說「你吹牛,你膨風,你騙人,美國副貿易代表親自出來講有這回事,我國民黨也不信。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不信",
+                "吹牛",
+                "騙人",
+                "吹牛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "張之豪",
+            "verb": "指出",
+            "opinion": "參訪USTR,美國貿易代表處,把過去2年來的每一句狠話,帥氣地再講一遍,大快人心。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "張之豪",
+            "verb": "解釋",
+            "opinion": "美國在台協會主任,酈英傑,在2020/12/16,拜會國民黨台中市長盧秀燕。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "張之豪",
+            "verb": "表示",
+            "opinion": "也可以順便帶上,國民黨現在仍然繼續炒作,比如在2022年底地方選舉的相關文宣上,還在指控對手為「萊豬立委」,你要這樣講,很棒。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "指控",
+                "對手",
+                "指控"
+            ],
+            "positive_list": [
+                "很棒"
+            ],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "張之豪",
+            "verb": "指出",
+            "opinion": "國民黨在2021年底公投前夕,拋出震撼彈,表示吃萊豬會讓睪丸變小,相關資訊,透過line群組,四處發送,大家都收到過。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "張之豪",
+            "verb": "說",
+            "opinion": "「美國在台協會主任酈英傑,在2020/12/16拜會國民黨台中市長盧秀燕。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:40"
+        },
+        {
+            "person": "張之豪",
+            "verb": "表示",
+            "opinion": "他要來幫國民黨做行前小叮嚀,首先複習3個外交詞彙,第一,睪丸變小(TesticularAtrophy)、第二,美國應該對國民黨道歉(Wedemandanapology)、第三則是,美台21世紀貿易倡議,只是大內宣(US-TaiwanInitiativeisjustapropaganda)。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 09:28"
+        },
+        {
+            "person": "張之豪",
+            "verb": "說",
+            "opinion": "美國在台協會前處長酈英傑2020年底拜會台中市長盧秀燕,不過盧秀燕卻找來記者,並當面表達反對美豬,不給酈英傑回答,直接終止會面。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "終止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 09:28"
+        },
+        {
+            "person": "張之豪",
+            "verb": "表示",
+            "opinion": "他於2010年在北市府服務時,PTT是有鎖權限而無法登入。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:39"
+        },
+        {
+            "person": "張之豪",
+            "verb": "表示",
+            "opinion": "他於2010年在北市府服務時,PTT是有鎖權限而無法登入。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:45"
+        }
+    ]
+}

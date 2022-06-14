@@ -1,0 +1,97 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "總統府",
+            "verb": "指出",
+            "opinion": "蔡英文總統今天凌晨(瑞士日內瓦時間21日晚間)以錄影方式為「海外僑界赴日內瓦聲援推動台灣參與世界衛生大會(WHA)活動」致詞,感謝鄉親在第一線為台灣發聲。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 09:22"
+        },
+        {
+            "person": "總統府",
+            "verb": "指出",
+            "opinion": "拜登當時用了「marriedup」的說法,這是男性自謙和抬高妻子地位的表達方式,金建希也開心回應表示「期待之後能再見上一面」,拜登再回應「期盼您來美國能再見面」,晚宴開始時,拜登仍不斷誇讚金建希,向尹錫悅說她「很漂亮」(beautiful)。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "期待",
+                "漂亮",
+                "地位",
+                "期待",
+                "期盼",
+                "開心",
+                "漂亮"
+            ],
+            "datetime": "2022-05-22 16:34"
+        },
+        {
+            "person": "總統府",
+            "verb": "表示",
+            "opinion": "蔡英文今(22)日凌晨(瑞士日內瓦時間21日晚間)以錄影方式為「海外僑界赴日內瓦聲援推動台灣參與世界衛生大會(WHA)活動」致詞,感謝鄉親在第一線為台灣發聲。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "總統府",
+            "verb": "指出",
+            "opinion": "蔡英文總統今日凌晨(瑞士日內瓦時間21日晚間)以錄影方式為「海外僑界赴日內瓦聲援推動台灣參與世界衛生大會(WHA)活動」致詞,感謝鄉親在第一線為台灣發聲。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 11:04"
+        },
+        {
+            "person": "總統府",
+            "verb": "表示",
+            "opinion": "總統蔡英文將在31日早上11點於總統府會見達克沃絲及訪團,雙邊計畫針對區域安全、經貿合作及台美關係等各項議題,進行交流。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "進行",
+                "合作"
+            ],
+            "datetime": "2022-05-31 07:45"
+        },
+        {
+            "person": "總統府",
+            "verb": "呼籲",
+            "opinion": "各界勿以訛傳訛,部分有心人士也應該適可而止。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "以訛傳訛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 14:52"
+        }
+    ]
+}

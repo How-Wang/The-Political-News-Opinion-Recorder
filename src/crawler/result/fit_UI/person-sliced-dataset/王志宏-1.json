@@ -1,0 +1,54 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王志宏.png",
+    "opinions": [
+        {
+            "person": "王志宏",
+            "verb": "說明",
+            "opinion": "。王志宏姓女子說,有芒果農在臉書開設粉絲專頁,她上網訂購,卻遇到詐騙集團藏身粉絲專頁中,還把顯示名稱改的跟芒果農一樣,並偽裝成賣家請她提供信用卡資料。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "偽裝",
+                "偽裝"
+            ],
+            "positive_list": [
+                "信用",
+                "信用"
+            ],
+            "datetime": "2022-06-08 12:56"
+        },
+        {
+            "person": "王志宏",
+            "verb": "說",
+            "opinion": "會要求經濟部,針對第三方支付定型化契約的應記載與不得記載事項進行修正,盡速報行政院審議,也會督導經濟部進行查核業務。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "不得"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-08 12:56"
+        },
+        {
+            "person": "王志宏",
+            "verb": "回應",
+            "opinion": "第三方支付定型化契約的管理強度沒有達到電子支付管理強度,將要求經濟部針對第三方支付定型化契約應記載與不得記載事項修正,儘速報行政院審議。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "不得",
+                "沒有"
+            ],
+            "positive_list": [
+                "達到",
+                "管理"
+            ],
+            "datetime": "2022-06-08 15:34"
+        }
+    ]
+}

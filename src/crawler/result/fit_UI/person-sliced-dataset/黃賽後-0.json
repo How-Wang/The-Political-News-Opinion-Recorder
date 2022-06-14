@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃賽後.png",
+    "opinions": [
+        {
+            "person": "黃賽後",
+            "verb": "發現",
+            "opinion": "參賽國從「台灣」被改成了「中華台北台灣」,他和連林嵐當下就決定不參賽來表達抗議,經過經過一陣角力拉扯,最後兩人如願以台灣身分參賽,兩人下潛時,其他國家選手與大會工作人員,也一起高喊著:「台灣、台灣。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-26 14:06"
+        }
+    ]
+}

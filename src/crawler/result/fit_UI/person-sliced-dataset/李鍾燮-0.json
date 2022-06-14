@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李鍾燮.png",
+    "opinions": [
+        {
+            "person": "李鍾燮",
+            "verb": "強調",
+            "opinion": "要實現自由開放的印太地區,將深化三方合作,包括訊息共享、高層交流及聯合軍演。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "自由",
+                "開放",
+                "開放的",
+                "聯合",
+                "合作",
+                "自由",
+                "實現"
+            ],
+            "datetime": "2022-06-11 17:53"
+        }
+    ]
+}

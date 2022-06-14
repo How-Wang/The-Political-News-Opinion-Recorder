@@ -1,0 +1,605 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "根據統計,台北市公私立幼兒園到20日為止,已經有5223位師生確診,導致多園、多班停課,接下來要面對疫情洪峰,也為了避免幼兒園疫情持續擴大,台北市公私立幼兒園從5月23日到27日,實施防疫停課,並啟動遠距教學。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-05-21 15:19"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "台北市提出3個配套措施:第一,為了能進行遠距教學,台北市學前教育資源網的親子樂學區,包括幼兒居家成長套餐、幼兒成長閱力以及幼兒園親子居家關懷指引,台北市酷課雲在幼兒教育專區、停課不停學專區,將近有100部影片提供小朋友收看。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成長",
+                "進行",
+                "資源",
+                "關懷"
+            ],
+            "datetime": "2022-05-21 15:19"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "松山高中為特殊考場,考生人數136人,一般試場計36間,一備試場計1間,二備試場計6間,供不同防疫等級狀況考生應試;松山工農考生數826人,一般試場計23間,一備試場計1間,二備試場預計開設6間,將依疫情狀況調整。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:29"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "台北考區計有441名考生使用備用試場應試,460名考生快篩陽或確診未解隔等因素須參加補考;至於第一節考試狀況,蔡炳坤說,應到考生2萬1777名、實到2萬541名,缺考學生1236名,缺考率5.68%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-21 12:29"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "「終於可以暫時卸下戴了兩年多的口罩,一個人隔離在獨立的空間!」他透露,昨天下午好友送來兩包粽子,一包分送給辦公室同仁,心想另外一包帶回宿舍,「說不定哪天確診了,就能派上用場」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不定",
+                "透露",
+                "隔離",
+                "不定"
+            ],
+            "positive_list": [
+                "獨立"
+            ],
+            "datetime": "2022-05-24 18:56"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "自己快篩陽性,等待核酸檢測結果。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:56"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "快篩結果出爐後,還以為是睡眼惺忪,眼花了,把一條線看成兩條線,再仔細端詳,才確定真的是陽性。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "眼花"
+            ],
+            "positive_list": [
+                "確定"
+            ],
+            "datetime": "2022-05-24 19:38"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "他將持續每天線上上班,不同的是,終於可以暫時取下口罩。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 19:38"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "昨日吃完晚餐後,就感覺喉嚨有點癢癢的,以為是不小心著涼了,趕緊多喝溫開水、洗個熱水澡,早早就寢,結果半夜被不舒服的喉嚨叫醒,警覺地做了COVID-19(2019冠狀病毒疾病)快篩。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "小心",
+                "不小心",
+                "不舒服",
+                "不舒服的",
+                "疾病"
+            ],
+            "positive_list": [
+                "小心",
+                "舒服",
+                "舒服的",
+                "警覺"
+            ],
+            "datetime": "2022-05-24 19:38"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "北市疫苗預約系統第13期24日上午9點起開放預約,共提供6萬8262劑疫苗,包括莫德納、BNT與高端疫苗,其中7232劑提供給5-11歲的兒童BNT疫苗,才開放15分鐘,共預約完成1萬2082人,其中兒童BNT全部額滿,是否再加開預約量,將進一步討論。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "開放"
+            ],
+            "datetime": "2022-05-24 11:24"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "謝謝大家的關心,他情況還不錯,因為一早起來覺得喉嚨不舒服,就做了快篩,結果呈現陽性,馬上去醫院做PCR,現在在家隔離並等待結果。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不舒服",
+                "隔離"
+            ],
+            "positive_list": [
+                "舒服",
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-24 16:02"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "關於BNT兒童疫苗施打,從明天開始到6月3日,北市158所學校會全部在校園接種完畢,感謝學校與醫療院所互相配合。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-25 17:00"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "由於北市除了在校園接種兒童疫苗外,也開放了預約平台,以及醫院特別門診共2個管道,這是不限北市民預約,因此目前還缺5000劑疫苗,已向中央申請盼能補足。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "開放",
+                "補足"
+            ],
+            "datetime": "2022-05-25 17:00"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "經核算後,為因應這2個管道,還差大概5000劑,北市已經用最快的時間跟中央說,希望中央疫苗若足夠可以補足,這段期間會全力接種。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "希望",
+                "足夠",
+                "補足",
+                "希望"
+            ],
+            "datetime": "2022-05-25 17:00"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "解釋",
+            "opinion": "國高中、高三課程已屆期末,因此可以維持遠距教學到畢業典禮,至於私幼兒園跟獨立幼兒園,因為不是每個學生都有打疫苗的需求,所以原則上就恢復實體上課,但學校若有需要、取得家長了解,一樣可以進行線上教學。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "了解",
+                "進行",
+                "獨立"
+            ],
+            "datetime": "2022-05-26 16:12"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "對於學校持續進行遠距教學,北市採科學、理性、務實的態度溝通,教育局也跟相關團體開會討論,決定下週持續進行遠距教學。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "務實",
+                "理性",
+                "進行"
+            ],
+            "datetime": "2022-05-26 16:12"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說明",
+            "opinion": "目前主要以校園接種為主,另還有協調16家醫院開設兒童BNT門診,接種日期則在下週,另有7000多劑開放給診所施打,希望讓兒童BNT儘速在6月3日全部接種完畢。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "協調",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-05-26 09:28"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "因為打疫苗要5歲以上,沒有全部學生需要打疫苗,所以恢復實體上課,但如果學校有需要,還是可以線上授課。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:11"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說明",
+            "opinion": "學校持續遠距教學,是以科學務實理性態度,經過充分溝通,教育局昨日跟相關團體開會討論,但下週中等學校及國小(附幼)在進行遠距教學的同時,也會進行校園接種,無論少年BNT或是兒童BNT,市長指示在下週全數完成接種,期間仍可到校施打疫苗。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "充分",
+                "完成",
+                "務實",
+                "理性",
+                "進行"
+            ],
+            "datetime": "2022-05-26 16:11"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "針對遠距教學是否延長,有3個考量因素,第一個是疫情狀況、第二個是學生疫苗接種狀況、第三個是首都生活圈,會跟新北市、教育部討論,北市已有一些腹案,等市長柯文哲拍板後,26日下午就會正式宣布。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正式"
+            ],
+            "datetime": "2022-05-26 10:11"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "65歲以上長者接種第1、2、3或4劑疫苗,從今天5月26日至5月31日止,設籍在台北市的長者可拿到1000元商品券與2劑快篩劑,非設籍北市長者則有500元商品券與2劑快篩;而6月1日就全面恢復,無論是否設籍在台北市,都是發500元商品券與2快篩劑,呼籲長者把握機會,盡快接種疫苗。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "把握",
+                "機會",
+                "把握"
+            ],
+            "datetime": "2022-05-26 16:01"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說明",
+            "opinion": "目前主要以校園接種為主,另還有協調16家醫院開設兒童BNT門診,接種日期則在下週,另有7000多劑開放給診所施打,希望讓兒童BNT儘速在6月3日全部接種完畢。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "協調",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-05-26 10:32"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "強調",
+            "opinion": "很多學校的志工媽媽都很強,都會幫忙讓學生、小朋友在接種的時候很放心,家長真的不用擔心,「真的要陪同的話也不反對,但打3劑疫苗是必須要規定的」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "反對",
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "放心",
+                "很多"
+            ],
+            "datetime": "2022-05-27 17:10"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "回應",
+            "opinion": "其實平台預約的接種點都在診所,更加近便,還是希望按照預約的時間地點去接種就好,避免爽約造成診所的不便。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不便",
+                "避免",
+                "不便"
+            ],
+            "positive_list": [
+                "希望",
+                "避免",
+                "希望"
+            ],
+            "datetime": "2022-05-28 09:48"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "根據家長意願調查結果,多數希望到校接種,但也有一成左右希望帶往診所或醫院接種。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 09:48"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "其實無論何種方式,都會在下週內接種完成,無太大差異。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "差異"
+            ],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-05-28 09:48"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "莫德納受到BNT影響,成長速度很慢,BNT則是不斷提升。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "成長",
+                "提升"
+            ],
+            "datetime": "2022-06-01 16:28"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "台北市兒童5到11歲疫苗全面規劃儘速接種,根據最新統計,預計到6月3日以前全部接種完畢,台北市的覆蓋率可以到52.67%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-06-01 16:28"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "覆蓋率預計到6月3日可以達52.67%,BNT疫苗的接種比例近來不斷提升,莫德納則趨緩,後續仍會持續開放兒童疫苗的預約。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "提升",
+                "開放"
+            ],
+            "datetime": "2022-06-01 16:28"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "5月26日開始打BNT,從5月26日到6月3日一個多禮拜的時間,比例快速拉高,截至5月31日BNT、莫德納合計,已經佔所有學童的39.66%,將近4成,2日完成預計可以打到52.38%,3日可到52.67%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-01 16:28"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "指出",
+            "opinion": "截至5月31日止,已接種比例39.66%,已接種人數5萬6834人、總人數14萬3310人,6月3日前全數接種完畢後,覆蓋率可達52.67%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 17:44"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "說",
+            "opinion": "應該多關懷相對弱勢的民眾,應該苦民所苦,不會再領額外補助。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-06-02 16:24"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "回應",
+            "opinion": "北市會朝這方面做努力。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-06-02 11:17"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "質疑",
+            "opinion": "公務員確診後可給公假、不用扣薪水,且若是因公染疫還可領補貼,但勞工確診後卻要用特休或請病假,且還只能領半薪,所以根本不敢請假休息,大嘆「勞工、公務員命運大不同。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "休息"
+            ],
+            "datetime": "2022-06-02 11:17"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "5/5開始打兒童莫德納疫苗、5/21開打兒童BNT疫苗,每個人達到保護力的情況不一樣,家長可以幫小孩請疫苗假或防疫假,不用擔心。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "保護",
+                "達到"
+            ],
+            "datetime": "2022-06-02 10:58"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "回應",
+            "opinion": "勞動局有在做相關研議。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:58"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "不會請領補償金,要苦民所苦。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:58"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "回應",
+            "opinion": "「會啦!勞動局有在做這方面的努力。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-06-02 11:54"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "打疫苗是過程,每個孩子達到保護力情況不一,家長若會擔心,可以幫孩子請疫苗假、防疫假。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "保護",
+                "達到"
+            ],
+            "datetime": "2022-06-02 11:22"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "每個學校情況會有個案,「醫護人員真的辛苦了!」針對這部分,他會請教育局檢討各個學校的情況,給醫護人員好的接種環境,也等於給孩子好的接種環境,都會去進一步改善。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "改善",
+                "改善"
+            ],
+            "datetime": "2022-06-02 11:22"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "強調",
+            "opinion": "市府絕對沒有養網軍,目前仍在釐清相關事實,會秉持勿枉勿縱精神,結果出來將第一時間報告。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "絕對",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 11:09"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "6月13日開始到期末6月30日,校外教學開放北市境內當日來回,國高中學生須打滿3劑疫苗,國小學生須接種1劑疫苗或提供2日內陰性快篩證明,畢業旅行與隔宿露營等仍暫緩辦理。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-06-08 15:53"
+        },
+        {
+            "person": "蔡炳坤",
+            "verb": "表示",
+            "opinion": "是應市議員邀請,接受其捐贈防疫物資。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈",
+                "接受"
+            ],
+            "datetime": "2022-06-09 15:45"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張庭綺.png",
+    "opinions": [
+        {
+            "person": "張庭綺",
+            "verb": "說",
+            "opinion": "「如果你還要我,這個民選的地方議員,去監督你整個,雲林縣的施政問題,那我告訴你,你才不適合當縣長。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不適",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "適合"
+            ],
+            "datetime": "2022-06-06 18:12"
+        },
+        {
+            "person": "張庭綺",
+            "verb": "表示",
+            "opinion": "明明中央已經給足疫苗,為何縣府還一直喊不夠?沒想到,雲林縣長張麗善突然爆氣,怒批張庭綺頻頻護航中央,不配當議員。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠",
+                "突然",
+                "不配",
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:12"
+        },
+        {
+            "person": "張庭綺",
+            "verb": "說",
+            "opinion": "「如果還有需要疫苗,中央會馬上撥用,並不是不給你,你不要在那邊吵,怎麼會去做這種造謠的事情。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "造謠",
+                "不是",
+                "不要",
+                "造謠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:12"
+        }
+    ]
+}

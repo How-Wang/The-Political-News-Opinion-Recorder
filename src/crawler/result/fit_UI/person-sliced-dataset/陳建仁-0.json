@@ -1,0 +1,60 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳建仁",
+            "verb": "說",
+            "opinion": "Omicron感染率高但無症狀者多;因此,無法再以清零方式面對,而是要與病毒共存。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "感染",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:38"
+        },
+        {
+            "person": "陳建仁",
+            "verb": "認為",
+            "opinion": "此刻「是危機也是轉機」,只要大家發揮防疫共識,相互合作、彼此包容,不久將來即能恢復正常生活。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "危機",
+                "危機"
+            ],
+            "positive_list": [
+                "正常",
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-22 11:38"
+        },
+        {
+            "person": "陳建仁",
+            "verb": "指出",
+            "opinion": "Omicron感染率高但無症狀者多,故我們無法再以清零方式面對,而是要與病毒共存。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "感染",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 12:38"
+        },
+        {
+            "person": "陳建仁",
+            "verb": "宣布",
+            "opinion": "加入民進黨,甚至被點名接任防疫指揮官、行政院長等職位的歷程。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 06:10"
+        }
+    ]
+}

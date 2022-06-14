@@ -1,0 +1,35 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "克魯塞",
+            "verb": "說",
+            "opinion": "我覺得如果能幫上忙,所有人都應該要能參與WHA,幫助那些需要的人,這是個很好的機會。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的",
+                "機會",
+                "幫助"
+            ],
+            "datetime": "2022-05-22 08:13"
+        },
+        {
+            "person": "克魯塞",
+            "verb": "說",
+            "opinion": "我覺得如果能幫上忙,所有人都應該要能參與WHA,幫助那些需要的人,這是個很好的機會。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的",
+                "機會",
+                "幫助"
+            ],
+            "datetime": "2022-05-22 08:50"
+        }
+    ]
+}

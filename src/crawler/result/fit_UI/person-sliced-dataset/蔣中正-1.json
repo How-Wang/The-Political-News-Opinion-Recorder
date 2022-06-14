@@ -1,0 +1,42 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔣中正.png",
+    "opinions": [
+        {
+            "person": "蔣中正",
+            "verb": "提出",
+            "opinion": "三項明確建議,認為蔣中正破壞民主憲政體制,國幣應逐年汰換有侵害人權紀錄的威權統治者肖像。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "侵害",
+                "害人",
+                "破壞",
+                "害人",
+                "破壞"
+            ],
+            "positive_list": [
+                "明確"
+            ],
+            "datetime": "2022-05-29 13:31"
+        },
+        {
+            "person": "蔣中正",
+            "verb": "回應",
+            "opinion": "表示,促進轉型正義、回復當年受威權迫害的不公不義,是一定要繼續做下去的事,但不是一定要馬上怎麼做。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "迫害",
+                "不公",
+                "不是",
+                "不義",
+                "迫害"
+            ],
+            "positive_list": [
+                "正義",
+                "促進"
+            ],
+            "datetime": "2022-05-29 11:03"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王惠美.png",
+    "opinions": [
+        {
+            "person": "王惠美",
+            "verb": "表示",
+            "opinion": "新冠肺炎疫情至今已持續2年多,全國首例死亡案例、本土個案及家庭群聚案都發生在彰化,謝謝中央的全力支持和協助,再加上彰化最精實的防疫作戰部隊和醫療團隊,讓彰化度過每一個挑戰。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "死亡",
+                "作戰",
+                "挑戰"
+            ],
+            "positive_list": [
+                "全力",
+                "協助",
+                "謝謝"
+            ],
+            "datetime": "2022-06-04 18:55"
+        },
+        {
+            "person": "王惠美",
+            "verb": "說",
+            "opinion": "「我們會明天再把這兩天的數字,做一下通盤,也會跟各界來做相關了解,然後做最好的決定。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "決定",
+                "最好"
+            ],
+            "datetime": "2022-06-09 12:27"
+        }
+    ]
+}

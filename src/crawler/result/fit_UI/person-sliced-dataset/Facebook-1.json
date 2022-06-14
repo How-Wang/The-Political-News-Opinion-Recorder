@@ -1,0 +1,32 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "Facebook",
+            "verb": "表示",
+            "opinion": "任何優秀人選要到新竹市代表民進黨參選是好事,都可討論,但民進黨徵召、提名原則一直是選最強、民意調查最高及民眾最支持人選。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "好事"
+            ],
+            "positive_list": [
+                "好事",
+                "最高",
+                "優秀",
+                "好事"
+            ],
+            "datetime": "2022-05-25 14:10"
+        },
+        {
+            "person": "Facebook",
+            "verb": "表示",
+            "opinion": "6日恩恩爸爸到消防局本部聽取報案音檔,上午9時30分到10時之間被引導到勤務指揮中心「觀看了一場表演」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:32"
+        }
+    ]
+}

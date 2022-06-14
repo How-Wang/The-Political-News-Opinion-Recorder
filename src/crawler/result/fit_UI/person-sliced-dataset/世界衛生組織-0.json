@@ -1,0 +1,111 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "世界衛生組織",
+            "verb": "提出",
+            "opinion": "的「邀請台灣以觀察員身分出席WHA」案,是本屆唯一的議程補充項目(supplementaryitem)提案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:01"
+        },
+        {
+            "person": "世界衛生組織",
+            "verb": "說",
+            "opinion": "屬於聯合國系統的國際組織在中國的強力阻止下難以排除結構性障礙,台灣參與這些組織的前景依舊十分黯淡。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "阻止",
+                "排除",
+                "障礙",
+                "難以",
+                "黯淡"
+            ],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-05-23 08:10"
+        },
+        {
+            "person": "世界衛生組織",
+            "verb": "提到",
+            "opinion": "台灣完整參與世衛組織將讓其他國家受益於台灣的專業能力。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完整",
+                "能力"
+            ],
+            "datetime": "2022-05-25 06:21"
+        },
+        {
+            "person": "世界衛生組織",
+            "verb": "提到",
+            "opinion": "台灣防疫經驗,初期以科技防疫、邊境嚴管等,成功圍堵疫情,後來隨著Omicron席捲全球,台灣開始推動新台灣模式,改以「重症清零、輕症有效控管、減災」等,降低影響民眾生活。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "降低"
+            ],
+            "positive_list": [
+                "成功",
+                "有效",
+                "經驗"
+            ],
+            "datetime": "2022-05-25 18:45"
+        },
+        {
+            "person": "世界衛生組織",
+            "verb": "提到",
+            "opinion": "台灣的防疫經驗,初期以科技防疫、邊境嚴管等,成功圍堵疫情,後來隨著Omicron席捲全球,台灣開始推動「新台灣模式」,改以「重症清零、輕症有效控管、減災」等,降低影響民眾生活,最後更點出,受到政治壓力,台灣已經連續5年,沒受邀出席WHA,令人遺憾,呼籲WHO支持台灣參加WHA,「不該遺漏任何人」。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "沒受",
+                "降低",
+                "遺漏",
+                "遺憾",
+                "壓力",
+                "遺憾"
+            ],
+            "positive_list": [
+                "成功",
+                "有效",
+                "參加",
+                "經驗"
+            ],
+            "datetime": "2022-05-25 12:42"
+        },
+        {
+            "person": "世界衛生組織",
+            "verb": "提到",
+            "opinion": "台灣完整參與世衛組織將讓其他國家受益於台灣的專業能力。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完整",
+                "能力"
+            ],
+            "datetime": "2022-05-25 06:55"
+        },
+        {
+            "person": "世界衛生組織",
+            "verb": "說",
+            "opinion": "去年台灣亟需疫苗時,歐盟會員國協助捐贈疫苗,讓台灣在等待採購疫苗到貨的同時,得以防止變種病毒初期擴散。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "防止",
+                "協助",
+                "捐贈"
+            ],
+            "datetime": "2022-05-27 00:32"
+        }
+    ]
+}

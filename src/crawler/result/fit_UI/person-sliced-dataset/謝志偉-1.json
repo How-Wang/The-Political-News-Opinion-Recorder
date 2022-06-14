@@ -1,0 +1,49 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "謝志偉",
+            "verb": "表示",
+            "opinion": "德國可思考所謂的「一個中國」政策是否合宜,因為自從台灣民主化以來,這個政策已經變得多餘。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "多餘"
+            ],
+            "positive_list": [
+                "合宜",
+                "思考"
+            ],
+            "datetime": "2022-06-08 18:38"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "指出",
+            "opinion": "從俄羅斯總統蒲亭(VladimirPutin)有關俄烏歷史的文章,可發現蒲亭對烏克蘭的態度與中國對台灣的認知有極大的共同點,兩者都是病態的民族主義,蒲亭和習近平都想倒轉時間之輪。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "病態"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:38"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "表示",
+            "opinion": "如果曾經是一家人,所以必須在一起,那世界會變成什麼模樣?台灣是自由的燈塔,台灣的民主威脅到中國,一如烏克蘭對俄羅斯的威脅。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由"
+            ],
+            "datetime": "2022-06-08 18:38"
+        }
+    ]
+}

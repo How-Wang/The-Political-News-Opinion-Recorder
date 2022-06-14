@@ -1,0 +1,420 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李秉穎.png",
+    "opinions": [
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "根據各國的統計,兒童感染新冠確診變成重症或死亡率相對低,雖然說兒童罹病大部分都是輕微的,但是總是有萬分之一或萬分之一不到的機會會有重症、死亡,所以,還是會看到有兒童因重症死亡。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "死亡",
+                "感染",
+                "不到"
+            ],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-05-27 13:43"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說",
+            "opinion": "防疫應與政黨政治的攻防脫鉤,也期盼未來能夠有客觀的機制,讓國家的疫苗、防疫政策能夠免於造成社會對立。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "對立",
+                "對立"
+            ],
+            "positive_list": [
+                "期盼"
+            ],
+            "datetime": "2022-05-27 13:43"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "指揮中心會隨著疫情發展,逐步調整防疫規範,每個人要隨時注意政府的最新資訊。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "規範",
+                "發展"
+            ],
+            "datetime": "2022-05-27 13:43"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "政黨政治的攻防,對於防疫工作的干擾,造成部分民眾及家長對於接種疫苗有疑慮,這不只會對個人的防疫造成傷害,也會對國家的防疫造成影響。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "干擾",
+                "傷害",
+                "疑慮",
+                "干擾",
+                "傷害",
+                "疑慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:43"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "認為",
+            "opinion": "兒童感染新冠肺炎的重症、死亡率相對更低。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "政黨政治的攻防對於防疫工作的干擾,造成部分民眾及家長對於接種疫苗有疑慮,這不只會對個人的防疫造成傷害,也會對國家的防疫造成影響;他強調,政府及專家小組,都會即時追蹤疫苗接種,不良反應的相關數據,疫苗的安全性都有科學證據佐證,在野黨、媒體應停止凌駕防疫專業。",
+            "negative_score": 10,
+            "positive_score": 2,
+            "negative_list": [
+                "干擾",
+                "不良",
+                "追蹤",
+                "停止",
+                "傷害",
+                "疑慮",
+                "干擾",
+                "不良",
+                "傷害",
+                "疑慮"
+            ],
+            "positive_list": [
+                "安全",
+                "專家"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "指揮中心會隨著疫情發展,逐步調整防疫規範,每個人要隨時注意政府的最新資訊。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "規範",
+                "發展"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "呼籲",
+            "opinion": "民眾盡快接種三劑疫苗,保護自己,也保護兒童。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說",
+            "opinion": "台灣目前的防疫進入關鍵轉型時刻,針對兒童確診的案例增加,身為小兒科醫師的李秉穎說明,兒童感染大多為輕症,家長無須驚慌,若有發燒和呼吸困難、意識不清等情況,需快速就醫。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不清",
+                "困難",
+                "發燒",
+                "感染",
+                "驚慌",
+                "不清",
+                "困難",
+                "驚慌"
+            ],
+            "positive_list": [
+                "說明",
+                "增加"
+            ],
+            "datetime": "2022-05-27 10:32"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說明",
+            "opinion": "其實兒童得到新冠比較不會發生重症、死亡,這是各國資料的統計數據,確實原因尚不曉得,也因此感染後不要驚慌,要注意的是萬一有重症徵兆,盡速就醫治療。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "死亡",
+                "感染",
+                "驚慌",
+                "不要",
+                "不會",
+                "驚慌"
+            ],
+            "positive_list": [
+                "注意",
+                "注意的",
+                "治療",
+                "得到",
+                "確實",
+                "醫治"
+            ],
+            "datetime": "2022-05-27 10:15"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "提到",
+            "opinion": "兒童可避免感染新冠就盡量避免,尤其是未滿12歲兒童。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "感染",
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-05-27 10:15"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "提到",
+            "opinion": "現在的狀況有點類似過去腸病毒71型流行的樣子,病毒在某些兒童身上,可能因體質關係,在感染呼吸道後,經過顱神經,直接連接到腦幹影響生命中樞,進而引起肺水腫、急性心臟衰竭等,大部分一兩天內就會死亡。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡",
+                "神經",
+                "衰竭",
+                "感染"
+            ],
+            "positive_list": [
+                "流行",
+                "流行的"
+            ],
+            "datetime": "2022-05-27 09:40"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "提到",
+            "opinion": "這狀況有點類似過去腸病毒71型併發腦炎,病毒在某些兒童身上,可能因體質關係,在感染呼吸道後,經過顱神經,直接連接到腦幹影響生命中樞,進而引起肺水腫、急性心臟衰竭等,大部分1、2天內就會死亡,病毒一旦影響生命中樞,有時會非常猛爆,就不一定能救回來。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "神經",
+                "衰竭",
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 10:14"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "指出",
+            "opinion": "看到兒童腦炎猛爆型發作,讓他想起1998年腸病毒71型疫情,臨床表現有點類似。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "發作"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 09:46"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "認為",
+            "opinion": "兒童感染新冠肺炎的重症、死亡率相對更低;因此,兒童感染時不要驚慌,萬一出現重症病徵,如呼吸急促、呼吸困難、意識不清、小便減少、脫水,就要趕快就醫治療。",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "不清",
+                "死亡",
+                "困難",
+                "急促",
+                "減少",
+                "感染",
+                "驚慌",
+                "小便",
+                "不要",
+                "不清",
+                "困難",
+                "驚慌"
+            ],
+            "positive_list": [
+                "治療",
+                "醫治"
+            ],
+            "datetime": "2022-05-27 09:30"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說",
+            "opinion": "政黨政治的攻防干擾防疫工作,造成部分民眾及家長對於接種疫苗有疑慮,這不只會對個人的防疫造成傷害,也會對國家的防疫造成影響。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "干擾",
+                "傷害",
+                "疑慮",
+                "干擾",
+                "傷害",
+                "疑慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 09:30"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "政黨政治的攻防,對於防疫工作的干擾,造成部分民眾及家長對於接種疫苗有疑慮,這不只會對個人的防疫造成傷害,也會對國家的防疫造成影響。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "干擾",
+                "傷害",
+                "疑慮",
+                "干擾",
+                "傷害",
+                "疑慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:28"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "根據各國的統計,兒童感染新冠確診變成重症或死亡率相對低,雖然說兒童罹病大部分都是輕微的,但是總是有萬分之一或萬分之一不到的機會會有重症、死亡,所以,還是會看到有兒童因重症死亡。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "死亡",
+                "感染",
+                "不到"
+            ],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-05-27 16:28"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "指揮中心會隨著疫情發展,逐步調整防疫規範,每個人要隨時注意政府的最新資訊。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "規範",
+                "發展"
+            ],
+            "datetime": "2022-05-27 16:28"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說",
+            "opinion": "防疫應與政黨政治的攻防脫鉤,也期盼未來能夠有客觀的機制,讓國家的疫苗、防疫政策能夠免於造成社會對立。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "對立",
+                "對立"
+            ],
+            "positive_list": [
+                "期盼"
+            ],
+            "datetime": "2022-05-27 16:28"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "病毒可能沿著掌管嗅味覺的顱神經跑回腦幹造成發炎,又因腦幹是生命中樞,病程恐相當猛爆,唯一的預防方式就是不要感染。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "神經",
+                "發炎",
+                "感染",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:08"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說",
+            "opinion": "台灣兒童染疫後併發腦炎的個案確實較多,目前已有研究單位開始做基因定序,希望藉此了解台灣人是否因帶有特殊基因,導致兒童染疫後比較容易併發腦炎,而且一旦併發腦炎病程就相當猛爆,很快就休克、死亡,和1998年腸病毒71型併發腦炎的狀況非常相似。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "休克",
+                "死亡"
+            ],
+            "positive_list": [
+                "了解",
+                "希望",
+                "容易",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-02 11:08"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "這波COVID-19疫情有幾大特徵,兒童腦炎個案數較多是其中之一。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:08"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "說",
+            "opinion": "政府和指揮中心在對病毒放手前,連疫苗、快篩、PCR和抗病毒藥這些最基本的「戰略」物資都未能齊,更別說去了解其他各國的確診案例,有意無意忽視美國兒童因Omicron高住院率的狀況。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "忽視",
+                "毒藥",
+                "有意"
+            ],
+            "positive_list": [
+                "了解",
+                "的確"
+            ],
+            "datetime": "2022-06-09 06:20"
+        },
+        {
+            "person": "李秉穎",
+            "verb": "表示",
+            "opinion": "他也不知該如何是好,唯一方法是「不要感染」,引發觀眾開罐頭噓聲四起。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不知",
+                "感染",
+                "不知",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 05:30"
+        }
+    ]
+}

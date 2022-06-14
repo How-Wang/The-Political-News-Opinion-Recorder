@@ -1,0 +1,44 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/江聰淵.png",
+    "opinions": [
+        {
+            "person": "江聰淵",
+            "verb": "說",
+            "opinion": "「縣民對林姿妙縣長的執政是失望的,請林姿妙縣長不要推卸責任,把民調不好的這一種情況,歸咎於司法的調查。」",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "失望",
+                "歸咎",
+                "歸咎於",
+                "不好",
+                "不要",
+                "失望"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 18:51"
+        },
+        {
+            "person": "江聰淵",
+            "verb": "表示",
+            "opinion": "民調顯示出縣民對縣府的施政不滿意,也要林姿妙好好檢討,不要推卸責任,反觀藍營卻不以為意,林姿妙反批這是「政治迫害」,更表示其他民調中自己的滿意度是大幅上升的。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不滿",
+                "不滿意",
+                "迫害",
+                "不以",
+                "不要",
+                "不滿",
+                "迫害"
+            ],
+            "positive_list": [
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-27 16:34"
+        }
+    ]
+}

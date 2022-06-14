@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/江和樹.png",
+    "opinions": [
+        {
+            "person": "江和樹",
+            "verb": "說",
+            "opinion": "「有裝上我們的擋泥板,我們會贈送你兩個快篩,一個就是我們的唾液快篩,另外一個是我們傳統的插鼻孔快篩。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:36"
+        }
+    ]
+}

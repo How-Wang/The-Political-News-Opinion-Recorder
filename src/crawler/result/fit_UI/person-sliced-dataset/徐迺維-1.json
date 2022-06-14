@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐迺維.png",
+    "opinions": [
+        {
+            "person": "徐迺維",
+            "verb": "說",
+            "opinion": "「非常感謝各位今天收看,我們的節目謝謝各位收看。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝",
+                "謝謝"
+            ],
+            "datetime": "2022-06-08 18:21"
+        }
+    ]
+}

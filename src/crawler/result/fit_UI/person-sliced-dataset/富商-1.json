@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/富商.png",
+    "opinions": [
+        {
+            "person": "富商",
+            "verb": "表示",
+            "opinion": "父女兩人多年未見,希望富商能多給一些時間留下來與孩子培養感情,待孩子願意後一起返回義大利,而非用粗暴行為。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "粗暴",
+                "暴行",
+                "粗暴"
+            ],
+            "positive_list": [
+                "希望",
+                "願意",
+                "希望",
+                "願意"
+            ],
+            "datetime": "2022-05-27 15:39"
+        }
+    ]
+}

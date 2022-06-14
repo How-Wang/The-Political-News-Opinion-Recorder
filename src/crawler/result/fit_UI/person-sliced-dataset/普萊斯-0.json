@@ -1,0 +1,57 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/普萊斯.png",
+    "opinions": [
+        {
+            "person": "普萊斯",
+            "verb": "說明",
+            "opinion": "美國定期更新對外關係現況,這是反映美台堅若磐石的非官方關係。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 16:08"
+        },
+        {
+            "person": "普萊斯",
+            "verb": "說",
+            "opinion": "「我無法置評中方反應,我能說的是,美國與台灣非官方關係架構下的任何事務都是符合美方長年的一中政策,未來幾天到幾週,我們打算快速行動,為美台可能的協商研擬藍圖,接下來將在華府召開實體會議。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-03 17:06"
+        },
+        {
+            "person": "普萊斯",
+            "verb": "指出",
+            "opinion": "「我無法置評中方反應,我能說的是,美國與台灣非官方關係,架構下的任何事務,都是符合美方長年的一中政策,未來幾天到幾週我們打算快速行動,為美台可能的協商研擬藍圖,接下來將在華府召開實體會議。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-03 13:23"
+        },
+        {
+            "person": "普萊斯",
+            "verb": "說",
+            "opinion": "在未來幾天至幾週期間,美國打算迅速為美台可能的協商研擬藍圖,接下來將於華府召開實體會議。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "迅速"
+            ],
+            "datetime": "2022-06-03 07:12"
+        }
+    ]
+}

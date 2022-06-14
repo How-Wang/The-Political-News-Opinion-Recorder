@@ -1,0 +1,111 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃紹庭",
+            "verb": "說",
+            "opinion": "「呼籲國民黨中央朱立倫主席,國民黨的提名要讓高雄人覺得,國民黨對高雄的重視,充分地傾聽地方的聲音。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "充分",
+                "重視"
+            ],
+            "datetime": "2022-05-23 18:06"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "表示",
+            "opinion": "高雄市長人選的提名及條件,一定要讓在地高雄人認為被受到重視。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重視"
+            ],
+            "datetime": "2022-05-23 17:16"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "指出",
+            "opinion": "迎戰年底大選,面對當前民進黨完全執政,人選提名只是第一步,提名後能否順利完成內部整合與團結一致對外,才是國民黨勝選的基本條件。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "完成",
+                "順利"
+            ],
+            "datetime": "2022-05-23 15:26"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "發現",
+            "opinion": "看板上的英文文法寫錯了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 16:18"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "說",
+            "opinion": "「我想我在美國念的研究所,學歷跟論文是絕對沒有問題的,Kaohsiungmoveforward,就是高雄要向前行,是所有的高雄人一起向前行,所以這主要是要表達他的意涵。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "絕對",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 16:18"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "說",
+            "opinion": "「其實在我們看板裡面,我的色系幾乎都是藍色色系,包括我穿的是藍色西裝。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實在"
+            ],
+            "datetime": "2022-06-04 16:18"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "說",
+            "opinion": "黨中央是採開放投票,不限這四個人,但希望黨中央要明確說清楚,是要空降還是要在地。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "明確",
+                "清楚",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-06-08 18:08"
+        },
+        {
+            "person": "黃紹庭",
+            "verb": "表示",
+            "opinion": "「黨中央應該先把整個高雄市長的,提名方向策略先訂清楚,你是要空降的還是在地人才,再來大家討論才有一個方向,柯志恩委員跟過去跟高雄的互動跟連結,算是比較少的,而且在地方的知名度上,也會比較弱一點。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-10 18:22"
+        }
+    ]
+}

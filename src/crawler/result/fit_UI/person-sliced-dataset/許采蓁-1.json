@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許采蓁.png",
+    "opinions": [
+        {
+            "person": "許采蓁",
+            "verb": "宣布",
+            "opinion": "要再度辦線上音樂會,並邀請國民黨主席朱立倫、立法院前院長王金平及高雄市前市長韓國瑜、中廣公司董事長趙少康等黨內大老參與,破除黨內不團結謠言。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "謠言"
+            ],
+            "positive_list": [
+                "音樂",
+                "音樂"
+            ],
+            "datetime": "2022-06-03 16:53"
+        },
+        {
+            "person": "許采蓁",
+            "verb": "說",
+            "opinion": "6月6日是父親許崑源逝世兩周年的日子,家人將辦「許崑源議長追思線上音樂會」,除讓自己有個喘息空間消化情緒,市民也可以一起緬懷父親生前從政的點點滴滴,人走茶未涼,要透過音樂會旋律訴說思念。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "音樂",
+                "音樂"
+            ],
+            "datetime": "2022-06-03 16:53"
+        },
+        {
+            "person": "許采蓁",
+            "verb": "表示",
+            "opinion": "盼透過這場音樂會,讓國民黨人士可藉此發表心聲、齊心向前,破除不團結謠言,也希望讓民眾再次看見國民黨的決心,「這次團結不單只是口號,更是以行動表示」。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "謠言"
+            ],
+            "positive_list": [
+                "希望",
+                "決心",
+                "音樂",
+                "希望",
+                "音樂"
+            ],
+            "datetime": "2022-06-05 17:03"
+        }
+    ]
+}

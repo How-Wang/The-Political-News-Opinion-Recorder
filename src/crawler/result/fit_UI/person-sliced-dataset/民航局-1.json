@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/民航局.png",
+    "opinions": [
+        {
+            "person": "民航局",
+            "verb": "說",
+            "opinion": "行政院去年11月已經核定新航廈整建計畫,未來高雄國際機場新航廈會規劃到1650萬人次,分為兩期建設,期盼加速啟動新航廈並配合復甦步驟,使高雄國際機場恢復2019年前的正常營運,帶動南部觀光。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "建設",
+                "期盼"
+            ],
+            "datetime": "2022-06-01 13:48"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔣該.png",
+    "opinions": [
+        {
+            "person": "蔣該",
+            "verb": "提出",
+            "opinion": "主張主動、拋議題出擊的人,因為柯文哲8年執政、民進黨8年執政總有做不好的地方,「UberEats送餐快多了,這不是在野黨候選人要做的事情」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不是"
+            ],
+            "positive_list": [
+                "主動"
+            ],
+            "datetime": "2022-06-11 10:50"
+        }
+    ]
+}

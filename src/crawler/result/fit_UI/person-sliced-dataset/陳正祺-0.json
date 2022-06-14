@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳正祺.png",
+    "opinions": [
+        {
+            "person": "陳正祺",
+            "verb": "說",
+            "opinion": "台灣是歐盟值得信賴的夥伴,歐盟也是我國的重要貿易夥伴。」",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "信賴",
+                "重要",
+                "值得",
+                "值得信賴",
+                "值得信賴的",
+                "夥伴"
+            ],
+            "datetime": "2022-06-01 18:13"
+        }
+    ]
+}

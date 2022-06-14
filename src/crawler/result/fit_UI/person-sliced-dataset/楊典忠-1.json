@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊典忠.png",
+    "opinions": [
+        {
+            "person": "楊典忠",
+            "verb": "說",
+            "opinion": "「台中市政府首長,確診人數應該也是另類六都第一。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:13"
+        },
+        {
+            "person": "楊典忠",
+            "verb": "指出",
+            "opinion": "依據市府人事處統計,截至5月31日市府已有1078人染疫,確診人數不斷增加,近半個月更倍增成長,質疑市府分艙分流辦公,是否有落實。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "質疑"
+            ],
+            "positive_list": [
+                "成長",
+                "增加"
+            ],
+            "datetime": "2022-06-02 10:39"
+        },
+        {
+            "person": "楊典忠",
+            "verb": "指出",
+            "opinion": "依據市府人事處統計,截至5月31日市府已有1078人染疫,確診人數不斷增加,近半個月更倍增成長,質疑市府分艙分流辦公,是否有落實。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "質疑"
+            ],
+            "positive_list": [
+                "成長",
+                "增加"
+            ],
+            "datetime": "2022-06-02 09:45"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/塔綠班.png",
+    "opinions": [
+        {
+            "person": "塔綠班",
+            "verb": "呼籲",
+            "opinion": "市府公務員應該要保持行政中立,「上班時間更不應該從事非公務行為,才對得起每位納稅人」,同時也要求市長侯友宜應該盡快出面向大眾致歉。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "不應該"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:17"
+        }
+    ]
+}

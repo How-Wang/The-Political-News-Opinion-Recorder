@@ -1,0 +1,212 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "王浩宇",
+            "verb": "說",
+            "opinion": "八道的人亂放消息,卻不讓一般民眾講出心聲。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 14:03"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "認為",
+            "opinion": "警員疑在壓力之之下不敢開單,僅無奈說「開了我更不好做人,快開走吧」,要徐巧芯儘快離開,「另外值得注意的是,過去徐巧芯堅稱曾5次請員警開單,影像中也未見此畫面」。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "不好",
+                "壓力",
+                "離開",
+                "不好",
+                "無奈"
+            ],
+            "positive_list": [
+                "注意",
+                "注意的",
+                "值得",
+                "值得注意",
+                "值得注意的"
+            ],
+            "datetime": "2022-05-27 23:40"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "表示",
+            "opinion": "要提報給衛服部查出是哪家醫院,行政院長蘇貞昌今(28日)受訪時也透露,會加以究責查辦,隨後王浩宇透露,警方不排除約談郭彥均到案說明。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "排除",
+                "透露"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-28 13:51"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "質疑",
+            "opinion": "表示要提報給衛服部查出是哪家醫院,27日深夜郭彥均發長文道歉,剛他也受訪透露跟老婆昨一整晚都沒睡好,現在只希望一切趕快落幕。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "透露",
+                "道歉"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 09:13"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "質疑",
+            "opinion": "表示要提報給衛服部查出是哪家醫院,27日深夜郭彥均發長文道歉,剛他也受訪透露跟老婆昨一整晚都沒睡好,現在只希望一切趕快落幕。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "透露",
+                "道歉"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 06:21"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "認為",
+            "opinion": "一直以來我就是默默做我的議員、做夥伴生活,該說的就說。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "默默"
+            ],
+            "positive_list": [
+                "夥伴"
+            ],
+            "datetime": "2022-05-31 16:03"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "質疑",
+            "opinion": "「肌肉男的品牌」不標示產地,還說「這種人,對台灣的民主傷害才是最大的」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "傷害",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 18:19"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "說",
+            "opinion": "道,你看劉宇整天嘻嘻哈哈的,可是回到最後他關注的議題整體是有核心價值的,這種人才有必要持續關注。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "必要",
+                "哈哈",
+                "嘻嘻",
+                "嘻嘻哈哈"
+            ],
+            "datetime": "2022-05-31 18:19"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "說",
+            "opinion": "自己最近一次碰到確診者是在5月中,當時和14名友人在包廂內吃火鍋,用餐時間約2個小時,沒有特別用公筷母匙,最後14人中有11人確診,沒確診的3名好友則是分別打了「高高高、AA高、高高高」,其他確診的人則沒有打過任何高端疫苗,這樣的結果也讓王浩宇直呼「我自己很安心,也很驚訝」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "驚訝",
+                "沒有",
+                "驚訝"
+            ],
+            "positive_list": [
+                "特別",
+                "安心"
+            ],
+            "datetime": "2022-06-02 15:02"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "指出",
+            "opinion": "這段期間他體溫最低36度,最高36.9、洗澡會超過37度,唯一就是食量大增,幾乎都是在家吃喝看影片,約好視訊看診陰性無法確診、沒症狀也無法開藥,他表示若是今早再採檢一次為陰性「應該就直接Pass整個病程了。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "最低",
+                "無法",
+                "超過",
+                "無法"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-06-07 11:16"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "發現",
+            "opinion": "體溫升高、唾液快篩陽性,不過,接下來好幾次快篩都是陰性。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:37"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "指出",
+            "opinion": "致電高市府防疫專線,對方建議再做鼻腔快篩確認。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:37"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "說",
+            "opinion": "感謝高端比誇張更誇張的故事。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "誇張"
+            ],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-08 12:25"
+        },
+        {
+            "person": "王浩宇",
+            "verb": "說",
+            "opinion": "後來得知,跟確診者接觸的朋友們無一倖免,沒有人躲過確診的命運,很多朋友到現在都還在發高燒,連只接觸幾分鐘的同事都確診,真的是傳染力很高的病毒。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "傳染",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-08 12:25"
+        }
+    ]
+}

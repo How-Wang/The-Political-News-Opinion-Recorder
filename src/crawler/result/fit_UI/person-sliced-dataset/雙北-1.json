@@ -1,0 +1,56 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "雙北",
+            "verb": "批評",
+            "opinion": "蔡英文總統若真的視民如子,不會把防疫資訊「暗崁」,草菅人命。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會",
+                "草菅",
+                "草菅人命"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:08"
+        },
+        {
+            "person": "雙北",
+            "verb": "評估",
+            "opinion": "疫情即將大規模爆發,她痛批,打不打電話不是重點,「如果蔡總統真的視民如子,就不會把如此重要防疫資訊『暗崁』」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "爆發",
+                "不是",
+                "不會"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-23 14:58"
+        },
+        {
+            "person": "雙北",
+            "verb": "回應",
+            "opinion": "總統想找誰去開會是總統的權力,自己都會尊重,最重要的是自己是新北市長,新北的事情一定勇於承擔、全力以赴,守住新北市民健康。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "重要",
+                "重要的",
+                "健康",
+                "最重要",
+                "最重要的",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-23 10:37"
+        }
+    ]
+}

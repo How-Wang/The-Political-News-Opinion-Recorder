@@ -1,0 +1,71 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "北市府",
+            "verb": "指出",
+            "opinion": "北市府工務局大地工程處雖從102年起,辦理環境安全檢查改善及回收閒置休憩場域,但至今仍接引公廁用水供私人團體使用,導致管線密布、景觀紊亂;另外,也未一併查核私自引接電源轉供線路私用,民間團體更將電線隱蔽在樹叢間或埋在地下,如果發生短路、漏電情事,恐危害山林及遊客,核有疏失。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "危害",
+                "紊亂",
+                "短路",
+                "漏電",
+                "隱蔽"
+            ],
+            "positive_list": [
+                "安全",
+                "改善",
+                "改善"
+            ],
+            "datetime": "2022-05-22 13:53"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "會下午舉行,由市長侯友宜、副市長劉和然、衛生局長陳潤秋等人出席。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "舉行",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 16:42"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "會下午舉行,由市長侯友宜、副市長劉和然、衛生局長陳潤秋等人出席。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "舉行",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 15:41"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "病毒危害不分男女老幼、國界、更不會分黨派,唯有攜手合作才能度過難關。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "危害",
+                "不會"
+            ],
+            "positive_list": [
+                "才能",
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-24 19:17"
+        }
+    ]
+}

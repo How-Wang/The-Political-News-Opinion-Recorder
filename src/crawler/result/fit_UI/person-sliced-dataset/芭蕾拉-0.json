@@ -1,0 +1,103 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/芭蕾拉.png",
+    "opinions": [
+        {
+            "person": "芭蕾拉",
+            "verb": "強調",
+            "opinion": "「瓜地馬拉與台灣外交邦誼穩固,在這60幾年歲月以來堅若磐石,彼此的關係越來越緊密。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "穩固"
+            ],
+            "datetime": "2022-06-09 15:40"
+        },
+        {
+            "person": "芭蕾拉",
+            "verb": "指出",
+            "opinion": "在台灣消費市場,「薇薇特南果區」及「安地瓜區」出產的咖啡相當受歡迎,每年瓜地馬拉咖啡外銷到台灣的出口量都穩步成長中,瓜國目前占台灣進口咖啡的第4名,台灣消費市場對瓜地馬拉咖啡的需求量,僅次於台灣對瓜地馬拉蔗糖的需求。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成長",
+                "受歡迎",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-09 15:40"
+        },
+        {
+            "person": "芭蕾拉",
+            "verb": "表示",
+            "opinion": "瓜地馬拉擁有8大咖啡產區,每一顆咖啡豆都產自專業職人手工植栽。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "擁有"
+            ],
+            "datetime": "2022-06-09 15:40"
+        },
+        {
+            "person": "芭蕾拉",
+            "verb": "表示",
+            "opinion": "瓜地馬拉與台灣是堅實的夥伴,在瓜地馬拉有一項傳統,就是喜歡跟好朋友一起喝杯香氣醇厚的好咖啡,今天就是與親愛的貴賓朋友們喝咖啡的好日子。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "喜歡",
+                "夥伴",
+                "親愛",
+                "親愛的",
+                "喜歡",
+                "親愛"
+            ],
+            "datetime": "2022-06-09 15:40"
+        },
+        {
+            "person": "芭蕾拉",
+            "verb": "表示",
+            "opinion": "瓜地馬拉與中華民國台灣的的外交邦誼穩固,在這60幾年的歲月以來堅若磐石,彼此的關係越來越緊密,邦交優勢讓雙邊的經貿往來更加繁榮,彼此享受高品質商品,也對兩國關係貢獻良多。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "享受",
+                "優勢",
+                "繁榮",
+                "穩固"
+            ],
+            "datetime": "2022-06-09 18:35"
+        },
+        {
+            "person": "芭蕾拉",
+            "verb": "指出",
+            "opinion": "在台灣消費市場,「薇薇特南果區」及「安地瓜區」出產的咖啡相當受歡迎,每年瓜地馬拉咖啡外銷到台灣的出口量都穩步成長中,瓜國目前占台灣進口咖啡的第4名,台灣消費市場對瓜地馬拉咖啡的需求量,僅次於台灣對瓜地馬拉蔗糖的需求。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成長",
+                "受歡迎",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-09 18:35"
+        },
+        {
+            "person": "芭蕾拉",
+            "verb": "表示",
+            "opinion": "瓜地馬拉擁有8大咖啡產區,每一顆咖啡豆都產自專業職人手工植栽。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "擁有"
+            ],
+            "datetime": "2022-06-09 18:35"
+        }
+    ]
+}

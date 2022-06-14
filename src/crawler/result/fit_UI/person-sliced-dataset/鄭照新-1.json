@@ -1,0 +1,127 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "鄭照新",
+            "verb": "說",
+            "opinion": "「這樣的一種暗示,或者是傳達全台中現在只打7200劑,很顯然是錯誤的資訊。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "暗示",
+                "錯誤",
+                "錯誤的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:15"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "表示",
+            "opinion": "總統府計算母數列入外包廠商,比例定義界線與法定編制不同。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "法定"
+            ],
+            "datetime": "2022-06-02 10:54"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "指出",
+            "opinion": "盧秀燕在議會答詢引用的確診人數為總統府公布的公開資料,總統府組織法設3局3室3處及法規委員會,法定編制員額職員自401人至469人,此乃盧秀燕所引用母數的依據。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "法定",
+                "的確"
+            ],
+            "datetime": "2022-06-02 10:54"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "說",
+            "opinion": "「這樣是否系統性散佈謠言,或者是個人行為,這方面仍有追查調查的空間。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "謠言"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:13"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "表示",
+            "opinion": "盧秀燕市長議會答詢引用確診人數為總統府公布公開資料。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-02 10:39"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "說",
+            "opinion": "市府庫存的快篩試劑由秘書處部分臨時人員及志工朋友協助分裝,分裝作業分為上午班及下午班,中午休息的1小時和下午5時後停止作業時間,都會將倉庫閉門上鎖,以便管理快篩試劑,均有監視器紀錄佐證,並無加班情形,請勿以訛傳訛,再有惡意散佈者將追究法律責任。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "有惡意",
+                "停止",
+                "惡意",
+                "裝作",
+                "以訛傳訛"
+            ],
+            "positive_list": [
+                "休息",
+                "協助",
+                "法律",
+                "管理"
+            ],
+            "datetime": "2022-06-10 15:15"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "表示",
+            "opinion": "「盧秀燕市長第一時間,也在蔡其昌副院長的臉書上,表達了關懷,尤其是其實像我本人,曾經做為確診者,深知確診是不好受的事情,在這時候人性的關懷超越一切。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "人性",
+                "人性的",
+                "關懷"
+            ],
+            "datetime": "2022-06-10 13:48"
+        },
+        {
+            "person": "鄭照新",
+            "verb": "表示",
+            "opinion": "防疫期間,市府同仁都處於備戰狀態,要一起打贏防疫戰爭,同仁們都很辛苦,每次碰到防疫緊急應變時,都以防疫為優先,常會面臨工作任務調配,市府努力在同仁的辛苦與防疫工作取得平衡,很感謝所有基層公務同仁一起為防疫努力。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "辛苦",
+                "緊急",
+                "戰爭"
+            ],
+            "positive_list": [
+                "平衡",
+                "努力",
+                "感謝",
+                "平衡",
+                "感謝"
+            ],
+            "datetime": "2022-06-10 12:53"
+        }
+    ]
+}

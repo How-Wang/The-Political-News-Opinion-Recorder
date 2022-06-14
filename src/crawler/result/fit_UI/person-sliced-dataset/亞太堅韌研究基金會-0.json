@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞太堅韌研究基金會.png",
+    "opinions": [
+        {
+            "person": "亞太堅韌研究基金會",
+            "verb": "指出",
+            "opinion": "亞堅會是台灣首個專注於公共政策研究的國際非政府組織(INGO),林夏如獲邀出席WEF凸顯台灣在國際社會的領導力。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:18"
+        }
+    ]
+}

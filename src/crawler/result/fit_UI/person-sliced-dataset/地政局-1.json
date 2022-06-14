@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/地政局.png",
+    "opinions": [
+        {
+            "person": "地政局",
+            "verb": "說",
+            "opinion": "這是戴姓同仁個人行為。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:17"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳政忠.png",
+    "opinions": [
+        {
+            "person": "陳政忠",
+            "verb": "指出",
+            "opinion": "台北捷運南、北環段標案至今仍流標,台北市長柯文哲任內捷運建設掛零。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "建設"
+            ],
+            "datetime": "2022-06-11 10:52"
+        },
+        {
+            "person": "陳政忠",
+            "verb": "指出",
+            "opinion": "明明是因北市府推出相關計畫比其他縣市還慢,才影響廠商不投標。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 10:52"
+        }
+    ]
+}

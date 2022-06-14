@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯話鋒.png",
+    "opinions": [
+        {
+            "person": "柯話鋒",
+            "verb": "說",
+            "opinion": "在雙北疫情最嚴重的時候,政府也沒有找雙北的首長討論,反而討論高雄,他覺得很奇怪,比較善意解釋是黨內聯誼會那就算了,如果真的討論疫情,那就覺得奇怪,最嚴重地區都不找來問。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "奇怪",
+                "嚴重",
+                "嚴重地",
+                "嚴重的",
+                "沒有",
+                "算了"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-10 15:49"
+        }
+    ]
+}

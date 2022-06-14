@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/羅浚晅.png",
+    "opinions": [
+        {
+            "person": "羅浚晅",
+            "verb": "表示",
+            "opinion": "比如說「很多孩子走了」這件事許多人畫錯重點,說要去自首變成政治操作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-30 17:44"
+        },
+        {
+            "person": "羅浚晅",
+            "verb": "表示",
+            "opinion": "製造恐慌是農場文的目的,現在大家要做的就是「不要恐慌,因為這樣反而會加速醫療崩壞」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "恐慌",
+                "不要",
+                "恐慌"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:41"
+        }
+    ]
+}

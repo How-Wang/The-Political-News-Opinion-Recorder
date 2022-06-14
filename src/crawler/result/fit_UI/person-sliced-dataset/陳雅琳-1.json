@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳雅琳.png",
+    "opinions": [
+        {
+            "person": "陳雅琳",
+            "verb": "表示",
+            "opinion": "陳雅琳已經請辭代總經理,至於仍繼續當新聞台長一職,陳雅琳用個人忍辱負重來解釋。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 05:30"
+        }
+    ]
+}

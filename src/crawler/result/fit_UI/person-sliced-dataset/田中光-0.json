@@ -1,0 +1,89 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "田中光",
+            "verb": "表示",
+            "opinion": "很多國際場域確實都有此情形,外交部會做這方面的研究。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "確實"
+            ],
+            "datetime": "2022-05-25 12:29"
+        },
+        {
+            "person": "田中光",
+            "verb": "表示",
+            "opinion": "若轉換角度來看,美國貿易代表戴琪與政務委員鄧振中在泰國的亞太經濟合作會議(APEC)期間會談,這是很有趣的觀察重點,戴琪特別談到雙邊對話是很正向和活躍的。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "有趣",
+                "有趣的",
+                "特別",
+                "合作",
+                "有趣"
+            ],
+            "datetime": "2022-05-25 10:18"
+        },
+        {
+            "person": "田中光",
+            "verb": "表示",
+            "opinion": "美國在正式公布印太經濟架構(IPEF)前,預告台灣不會在首輪名單,是對台灣的一種尊重,符合台美當前默契,台美關係不要有任何出乎意料之舉(surprise)。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "出乎",
+                "出乎意料",
+                "不要",
+                "不會"
+            ],
+            "positive_list": [
+                "正式",
+                "符合",
+                "尊重",
+                "出乎意料",
+                "尊重"
+            ],
+            "datetime": "2022-05-25 10:18"
+        },
+        {
+            "person": "田中光",
+            "verb": "表示",
+            "opinion": "台灣加入IPEF的機會還在,可能是第二輪,美國國務卿布林肯曾說IPEF是一個開放的平台,所以還是台灣努力的目標。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "開放",
+                "開放的",
+                "機會"
+            ],
+            "datetime": "2022-05-25 10:18"
+        },
+        {
+            "person": "田中光",
+            "verb": "表示",
+            "opinion": "台灣加入IPEF的機會還在,可能是第二輪,美國國務卿布林肯曾說IPEF是一個開放的平台,所以還是台灣努力的目標。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "開放",
+                "開放的",
+                "機會"
+            ],
+            "datetime": "2022-05-25 12:08"
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林靜儀",
+            "verb": "表示",
+            "opinion": "每一年台灣都試著用各種方式,例如外交部透過友邦或理念相近國家發聲,讓全世界能夠看見。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 21:52"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "台灣希望慢慢恢復跟全球類似的防疫步調,「可以看到國際社會已經開始進行怎樣的後疫情時代的防護」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "怎樣"
+            ],
+            "positive_list": [
+                "希望",
+                "進行",
+                "希望"
+            ],
+            "datetime": "2022-05-21 21:52"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "台灣希望慢慢恢復跟全球類似的防疫步調,「可以看到國際社會已經開始進行怎樣的後疫情時代的防護」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "怎樣"
+            ],
+            "positive_list": [
+                "希望",
+                "進行",
+                "希望"
+            ],
+            "datetime": "2022-05-21 22:27"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "表示",
+            "opinion": "每一年台灣都試著用各種方式,例如外交部透過友邦或理念相近國家發聲,讓全世界能夠看見。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 22:27"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "「雖然台灣很難成為他們(WHA)的會員,但還是要讓大家知道。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "知道"
+            ],
+            "datetime": "2022-05-22 21:49"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "指出",
+            "opinion": "會議辯論過程,中國再度訴求一中原則,稱台灣成為觀察員「缺乏合法性」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "缺乏",
+                "辯論"
+            ],
+            "positive_list": [
+                "合法",
+                "合法性",
+                "成為"
+            ],
+            "datetime": "2022-05-23 16:56"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "表示",
+            "opinion": "吐瓦魯講到時間超過,只是最終辯論後主席裁示不予處理。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "超過",
+                "辯論",
+                "不予"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 16:56"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "台灣面對疫情已爭取時間和空間才開始準備開放,「看看世界,看看台灣」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "開放",
+                "準備"
+            ],
+            "datetime": "2022-05-23 07:21"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "提到",
+            "opinion": "入場沒有量體溫、沒人戴口罩、看疫苗護照等,現在國際就是與病毒共存。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 07:21"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "提到",
+            "opinion": "至今年4月,瑞士完成疫苗接種(二劑)的比例是70%,完成補充劑(第三劑)的比例是43.%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-05-23 07:21"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "表示",
+            "opinion": "台灣面對疫情不是沒有準備,且在疫苗接種率比瑞士更高的情況下才開始準備開放管制政策,這些都是全台灣努力而來的。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "開放",
+                "準備"
+            ],
+            "datetime": "2022-05-23 09:04"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "指出",
+            "opinion": "直到今年4月,瑞士完成2劑疫苗接種的比例是70%,完成補充劑(第三劑)的比例是43.%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-05-23 09:04"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "表示",
+            "opinion": "她進入日內瓦車站,入場沒有量體溫,沒有酒精消毒、不用看疫苗護照,沒有人戴口罩,大家都正常生活。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-05-23 09:04"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "指出",
+            "opinion": "除台瑞關係,瑞士議員也注意到台灣在國際上被打壓,甚至有議員知道台灣農產品遭到中國惡意打壓,詢問台灣應對的方式。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "惡意",
+                "打壓",
+                "被打"
+            ],
+            "positive_list": [
+                "注意",
+                "知道"
+            ],
+            "datetime": "2022-05-26 16:02"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "「除了友邦之外,就我了解是比去年多了一倍的國家為我們說話,使中國在最後報告時間裡反駁了一陣子,也讓更多的國家在會議裡一再聽到台灣公共與醫療衛生成就」。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "一再",
+                "反駁",
+                "反駁"
+            ],
+            "positive_list": [
+                "了解",
+                "成就",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-28 17:31"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "他們參訪歐洲核子研究中心以及當地民防組織等機構,看到雙邊合作的潛力。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "合作"
+            ],
+            "datetime": "2022-05-28 17:31"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "「除了友邦之外,就我了解是比去年多了一倍的國家為我們說話,使中國在最後報告時間裡反駁了一陣子,也讓更多的國家在會議裡一再聽到台灣公共與醫療衛生成就」。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "一再",
+                "反駁",
+                "反駁"
+            ],
+            "positive_list": [
+                "了解",
+                "成就",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-28 18:16"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "他們參訪歐洲核子研究中心以及當地民防組織等機構,看到雙邊合作的潛力。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "合作"
+            ],
+            "datetime": "2022-05-28 18:16"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "表示",
+            "opinion": "台灣去年主要是在防治Delta突變株,當時的傳染力高、死亡率高,加上國內的疫苗接種率不足,因此很多政策相對比較緊縮,台灣接下來要走向與病毒共存,而且目前的疫苗接種率已經超過八成,希望可以慢慢地恢復正常生活。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不足",
+                "死亡",
+                "超過",
+                "傳染",
+                "不足"
+            ],
+            "positive_list": [
+                "正常",
+                "希望",
+                "很多",
+                "希望"
+            ],
+            "datetime": "2022-06-07 15:15"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "在居住政策的推動上,地方政府的角色相當重要。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-10 18:37"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "回應",
+            "opinion": "表示,政府除興建社會住宅外,也推動社會住宅包租代管,截至5月底,共已媒合超過4萬戶。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:37"
+        },
+        {
+            "person": "林靜儀",
+            "verb": "說",
+            "opinion": "政府制定「租賃住宅市場發展及管理條例」,有效協助房東租屋管理及釋出空屋至租賃市場。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "有效",
+                "協助",
+                "發展",
+                "管理"
+            ],
+            "datetime": "2022-06-10 18:37"
+        }
+    ]
+}

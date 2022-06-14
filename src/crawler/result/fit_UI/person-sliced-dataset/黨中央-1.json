@@ -1,0 +1,230 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黨中央",
+            "verb": "認為",
+            "opinion": "桃園市長鄭文燦在桃園市政工作上有很好成績,桃園在地也有一些人選,而桃園跟中央民進黨,最重要的就是防疫優先,民眾也不會期待現在去談選舉。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "很好",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-05-26 10:06"
+        },
+        {
+            "person": "黨中央",
+            "verb": "強調",
+            "opinion": "並未委託民調機構在27、28日進行苗栗縣長選舉相關的民意調查。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-27 07:28"
+        },
+        {
+            "person": "黨中央",
+            "verb": "說",
+            "opinion": "「是否對黨中央施壓,我認為劉政鴻前縣長這麼忠黨愛國,應該不是這個意思,而是要跟民進黨的提名人做比較,這樣才有數據提供給黨中央參考。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "愛國"
+            ],
+            "datetime": "2022-05-27 19:38"
+        },
+        {
+            "person": "黨中央",
+            "verb": "說",
+            "opinion": "看到黨中央處理桃園提名的方式,讓大家都非常擔心與緊張,還是希望黨中央能在新竹市提出在地人選來拚;而地方上都已團結支持林耕仁了,黨中央的高層也已數次來到新竹市討論人選,也都很支持林耕仁,但就是不解為何還不提名,呼籲黨中央能從善如流、尊重地方,在黨主席朱立倫下週訪美前,完成徵召提名的程序。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "緊張",
+                "擔心",
+                "緊張",
+                "擔心"
+            ],
+            "positive_list": [
+                "完成",
+                "希望",
+                "尊重",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 13:30"
+        },
+        {
+            "person": "黨中央",
+            "verb": "指出",
+            "opinion": "黨中央會透過民調確定人選,不會太快做決定。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "決定",
+                "確定"
+            ],
+            "datetime": "2022-05-28 16:43"
+        },
+        {
+            "person": "黨中央",
+            "verb": "說",
+            "opinion": "看到黨中央處理桃園提名的方式,讓大家都非常擔心與緊張,還是希望黨中央能在新竹市提出在地人選來拚;而地方上都已團結支持林耕仁了,黨中央的高層也已數次來到新竹市討論人選,也都很支持林耕仁,但就是不解為何還不提名,呼籲黨中央能從善如流、尊重地方,在黨主席朱立倫下週訪美前,完成徵召提名的程序。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "緊張",
+                "擔心",
+                "緊張",
+                "擔心"
+            ],
+            "positive_list": [
+                "完成",
+                "希望",
+                "尊重",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 14:26"
+        },
+        {
+            "person": "黨中央",
+            "verb": "表示",
+            "opinion": "中央選戰策略會報下午開會討論,決議向中央選舉提名委員會提報,建議徵召徐志榮,代表國民黨參選苗栗縣長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:38"
+        },
+        {
+            "person": "黨中央",
+            "verb": "表示",
+            "opinion": "中央選戰策略會報下午開會討論,決議向中央選舉提名委員會提報,建議徵召徐志榮,代表國民黨參選苗栗縣長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 08:56"
+        },
+        {
+            "person": "黨中央",
+            "verb": "宣布",
+            "opinion": "徵召立委徐志榮參選苗栗縣長,徐志榮受訪時則強調不參選苗栗縣長,今(1)日中常會提名也喊卡。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:49"
+        },
+        {
+            "person": "黨中央",
+            "verb": "痛批",
+            "opinion": "中央提名的市長參選人張善政,整合不到位。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:00"
+        },
+        {
+            "person": "黨中央",
+            "verb": "說",
+            "opinion": "不排除藍白合可能性,引發基層反彈!為整合意見,秘書長黃健庭到新竹市議會聽取意見,進行不記名投票,最後林耕仁獲得最多支持,但黨會不會徵召他出戰,黃健庭語帶保留。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "排除",
+                "不會",
+                "反彈"
+            ],
+            "positive_list": [
+                "合意",
+                "進行",
+                "獲得"
+            ],
+            "datetime": "2022-06-10 18:51"
+        },
+        {
+            "person": "黨中央",
+            "verb": "說",
+            "opinion": "清楚,而不是亂點人選,再用假投票要地方議員買單。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-10 18:22"
+        },
+        {
+            "person": "黨中央",
+            "verb": "提到",
+            "opinion": "給張善政建議,呂玉玲說,桃園有13區幅員廣大,很多鄉親、宗親社團都要趕快爭取認同,認同後才會支持,她相信桃園人會支持優秀人才。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "相信",
+                "優秀",
+                "認同"
+            ],
+            "datetime": "2022-06-10 15:05"
+        },
+        {
+            "person": "黨中央",
+            "verb": "表示",
+            "opinion": "會負責此戰成敗,若不能贏回新竹市,他也會不連任議長,以示負責,希望黨中央能順應基層民意,儘早提名林耕仁,讓地方能儘早備戰。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "希望",
+                "負責",
+                "希望"
+            ],
+            "datetime": "2022-06-11 18:55"
+        },
+        {
+            "person": "黨中央",
+            "verb": "認為",
+            "opinion": "疫情當前,可等928黨慶再提名也不遲,消息一出,卻讓部分基層很焦慮。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "焦慮",
+                "焦慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 18:06"
+        }
+    ]
+}

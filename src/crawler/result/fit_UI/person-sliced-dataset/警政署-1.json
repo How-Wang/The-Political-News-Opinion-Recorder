@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/警政署.png",
+    "opinions": [
+        {
+            "person": "警政署",
+            "verb": "認為",
+            "opinion": "懲處過輕,31日宣布加重懲處,包括林英煌及刑事警察局副局長黃家琦各記過2次,新竹縣警局刑警大隊副大隊長吳仁志記過1次。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "加重",
+                "刑事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:15"
+        }
+    ]
+}

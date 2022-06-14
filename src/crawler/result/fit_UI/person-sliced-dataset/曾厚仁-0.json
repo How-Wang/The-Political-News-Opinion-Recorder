@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾厚仁.png",
+    "opinions": [
+        {
+            "person": "曾厚仁",
+            "verb": "說",
+            "opinion": "這是台灣與斯洛伐克雙邊關係、台斯國會外交的重要里程碑;台灣與斯洛伐克雖然距離遙遠,但兩國因有共享的價值及共通理念,因此不會影響兩國的關係及友誼進展。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "友誼",
+                "重要"
+            ],
+            "datetime": "2022-06-09 12:55"
+        }
+    ]
+}

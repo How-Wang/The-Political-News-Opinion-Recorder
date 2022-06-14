@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/秋葉剛男.png",
+    "opinions": [
+        {
+            "person": "秋葉剛男",
+            "verb": "表示",
+            "opinion": "中日關係「新老問題交織凸顯,困難不容忽視」,環球時報社論定調,這是在針對日本在台灣問題上的挑釁,更痛批要來參一腳,我們就打斷他們的腿。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "打斷",
+                "困難",
+                "忽視",
+                "挑釁",
+                "問題",
+                "困難",
+                "挑釁",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:13"
+        }
+    ]
+}

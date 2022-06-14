@@ -1,0 +1,47 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "譚德塞",
+            "verb": "發現",
+            "opinion": "不要再把我們擋在外面」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 08:13"
+        },
+        {
+            "person": "譚德塞",
+            "verb": "發現",
+            "opinion": "不要再把我們擋在外面」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 08:50"
+        },
+        {
+            "person": "譚德塞",
+            "verb": "回應",
+            "opinion": "。世界衛生組織秘書長譚德塞,笑得好燦爛,和台灣民眾合照,仔細看台灣人身上穿的T恤,都寫著大大的「台灣要參與WHA」訴求,這身裝在世衛主辦的健行活動被禁止,但譚德塞不只熱情合照。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "禁止"
+            ],
+            "positive_list": [
+                "熱情",
+                "衛生",
+                "燦爛",
+                "熱情",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 08:45"
+        }
+    ]
+}

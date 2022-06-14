@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林辦.png",
+    "opinions": [
+        {
+            "person": "林辦",
+            "verb": "指出",
+            "opinion": "民進黨有選對會徵召機制,一切尊重全面的佈局與考量,但是民間自發的支持,林佳龍及團隊除了感謝,也將持續請益。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "全面的",
+                "尊重",
+                "感謝",
+                "尊重",
+                "感謝"
+            ],
+            "datetime": "2022-06-02 12:25"
+        }
+    ]
+}

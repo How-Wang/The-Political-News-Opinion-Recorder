@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞洲奧林匹克理事會.png",
+    "opinions": [
+        {
+            "person": "亞洲奧林匹克理事會",
+            "verb": "宣布",
+            "opinion": "杭州亞運延期,蔡賜爵表示,OCA可能近期還在處理杭州亞運延期後續相關事宜,「目前就沒有繼續再談此事」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "延期",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:53"
+        }
+    ]
+}

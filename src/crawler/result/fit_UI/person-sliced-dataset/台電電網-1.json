@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台電電網.png",
+    "opinions": [
+        {
+            "person": "台電電網",
+            "verb": "說",
+            "opinion": "未來台積電也會持續增加備用電量,除了增加柴油發電機,也會擴充更大備用能量,包括天然氣的發電機,都是因應未來電力不足的可能方法,台積電這部分持續和政府合作,是現在進行式。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不足",
+                "不足的",
+                "不足"
+            ],
+            "positive_list": [
+                "天然",
+                "合作",
+                "進行",
+                "增加",
+                "合作"
+            ],
+            "datetime": "2022-06-08 13:08"
+        }
+    ]
+}

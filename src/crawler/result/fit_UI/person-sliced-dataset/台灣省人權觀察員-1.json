@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣省人權觀察員.png",
+    "opinions": [
+        {
+            "person": "台灣省人權觀察員",
+            "verb": "說",
+            "opinion": "台灣政府有多糟,並且拿一堆時空錯置的新聞照片營造台灣人很慘的局面,這個五毛帳號約有4千多位追蹤者,影響力有多大呢?更何況,郭彥均事件徐芳麗並非源頭,而是轉發對話截圖的追隨者。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "追蹤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:22"
+        }
+    ]
+}

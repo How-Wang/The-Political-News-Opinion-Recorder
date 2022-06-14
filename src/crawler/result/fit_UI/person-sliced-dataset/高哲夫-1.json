@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高哲夫.png",
+    "opinions": [
+        {
+            "person": "高哲夫",
+            "verb": "表示",
+            "opinion": "臺灣是歐盟理念相近的夥伴,我們共享人權、民主、法治等價值,這些價值是歐洲基因的一部分,也是臺灣人之所以為臺灣人的價值基因。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "夥伴"
+            ],
+            "datetime": "2022-05-27 09:13"
+        }
+    ]
+}

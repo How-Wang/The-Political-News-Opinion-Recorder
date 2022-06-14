@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/IROG.png",
+    "opinions": [
+        {
+            "person": "IROG",
+            "verb": "指出",
+            "opinion": "25日到26日至少有25個粉專發布以「很多孩子走了」為首的字句,其中有19個粉專貼文發布時間差竟在10秒內。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 06:21"
+        }
+    ]
+}

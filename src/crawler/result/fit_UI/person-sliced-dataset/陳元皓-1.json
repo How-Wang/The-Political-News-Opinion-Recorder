@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳元皓.png",
+    "opinions": [
+        {
+            "person": "陳元皓",
+            "verb": "說明",
+            "opinion": "預醫所工作以執行傳染性疾病偵檢、防護及治療任務為主,同時著重生物戰劑的偵檢試劑研發,目標是提升防護及偵檢能力。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "疾病",
+                "傳染",
+                "傳染性"
+            ],
+            "positive_list": [
+                "治療",
+                "能力",
+                "提升"
+            ],
+            "datetime": "2022-06-07 12:45"
+        }
+    ]
+}

@@ -1,0 +1,2191 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "徐巧芯",
+            "verb": "指出",
+            "opinion": "各級學校停課不一致,已造成學生與家長困擾。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不一致",
+                "困擾",
+                "困擾"
+            ],
+            "positive_list": [
+                "一致"
+            ],
+            "datetime": "2022-05-21 15:52"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "可以開單,只是對方最後仍不願意。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不願意"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-21 10:19"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "對爆料人「對我造成很大名譽損壞跟壓力」,會提出告訴,同時爆料網友遭起底身分是一名教師,當時處理的徐巧芯姓員警一度稱雙方不認識,但又挖出兩人根本是同班同學,信義分局開會議處後,加上先前執勤時間發布IG貼文,一共計徐巧芯姓員警申誡二支。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "損壞",
+                "壓力"
+            ],
+            "positive_list": [
+                "名譽"
+            ],
+            "datetime": "2022-05-21 19:13"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "當下表明身分有請員警開單,有網友認為這樣反而會讓員警不敢開單,對此,林智群提到「警察內心小劇場怎麼演,那個不是徐巧芯議員可以控制的,也跟她沒關係。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:23"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "黨中央應該要思考,初選真的是洪水猛獸嗎?這樣粗暴的過程彷彿就是「上面那個人說的算」,這樣不利於天下人才加入國民黨,之後長期要怎麼用制度規劃,黨中央要好好深思。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不利",
+                "洪水",
+                "粗暴",
+                "粗暴的",
+                "不利",
+                "粗暴"
+            ],
+            "positive_list": [
+                "思考",
+                "深思"
+            ],
+            "datetime": "2022-05-21 14:18"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "法事後遭徐巧芯駁斥還揚言提告。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "駁斥",
+                "駁斥"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:26"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我有改進」,但照片中的保險桿卻成為討論焦點。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "改進"
+            ],
+            "datetime": "2022-05-24 17:04"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "還想要與該名警員當面對質!不過隔日徐巧芯就親上火線出面還原事發經過,表示當員警要開單時,有立刻出面交付證件表明身份,並詢問是否該以勸導為主,但她可能沒弄清楚,之後會詢問警局相關規定,因此讓員警先開單,對方卻不願意開單,數次拜託後仍不願開單,最後她才離開現場。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不願意",
+                "離開",
+                "拜託"
+            ],
+            "positive_list": [
+                "清楚",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-24 14:39"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "當員警要開單時,有立刻出面交付證件表明身份,並詢問是否該以勸導為主,但她可能沒弄清楚,之後會詢問警局相關規定,因此讓員警先開單,對方卻不願意開單,數次拜託後仍不願開單,最後她才離開現場。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不願意",
+                "離開",
+                "拜託"
+            ],
+            "positive_list": [
+                "清楚",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-24 13:53"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "「你不會像X黨議員『你開、你開啊』這樣那員警就被申戒了!」謝欣霓則回覆「有錯就要承認」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-05-25 11:01"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "警方自己人追殺自己人,請問警局懲處的理由,以及密錄器到底是保護誰?柯文哲表示,「有時候選舉到了,流彈四飛。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "追殺"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-05-25 17:25"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "日後會對吳師提告時,會針對此事進行查證。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-26 12:49"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "施壓當天,就立刻迫不及待在臉書公布當事員警姓名,供粉絲網路公審了,甚至,還跑到信義分局要求對質,基層員警最後遭受上級懲處。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "遭受",
+                "迫不"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 11:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "基層員警被議員公告姓名、被網路公審,致遭到上級懲處,甚至「徐式巧芯議員找議長施壓信義分局不公布密錄器」,而這種議員疑似利用權力施壓警察及分局一事,並非市民樂見。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不公",
+                "利用"
+            ],
+            "positive_list": [
+                "樂見"
+            ],
+            "datetime": "2022-05-27 11:02"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "要再次為違規停車的事情道歉。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 23:51"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "的5句話,認為明顯就是向警員施壓。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-27 23:40"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「沒辦法此處是紅線必須開單」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 23:40"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "連日以來的抹黑並未停歇「我不可能對這種惡質的媒體文化低頭,因此主動向警察局調閱我這個當事人相關影片,證明了5/19、5/20我接受媒體訪問時句句屬實,反而這幾天窮追猛打的各式言論,根本是腦補出來的一場鬧劇」。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "鬧劇",
+                "不可",
+                "抹黑",
+                "惡質"
+            ],
+            "positive_list": [
+                "主動",
+                "明了",
+                "接受"
+            ],
+            "datetime": "2022-05-27 22:08"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「這是我的車,紅線不是有人在的話都是先勸導嗎?什麼時候變成直接開了?之前警察局是這樣跟我說」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 21:26"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "徐巧芯繼續說,「沒關係你要開就開,我再回去講」,員警沈默一陣後表示,「沒關係不用回去講,請離開謝謝」、「請開走吧」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "離開",
+                "沈默",
+                "沒關係"
+            ],
+            "positive_list": [
+                "謝謝"
+            ],
+            "datetime": "2022-05-27 21:26"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "了句「沒關係,那我們回去再講」,並要求員警開單,雙方為了是否開單的問題討論許久,雖然徐巧芯的男助理告知「你開掉啦,你這樣我們不也不好做」,但員警認為「開了我更不好做」,因此沒有開單,就讓2人離開。",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "沒有",
+                "要求",
+                "問題",
+                "離開",
+                "不好",
+                "沒有",
+                "沒關係",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 20:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說明",
+            "opinion": "強調違規停車絕對不對,也多次道歉;徐巧芯還爆料,知名媒體人周玉蔻公開、私下不斷施壓內政部跟警政署,甚至質疑密錄器的真偽,因此她和周嗆賭,「如果密錄器有任何變造、剪輯、短缺,我願意退出政壇;反之,若2分多鐘的影片就是完整的密錄器影帶,請妳立即退出螢光幕」。",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "不對",
+                "不斷",
+                "退出",
+                "絕對",
+                "質疑",
+                "不對",
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [
+                "公開",
+                "完整",
+                "完整的",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 13:17"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "解釋",
+            "opinion": "在了解到當事員警將被警局懲處後,她有特別告知警局,希望對這位員警從寬認定,也因為公布密錄器可能導致員警更多壓力、影響升遷,她才沒有第一時間公布影片,「因為我覺得這件事我也有責任,不該讓警員的壓力變的更大」。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "壓力",
+                "沒有"
+            ],
+            "positive_list": [
+                "了解",
+                "有責任",
+                "希望",
+                "特別",
+                "希望"
+            ],
+            "datetime": "2022-05-28 12:42"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "批評",
+            "opinion": "這樣惡劣的媒體人,處處陰謀論、騷擾台北市府同仁、施壓警政高層,任何人都應嚴厲譴責,說法也嚴重傷害警方的公信力,汙衊了警察局。",
+            "negative_score": 11,
+            "positive_score": 0,
+            "negative_list": [
+                "陰謀",
+                "惡劣",
+                "惡劣的",
+                "傷害",
+                "嚴重",
+                "嚴厲",
+                "騷擾",
+                "譴責",
+                "陰謀",
+                "惡劣",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "自己影片中語氣平和,證明沒有施壓,可能是說者無心、聽者有意,但身為公眾人物,她接受各種檢驗,也會再檢討自己太多嘴,問了一堆問題造成誤會。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "誤會",
+                "有意",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-28 12:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "但就她了解,這幾天周玉蔻不斷透過公、私管道施壓警方,包括內政部跟警政署,給警局極大壓力外,也不斷私下傳簡訊騷擾台北市府的同仁,更透過自己的節目,把公務人員當自己舞台表演的工具,造成警局困擾。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不斷",
+                "困擾",
+                "壓力",
+                "騷擾",
+                "困擾"
+            ],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-05-28 12:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "她本身只有調閱的權利,而沒有發布的權利,或許警局有同樣的想法,就在昨晚9時發布影片。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "5月19日、20日第一時間受訪時對整個案情就做過初步描述,「違規停車絕對是我的不對,也是錯誤的示範,我沒有覺得這是對的,也多次道歉」。",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "不對",
+                "沒有",
+                "絕對",
+                "錯誤",
+                "錯誤的",
+                "不對",
+                "沒有",
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:46"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "周玉蔻在防疫期間不斷公開、私下騷擾台北市公務員,針對周玉蔻的特權採檢事件,她也正式要求衛生局調閱資料,提出當時周玉蔻包括衛生局、萬芳醫院的通聯紀錄及相關事證,追查到底。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不斷",
+                "要求",
+                "特權",
+                "騷擾"
+            ],
+            "positive_list": [
+                "公開",
+                "正式",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-28 11:46"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說明",
+            "opinion": "強調違規停車絕對不對,也多次道歉;徐巧芯還爆料,知名媒體人周玉蔻公開、私下不斷施壓內政部跟警政署,甚至質疑密錄器的真偽,因此她要和周玉蔻嗆賭,「如果密錄器有任何變造、剪輯、短缺,我願意退出政壇;反之,若2分多鐘的影片就是完整的密錄器影帶,請妳立即退出螢光幕」。",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "不對",
+                "不斷",
+                "退出",
+                "絕對",
+                "質疑",
+                "不對",
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [
+                "公開",
+                "完整",
+                "完整的",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 11:46"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "一開始爆料指她不讓員警開單,這是非常明確的惡意抹黑,「對於這名爆料者我仍然會堅持提告」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "惡意",
+                "抹黑"
+            ],
+            "positive_list": [
+                "明確",
+                "堅持"
+            ],
+            "datetime": "2022-05-28 11:46"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "痛批",
+            "opinion": "這樣惡劣的媒體人處處陰謀論騷擾台北市政府同仁、施壓警政高層,任何人都應該嚴厲譴責,她的說法也傷害到警察局的公信力,汙衊警察局。",
+            "negative_score": 10,
+            "positive_score": 0,
+            "negative_list": [
+                "陰謀",
+                "惡劣",
+                "惡劣的",
+                "傷害",
+                "嚴厲",
+                "騷擾",
+                "譴責",
+                "陰謀",
+                "惡劣",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:46"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "5月19日就有向警察表達希望公布影片,當時得到的回覆是案件正在調查中,且有談到希望給員警一個機會,「因為這件事情我自己也有責任,如果員警需要這樣的機會避免未來有人對他提告瀆職,我也不再積極要求」,所以分局就說由看過密錄器的人自己出來說明案情經過,尊重警方判斷處置。",
+            "negative_score": 3,
+            "positive_score": 10,
+            "negative_list": [
+                "要求",
+                "處置",
+                "避免"
+            ],
+            "positive_list": [
+                "有責任",
+                "希望",
+                "得到",
+                "尊重",
+                "說明",
+                "機會",
+                "積極",
+                "避免",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 11:46"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "在台北市副市長黃珊珊20日於台北市防疫記者會受訪前,從未跟市長柯文哲、黃珊珊等有任何通聯。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:36"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "沒有施壓問題,就只是說明,且自己跟陳錦祥見面的時間點,是在黃珊珊受訪後;當時黃珊珊說這是單純違規事件,不存在公布密錄器的問題。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不存在",
+                "沒有",
+                "問題",
+                "沒有",
+                "問題",
+                "違規"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-28 11:36"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "是因為密錄器的位置比較低才沒錄到,「但他的確有遞交的動作」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-28 11:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "解釋",
+            "opinion": "其實員警在她說出「回去再講」,這句被外界認定成是施壓動作的話之前,就已經要交還身分證放棄開單了,是因為密錄器的位置較低,才沒有錄到這個動作。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "放棄",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "5/19跟5/20第一時間受訪時後,她對整個案情作初步描述,違規停車絕對是她的不對,也是錯誤示範並多次道歉,當時有說,如果員警覺得語氣讓他不舒服,她也覺得抱歉,未來會更謹慎,如今態度也是一樣,再一次對違停車的各種紛擾感到抱歉,「我會改進」。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不舒服",
+                "不對",
+                "抱歉",
+                "絕對",
+                "感到抱歉",
+                "錯誤",
+                "不對",
+                "抱歉",
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [
+                "改進",
+                "舒服",
+                "謹慎",
+                "警覺"
+            ],
+            "datetime": "2022-05-28 10:48"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "剛才車上沒人,徐巧芯則表示「他(指老公)要馬上下來了,沒關係我們再回去講嘛」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:48"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "自己影片中語氣平和,證明沒有施壓,可能是說者無心、聽者有意,但身為公眾人物,她接受各種檢驗。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-28 10:48"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "要開走了,員警則詢問是否為駕駛,有無帶證件,並直言「我會開單」喔,這邊紅線;儘管徐巧芯老公2次表達要開走了,員警仍執意要開單,因此徐巧芯老公仍遞出證件。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:48"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "沒關係,你要開就開」,並再次做上述詢問。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:48"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "5/19下午第一時間有跟警局說希望公布影片,但警方回覆稱案情仍在調查中,以及也談到她給員警一個機會。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-05-28 10:48"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "要開走了,員警則詢問是否為駕駛,有無帶證件,並直言「我會開單」喔,這邊紅線;儘管徐巧芯老公2次表達要開走了,員警仍執意要開單,因此徐巧芯老公仍遞出證件。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:25"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說明",
+            "opinion": "。《東森新媒體ETtoday》全程直播。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:25"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "沒關係,你要開就開」,並再次做上述詢問。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:25"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "可以開單,徐巧芯也說自己不是缺900塊,但最後員警仍未開單。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:06"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "要開走了,員警則詢問是否為駕駛,有無帶證件,並直言「我會開單喔,這邊紅線」;儘管徐巧芯老公2次表達要開走了,員警執意要開單,因此徐巧芯老公仍遞出證件。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:06"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "沒關係,你要開就開」,並再次做上述詢問。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:06"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "一百次!轉移焦點、選擇性公布密錄器二分鐘片斷,解決不了妳施壓警員不要開單,又威脅事後再消單的醜陋事實!」、「若是光明正大,心內無鬼,就請台北市警察局公布密錄器完整影像!」、「徐巧芯滾出政壇。」",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "威脅",
+                "醜陋",
+                "不了",
+                "不要",
+                "威脅"
+            ],
+            "positive_list": [
+                "正大",
+                "光明",
+                "完整",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-28 08:09"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "...男助理:沒關係沒關係,給他開啊給他開。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 05:59"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「議長他就看到議員有新聞的話,他一向都會找我們去瞭解說,到底發生什麼事情,所以當然我也跟議長就是,把整個過程據實以報,沒有什麼施壓的問題,就是做一個說明。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "當然",
+                "說明",
+                "瞭解"
+            ],
+            "datetime": "2022-05-28 17:57"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "「周玉蔻女士,就我的瞭解,她不斷的透過公開跟私下的管道,去施壓警方包括內政部跟警政署,她也不斷的私下去傳簡訊,騷擾我們台北市政府的同仁,針對周玉蔻的特權採檢事件,我也已經正式的要求衛生局調閱資料,那提出當時周玉蔻跟包括衛生局,還有萬芳醫院的通聯記錄,以及相關的事證。」",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不斷",
+                "要求",
+                "特權",
+                "騷擾"
+            ],
+            "positive_list": [
+                "公開",
+                "正式",
+                "正式的",
+                "衛生",
+                "瞭解",
+                "衛生"
+            ],
+            "datetime": "2022-05-28 17:57"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "指出",
+            "opinion": "畫面這表明身分才把口罩拉下的動作,難道不是施壓嗎?台北市議員(無)林亮君表示,「在影片的過程當中,徐巧芯議員是一直說沒關係你開,包含她老公也說沒關係你開,但是她後面又補了一句說,我們又不缺這900塊,要不然我們回去再講,請問回去再講的意思又是什麼呢。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 17:11"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「走出來的時候看到他,正在看我先生的身分證,那因為上面配偶欄有我的名字,所以我就覺得說他大概知道我是誰,所以我出去我就會跟他,習慣性的說我是徐巧芯,因為我想說他都知道,我沒有跟他自我介紹,這樣好像也怪怪的,沒有說我是議員所以你不要開單。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "自我",
+                "沒有",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道",
+                "習慣"
+            ],
+            "datetime": "2022-05-28 17:11"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「違規停車絕對是我的不對,也是一個錯誤的示範,如果員警他覺得我的語氣,有讓他不舒服的地方,當然我也是覺得非常抱歉,未來我會更加的謹慎。」",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不舒服",
+                "不舒服的",
+                "不對",
+                "抱歉",
+                "絕對",
+                "錯誤",
+                "錯誤的",
+                "不對",
+                "抱歉",
+                "違規"
+            ],
+            "positive_list": [
+                "舒服",
+                "舒服的",
+                "當然",
+                "謹慎"
+            ],
+            "datetime": "2022-05-28 17:11"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「如果我是想要施壓的話,那我想我當下口吻也不會這麼溫和啦,我對話的對象是我們的基層員警同仁,所以我也特別的希望說,我的語氣不要讓人家感受到什麼樣的壓力,但是最後還是造成這樣子的誤會,那我也覺得很抱歉。」",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "抱歉",
+                "誤會",
+                "壓力",
+                "不要",
+                "不會",
+                "抱歉"
+            ],
+            "positive_list": [
+                "希望",
+                "特別",
+                "特別的",
+                "溫和",
+                "希望"
+            ],
+            "datetime": "2022-05-28 12:34"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說明",
+            "opinion": "她強調沒有任何施壓意圖,對於造成紛擾很抱歉,但資深媒體人周玉蔻卻稱這段密錄器並不完整,還要徐巧芯滾出政壇,徐巧芯也回擊,稱若是不完整她退出政壇,反之請周玉蔻離開銀光幕。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "抱歉",
+                "退出",
+                "意圖",
+                "離開",
+                "沒有",
+                "抱歉"
+            ],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-05-28 12:34"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我講的很明白了,如果2分鐘的影片不是完整版,我願意退出政壇,反之請周玉蔻女士永久退出螢光幕。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "退出",
+                "不是"
+            ],
+            "positive_list": [
+                "完整",
+                "明白",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 12:34"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「議長他就看到議員有新聞的話,他一向都會找我們去瞭解說,到底發生什麼事情,當然我也跟議長就是,把整個過程據實以報,沒有什麼施壓的問題,就是做一個說明。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "當然",
+                "說明",
+                "瞭解"
+            ],
+            "datetime": "2022-05-28 12:34"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我是徐巧芯,你們這個不是,這我的車,不是都是有的話先用勸導嗎」接著還向警方說「沒關係你要開就開啊」、「沒關係那我們再回去講」,這些話讓不少人認定徐巧芯向警方施壓。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:33"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「沒關係那我們再回去講」,遭質疑施壓,徐巧芯今早出面還原語意,稱自己當時說話不精確,才讓外界產生質疑,這她都可以理解,但強調絕沒有施壓員警之意。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不精確",
+                "沒有",
+                "質疑",
+                "沒有",
+                "沒關係"
+            ],
+            "positive_list": [
+                "理解",
+                "精確"
+            ],
+            "datetime": "2022-05-28 11:33"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "當時和警察講話時想到,先前好像看過很多次,在同一個地點員警好像是直接請人家離開,這次是直接開單,所以就產生了這樣的疑惑,才詢問最近的規定是什麼,有沒有政策上的改變。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "疑惑",
+                "離開",
+                "沒有",
+                "疑惑"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 11:33"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "回去再講的語病讓外界產生很多疑惑和質疑,她自己看了都可以理解,這是自己必須要改進的地方,但從頭到尾絕對沒有要用這句話去施壓的意思,否則後面就不會有希望對方可以開單的對話。",
+            "negative_score": 9,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "多疑",
+                "沒有",
+                "絕對",
+                "疑惑",
+                "質疑",
+                "不會",
+                "沒有",
+                "疑惑"
+            ],
+            "positive_list": [
+                "希望",
+                "改進",
+                "很多",
+                "理解",
+                "希望"
+            ],
+            "datetime": "2022-05-28 11:33"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "如果自己想施壓,當下口吻也不會這麼溫和,還稱現在受訪的語氣跟當天相比,可能當天更加溫和,也是因為知道對話的對象是基層員警同仁,所以特別希望語氣不要讓人家感受到壓力,但最後還是造成這樣的誤會,她覺得很抱歉也非常遺憾。",
+            "negative_score": 9,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "抱歉",
+                "誤會",
+                "遺憾",
+                "壓力",
+                "不要",
+                "不會",
+                "抱歉",
+                "遺憾"
+            ],
+            "positive_list": [
+                "希望",
+                "知道",
+                "特別",
+                "溫和",
+                "希望"
+            ],
+            "datetime": "2022-05-28 11:33"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「你要開就開啊」、脫口而出「沒關係,那我們再回去講嘛」,這如果不是施壓,她真的不知道什麼才是施壓。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "脫口",
+                "不知",
+                "不是",
+                "沒關係"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-28 11:22"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "徐巧芯根本是「慣犯」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:22"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "拉下口罩表明議員身分施壓,警方昨晚也公布密錄器影像,揭露警員與徐巧芯針對紅線違停的對話內容。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "揭露"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:22"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "施壓員警,徐巧芯今早親自出面說明,強調自己絕對沒有施壓的意思,還稱畫面中她的語氣非常平和,可能是「說者無心聽者有意」,自己會再檢討,但對於爆料的網友仍堅持提告。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "絕對",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "堅持",
+                "說明"
+            ],
+            "datetime": "2022-05-28 11:08"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「沒關係你要開就開啊」、「沒關係那我們再回去講」,讓不少人認定徐巧芯向警方施壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:08"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「你要開就開啊」、脫口而出「沒關係,那我們再回去講嘛」,這如果不是施壓,她真的不知道什麼才是施壓。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "脫口",
+                "不知",
+                "不是",
+                "沒關係"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-28 11:00"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "徐巧芯根本是「慣犯」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:00"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "拉下口罩表明議員身分施壓,警方昨晚也公布密錄器影像,揭露警員與徐巧芯針對紅線違停的對話內容。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "揭露"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:00"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我是徐巧芯,你們這個不是,這我的車,不是都是有的話先用勸導嗎」,質疑什麼時候變成直接開單。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:21"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我是徐巧芯,你們這個不是,這我的車,不是都是有的話先用勸導嗎」,質疑什麼時候變成直接開單。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:21"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「沒關係你要開就開啊」、「沒關係那我們再回去講」,讓不少人認定徐巧芯向警方施壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:21"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "有施壓之嫌,警方昨天完整公布密錄器,徐巧芯當時一句「你就開啊...啊我就回去講嘛」遭網質疑根本是在施壓。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "質疑",
+                "之嫌"
+            ],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-05-28 09:53"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我上字幕上得腰痠背痛,請轉發分享嘿」、「週末夜在酒吧靜音看的捧油」、「蛤!你們家投給取巧芯?-全劇終」,連焦糖哥哥陳嘉行也在底下留言說,「好貼心喔,幫2450上字幕」,柯宇綸更回覆:「沒辦法她口條太差惹」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:53"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「沒關係你要開的話就開,我的意思是之前我問很多次,都是說如果車上有人的話是直接勸導,然後你在開之前的話就可以開走」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 09:50"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "自己沒有施壓的意圖、作為,全程語氣平和,僅是與開單員警討論相關規定,被抹黑曲解成她不讓員警開單,她絕不接受。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "曲解",
+                "沒有",
+                "意圖",
+                "沒有",
+                "抹黑",
+                "絕不"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-28 09:44"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "出車主姓名「徐巧芯」男助理:要開走了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:43"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "發現",
+            "opinion": "警員原本是要直接開單,但在徐巧芯說出「那我們再回去講啊!」後,警員隨即表示:「不用回去講啊,就請離開就好,謝謝!」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [
+                "謝謝"
+            ],
+            "datetime": "2022-05-28 09:43"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "...男助理:沒關係沒關係啊,給他開、給他開啦、給他開、給他開。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:43"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "拉下口罩表明議員身分施壓,警方昨晚公布密錄器影像,揭露警員與徐巧芯針對紅線違停的對話內容。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "揭露"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:24"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我是徐巧芯,你們這個不是,這我的車,不是都是有的話先用勸導嗎」,質疑什麼時候變成直接開單。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:24"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我是徐巧芯,你們這個不是,這我的車,不是都是有的話先用勸導嗎」,質疑什麼時候變成直接開單。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:22"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我們再回去講」,員警便沒有開單讓徐巧芯離開,對此,高雄市議員黃捷就直言「這不是施壓,什麼才叫施壓?」徐巧芯上週爆發違停事件,爭議持續燒,不但又因沒戴口罩挨罰3000元,還被質疑拉下口罩表明議員身分施壓。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "質疑",
+                "離開",
+                "爆發",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:10"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "謊欺瞞,到今天密錄器影片公布,是非很清楚。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "欺瞞",
+                "欺瞞"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-28 08:10"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「不好意思違規停車」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不好意思",
+                "違規"
+            ],
+            "positive_list": [
+                "好意",
+                "好意"
+            ],
+            "datetime": "2022-05-28 22:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "請問一下我們這個通常是先勸導還是直接開單?密錄器:徐巧芯說「如果有人的話你們是先用勸導嗎?之前問過警察局發現都是這樣跟我講的,阿什麼時候變成是直接開啊?」徐巧芯沒有說「請問」,而是質問,有著預設立場「先用勸導」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "質問",
+                "沒有",
+                "質問"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 22:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "她語氣很平和,並未施壓;有人說她以暗示的方式施壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暗示"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 22:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "拜託你,這個密錄器都有,拜託你可以開單。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 22:31"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "違停錯誤示範,急忙道歉,但政治效應恐怕持續延燒。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "急忙",
+                "恐怕",
+                "錯誤",
+                "恐怕",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 20:36"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "對員警施壓,台北警察局則在27日晚間公布2分鐘密錄器影片,再次掀起熱議;網紅「四叉貓」劉宇今(28)日則揭露「番外篇」,驚呼「藍營有好幾位立委跟著跳坑」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "揭露",
+                "驚呼"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 18:58"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "當天是和男駕駛在餐廳用餐,始終對「男駕駛」的身份有所保留,《三立新聞網》經過查證後,發現這名男駕駛其實就是徐巧芯的丈夫劉彥澧。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 14:41"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "提到",
+            "opinion": "「徐巧芯並不是一開始就這樣的。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:27"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "「我是徐巧芯喔,這我的車」、「沒關係,那我們再回去講啊」,都是用言語施壓,讓徐巧芯今(28日)上午10點半出面澄清,並反控周玉蔻有向警政高層施壓,對此,周玉蔻第一時間5字發聲。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-05-28 12:23"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說明",
+            "opinion": "強調「沒有要施壓的意思」,否則語氣不會這麼溫和。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "溫和"
+            ],
+            "datetime": "2022-05-28 12:10"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "員警第一時間在接受調查時強調「不認識」,說是有陌生人看到IG截圖到網路上散布,不過事後證實他們是同學,從頭到尾是知情的。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "陌生"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-28 11:56"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "「員警被記申誡有2個原因」,第一個就是他當下沒有開單,以及他不能在值勤時間,拍下別人車子上傳IG,另外就是員警後續請網友在粉絲頁爆料,且那個爆料是不實的,徐巧芯強調「爆料講我不讓員警開單,跟我請員警開單相去甚遠」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "不實",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:56"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "聲浪,信義分局昨(27日)晚間公布警方的秘錄器影像,由於徐巧芯一見到員警就開口「自我介紹」的作法,引發網友熱議,認為有施壓的事實。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:42"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "她計算過後「不超過8秒鐘」,對於外界質疑,她都能理解也都接受。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "超過",
+                "質疑"
+            ],
+            "positive_list": [
+                "接受",
+                "理解"
+            ],
+            "datetime": "2022-05-28 11:26"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "提到",
+            "opinion": "「那我們再回去講!」是否是施壓,徐巧芯還原當時情況,表示員警不開單的時間還要更早,表示「我走出來的時候,他就遞交身分證還給我,但因為位置比較低沒有出現在影片裡面」,直言「回去再講是個誤會,我語意表達不精確」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不精確",
+                "沒有",
+                "誤會",
+                "沒有"
+            ],
+            "positive_list": [
+                "精確"
+            ],
+            "datetime": "2022-05-28 11:08"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "「我是徐巧芯喔,這我的車,你們這不是都是有人的話都用勸導嗎?之前我問過警察局,都是這樣跟我講的,什麼時候變成是直接開啊。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:08"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我們再回去講」之後,員警就沒有開單讓她離開,也被外界質疑有施壓員警之意,徐巧芯也解釋,如果要施壓口氣不會這麼溫和,認為影片有各自的解讀,自己身為公眾人物也接受大家的指教。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "疑有",
+                "質疑",
+                "離開",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "接受",
+                "溫和"
+            ],
+            "datetime": "2022-05-28 11:06"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "周玉蔻公開在自己的節目上,直接表態下節目要去找內政部長告狀,也點出內政部長的名字,加上她自己私下了解,「也知道說,有一些警政的高層,有透過管道施壓」,所以徐巧芯將兩者連結,「我會很明白這個事情」。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "公開",
+                "明白",
+                "知道"
+            ],
+            "datetime": "2022-05-28 11:04"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "你就開單,沒有要用這句話施壓!」否則就不會希望開單。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 11:02"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "「搞錯拖吊跟紅線差異,語意表達要更精確」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "差異"
+            ],
+            "positive_list": [
+                "精確"
+            ],
+            "datetime": "2022-05-28 11:02"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "她是公眾人物,對任何檢驗都接受。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-28 10:49"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "她現場有「請」基層員警開單,是員警自己「涉嫌瀆職」不開。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:28"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "...2分鐘密錄器對話曝!周玉蔻連發兩文怒嗆:全部內容呢,騙誰啊?徐違停巧芯助理:沒關係啦沒關係啦給他開給他開啦給他開給他開。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:56"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "「我是徐巧芯喔,這我的車,你們這不是都是有人的話都用勸導嗎?之前我問過警察局,都是這樣跟我講的,什麼時候變成是直接開啊。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:50"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我們再回去講」之後,員警就沒有開單讓她離開,財經網美胡采蘋卻嘆「感到非常丟臉」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "丟臉",
+                "沒有",
+                "離開",
+                "丟臉",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:50"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "若再誹謗,將採取法律行動捍衛名譽。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "誹謗",
+                "誹謗"
+            ],
+            "positive_list": [
+                "名譽",
+                "法律"
+            ],
+            "datetime": "2022-05-28 09:45"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "之前警方說違停時車主在車上會先勸導。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:45"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "根據密錄器內容,她從未要求警員不開單,當下與事後也沒有透過任何管道威脅銷單,她要求周玉蔻修正臉書內容,不然她會提吿。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "威脅",
+                "要求",
+                "沒有",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:43"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "...2分鐘密錄器對話曝!周玉蔻連發兩文怒嗆:全部內容呢,騙誰啊?徐巧芯助理:沒關係啦沒關係啦給他開給他開啦給他開給他開。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:38"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "...2分鐘密錄器對話曝!周玉蔻連發兩文怒嗆:全部內容呢,騙誰啊?徐巧芯助理:沒關係啦沒關係啦給他開給他開啦給他開給他開。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:11"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "徐巧芯繼續說,「沒關係你要開就開,我意思是說,我之前問過很多次,都是說如果車上有人的話是直接勸導」,員警表示「但剛才車上沒有人」,接著徐巧芯表示「沒關係,那我們再回去講啊!」員警沉默一陣後表示,「不用回去講,請離開就好謝謝」、「請開走吧」,徐巧芯還向員警說「我不缺900塊」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "離開",
+                "沉默",
+                "沒有",
+                "沒關係"
+            ],
+            "positive_list": [
+                "很多",
+                "謝謝"
+            ],
+            "datetime": "2022-05-28 07:45"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "謊欺瞞,到今天密錄器影片公布,是非很清楚。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "欺瞞",
+                "欺瞞"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-28 07:45"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "的5句話,認為明顯就是向警員施壓,當時徐巧芯從餐廳步出,直接拉下口罩表明「我是徐巧芯喔」,更稱「紅線不是先勸導嗎?警察局是這樣跟我說的」、「沒關係你要開就開」、「我再回去講」、「沒差900塊請你開單」等語,男助理則在旁說「你開單吧,不然我們不好做人」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不是",
+                "沒關係"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-28 05:47"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "要再次為違規停車的事情道歉。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 00:02"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "自己影片中語氣平和,證明沒有施壓,可能是說者無心、聽者有意,但身為公眾人物,她接受各種檢驗,但一開始爆料是指她不讓員警開單,這是非常明確的惡意跟抹黑,她會堅持提告。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "惡意",
+                "有意",
+                "沒有",
+                "抹黑"
+            ],
+            "positive_list": [
+                "明確",
+                "堅持",
+                "接受"
+            ],
+            "datetime": "2022-05-29 15:10"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "詞比對,就會發現當中有些虛構的部分,像是誇大、修飾,直言「密錄器短片就是由特權所主導的劇情。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "特權",
+                "誇大"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:25"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "自己影片中語氣平和,證明沒有施壓,可能是說者無心、聽者有意,但身為公眾人物,她接受各種檢驗,也會再檢討自己太多嘴,問了一堆問題造成誤會。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "誤會",
+                "有意",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-29 02:01"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "施壓員警,徐巧芯昨日親自出面,強調自己絕對沒有施壓的意思,國民黨台北市議員游淑慧則緩頰稱,「誰沒有違停過」,但這番言論隨即遭網友大酸,「豬隊友火力支援」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "絕對",
+                "沒有"
+            ],
+            "positive_list": [
+                "支援"
+            ],
+            "datetime": "2022-05-29 10:22"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "自己絕對沒有這樣的意思,「可以聽得出來我的語氣是非常平和,有可能是說者無心聽者有意」,也表示會再檢討,「自己太多嘴,問了一堆問題造成大家誤會」。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "絕對",
+                "誤會",
+                "有意",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:22"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "中廣董事長趙少康的臉書小編原本製作了1張圖卡挺徐巧芯,喊出她根本沒違停,結果最後卻被狠狠打臉,也讓四叉貓忍不住說「藍營有好幾位立委跟著跳坑」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不住",
+                "狠狠",
+                "狠打"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 09:30"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "當天是和男駕駛在餐廳用餐,始終對「男駕駛」身份有所保留,昨(28日)記者會上,她則是親口談「先生」,「我走出來的時候,看到他(員警)正在看我先生的身分證,上面配偶欄有我的名字,所以我就覺得大概知道我是誰,所以我出去時就習慣性自我介紹」,至於先生的身分很快被起底,名叫劉彥澧。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "知道",
+                "習慣"
+            ],
+            "datetime": "2022-05-29 09:32"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "「我們再回去講」之後,員警就沒有開單讓她離開,被外界質疑有施壓員警之意,徐巧芯也解釋,如果要施壓口氣不會這麼溫和,認為影片有各自的解讀,自己身為公眾人物也接受大家的指教。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "疑有",
+                "質疑",
+                "離開",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "接受",
+                "溫和"
+            ],
+            "datetime": "2022-05-29 07:39"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "回應",
+            "opinion": "表示,自己沒有為了罰單的事罵過分局長,擔任議員以來,跟各局處互動都是就事論事,不會隨便罵人。",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "過分",
+                "隨便",
+                "不會",
+                "沒有",
+                "過分",
+                "罵人",
+                "隨便"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:39"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "周玉蔻抹黑她刻意把老公說成是自己的助理,實際上她在5月19日、20日都曾公開提到這名男子就是她的先生,「如果沒有,一樣,我退出政壇;反之請她退出螢光幕。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "退出",
+                "沒有",
+                "抹黑"
+            ],
+            "positive_list": [
+                "公開",
+                "實際"
+            ],
+            "datetime": "2022-05-30 10:21"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "自己絕對沒有這樣的意思,「可以聽得出來我的語氣是非常平和,有可能是說者無心聽者有意」,也表示會再檢討,「自己太多嘴,問了一堆問題造成大家誤會」。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "絕對",
+                "誤會",
+                "有意",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 16:05"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "指出",
+            "opinion": "自己向警方申請公布密錄器影片,然而信義分局局長王寶章今(31)日接受質詢表示,密錄器影片是警方主動公布,分局並沒接到巧芯的申請,公布影片也不需要當事人同意,讓徐巧芯急澄清,自己有打電話給王寶章,是王寶章接受質詢的時候講錯了。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "主動",
+                "同意",
+                "接受",
+                "澄清"
+            ],
+            "datetime": "2022-05-31 20:07"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "要公佈影片了,同時徐巧芯議員也表達希望公佈之意。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-31 20:07"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "質疑",
+            "opinion": "縣刑警大隊副大隊長吳智仁是2線3,新埔分局長林英煌是2線4,「副隊長有本事叫分局長去陪做筆錄嗎?」這樣的說法是把大家當白癡?根本就是推基層出來擋。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "白癡",
+                "白癡",
+                "根本就"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:59"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "表示",
+            "opinion": "中央目前的防疫措施是越來越趨向開放,而且台灣民眾素養很高,一直都很配合政府防疫,多數人不會違規,反而是被電子圍籬誤報的情況比較多,民眾確診在家隔離身體已經不舒服,卻又受到電子圍籬誤報的壓力,讓民眾感到身心俱疲、不勝其擾,建議市府應適時向中央反映取消電子圍籬的做法。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不舒服",
+                "不會",
+                "取消",
+                "隔離",
+                "壓力",
+                "不會",
+                "違規"
+            ],
+            "positive_list": [
+                "舒服",
+                "開放",
+                "適時"
+            ],
+            "datetime": "2022-06-02 18:24"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "提到",
+            "opinion": "柯文哲當年選市長時墨綠,但當市長後沒有用意識形態看待市政問題,舉辦雙城論壇,雖然這幾年有政治壓力存在,但仍堅持續辦?柯文哲直言,這個又是深水題,他表示,有時候兩岸關係緊張,不是不辦的理由,俄烏戰爭開戰前夕,沒人知道真的會打下去,「有時候說大陸不友善,我也知道他不友善。」",
+            "negative_score": 11,
+            "positive_score": 5,
+            "negative_list": [
+                "不友善",
+                "沒有",
+                "問題",
+                "緊張",
+                "戰爭",
+                "壓力",
+                "不是",
+                "沒有",
+                "沒有用",
+                "問題",
+                "緊張"
+            ],
+            "positive_list": [
+                "友善",
+                "有用",
+                "知道",
+                "堅持",
+                "友善"
+            ],
+            "datetime": "2022-06-02 17:37"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "指出",
+            "opinion": "在公文上唯一能看到的就是第一類傳染病的24小時火化處理確診者遺體,所以地方才會去解讀就是以24小時火化為主,而在去年的疫情記者會上,副指揮官陳宗彥也曾表示,在地方實務上就是24小時內火化,那現在陳時中一席話就把所有的責任一推二五六,導致現在一堆人打電話去葬儀社要求賠償。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "病的",
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 08:40"
+        }
+    ]
+}

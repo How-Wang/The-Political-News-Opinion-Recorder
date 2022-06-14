@@ -1,0 +1,104 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李宇松.png",
+    "opinions": [
+        {
+            "person": "李宇松",
+            "verb": "表示",
+            "opinion": "張姓網友提到「網內互打假報案、製造亂象、假裝有火警營造紛亂」、「2件演戲給恩恩爸聽的假案件」,這些都是張姓網友故意扭曲事實,當天是為了呈現災害出勤案件受理等模擬測試。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "災害",
+                "故意",
+                "假裝"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:56"
+        },
+        {
+            "person": "李宇松",
+            "verb": "表示",
+            "opinion": "張姓網友提到「網內互打假報案、製造亂象、假裝有火警營造紛亂」、「2件演戲給恩恩爸聽的假案件」,這些都是張姓網友故意扭曲事實,當天是為了呈現災害出勤案件受理等模擬測試。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "災害",
+                "故意",
+                "假裝"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:33"
+        },
+        {
+            "person": "李宇松",
+            "verb": "表示",
+            "opinion": "張姓網友提到「網內互打假報案、製造亂象、假裝有火警營造紛亂」、「2件演戲給恩恩爸聽的假案件」,這些都是張姓網友故意扭曲事實,當天是為了呈現災害出勤案件受理等模擬測試。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "災害",
+                "故意",
+                "假裝"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:01"
+        },
+        {
+            "person": "李宇松",
+            "verb": "表示",
+            "opinion": "張姓網友提到「網內互打假報案、製造亂象、假裝有火警營造紛亂」、「2件演戲給恩恩爸聽的假案件」,這些都是張姓網友故意扭曲事實,當天是為了呈現災害出勤案件受理等模擬測試。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "災害",
+                "故意",
+                "假裝"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:40"
+        },
+        {
+            "person": "李宇松",
+            "verb": "說",
+            "opinion": "今天主要就是對張姓網友提告,請檢察官還原事實真相。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:25"
+        },
+        {
+            "person": "李宇松",
+            "verb": "表示",
+            "opinion": "張姓網友提到「網內互打假報案、製造亂象、假裝有火警營造紛亂」、「2件演戲給恩恩爸聽的假案件」,這些都是張姓網友故意扭曲事實,當天是為了呈現災害出勤案件受理等模擬測試。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "災害",
+                "故意",
+                "假裝"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:19"
+        },
+        {
+            "person": "李宇松",
+            "verb": "表示",
+            "opinion": "為了呈現疫情期間119進線量暴增的情形,有還原當時繁忙的情形,讓恩恩爸了解疫情嚴重當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "嚴重"
+            ],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-08 15:30"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周春米.png",
+    "opinions": [
+        {
+            "person": "周春米",
+            "verb": "表示",
+            "opinion": "無論是過去、現在還是未來,大家的出發點都是為了屏東好,因此特別邀請民進黨的屏東立委一起行銷芒果活動,相信在「屏東隊」的齊心努力之下,各項產業一定能越來越好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "相信",
+                "特別"
+            ],
+            "datetime": "2022-05-30 18:33"
+        },
+        {
+            "person": "周春米",
+            "verb": "強調",
+            "opinion": "自己有法律人的犀利,同時也有女性的堅毅,希望自己的作為,能帶給地方女性鼓勵、培育更多的地方女性人才,同時延續過往優良政績、展現更好的屏東。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "犀利"
+            ],
+            "positive_list": [
+                "希望",
+                "法律",
+                "堅毅",
+                "鼓勵",
+                "優良",
+                "希望"
+            ],
+            "datetime": "2022-06-01 10:28"
+        },
+        {
+            "person": "周春米",
+            "verb": "認為",
+            "opinion": "法律不僅是實務經驗的累積,也是陪伴當事人經歷訴訟過程的修復和療癒。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "經驗"
+            ],
+            "datetime": "2022-06-01 10:28"
+        },
+        {
+            "person": "周春米",
+            "verb": "強調",
+            "opinion": "「我都把香菜拿起來」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:28"
+        },
+        {
+            "person": "周春米",
+            "verb": "表示",
+            "opinion": "每個世代的政治人物,都有各自不同的使命,地方的婦女政策,如減輕婦女家庭照顧的壓力、提高婦女經濟生產力等,都會是她的首要責任。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [
+                "生產",
+                "提高",
+                "減輕"
+            ],
+            "datetime": "2022-06-01 14:53"
+        },
+        {
+            "person": "周春米",
+            "verb": "說",
+            "opinion": "酒駕修法吊扣駕駛兩年會影響民眾生活,在議會總質詢時,穿上自製的「春米酒」裝,質疑屏東縣酒駕致死率全國第一,未來周春米上台,要怎麼延續酒駕防治措施。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "致死",
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:11"
+        }
+    ]
+}

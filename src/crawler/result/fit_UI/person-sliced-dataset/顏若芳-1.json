@@ -1,0 +1,208 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/顏若芳.png",
+    "opinions": [
+        {
+            "person": "顏若芳",
+            "verb": "認為",
+            "opinion": "徐巧芯違停事件,信義分局在5月27日晚上公布密錄器,引起許多民眾譁然,甚至還有人把事件過程做成迷因,瘋狂擴散,接著隔天,朱立倫就下令國民黨公職聲援郭彥均了。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "瘋狂"
+            ],
+            "positive_list": [
+                "瘋狂"
+            ],
+            "datetime": "2022-05-30 18:21"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "表示",
+            "opinion": "綁架「孩子的生命」,為自己的政治利益,真的很噁心。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "綁架",
+                "噁心",
+                "噁心"
+            ],
+            "positive_list": [
+                "利益"
+            ],
+            "datetime": "2022-05-30 18:21"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "說",
+            "opinion": "但國民黨堅持窮追猛打、自甘墮落為假訊息推手的原因是什麼,除了博取政治聲量、用一貫的手法污衊政府外,當然就是要幫徐巧芯轉移焦點。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "墮落",
+                "污衊",
+                "自甘墮落",
+                "墮落"
+            ],
+            "positive_list": [
+                "堅持",
+                "當然"
+            ],
+            "datetime": "2022-05-30 18:21"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "指出",
+            "opinion": "在國民黨立委諸公的文章中,面對可能是假消息的質疑,隻字未提,只會瘋喊言論自由,而且黨中央今天早上還特別開記者會。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [
+                "自由",
+                "特別",
+                "自由"
+            ],
+            "datetime": "2022-05-30 18:21"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "表示",
+            "opinion": "最近政壇有兩件事大家都很關心,第一個主要是郭彥均貼文爭議,第二個則是國民黨徐巧芯違停事件。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-31 08:40"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "批評",
+            "opinion": "就是要幫徐巧芯轉移焦點,這種綁架「孩子的生命」博取自己的政治利益,真的很噁心;她還說,國民黨身為最大在野黨,面對大規模農場帳號造謠還成為同夥,「我看這些粉專都可以刪一刪了」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "造謠",
+                "綁架",
+                "噁心",
+                "造謠",
+                "噁心"
+            ],
+            "positive_list": [
+                "成為",
+                "利益"
+            ],
+            "datetime": "2022-05-31 08:40"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "說",
+            "opinion": "除了博取政治聲量、用一貫的手法污衊政府外,當然就是要幫徐巧芯轉移焦點。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "污衊"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-31 08:40"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "表示",
+            "opinion": "每次只要出現假消息,都一定有國民黨,一個百年大黨淪落成造謠中心,誤國誤民誤防疫。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "造謠",
+                "造謠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:15"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "表示",
+            "opinion": "我國採購或徵用家用快篩試劑的廠商計有18家,家用快篩試劑到貨數量,國產已生產850多萬劑,國外進口也已到貨1.68億劑,也就是說,不只達標,甚至還準備了更多。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "生產",
+                "準備"
+            ],
+            "datetime": "2022-06-02 17:15"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "說",
+            "opinion": "國民黨立委帶頭質疑造謠,難道林奕華不知道立委可以向部會索資嗎?高居立委竟然未經查證就胡亂放話,真是可憐啊。",
+            "negative_score": 12,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "可憐",
+                "未經",
+                "胡亂",
+                "造謠",
+                "質疑",
+                "不知",
+                "可憐",
+                "胡亂",
+                "造謠",
+                "竟然"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-02 17:15"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "說",
+            "opinion": "到,根據昨天衛福部的新聞稿,截至5月31日止,我國採購或徵用家用快篩試劑的廠商計有18家,家用快篩試劑到貨數量,國產已生產850多萬劑,國外進口也已到貨1.68億劑,也就是說,不只達標,甚至還準備了更多。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "生產",
+                "準備"
+            ],
+            "datetime": "2022-06-02 18:39"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "表示",
+            "opinion": "蔣萬安今天受訪時,針對柯文哲市府網軍爭議,一面砲轟中央、柯文哲,一面稱讚羅智強有風骨,還不忘當好好先生說「改變政治文化從台北開始」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "稱讚",
+                "稱讚"
+            ],
+            "datetime": "2022-06-07 18:40"
+        },
+        {
+            "person": "顏若芳",
+            "verb": "表示",
+            "opinion": "蔣萬安還是跟以前一樣怕事,議題只對自己有利部分表態,對於有爭議的就裝傻,從四大公投到現在,蔣萬安實在是難得始終如一,始終如一的懦弱。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "懦弱",
+                "懦弱"
+            ],
+            "positive_list": [
+                "有利",
+                "實在"
+            ],
+            "datetime": "2022-06-07 18:40"
+        }
+    ]
+}

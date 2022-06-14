@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/Max.png",
+    "opinions": [
+        {
+            "person": "Max",
+            "verb": "說",
+            "opinion": "「整個一分鐘內幾乎所有同步發文,而且發的內容幾乎都相近,很大程度的可能性是在於說,其實就是同一批經營者,甚至就是不排除就是說,這個網站本身就是經營這麼多的粉專,那他們需要經營大量粉專,因為經營粉專是相對來講最省成本,看到之後會想要點擊進去他們網站,他們主要就是靠著這些,點擊進去網站的收入在過活。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-05-30 12:31"
+        }
+    ]
+}

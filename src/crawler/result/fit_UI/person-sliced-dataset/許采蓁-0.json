@@ -1,0 +1,50 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許采蓁.png",
+    "opinions": [
+        {
+            "person": "許采蓁",
+            "verb": "表示",
+            "opinion": "十分感謝在今晚追思會中,有11位父親生前私交甚篤的長輩,不分藍綠前來幫忙錄製致詞。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-06 21:57"
+        },
+        {
+            "person": "許采蓁",
+            "verb": "表示",
+            "opinion": "十分感謝在今晚追思會中,有11位父親生前私交甚篤的長輩,不分藍綠前來幫忙錄製致詞。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-06 18:08"
+        },
+        {
+            "person": "許采蓁",
+            "verb": "說",
+            "opinion": "比起政治,她的父親許崑源更關心許許多多小人物的生活能不能得到幫助,對於政治,他也更傾向不分藍綠,共同讓高雄更好的初衷。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "小人",
+                "不能",
+                "小人"
+            ],
+            "positive_list": [
+                "得到",
+                "幫助",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-06 18:08"
+        }
+    ]
+}

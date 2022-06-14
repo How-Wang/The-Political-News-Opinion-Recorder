@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉泰英.png",
+    "opinions": [
+        {
+            "person": "劉泰英",
+            "verb": "認為",
+            "opinion": "罪嫌不足,且李登輝已過世,依法不起訴,因全案超過10年追訴期,劉泰英同樣不起訴。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不足",
+                "起訴",
+                "追訴",
+                "超過",
+                "不足",
+                "不起",
+                "過世"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:55"
+        }
+    ]
+}

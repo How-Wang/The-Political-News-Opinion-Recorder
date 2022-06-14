@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/阿月.png",
+    "opinions": [
+        {
+            "person": "阿月",
+            "verb": "說",
+            "opinion": "現在有媽祖婆加持和社工的支持關懷,也有請領的補助和社工的關心,生活已經慢慢穩定,心裡也比較平靜,她會更加堅強好好照顧2個小孫子。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "平靜",
+                "堅強",
+                "穩定",
+                "關心",
+                "平靜",
+                "關心",
+                "關懷"
+            ],
+            "datetime": "2022-06-08 15:11"
+        }
+    ]
+}

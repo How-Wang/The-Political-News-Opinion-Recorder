@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/嚴秀琴.png",
+    "opinions": [
+        {
+            "person": "嚴秀琴",
+            "verb": "說",
+            "opinion": "去年首屆記帳士節適逢疫情嚴峻,當時全聯會將慶祝活動的新台幣200多萬元經費省下來,改以捐款協助弱勢團體、協助醫療機構添購醫療設備,一解其燃眉之急。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "嚴峻"
+            ],
+            "positive_list": [
+                "協助",
+                "慶祝",
+                "慶祝"
+            ],
+            "datetime": "2022-06-02 09:49"
+        }
+    ]
+}

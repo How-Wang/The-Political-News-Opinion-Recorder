@@ -1,0 +1,105 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝文斌.png",
+    "opinions": [
+        {
+            "person": "謝文斌",
+            "verb": "說",
+            "opinion": "「下個禮拜整周,我們都是要採取,居家遠距教學的措施。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 17:32"
+        },
+        {
+            "person": "謝文斌",
+            "verb": "說明",
+            "opinion": "若家長無法照顧子女,校方則需提供基本照顧服務。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:26"
+        },
+        {
+            "person": "謝文斌",
+            "verb": "呼籲",
+            "opinion": "當孩子出現發燒、咳嗽、流鼻水等疑似症狀,或同住家人確診時,請協助孩子依快篩試劑說明書步驟使用快篩試劑,並依指引做後續處理,以確保孩子及家人的健康安全。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "發燒"
+            ],
+            "positive_list": [
+                "安全",
+                "協助",
+                "健康",
+                "說明"
+            ],
+            "datetime": "2022-05-30 19:31"
+        },
+        {
+            "person": "謝文斌",
+            "verb": "說",
+            "opinion": "今天中央在高雄展覽館設大型接種站,提供5至11歲兒童接種,市府精心安排表演活動,透過表演紓解孩子的緊張心情,疫苗接種量也足夠。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [
+                "足夠",
+                "精心"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "謝文斌",
+            "verb": "說明",
+            "opinion": "快篩陽性與確診人數總計442人(國高中141人、國小及幼兒園301人),因暫停實體課程及假日關係有所下降,大致維持平穩、疫情掌握中。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "暫停"
+            ],
+            "positive_list": [
+                "平穩",
+                "掌握"
+            ],
+            "datetime": "2022-06-04 21:18"
+        },
+        {
+            "person": "謝文斌",
+            "verb": "說明",
+            "opinion": "高中以下學校、公立幼兒園及課照中心,仍然採線上教學,補習班也以線上教學為主,若有確診者,仍須依規定匡列該班,並暫停實體課程3天;期末考、團體訓練等實體學習及活動,可由學校經校內防疫專責小組決定,並加強防疫措施。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [
+                "決定",
+                "訓練",
+                "學習"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "謝文斌",
+            "verb": "指出",
+            "opinion": "截至12日為止,12至17歲國高中生施打BNT疫苗的比率為21.3%,呼籲學生務必配合學校通知,攜帶健保卡到校施打。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通知"
+            ],
+            "datetime": "2022-06-12 17:05"
+        }
+    ]
+}

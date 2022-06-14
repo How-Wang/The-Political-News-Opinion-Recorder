@@ -1,0 +1,42 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "縣黨部",
+            "verb": "指出",
+            "opinion": "今天縣黨部所設的十個投開票所選出主委林金忠、9名全國黨代表黃清財、蔡孟真、林淑靜、江文登、莊志勤、廖秋萍、蔡明宏、陳建名、呂順賢及46名縣代表;執行委員及評議委員改選日期將6月26日召開雲林縣代表大會進行改組。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-22 21:17"
+        },
+        {
+            "person": "縣黨部",
+            "verb": "指出",
+            "opinion": "72歲陳川崎學經歷完整,受歷任縣長重用,輔仁大學畢業,過去曾擔任陳明文助理、縣府機要秘書、朴子市公所主任秘書、鹿草鄉農會企劃專員、議會秘書,2屆高票當選六腳鄉長,年底即將卸任。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-05-22 18:48"
+        },
+        {
+            "person": "縣黨部",
+            "verb": "指出",
+            "opinion": "已經和Kolas討論提出政見與願景,Kolas也準備規劃時間返鄉,並盼藉由「母雞帶小雞」,連帶讓綠營在花蓮的議員席次增加。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "準備",
+                "增加"
+            ],
+            "datetime": "2022-06-09 11:42"
+        }
+    ]
+}

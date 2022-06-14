@@ -1,0 +1,126 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/交通部.png",
+    "opinions": [
+        {
+            "person": "交通部",
+            "verb": "表示",
+            "opinion": "在旅行社的補助部分,將會補助每團45人的旅行團、一團2萬元、若雇用特定工作人員上限最高可加碼至3萬元;在旅宿業的部分,則是在平日時住一晚補助800元、住宿特別認證的旅館或是接種3劑疫苗者,將再加碼500元。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "最高"
+            ],
+            "datetime": "2022-05-26 14:58"
+        },
+        {
+            "person": "交通部",
+            "verb": "說明",
+            "opinion": "指出,短期債務為台鐵及所屬機構發行的商業本票和向金融機構舉借債務,短期債務衍生利息由交通部編列預算補助基金。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "債務"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:22"
+        },
+        {
+            "person": "交通部",
+            "verb": "表示",
+            "opinion": "此次修法亦參採納入工會版相關意見,條例重要內容有八項。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-27 17:19"
+        },
+        {
+            "person": "交通部",
+            "verb": "表示",
+            "opinion": "未來在公司子法研訂及實質作業推動更需要工會及員工的參與。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 21:04"
+        },
+        {
+            "person": "交通部",
+            "verb": "表示",
+            "opinion": "未來在公司子法研訂及實質作業推動更需要工會及員工的參與。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 14:00"
+        },
+        {
+            "person": "交通部",
+            "verb": "指出",
+            "opinion": "近期道安委員會針對「機車路權」相關議題進行討論。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "機車"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-30 16:42"
+        },
+        {
+            "person": "交通部",
+            "verb": "回應",
+            "opinion": "民航局對高雄機場的定位為國內線和區域國際機場,至於低成本航空將是未來的發展重點,民航局每5年會做一次滾動檢討。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-01 13:48"
+        },
+        {
+            "person": "交通部",
+            "verb": "呼籲",
+            "opinion": "蔡英文徵召林佳龍,並已將部分連署送到民進黨黨部。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:30"
+        },
+        {
+            "person": "交通部",
+            "verb": "認為",
+            "opinion": "交通部已無善意、勞資衝將再起,於接下來的國定假日及投票日,執行不加班活動。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不加"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-10 10:32"
+        },
+        {
+            "person": "交通部",
+            "verb": "回應",
+            "opinion": "台鐵局預定今日完成台鐵公司化16項子法草案,交通部下週由政務次長胡湘麟召開跨部會(人事總處、主計總處)會議,確定草案內容,即會迅速交請台鐵勞資雙方協商。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "迅速",
+                "確定"
+            ],
+            "datetime": "2022-06-10 10:32"
+        }
+    ]
+}

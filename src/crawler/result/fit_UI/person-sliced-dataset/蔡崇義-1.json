@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡崇義.png",
+    "opinions": [
+        {
+            "person": "蔡崇義",
+            "verb": "指出",
+            "opinion": "過去調查時發現巧克力及其他加工食品中棕櫚油含量相當高,因棕櫚油加熱脫臭過程中會產生「縮水甘油脂肪酸酯」(Glycidylfattyacidesters,簡稱GEs),進入人體後會產生致癌物質,國際癌症協會在民國89年已宣布GEs為2A級(極有可能為人類致癌物)。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "脂肪",
+                "癌症"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:21"
+        }
+    ]
+}

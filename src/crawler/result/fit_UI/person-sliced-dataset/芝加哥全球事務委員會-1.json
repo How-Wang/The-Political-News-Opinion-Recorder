@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/芝加哥全球事務委員會.png",
+    "opinions": [
+        {
+            "person": "芝加哥全球事務委員會",
+            "verb": "發現",
+            "opinion": "69%美國人支持美國承認台灣是一個主權獨立的國家,雷根基金會則發現有71%有同樣的主張,當前美國主流民意支持台灣成為一個主權獨立的國家。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "承認",
+                "獨立"
+            ],
+            "datetime": "2022-06-02 10:40"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何志偉.png",
+    "opinions": [
+        {
+            "person": "何志偉",
+            "verb": "表示",
+            "opinion": "他之前向總統蔡英文與行政院長蘇貞昌提出中央應該立即提供中低收入戶民眾快篩試劑,終於今天得到同意。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "同意",
+                "得到"
+            ],
+            "datetime": "2022-05-26 14:05"
+        }
+    ]
+}

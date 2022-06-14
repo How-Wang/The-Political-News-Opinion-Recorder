@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/防疫指揮中心.png",
+    "opinions": [
+        {
+            "person": "防疫指揮中心",
+            "verb": "表示",
+            "opinion": "1月至5/26共新增161萬2891例本土病例,個案數通報以30至39歲居多,中重症、死亡通報則以80至89歲最多。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:06"
+        }
+    ]
+}

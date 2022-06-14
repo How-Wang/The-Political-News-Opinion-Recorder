@@ -1,0 +1,83 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/羅廷瑋.png",
+    "opinions": [
+        {
+            "person": "羅廷瑋",
+            "verb": "認為",
+            "opinion": "「民眾觀感最為重要,也呼籲台中市政府警察局,務必要把相對應的政策,以及對應方式拿出來。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "必要",
+                "重要"
+            ],
+            "datetime": "2022-05-28 17:25"
+        },
+        {
+            "person": "羅廷瑋",
+            "verb": "提出",
+            "opinion": "質詢,他表示自己是兩個孩子的爸爸,因此非常關注兒童疫苗施打進度,昨天竟然在網路上看到有立委助理傳「市政府至5月31日只施打7200劑兒童疫苗」質疑真的打這麼慢嗎?台中市衛生局曾梓展局長回應,按最新的統計台中市兒童疫苗已經打了8.2萬劑,今日還在進行施打中,與圖卡中所說的「7200劑」不符。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不符",
+                "質疑",
+                "竟然"
+            ],
+            "positive_list": [
+                "進行",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 16:10"
+        },
+        {
+            "person": "羅廷瑋",
+            "verb": "說",
+            "opinion": "「我很多海線朋友跟我講,這位蔡銘坤先生,好像是蔡其昌的叔叔,這樣的圖卡,覺得是有後面的中央廚房,甚至是集體犯罪,所以我也呼籲,我們的衛生局應該要辦。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "犯罪"
+            ],
+            "positive_list": [
+                "很多",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 18:15"
+        },
+        {
+            "person": "羅廷瑋",
+            "verb": "說",
+            "opinion": "「假訊息引起社會恐慌,這才是真正的惡假害。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "恐慌",
+                "恐慌"
+            ],
+            "positive_list": [
+                "真正",
+                "真正的"
+            ],
+            "datetime": "2022-06-02 14:13"
+        },
+        {
+            "person": "羅廷瑋",
+            "verb": "指出",
+            "opinion": "「盧秀燕市府也應該要想辦法,因為畢竟民眾不會懂,這樣子的決策,是哪一任的市長,只會覺得市政府,就是在浪費公帑。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "浪費",
+                "不會",
+                "浪費"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:16"
+        }
+    ]
+}

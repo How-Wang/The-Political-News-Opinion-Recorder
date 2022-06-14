@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/闞凱宇.png",
+    "opinions": [
+        {
+            "person": "闞凱宇",
+            "verb": "說明",
+            "opinion": "發生在1874年的石門戰役,儘管只是歷史洪流中的一瞬,卻改寫了近代東亞的政治局勢,深深影響台灣及島上各民族的命運。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "洪流",
+                "戰役"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:00"
+        }
+    ]
+}

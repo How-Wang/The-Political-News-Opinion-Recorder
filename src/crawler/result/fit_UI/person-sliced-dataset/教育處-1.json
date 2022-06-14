@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/教育處.png",
+    "opinions": [
+        {
+            "person": "教育處",
+            "verb": "強調",
+            "opinion": "未來一定會嚴格要求學校按時撥付,必要時絕對會介入處理,也通令各校盤點是否有欠薪情況,以維護老師權益。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "絕對",
+                "嚴格"
+            ],
+            "positive_list": [
+                "必要",
+                "權益"
+            ],
+            "datetime": "2022-06-05 18:22"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/明台產險.png",
+    "opinions": [
+        {
+            "person": "明台產險",
+            "verb": "宣布",
+            "opinion": "投保家數維持「上限3家」的決定;富邦產險則指出,核保中的保單若已有富邦產或其他保險公司有效保單者,就會婉拒投保。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "婉拒"
+            ],
+            "positive_list": [
+                "有效",
+                "決定"
+            ],
+            "datetime": "2022-06-06 18:37"
+        }
+    ]
+}

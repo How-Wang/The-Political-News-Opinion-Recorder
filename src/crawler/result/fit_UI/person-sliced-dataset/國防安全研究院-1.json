@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國防安全研究院.png",
+    "opinions": [
+        {
+            "person": "國防安全研究院",
+            "verb": "指出",
+            "opinion": "美日澳印組成的四方安全對話(QUAD),5月提出「印太海域意識夥伴關係」(IPMDA),雖然旨在分享商用資訊及追蹤非法海上情事,但事實上也是為了應對中共「海上民兵」而來。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "非法",
+                "追蹤"
+            ],
+            "positive_list": [
+                "安全",
+                "夥伴"
+            ],
+            "datetime": "2022-06-05 11:13"
+        }
+    ]
+}

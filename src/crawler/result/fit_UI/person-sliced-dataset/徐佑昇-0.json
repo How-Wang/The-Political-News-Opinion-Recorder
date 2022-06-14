@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐佑昇.png",
+    "opinions": [
+        {
+            "person": "徐佑昇",
+            "verb": "表示",
+            "opinion": "林右昌冒著風險硬辦活動搏版面,要當成自己的「畢業典禮」政績,卻缺乏相關配套,也令人憂心疫情再度衝擊基隆。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "缺乏",
+                "衝擊",
+                "憂心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:49"
+        }
+    ]
+}

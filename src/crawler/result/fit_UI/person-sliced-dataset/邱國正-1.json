@@ -1,0 +1,276 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱國正.png",
+    "opinions": [
+        {
+            "person": "邱國正",
+            "verb": "回應",
+            "opinion": "他並沒有思考錢的問題,此時邱國正正敘述「因為全民防疫、全民防衛」時遭李貴敏打斷,李貴敏強調,她要談的就是錢的問題。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "打斷",
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "思考"
+            ],
+            "datetime": "2022-05-26 14:27"
+        },
+        {
+            "person": "邱國正",
+            "verb": "回應",
+            "opinion": "沒有要暫停或縮小規模,梯次也未變,但會做調整,只要染疫就可以申請免召。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "暫停",
+                "縮小",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 14:27"
+        },
+        {
+            "person": "邱國正",
+            "verb": "強調",
+            "opinion": "他是軍人但沒把立委當軍人看,也請法律人出身的李貴敏,勿把他當被告看待。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "被告"
+            ],
+            "positive_list": [
+                "法律"
+            ],
+            "datetime": "2022-05-26 14:27"
+        },
+        {
+            "person": "邱國正",
+            "verb": "指出",
+            "opinion": "他不記得有跟哪一名立委衝突,「過了就過了」,對於召員的後續處理作為一直都有在改進。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "衝突",
+                "衝突"
+            ],
+            "positive_list": [
+                "改進"
+            ],
+            "datetime": "2022-05-26 14:27"
+        },
+        {
+            "person": "邱國正",
+            "verb": "說",
+            "opinion": "自己也沒有把立法院當做國軍,「我也特別講了,委員你自己講,我沒有把你當成我的部屬」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-26 12:47"
+        },
+        {
+            "person": "邱國正",
+            "verb": "說",
+            "opinion": "全民防疫也是屬於防衛一環,不清楚錢的問題。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "問題",
+                "不清",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-26 18:00"
+        },
+        {
+            "person": "邱國正",
+            "verb": "說",
+            "opinion": "「那我覺得委員才無聊勒,怎麼會我問的全民的事情哪裡無聊,你給我拍什麼桌子啊,你才莫名其妙。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "無聊",
+                "莫名",
+                "莫名其妙",
+                "無聊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 13:22"
+        },
+        {
+            "person": "邱國正",
+            "verb": "說",
+            "opinion": "「沒有思考錢的問題,國軍執行全民防疫工作,派人出去就當訓練勤務支援,沒有談到錢的問題。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "支援",
+                "思考",
+                "訓練"
+            ],
+            "datetime": "2022-05-26 14:08"
+        },
+        {
+            "person": "邱國正",
+            "verb": "指出",
+            "opinion": "電腦兵推平常都在進行,但例如俄烏戰爭等臨時狀況無法輸入電腦,因此圖上兵推能增加很多臨時狀況,並深入每個課題。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "戰爭",
+                "無法"
+            ],
+            "positive_list": [
+                "很多",
+                "進行",
+                "增加"
+            ],
+            "datetime": "2022-05-26 11:44"
+        },
+        {
+            "person": "邱國正",
+            "verb": "表示",
+            "opinion": "受疫情影響可能調整人數與規模,但不會暫緩,因為防疫工作視同作戰,作戰會有傷損,但不能就因此改變任務,「門一關,不打了」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "不會",
+                "作戰",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:44"
+        },
+        {
+            "person": "邱國正",
+            "verb": "說明",
+            "opinion": "這個不是大的調整,因為電腦兵推平常都有在做,這回調整增加很多臨時的狀況,讓國軍可以深入地了解,俄烏戰爭就是參數沒有辦法推進去的。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "戰爭",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "了解",
+                "很多",
+                "推進",
+                "增加"
+            ],
+            "datetime": "2022-05-26 11:36"
+        },
+        {
+            "person": "邱國正",
+            "verb": "表示",
+            "opinion": "今年漢光演習的實兵操演會調整人數,但是不會暫緩,因為防疫工作視同作戰,而作戰會有傷損,不能因為傷損一來就改變任務,「門一關就不打了」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "不會",
+                "作戰",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:36"
+        },
+        {
+            "person": "邱國正",
+            "verb": "表示",
+            "opinion": "今年漢光演習的實兵操演可能會調整人數,但不會暫緩,因為防疫工作視同作戰,作戰就會有傷損,不能因為傷損便改變任務。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "不會",
+                "作戰",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:33"
+        },
+        {
+            "person": "邱國正",
+            "verb": "表示",
+            "opinion": "目前為止沒有受到任何影響,但會持續注意,因為他也會擔憂。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "擔憂",
+                "沒有",
+                "擔憂"
+            ],
+            "positive_list": [
+                "注意"
+            ],
+            "datetime": "2022-05-26 15:33"
+        },
+        {
+            "person": "邱國正",
+            "verb": "強調",
+            "opinion": "確保國家安全國軍責無旁貸,大家務必打起精神、繼續堅守崗位,做好戰備整備,維護部隊戰力與士氣,承繼袍澤守護領空、捍衛國家空防的職志。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "好戰"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-01 17:49"
+        },
+        {
+            "person": "邱國正",
+            "verb": "強調",
+            "opinion": "確保國家安全國軍責無旁貸,大家務必打起精神、繼續堅守崗位,做好戰備整備,維護部隊戰力與士氣,承繼袍澤守護領空、捍衛國家空防的職志。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "好戰"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-01 17:29"
+        },
+        {
+            "person": "邱國正",
+            "verb": "強調",
+            "opinion": "確保國家安全,國軍責無旁貸,務必打起精神、堅守崗位,做好戰備整備,維護部隊戰力,承繼袍澤守護領空、捍衛空防的職志。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "好戰"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-01 18:01"
+        }
+    ]
+}

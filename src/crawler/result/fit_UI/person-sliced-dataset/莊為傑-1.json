@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/莊為傑.png",
+    "opinions": [
+        {
+            "person": "莊為傑",
+            "verb": "表示",
+            "opinion": "「考量的因素太少了,僅僅只考量第一次參選跟年紀兩個要素,我認為是遠遠不足的,我建議未來還有這樣的制度的話,應該要思考加入,包含說黨齡、或者為這地區的付出,為了黨付出了多少。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不足",
+                "不足的",
+                "不足"
+            ],
+            "positive_list": [
+                "思考"
+            ],
+            "datetime": "2022-05-26 18:25"
+        }
+    ]
+}

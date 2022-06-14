@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/環保局.png",
+    "opinions": [
+        {
+            "person": "環保局",
+            "verb": "批評",
+            "opinion": "中部疫情高原期不拚防疫、只顧宣傳、累死基層,要求盧市府放棄貼紙、放過員工,盡速發放快篩試劑。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "放棄",
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 12:53"
+        }
+    ]
+}

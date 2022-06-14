@@ -1,0 +1,50 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃大洲.png",
+    "opinions": [
+        {
+            "person": "黃大洲",
+            "verb": "表示",
+            "opinion": "自己小時候獲選北市自治市小市長,當時證書是由黃大洲頒發,今日也跟黃分享這段回憶。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:03"
+        },
+        {
+            "person": "黃大洲",
+            "verb": "提到",
+            "opinion": "台北尚未完善的部分包含綠化、永續發展工作,都非常重要,應該持續推動,他並送給蔣萬安一套著作,詳述他在市長任內的努力,並勉勵蔣萬安小學萬安擔任市長要有願景Vision、使命Mission、更要有熱情Passion,未來要做對市民有利,影響深遠的市政規劃。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "尚未"
+            ],
+            "positive_list": [
+                "有利",
+                "努力",
+                "重要",
+                "發展",
+                "熱情",
+                "熱情"
+            ],
+            "datetime": "2022-06-07 21:45"
+        },
+        {
+            "person": "黃大洲",
+            "verb": "說",
+            "opinion": "黃大洲分享任內多項重大政策,花很多時間說明基隆河截彎取直的過程,並期許他做對市民有利、影響深遠的市政規畫。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "有利",
+                "很多",
+                "重大",
+                "說明",
+                "期許"
+            ],
+            "datetime": "2022-06-07 13:03"
+        }
+    ]
+}

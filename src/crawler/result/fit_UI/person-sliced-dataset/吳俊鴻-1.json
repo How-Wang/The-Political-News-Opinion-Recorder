@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳俊鴻.png",
+    "opinions": [
+        {
+            "person": "吳俊鴻",
+            "verb": "表示",
+            "opinion": "如果是台北市,會依照個資法來提供,可以提供會全部提供。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:21"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/葉大華.png",
+    "opinions": [
+        {
+            "person": "葉大華",
+            "verb": "指出",
+            "opinion": "她被指稱是倒數第4位低出席率,是以彈劾會總計22次,出席次數10次來推算,但她沒出席的12次會議,其中10次強碰早已排定的約詢及公務行程。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "彈劾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:18"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李正皓",
+            "verb": "認為",
+            "opinion": "關鍵在防疫惹民怨,造成陳時中支持度下滑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 18:33"
+        },
+        {
+            "person": "李正皓",
+            "verb": "認為",
+            "opinion": "不懂昆蟲系就不要說人家沒用、不懂丟丟妹與館長為了維持熱度做了多少努力,就不要說別人不漂亮、直播人數只有幾千。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不要",
+                "不懂",
+                "沒用"
+            ],
+            "positive_list": [
+                "努力",
+                "漂亮",
+                "漂亮"
+            ],
+            "datetime": "2022-05-23 10:26"
+        },
+        {
+            "person": "李正皓",
+            "verb": "認為",
+            "opinion": "這九位議員,原本都是聽議長的話挺呂玉玲,現在卻去挺羅,莫非是議長策動挺羅反朱?曾當過桃園國民黨黃國園主委的備役少將于北辰,在《94要客訴》節目中分析,小強羅智強,其實是幫當地民代出了口鳥氣,所以不能說是邱奕勝要這些議員挺羅,應該說是被朱立倫逼出來的。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 17:22"
+        },
+        {
+            "person": "李正皓",
+            "verb": "表示",
+            "opinion": "前台北市議員羅智強如今在桃園的行走路線,可說是百分之百的選舉行程,非常紮實,這是有在地市議員在帶路,去跟每一個里的里長拜會握手,「如果我是張善政,看到這個行程會感到害怕」,因為一般會把行程搞那麼紮實的只有市議員,沒有市長選舉會選成這樣。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "害怕",
+                "沒有",
+                "害怕"
+            ],
+            "positive_list": [
+                "舉行"
+            ],
+            "datetime": "2022-05-27 09:11"
+        },
+        {
+            "person": "李正皓",
+            "verb": "認為",
+            "opinion": "藍營表面上漸趨團結,但裂痕依舊存在,為他們拿回桃園的目標,埋下隱憂。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "裂痕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 18:45"
+        },
+        {
+            "person": "李正皓",
+            "verb": "表示",
+            "opinion": "他藍營的朋友以及議員,多是希望陳時中出戰北市,因為若形成藍綠對決,局面對國民黨有利。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "有利",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-12 08:10"
+        },
+        {
+            "person": "李正皓",
+            "verb": "表示",
+            "opinion": "從疫苗、快篩等過去防疫爭議,很可能將在陳時中對蔣萬安時,快速把國民黨的基本盤全部激出來,若引發藍綠對決,那就有趣了。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "有趣",
+                "有趣"
+            ],
+            "datetime": "2022-06-12 08:10"
+        }
+    ]
+}

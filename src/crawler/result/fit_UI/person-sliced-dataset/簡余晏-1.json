@@ -1,0 +1,48 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/簡余晏.png",
+    "opinions": [
+        {
+            "person": "簡余晏",
+            "verb": "回應",
+            "opinion": "為什麼有人一方面享受民主,卻去稱讚威權?還想要在威權政府裡面靠關係靠特權撈好處?而且不覺得和威權站在一起必須代價?世上有這種道理嗎?」,表示威權和民主政體差別很大,威權政府總是會棒打出頭鳥。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不覺",
+                "代價",
+                "打出",
+                "差別",
+                "特權"
+            ],
+            "positive_list": [
+                "享受",
+                "道理",
+                "稱讚",
+                "稱讚"
+            ],
+            "datetime": "2022-05-26 11:07"
+        },
+        {
+            "person": "簡余晏",
+            "verb": "指出",
+            "opinion": "假訊息的特徵通常有幾項,一是該內容會直指人心,讓您立刻想轉發;二是該內容一定有部份為真,讓您以常識知識難判真假。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 13:29"
+        },
+        {
+            "person": "簡余晏",
+            "verb": "說",
+            "opinion": "到現在為止,此事件的唯一證人是該藝人,他證稱真的有此人「醫護友人」淚揭「行醫以來最慘的日子,快撐不住。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不住"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 13:29"
+        }
+    ]
+}

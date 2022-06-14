@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張南蘋.png",
+    "opinions": [
+        {
+            "person": "張南蘋",
+            "verb": "表示",
+            "opinion": "COVID-19(2019冠狀病毒疾病)疫情肆虐全球,柬埔寨政府的疫苗政策對國內外人民一視同仁,讓柬國的生活恢復正常。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "疾病",
+                "肆虐"
+            ],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-05-30 10:11"
+        }
+    ]
+}

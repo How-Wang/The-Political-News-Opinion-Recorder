@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/施國隆.png",
+    "opinions": [
+        {
+            "person": "施國隆",
+            "verb": "發現",
+            "opinion": "由其子介紹即指示辦理、核定雲端火災預警系統採購案,使頂石公司從中獲利,且退休後1月餘即擔任頂石公司顧問等,均核有重大違失。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "火災"
+            ],
+            "positive_list": [
+                "重大",
+                "獲利"
+            ],
+            "datetime": "2022-06-11 21:24"
+        }
+    ]
+}

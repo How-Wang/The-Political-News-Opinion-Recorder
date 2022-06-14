@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/立岩.png",
+    "opinions": [
+        {
+            "person": "立岩",
+            "verb": "認為",
+            "opinion": "和日本比起來,台灣是「假新聞的重災區」,因為旁邊有一個刻意利用假新聞來進行滲透的大國,所以,大家更要時時提高警覺。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "滲透",
+                "利用"
+            ],
+            "positive_list": [
+                "提高",
+                "進行",
+                "警覺"
+            ],
+            "datetime": "2022-05-29 22:11"
+        }
+    ]
+}

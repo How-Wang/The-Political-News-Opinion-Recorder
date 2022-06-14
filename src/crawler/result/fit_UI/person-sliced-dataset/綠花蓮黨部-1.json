@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/綠花蓮黨部.png",
+    "opinions": [
+        {
+            "person": "綠花蓮黨部",
+            "verb": "指出",
+            "opinion": "由下個月將召開全代饋,屆時會宣布各縣市長提名徵召人選,他強調已經與Kolas電聯溝通,並傳達地方基層希望她參選花蓮的想法。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-09 11:42"
+        }
+    ]
+}

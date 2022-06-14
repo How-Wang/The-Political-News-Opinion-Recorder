@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中評社.png",
+    "opinions": [
+        {
+            "person": "中評社",
+            "verb": "認為",
+            "opinion": "柯文哲舉辦雙城論壇沒有蔣萬安的3前提,是否同意這說法?柯文哲說,第一點雙城論壇到現在對等尊嚴是基本條件,第二點北市謹守分寸,處理城市交流層面,沒有往上處理,整體處理層面上偏民生議題,比較少爭議發生。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "分寸",
+                "同意",
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-06 14:44"
+        }
+    ]
+}

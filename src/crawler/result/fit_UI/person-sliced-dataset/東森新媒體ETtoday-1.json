@@ -1,0 +1,67 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "東森新媒體ETtoday",
+            "verb": "指出",
+            "opinion": "負責國門之都的桃園市長鄭文燦在此波Omicron疫情中的防疫表現,有57.8%的市民表示滿意。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "負責",
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-26 12:56"
+        },
+        {
+            "person": "東森新媒體ETtoday",
+            "verb": "發現",
+            "opinion": "國人對於邊境控管的意向仍趨向嚴格管制,數據指出,70.3%民眾認為國外入境檢疫政策應維持7+7或更嚴格。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "嚴格"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:25"
+        },
+        {
+            "person": "東森新媒體ETtoday",
+            "verb": "指出",
+            "opinion": "沒有拒絕見面,只希望先看到通盤的資料後,再進行討倫,才有效率。",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "沒有",
+                "拒絕",
+                "沒有"
+            ],
+            "positive_list": [
+                "有效",
+                "有效率",
+                "希望",
+                "效率",
+                "進行",
+                "希望"
+            ],
+            "datetime": "2022-06-01 17:50"
+        },
+        {
+            "person": "東森新媒體ETtoday",
+            "verb": "表示",
+            "opinion": "朱立倫的言論若成為國民黨的政策,國民黨就是在自廢武功、拿香跟拜,不僅「親」不過民進黨,還會動搖基本盤,最後被邊緣化,提前退出歷史舞台。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "退出",
+                "動搖"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-09 17:29"
+        }
+    ]
+}

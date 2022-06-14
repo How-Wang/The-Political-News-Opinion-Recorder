@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北地院.png",
+    "opinions": [
+        {
+            "person": "台北地院",
+            "verb": "提出",
+            "opinion": "抗告,但遭高等法院駁回;提出再抗告,又遭最高法院駁回確定。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "駁回"
+            ],
+            "positive_list": [
+                "最高",
+                "確定"
+            ],
+            "datetime": "2022-05-27 15:39"
+        }
+    ]
+}

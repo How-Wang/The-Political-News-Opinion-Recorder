@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中華民國公教軍警消聯合總會.png",
+    "opinions": [
+        {
+            "person": "中華民國公教軍警消聯合總會",
+            "verb": "說",
+            "opinion": "法,張善政表示,既然接受徵召就會努力向前跑到終點為止,不論中間遭遇什麼過程,都會繼續努力,並澄清沒有聽說過有(換政)這件事。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "遭遇",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "接受",
+                "澄清"
+            ],
+            "datetime": "2022-06-06 15:53"
+        }
+    ]
+}

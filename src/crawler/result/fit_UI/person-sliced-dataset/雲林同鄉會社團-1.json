@@ -1,0 +1,92 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/雲林同鄉會社團.png",
+    "opinions": [
+        {
+            "person": "雲林同鄉會社團",
+            "verb": "呼籲",
+            "opinion": "民進黨主席蔡英文徵召無任所大使林佳龍參選台北市長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:02"
+        },
+        {
+            "person": "雲林同鄉會社團",
+            "verb": "表示",
+            "opinion": "林佳龍在治理台中及交通部任內,十分重視產業的需求,媒合產業界、學界跟政府,推動產業創新,強調數位科技,也獲得許多企業界的肯定,台北市首善之都,是許多國際企業的集散地,未來台北要能成為頂級的國際城市,需要一位懂產業懂趨勢、知國際的治理人才,相信林佳龍具備這樣的條件跟格局。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "肯定",
+                "相信",
+                "重視",
+                "創新",
+                "獲得"
+            ],
+            "datetime": "2022-06-02 10:46"
+        },
+        {
+            "person": "雲林同鄉會社團",
+            "verb": "指出",
+            "opinion": "林佳龍從國安會諮詢委員、行政院發言人、新聞局局長、民進黨秘書長、總統府副秘書長、立委、台中市長、交通部長,府院黨的經歷完整,政績有目共睹,從民主、國家安全、國際外交、城市治理、教育文化、弱勢關懷,到雲林人深以為他認真為台灣做事為榮。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "完整",
+                "為榮",
+                "認真",
+                "為榮",
+                "關懷"
+            ],
+            "datetime": "2022-06-02 10:46"
+        },
+        {
+            "person": "雲林同鄉會社團",
+            "verb": "強調",
+            "opinion": "林佳龍在擔任交通部長期間,更以土地規劃的永續思考,整合北北基桃交通、推動宜蘭高鐵,推進北台灣交通建設的重大發展。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "建設",
+                "思考",
+                "重大",
+                "推進",
+                "發展"
+            ],
+            "datetime": "2022-06-02 10:46"
+        },
+        {
+            "person": "雲林同鄉會社團",
+            "verb": "認為",
+            "opinion": "林佳龍為台灣觀光夜的努力,獲得觀光界強力支持,所道之處舉凡與觀光產業有關的人,無不感念他為觀光所做的決策,讚揚他是最接地氣的交通部長,這點從觀光界發表聲明連署慰留他,就是不證自明的事實。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "獲得",
+                "讚揚"
+            ],
+            "datetime": "2022-06-02 10:46"
+        },
+        {
+            "person": "雲林同鄉會社團",
+            "verb": "表示",
+            "opinion": "對於鄉親的看法都予以尊重。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-04 14:07"
+        }
+    ]
+}

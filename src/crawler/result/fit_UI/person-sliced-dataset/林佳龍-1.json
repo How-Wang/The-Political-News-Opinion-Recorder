@@ -1,0 +1,1277 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林佳龍.png",
+    "opinions": [
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "台北市是台灣的首都,是北北基桃首都圈的核心都市;台北市要從A到A+、從Taipei到Taipei+,不僅要追求大台北首都圈的定位,更要讓全世界在疫情後,可以真正看見、需要且喜愛台灣。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "真正",
+                "喜愛",
+                "喜愛"
+            ],
+            "datetime": "2022-05-26 18:39"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "蔣萬安是國民黨推出的優秀人才,未來政黨君子之爭,一起提出對城市發展的願景,某個程度來講,競爭對手也是未來能促進社會發展的合作夥伴;他是以這樣的態度看待政黨推出的參選人,競爭的同時,大家可以攜手推動城市與國家發展願景。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "對手",
+                "競爭"
+            ],
+            "positive_list": [
+                "合作",
+                "促進",
+                "發展",
+                "夥伴",
+                "優秀",
+                "合作"
+            ],
+            "datetime": "2022-05-26 18:39"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "現在是防疫優先,民進黨的選對會將做通盤考量;民進黨應盡快在北北基桃布局最適當參選人,形成一個首都圈聯合競選,未來也可以聯合治理。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "適當",
+                "聯合"
+            ],
+            "datetime": "2022-05-26 18:39"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "首都願景的未來想像,拋出12大政策計畫,預計1個月內陸續提出。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-05-27 12:43"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "台北市是龍頭城市,是帶動台灣國家發展的引擎,也是連結台灣與世界的國家門面,在亞洲,跟東京、首爾、新加坡、曼谷等城市,相互競爭,也相互學習。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "發展",
+                "學習"
+            ],
+            "datetime": "2022-05-27 12:43"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "這一年來,他所共同創立與參與的台灣智庫,著眼於台灣未來的發展,開始整理2032國家願景計畫外,與此同時,「都市與區域治理中心」隨之誕生,組成研究團隊並召集學者專家,聚焦於首都圈發展策略的研擬與討論。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "專家",
+                "創立",
+                "發展"
+            ],
+            "datetime": "2022-05-27 12:43"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "台北市是龍頭城市,是帶動台灣國家發展的引擎,也是連結台灣與世界的國家門面,在亞洲,台北市跟東京、首爾、新加坡、曼谷等城市,相互競爭,也相互學習。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "發展",
+                "學習"
+            ],
+            "datetime": "2022-05-27 11:11"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "今年台灣智庫推出挑戰2032國家願景的一系列計畫,其中一項就是台灣城市區域治理藍圖,針對首都台北,近幾個月來與學者專家有非常多的討論,腦力激盪的過程,讓城市未來充滿許多想像,而如何在現有的基礎上擘劃未來城市,是所有首長的功課。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "專家",
+                "想像",
+                "激盪"
+            ],
+            "datetime": "2022-05-27 11:11"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "今年是台灣智庫20週年,台灣智庫推出挑戰2032國家願景的一系列計畫,其中一項就是台灣城市區域治理藍圖,首先針對首都台北,他近幾個月來與學者專家有非常多的討論,腦力激盪的過程,對於城市未來充滿許多想像,而如何在現有的基礎上擘劃未來城市,也是所有首長的功課。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "專家",
+                "想像",
+                "激盪"
+            ],
+            "datetime": "2022-05-27 11:53"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "台北市是龍頭城市,是帶動台灣國家發展的引擎,也是連結台灣與世界的國家門面,在亞洲,跟東京、首爾、新加坡、曼谷等城市,相互競爭也相互學習。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "發展",
+                "學習"
+            ],
+            "datetime": "2022-05-27 15:53"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "首都圈12大願景計畫,宣示要讓「台北從A到A+,從Taipei到TaipeiPlus」,引發黨內關注。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 21:00"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "台北市的政策,被視為是參選起手勢,林佳龍跟陳時中誰是最大假想敵?蔣萬安並未正面回應,他表示,現在疫情當下,國人最關心是政府能不能做好防疫工作,其實看到這波疫情造成非常多民眾染疫,最重要政府沒做好任何準備就放任民眾跟病毒共存,「之前談的超前部屬根本就是謊言,後續相關事後補救更是荒腔走板」。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "不能",
+                "放任",
+                "謊言",
+                "根本就",
+                "謊言"
+            ],
+            "positive_list": [
+                "正面",
+                "重要",
+                "最重要",
+                "準備",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-28 11:23"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "首都願景的未來想像,拋出12大政策計畫,預計1個月內陸續提出,被視為參選台北的起首式。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-05-28 10:23"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "台灣要設身處地、換位思考,數位新南向就是打破界線,跨域、跨越國界和產業分類,不只讓服務變得國際化也同時讓台灣轉型,延伸數位領土到更多國家,友善擴張。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "打破"
+            ],
+            "positive_list": [
+                "友善",
+                "思考",
+                "友善"
+            ],
+            "datetime": "2022-05-30 23:42"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "政策白皮書,而原先呼聲最高的陳時中則因疫情狀況選擇放緩腳步。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "最高的"
+            ],
+            "datetime": "2022-06-01 19:15"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說明",
+            "opinion": "已累積近2000人連署書,準備送進民進黨中央。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-01 19:15"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "強調",
+            "opinion": "林佳龍當過立委、市長、交通部長政治經驗可以說是非常豐富,參選條件好、有競爭力,當選率也高,民進黨台北市要贏林佳龍是最適合人選,連署幾千份已有一部分送到民進黨黨部。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "經驗",
+                "適合",
+                "豐富"
+            ],
+            "datetime": "2022-06-02 11:30"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "林佳龍的父母來自雲林,雖在萬華出生成長,但對於雲林也有深厚情感。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成長"
+            ],
+            "datetime": "2022-06-02 13:50"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "回應",
+            "opinion": "感謝每一位肯定他的人,但民進黨有選對會徵召機制,一切尊重全面的佈局與考量。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "全面的",
+                "肯定",
+                "尊重",
+                "感謝",
+                "尊重",
+                "感謝"
+            ],
+            "datetime": "2022-06-02 13:50"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "強調",
+            "opinion": "他在台北市出生長大,過去工作經驗也以台北市為主,更提出政策白皮書,原先呼聲最高的陳時中,則因疫情嚴峻關係選擇放慢腳步。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "嚴峻"
+            ],
+            "positive_list": [
+                "最高",
+                "最高的",
+                "經驗"
+            ],
+            "datetime": "2022-06-02 09:43"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "近日林佳龍透過台灣智庫所研擬的台北首都圈12大願景,將陸續公佈,期盼有助年底地方選舉的政策議題討論。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "有助",
+                "期盼"
+            ],
+            "datetime": "2022-06-02 12:25"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "首都圈捷運、台鐵、公車、公共自行車組成的MR.B&B(Metro,Rail,Bus,Bike)系統,必須跨域整合、加速升級,北北基桃可共推台北首都通公共運輸月票,可使用4大運具。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 16:37"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "推動智慧城市最重要的就是智慧交通。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-06-03 16:37"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "台北首都圈涵蓋台北市、新北市、基隆市、桃園市,甚至宜蘭縣,通勤時間的交通擁擠是900多萬人口首都圈的痛點;根據調查,每天進入台北市的人流大概80萬人,跨北北基桃行政區的交通問題,必須要4個城市一起面對、一起解決。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "擁擠",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-03 16:37"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "對於弱勢族群經常使用的復康巴士、無障礙計程車、山區小巴等運具的服務必須加質加量,讓台北市沒有偏鄉,也不能有被公共運輸忽視的族群。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "忽視",
+                "障礙",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 16:37"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "對於弱勢族群經常使用的復康巴士、無障礙計程車、山區小巴等運具的服務必須加質加量,讓台北市沒有偏鄉,也不能有被公共運輸忽視的族群。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "忽視",
+                "障礙",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 19:34"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "首都圈捷運、台鐵、公車、公共自行車組成的MR.B&B(Metro,Rail,Bus,Bike)系統,必須跨域整合、加速升級,北北基桃可共推台北首都通公共運輸月票,可使用4大運具。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 19:34"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "推動智慧城市最重要的就是智慧交通。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-06-03 19:34"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "台北首都圈涵蓋台北市、新北市、基隆市、桃園市,甚至宜蘭縣,通勤時間的交通擁擠是900多萬人口首都圈的痛點;根據調查,每天進入台北市的人流大概80萬人,跨北北基桃行政區的交通問題,必須要4個城市一起面對、一起解決。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "擁擠",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-03 19:34"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "交通政策,對於市政白皮書規畫,蔣萬安表示,一直都有傾聽地方民眾心聲、意見,對未來台北市政的規畫都有相關藍圖,真正反映民眾想法、為民眾解決議題,「一定提出最好的市政藍圖,接下來都會公布出來」。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "真正",
+                "最好",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-03 15:54"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "不同道路的交通號誌控制必須跨中央地方、跨縣市全面協控號誌連鎖,確保幹線車流最大暢通,更廣泛應用智慧交通技術,降低車位尋找時間、管控整體車流。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "降低"
+            ],
+            "positive_list": [
+                "全面",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-06-03 12:28"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "根據2022年大眾媒體對於台北市政滿意度民意調查顯示,台北市民最不滿意的問題就是交通,這是全世界首都都會面臨的問題,並不令人特別感到意外,但如果「頭痛醫頭、腳痛醫腳」來解決交通問題,必定會付出相當大的代價,如何在現有基礎打造台北交通計畫,必須連動思考生活圈。",
+            "negative_score": 10,
+            "positive_score": 7,
+            "negative_list": [
+                "不滿",
+                "不滿意",
+                "不滿意的",
+                "代價",
+                "問題",
+                "意外",
+                "頭痛",
+                "不滿",
+                "問題",
+                "頭痛"
+            ],
+            "positive_list": [
+                "思考",
+                "特別",
+                "解決",
+                "滿意",
+                "滿意的",
+                "解決",
+                "滿意"
+            ],
+            "datetime": "2022-06-03 12:28"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「我跟時中部長認識十幾年了,陳水扁總統政府的時候,我就跟他有很多合作,我們很有默契,是英雄惜英雄。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "很多",
+                "英雄",
+                "合作"
+            ],
+            "datetime": "2022-06-04 18:14"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "強調",
+            "opinion": "兩人各自發揮自己的角色,倒是呂秀蓮喊話陳時中,不要一心二用,要選舉就早點講。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:07"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「我們是英雄惜英雄,我跟時中部長,其實認識十幾年,我的角色一樣如此,就是成功不必在我,但成功一定有我,我已經在規劃,台北首都的願景。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "英雄"
+            ],
+            "datetime": "2022-06-04 13:07"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "回應",
+            "opinion": "「不會啦」,台灣是民主社會,選舉是選賢與能,不管是主動、被動,大家能夠推出好的人才加以討論,讓人民有更多更好的選擇,「我們一起來促成」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不管",
+                "不會"
+            ],
+            "positive_list": [
+                "主動",
+                "促成"
+            ],
+            "datetime": "2022-06-04 10:41"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "自己有雲林背景,在台北出身長大,可以了解雲林同鄉會的鄉親惜才推薦自己,確實人親土親、鄉親最親,「我當然也會努力,希望能夠為社會服務」,他作為民進黨員,台北市24年民進黨都沒有執政,這次用徵召方式來推選最好人才,「如果是陳時中我也會全力輔選」。",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "了解",
+                "全力",
+                "努力",
+                "希望",
+                "推薦",
+                "最好",
+                "當然",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-04 10:41"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "自己已經在規劃台北首都願景,陸續會提出,其他政黨已經提名市長人選,民進黨也必須要從討論人選提升到城市願景的良性競爭,他過去擔任過台中市長和交通部長,因此展開準備,提供給未來參選團隊一個施政藍圖的基礎。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "良性",
+                "提升",
+                "準備",
+                "良性"
+            ],
+            "datetime": "2022-06-04 10:41"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "呂秀蓮不僅是台灣的民主前輩,更是人權鬥士,從「新女性到新台灣」,至今台灣的人權內涵已更加豐富,進化成性別平權、多元認同的議題,回顧來看讓台灣這艘人權、自由、民主、和平的「人類的方舟」要航向世界,重點在於對人權的保障能夠對世界有更大的貢獻,成為「TAIWANCANHELP」,與世界和平共好。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "自由",
+                "和平",
+                "和平的",
+                "豐富",
+                "自由",
+                "認同"
+            ],
+            "datetime": "2022-06-04 14:19"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "他在台北出生長大,可以了解一些雲林同鄉會的鄉親惜才、來推薦自己,確實人親、土親、鄉親最親,「我當然也會努力,希望能夠來為社會服務」,作為一名民進黨員,他還是要說,台北市在過去24年沒有執政,這一次用徵召的方式來推選最好的人才,「如果是陳時中的話,我也會全力輔選」。",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "了解",
+                "全力",
+                "努力",
+                "希望",
+                "推薦",
+                "最好",
+                "當然",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-04 11:12"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "他與衛福部長陳時中是「英雄惜英雄」,兩人很有默契,他的角色是「成功不必在我,但成功一定有我」,他會努力爭取為社會服務,但若民進黨徵召陳時中參選,也會全力輔選。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "成功",
+                "努力",
+                "英雄"
+            ],
+            "datetime": "2022-06-04 11:12"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "質疑",
+            "opinion": "若這麼簡單,部長任內為何不提,而是拋出10年後才可能實現的政見。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "何不"
+            ],
+            "positive_list": [
+                "實現"
+            ],
+            "datetime": "2022-06-04 17:17"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "自己是雲林的背景,在台北出生長大,感謝鄉親的惜才推薦,自己也會努力為社會服務。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "推薦",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-04 14:07"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "在不同的角色也會做好準備,提出台北首都的城市願景,同一個團隊也可以同步做好準備。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-04 14:07"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "呂秀蓮不僅是台灣的民主前輩,更是人權鬥士,從「新女性到新台灣」,至今台灣的人權內涵已更加豐富,進化成性別平權、多元認同的議題,回顧來看讓台灣這艘人權、自由、民主、和平的「人類的方舟」要航向世界,重點在於對人權的保障能夠對世界有更大的貢獻,成為「TAIWANCANHELP」,與世界和平共好。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "自由",
+                "和平",
+                "和平的",
+                "豐富",
+                "自由",
+                "認同"
+            ],
+            "datetime": "2022-06-04 13:22"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「在內湖這個地方,只有一條文湖線是不夠的,從松山新店線這邊往北延到內湖,去接文湖線,中間設3站捷運站,又有4條交叉軌道轉乘,就能全面性解決內湖塞車問題。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不夠",
+                "不夠的",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "全面",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-05 12:55"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "「首都願景的未來想像—關於台北首都圈的12門課」,表達強烈的參選意願。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "強烈"
+            ],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-06-05 14:52"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "北北基桃共推公共運輸月票、捷運松山新店線北延解決內科交通問題等台北交通政策5大主張。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-05 13:19"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "提出",
+            "opinion": "台北首都圈交通政策5大主張,包含北北基桃共推公共運輸月票、捷運松山新店線北延解決內科交通問題等。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-05 10:59"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「延後兩個月,我就是提供我對於首都願景的未來想像,有大台北首都圈的12堂課先提出交通的願景。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "想像"
+            ],
+            "datetime": "2022-06-06 18:26"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "雖然目前是防疫優先,可是民主的選舉也是要逐步的向前走,應該是可以並行不悖。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:26"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "強調",
+            "opinion": "他提供自己對於首都願景的想像,有大台北首都圈的12堂課,先提出交通願景,希望能夠領導民主競爭跟城市願景。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "希望",
+                "想像",
+                "希望"
+            ],
+            "datetime": "2022-06-06 16:26"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "台灣要走向正常生活,同時做好防疫,讓民主政治也能一步步向前走,他期待任何民主選舉都能著重公共政策的討論,不只是選人、選黨,也是選擇城市跟國家的願景與未來。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-06 16:39"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "此事故改變很多人的生活,他請辭交通部長後也持續關懷,看到吳坤佶這本書很感動、寫了序言。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "事故"
+            ],
+            "positive_list": [
+                "很多",
+                "感動",
+                "感動",
+                "關懷"
+            ],
+            "datetime": "2022-06-06 16:39"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "民主選舉最好是有政策跟願景,不能只是等人,「不管是等我、還是等別人」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "不管"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-06 16:39"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "現階段會以台北首都圈推出12門課,不只有交通,還包含民眾關心的經濟、住宅、文化等領域。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-06 21:52"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "他沒有聽到延後的決定,選舉只有不到半年,現在防疫優先,可是民主選舉也要逐步向前走,各政黨推出人才大家要選賢與能,市政也要進行討論,這應該是可以併行。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不到",
+                "沒有",
+                "不到",
+                "沒有"
+            ],
+            "positive_list": [
+                "決定",
+                "進行"
+            ],
+            "datetime": "2022-06-06 14:55"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "強調",
+            "opinion": "他提供自己對於首都願景的想像,有大台北首都圈的12堂課,先提出交通願景,希望能夠領導民主競爭跟城市願景。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "希望",
+                "想像",
+                "希望"
+            ],
+            "datetime": "2022-06-06 14:55"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "這麼直白的說法很有柯文哲的Style、也能感受到柯文哲市長有點束手無策,「但台北交通任督二脈打通後是有解的。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "束手",
+                "束手無策",
+                "無策",
+                "束手無策"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 21:58"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "解決台北交通問題,不能只看台北,需整合首都圈北北基桃,「台北市長要有行政院長的高度,至少是部長的層級,去承擔首都圈整合的責任,未來解決台北市交通問題,一定需跨縣市合作,我擔任交通部長時期很關心大台北的交通情形,也幫忙解決了許多問題。」",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "不能",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "解決",
+                "關心",
+                "合作",
+                "解決",
+                "關心"
+            ],
+            "datetime": "2022-06-06 21:58"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「最主要是市民他不知道,你這個政黨你要主張什麼,到全代會的授權是用徵召,提名事不宜遲。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜",
+                "不知",
+                "不知道",
+                "不知"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-07 17:35"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「我應該是坐在偏左邊這邊。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:05"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "不管是學運世代還是蔣介石萬安家後代,其實都是中生代,要為台灣下一代奠定更好民主發展基礎。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-07 11:16"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "第三個自由,任何政權若不是建立在對自由、人權、言論、思想、出版、集會結社、組黨和選舉自由上建構政權基礎,就是違反人性跟民意,學做自由人,自由廣場從大中至正的個人的墨寶改為人民廣場,兩廳院大家也很常約在這,剩下中正紀念堂以前是高高在上的陵寢好像恭奉蔣介石,可以重新檢視、建構人民史觀,呈現人民的力量。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "違反",
+                "不是",
+                "違反"
+            ],
+            "positive_list": [
+                "人性",
+                "自由",
+                "紀念",
+                "自由"
+            ],
+            "datetime": "2022-06-07 11:16"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "若透過他和蔣萬安坐下來談台灣民主發展過去與未來非常有意義,希望從人民史觀、對人權的追求的奠基石上來談。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "有意義",
+                "希望",
+                "奠基",
+                "發展",
+                "希望"
+            ],
+            "datetime": "2022-06-07 11:16"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "民進黨應盡快產生台北市長人選,事不宜遲。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:09"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "蔣萬安的身分可以為台灣民主發展最後一哩路「轉型正義」代言,蔣萬安有天命,做為蔣萬安家後代,若能夠走出來,對於轉型正義和解會有貢獻;他做為學運世代代表,重返野百合學運發源地,他也期待來一場學運世代和蔣萬安家後代的談心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正義",
+                "期待",
+                "發展",
+                "期待"
+            ],
+            "datetime": "2022-06-07 12:09"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "中正紀念堂轉型,包括開放、平等、自由3個普世價值的元素。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平等",
+                "自由",
+                "紀念",
+                "開放",
+                "自由"
+            ],
+            "datetime": "2022-06-07 12:09"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "讓台北做為台灣首都,帶動台灣世界好,這是他的夢想。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "夢想"
+            ],
+            "datetime": "2022-06-07 12:09"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "若有這樣不同差異,人選蠻好決定的,他也提到,立法院副院長蔡其昌曾公開誇獎林佳龍能力好,這是跨派系的支持聲援,「而且陳時中已經講『不要等我』,現在應該是決定的時候了,再拖只會有壞處。」",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "派系",
+                "差異",
+                "壞處",
+                "不要"
+            ],
+            "positive_list": [
+                "公開",
+                "決定",
+                "能力",
+                "誇獎",
+                "誇獎"
+            ],
+            "datetime": "2022-06-08 11:52"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "「從國土規劃去看到首都圈的重要,有機會我們當然自己來實現。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "當然",
+                "機會",
+                "實現"
+            ],
+            "datetime": "2022-06-10 12:32"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "今年因為受到COVID-19(2019冠狀病毒疾病)疫情衝擊確實比較特別,防疫工作要做好,民主選舉也要向前走,秉持這樣精神民進黨有提名制度和節奏,自己也是選對會成員,雖然選對會已經一個多月沒開會,但在4月已預定6月要進行新一波提名的評估和決定,「應該是很快了,我們在等著開會通知」。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "疾病",
+                "衝擊"
+            ],
+            "positive_list": [
+                "決定",
+                "特別",
+                "通知",
+                "進行",
+                "確實"
+            ],
+            "datetime": "2022-06-12 12:43"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "宣布",
+            "opinion": "週日停開記者會,部分人士就解讀,這是中央防疫政策放寬下的政治考量,也就是為陳時中參選台北市長鋪路、試水溫的起手式。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 18:06"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "「政策上還是要走捷運,如果台中BRT沒有變更的話,台灣大道的捷運藍線,連提案都不行,這個是相關的,我們當然是希望台中台灣大道有捷運藍線,這個才是正道。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "正道",
+                "希望",
+                "當然",
+                "希望"
+            ],
+            "datetime": "2022-06-12 17:16"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "認為",
+            "opinion": "「陳時中部長很辛苦,他也很專業,六月會來進行新一波,提名的評估跟決定,我們在等開會通知,所以還沒有接到總統通知,目前還沒有。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "辛苦",
+                "沒有"
+            ],
+            "positive_list": [
+                "決定",
+                "通知",
+                "進行"
+            ],
+            "datetime": "2022-06-12 13:05"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "強調",
+            "opinion": "選對會預計6月會開會討論人選,而防疫跟民主選舉,兩者可同步向前。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 13:05"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "處理過程因為政策改變,如果對於業者有一些損失,應該進行合理的協商,避免或是減少他們的損失,但政策還是要走捷運,「如果台中BRT沒有變更的話,台灣大道捷運藍線連提案都不行」,所以這是相關的,台灣大道有捷運藍線才是正道。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "減少",
+                "損失",
+                "避免",
+                "沒有"
+            ],
+            "positive_list": [
+                "正道",
+                "合理",
+                "合理的",
+                "進行",
+                "避免"
+            ],
+            "datetime": "2022-06-12 11:37"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "尊重現在台中市府決定,看如何進一步處理。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-12 11:37"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "表示",
+            "opinion": "最重要的就是站在他旁邊的蔡適應,讓中央、地方合作無間,蔡適應到立法院就是到外交國防委員會,解決基隆最重要軍港遷移等問題,幾乎是歷史留下不可能任務,但都一一達成。",
+            "negative_score": 4,
+            "positive_score": 10,
+            "negative_list": [
+                "不可",
+                "問題",
+                "不可",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "解決",
+                "達成",
+                "適應",
+                "合作",
+                "解決"
+            ],
+            "datetime": "2022-06-12 14:51"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "說",
+            "opinion": "基隆確實要放在首都圈,才會有清楚、未來定位,台北不能夠本位主義,不管是交通、觀光、區域發展,要台北plus基隆,所以未來台北作為首都圈的領頭羊,一定要跟基隆像兄弟一樣,要平起平坐。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "不管"
+            ],
+            "positive_list": [
+                "清楚",
+                "發展",
+                "確實"
+            ],
+            "datetime": "2022-06-12 14:51"
+        },
+        {
+            "person": "林佳龍",
+            "verb": "指出",
+            "opinion": "民進黨有提名的制度跟決策,他強調他也是選對會的成員,「選對會已經一個多月沒開會,但是先前的時候有預定6月份會來進行新一波提名的評估根決定,應該是很快啦!」他也說,大家現在在等總統蔡英文的開會通知。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "通知",
+                "進行"
+            ],
+            "datetime": "2022-06-12 11:16"
+        }
+    ]
+}

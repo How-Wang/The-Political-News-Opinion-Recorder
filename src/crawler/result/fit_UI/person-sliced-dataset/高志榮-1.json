@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高志榮.png",
+    "opinions": [
+        {
+            "person": "高志榮",
+            "verb": "說",
+            "opinion": "「銀行他認為說你沒什麼資產,沒什麼信用可言,所以一般貸款就比較困難一點,有時候為了生計我們很多同業,都會拿自己房子去抵押。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "困難",
+                "困難"
+            ],
+            "positive_list": [
+                "信用",
+                "很多",
+                "信用"
+            ],
+            "datetime": "2022-05-27 13:30"
+        }
+    ]
+}

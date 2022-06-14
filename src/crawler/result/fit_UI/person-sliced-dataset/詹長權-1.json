@@ -1,0 +1,68 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/詹長權.png",
+    "opinions": [
+        {
+            "person": "詹長權",
+            "verb": "指出",
+            "opinion": "根據統計,台灣新冠死亡數倍增速度是全球第2快;台大兒童醫院院長黃立民也認為,致死率偏高可能是因感染黑數所致。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "致死",
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:00"
+        },
+        {
+            "person": "詹長權",
+            "verb": "說",
+            "opinion": "法,讓指揮官陳時中罕見動怒!上午代表國民黨出戰北市長的蔣萬安,出席活動時痛批,輕易動怒無法解決事情,緊咬陳時中不放。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "無法解決",
+                "動怒",
+                "無法"
+            ],
+            "positive_list": [
+                "罕見",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-11 12:31"
+        },
+        {
+            "person": "詹長權",
+            "verb": "指出",
+            "opinion": "台灣染疫死亡數十三天內翻倍,位居全球第二快,讓衛福部長陳時中昨動怒,批評死亡翻倍天數應是自己跟自己比,分子亂、分母也亂「根本亂比一通」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "批評",
+                "批評",
+                "動怒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:50"
+        },
+        {
+            "person": "詹長權",
+            "verb": "指出",
+            "opinion": "台灣染疫死亡數十三天內翻倍,位居全球第二快,讓衛福部長陳時中昨動怒,批評死亡翻倍天數應是自己跟自己比,分子亂、分母也亂「根本亂比一通」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "批評",
+                "批評",
+                "動怒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 11:19"
+        }
+    ]
+}

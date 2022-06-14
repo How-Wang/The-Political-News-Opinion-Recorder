@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王定國.png",
+    "opinions": [
+        {
+            "person": "王定國",
+            "verb": "說",
+            "opinion": "家》、《敵人的櫻花》等共35本書。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "敵人"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:33"
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/侯漢廷.png",
+    "opinions": [
+        {
+            "person": "侯漢廷",
+            "verb": "提到",
+            "opinion": "他昨日下午才和台北市長柯文哲面談北市購買兒童HFNC議題,雖僅會談3分鐘,但希望柯文哲不要因此被感染。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "感染",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-03 20:20"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "提到",
+            "opinion": "昨日下午才和柯文哲面談北市購買兒童HFNC議題,雖僅會談3分鐘,但希望市長不要被感染。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "感染",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-03 17:39"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "表示",
+            "opinion": "自5月初解隔離以來,除較易疲憊、喉嚨不適,並無其餘症狀,日前家人確診,依規定無症狀且打疫苗無須匡列隔離。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不適",
+                "疲憊",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 17:39"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "提到",
+            "opinion": "與柯文哲接觸,莊人祥也重申,剛感染個案,近期應該不會再感染。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 18:01"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "說",
+            "opinion": "「沒有無敵星星」,更說「如果不信邪覺得我不是重複感染而只是陰陰陽陽沒有傳染力,歡迎跟我聯絡讓我給你愛的抱抱」。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不信",
+                "沒有",
+                "傳染",
+                "感染",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "無敵",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 21:36"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "宣布",
+            "opinion": "「我重複確診了,成為台灣唯一重複確診的政治人物」,並透露自己昨日曾跟台北市長柯文哲會談3分鐘,「希望市長不要被我感染」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "透露",
+                "感染",
+                "不要"
+            ],
+            "positive_list": [
+                "成為",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-03 17:13"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "說",
+            "opinion": "自5月初解隔離以來,他除了較易疲憊、喉嚨不適,並無其餘症狀,「日前我家人確診,我依規定無症狀且打疫苗無須匡列隔離。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不適",
+                "疲憊",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 17:13"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "說",
+            "opinion": "前天咳嗽,昨晚發燒頭暈,病況較上個月確診嚴重。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "發燒",
+                "頭暈",
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:56"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "表示",
+            "opinion": "自5月初解隔離以來,他除了較易疲憊、喉嚨不適,並無其餘症狀。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不適",
+                "疲憊",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:56"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "說",
+            "opinion": "自己重複確診了,也成為台灣唯一重複確診的政治人物,特別是昨天才在政論節目談重複感染,緊接自己也中了,尤其昨天下午才跟柯文哲市長面對面談論台北市要購買兒童HFNC,會談才三分鐘,希望市長不要被他感染。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "感染",
+                "不要"
+            ],
+            "positive_list": [
+                "天才",
+                "成為",
+                "希望",
+                "特別",
+                "希望"
+            ],
+            "datetime": "2022-06-03 16:04"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "表示",
+            "opinion": "「感謝指揮中心親自回覆不會判定我確診了」,今天繼續瘋狂咳嗽加渾身無力,他有三問一建議要給指揮中心:第一,請問若感染不同病毒變異株,接觸確診者而後有新症狀、也不會發生重複感染嗎?指揮中心有統計當前台灣有多少種Omicron變異株嗎?「我樂意做基因定序,並和首次病毒株對比看是否為不同病毒株。」",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "無力",
+                "感染",
+                "瘋狂",
+                "不會",
+                "無力"
+            ],
+            "positive_list": [
+                "感謝",
+                "樂意",
+                "感謝",
+                "瘋狂",
+                "樂意"
+            ],
+            "datetime": "2022-06-04 13:21"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "認為",
+            "opinion": "自己重複確診,且感覺症狀較上個月確診嚴重。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:21"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "認為",
+            "opinion": "自己「重複確診」,但中央流行疫情指揮中心發言人莊人祥認為是在「陰陰陽陽」階段。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "流行"
+            ],
+            "datetime": "2022-06-04 13:21"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "表示",
+            "opinion": "自己助理也二度確診,卻因為指揮中心掩蓋重複確診事實,造成系統無法判定再度染疫,進而無法輸入資料、開立居家隔離和給藥問題。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "無法",
+                "隔離",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 19:16"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "質疑",
+            "opinion": "好在助理算年輕人,但如果是慢性病患者、超過65歲以上符合抗病毒藥物資格者,如果第二次確診就真的無法拿藥。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "毒藥",
+                "患者",
+                "無法",
+                "超過",
+                "慢性",
+                "無法"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-07 19:16"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "指出",
+            "opinion": "指揮中心不承認二度確診,包括他在內,造成了確診後無法隔離、沒辦法請假、沒有薪水,進而可以趴趴走到處傳染,更嚴重的是自己助理因無法判定重複確診,所以拿不到藥品,連健康服務中心都坦言是系統無法判定再度感染,關鍵時刻便拿不到藥。",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "不到",
+                "沒有",
+                "無法",
+                "傳染",
+                "感染",
+                "隔離",
+                "嚴重",
+                "嚴重的",
+                "不到",
+                "沒有",
+                "沒辦法",
+                "無法"
+            ],
+            "positive_list": [
+                "承認",
+                "健康"
+            ],
+            "datetime": "2022-06-07 19:16"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "認為",
+            "opinion": "除了大部分民眾確診、民眾自動配合減少外出外,其實疫情趨緩也是踐踏在醫護血淚、同胞屍體上,並提出要為亡者默哀1分鐘。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "減少",
+                "踐踏",
+                "屍體"
+            ],
+            "positive_list": [
+                "自動"
+            ],
+            "datetime": "2022-06-07 19:16"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "說",
+            "opinion": "此事突顯新北市府與侯友宜的危機公關處理不佳,侯友宜長漢廷友宜「自視甚高」,起初認為這是小事,就直接交給屬下處理,且在處理過程中又墨守成規,資料無法及時公開。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "危機",
+                "無法",
+                "不佳",
+                "危機",
+                "無法"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-12 08:10"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "表示",
+            "opinion": "普遍民眾會認為中央和地方都有錯,且也會認知到這股輿論是執政黨在「甩鍋」,其實傷不到新北市長侯友宜的根本。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 08:10"
+        },
+        {
+            "person": "侯漢廷",
+            "verb": "指出",
+            "opinion": "侯友宜做了不少超前措施來防疫,從民調看來,一般大眾直觀上感覺是中央、地方都有錯,「各打50大板」,全台有3000多位不幸確診而離世的個案,說明這並非完全是新北市政府和侯友宜的責任,而是一種共業。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不幸",
+                "不幸"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-12 08:10"
+        }
+    ]
+}

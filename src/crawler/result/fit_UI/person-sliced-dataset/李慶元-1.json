@@ -1,0 +1,77 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李慶元.png",
+    "opinions": [
+        {
+            "person": "李慶元",
+            "verb": "表示",
+            "opinion": "經過追查,邱金榮每個禮拜一下午,都在石牌路二段某住所打麻將,該場所大門玻璃黑漆漆、後巷兩側都有逃生路線,不過邱金榮駁斥,說自己是打家庭麻將,李慶元接著質疑,「有沒有造墓業者?」邱金榮表示,對象是一位老鄰長,其他也都是退休人員,全部都70歲以上的女生。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "駁斥",
+                "質疑",
+                "沒有",
+                "逃生",
+                "駁斥"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:21"
+        },
+        {
+            "person": "李慶元",
+            "verb": "指出",
+            "opinion": "助理林岳龍接獲檢舉函內容為「每逢週一下午全處都知道不能排會議給邱員(指邱金榮),因為他自己說要與友人打牌消遣⋯他自己坦承這是他的消遣,且有請假。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "知道",
+                "消遣"
+            ],
+            "datetime": "2022-06-09 14:37"
+        },
+        {
+            "person": "李慶元",
+            "verb": "表示",
+            "opinion": "自己接獲檢舉指出,邱金榮星期一休假打麻將的住宅在北投石牌路二段,該宅大門玻璃黑漆漆、後巷有逃生路線。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "逃生"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 23:14"
+        },
+        {
+            "person": "李慶元",
+            "verb": "表示",
+            "opinion": "檢舉人也指控邱金榮利用技工甄選,向殯葬業者收取人頭費30萬元,安插人員進殯葬處工作。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "指控",
+                "利用",
+                "指控"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 23:14"
+        },
+        {
+            "person": "李慶元",
+            "verb": "說明",
+            "opinion": "2位造墓商中因為有1位是檢舉人,所以經過變音處理,錄音檔裡明確提到,邱金榮每個星期一下午都會打麻將,且每次皆有1至2位造墓商,若需要喬事情的話,就會故意輸錢給邱金榮,每次會故意輸1萬到3萬不等。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "故意"
+            ],
+            "positive_list": [
+                "明確"
+            ],
+            "datetime": "2022-06-09 23:14"
+        }
+    ]
+}

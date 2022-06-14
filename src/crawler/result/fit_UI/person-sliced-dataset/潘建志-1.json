@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/潘建志.png",
+    "opinions": [
+        {
+            "person": "潘建志",
+            "verb": "表示",
+            "opinion": "現在確診死亡再創新高,但有效的新冠口服藥開立人數仍偏低,沒有療效實證的清冠冠一號卻被提供給許多確診者服用,他點名要2名民進黨醫師立委出來說清楚。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "死亡",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "有效",
+                "有效的",
+                "清楚",
+                "創新"
+            ],
+            "datetime": "2022-05-26 11:31"
+        },
+        {
+            "person": "潘建志",
+            "verb": "表示",
+            "opinion": "先前美國加州大學(UCSF)醫學院的林慶順教授曾指出清冠一號療效證據力不足,他也寫過文章列舉事實。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不足",
+                "不足"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:31"
+        },
+        {
+            "person": "潘建志",
+            "verb": "強調",
+            "opinion": "「醫師應該永遠和人民站在一起!民主時代,更該堅守專業立場,不因黨派傾向而有所退讓。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:06"
+        }
+    ]
+}

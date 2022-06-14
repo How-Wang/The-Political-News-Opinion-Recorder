@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/SI公司.png",
+    "opinions": [
+        {
+            "person": "SI公司",
+            "verb": "回應",
+            "opinion": "雙方潛艦的構型不同,台灣潛艦排水量2000噸級,韓國排水量3000噸級,配置均不同,韓國技術圖說無法應用台灣。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:54"
+        }
+    ]
+}

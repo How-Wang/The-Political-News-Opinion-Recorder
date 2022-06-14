@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/審計部.png",
+    "opinions": [
+        {
+            "person": "審計部",
+            "verb": "發現",
+            "opinion": "不法,盡速移請檢調偵辦,同時要求檢調清查相關資金流向,向國人說明政府養網軍的錢,到底從哪裡來,呼籲檢調不要放水,請依法行政。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不法",
+                "要求",
+                "不要"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-30 22:01"
+        }
+    ]
+}

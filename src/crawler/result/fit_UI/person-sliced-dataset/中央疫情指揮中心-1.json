@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中央疫情指揮中心.png",
+    "opinions": [
+        {
+            "person": "中央疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日將在六都設立大型兒童接種站,台北將在自由廣場設置、台北榮總主責,而新北則是在板橋車站,並由部立台北醫院主責,消息一出也成為台北市議會質詢焦點。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-30 16:15"
+        },
+        {
+            "person": "中央疫情指揮中心",
+            "verb": "表示",
+            "opinion": "全國5至11歲戶籍人口第1劑接種率已達60.5%,加上該年齡層確診人數計算,全國5至11歲兒童社區涵蓋率已達74.2%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 11:44"
+        },
+        {
+            "person": "中央疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "今(9)日新增72921例本土確診個案,其中台中市新增10570例,中重症16例、病歿16例,確診人數連日來破萬,疫情仍處於高原期。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:51"
+        }
+    ]
+}

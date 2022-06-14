@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳敦義.png",
+    "opinions": [
+        {
+            "person": "吳敦義",
+            "verb": "表示",
+            "opinion": "都不討厭,這兩位都是認識很久的朋友,但他也強調,政治上不管什麼身分,一切都要大公無私,「至於是不是大公無私,大家是看得出來的。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "討厭",
+                "不是",
+                "討厭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:33"
+        }
+    ]
+}

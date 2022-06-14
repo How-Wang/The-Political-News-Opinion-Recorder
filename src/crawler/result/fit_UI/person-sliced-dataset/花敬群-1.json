@@ -1,0 +1,132 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "花敬群",
+            "verb": "表示",
+            "opinion": "確實警政署跟台北市警局,有它的那套邏輯。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "確實",
+                "邏輯"
+            ],
+            "datetime": "2022-05-25 12:41"
+        },
+        {
+            "person": "花敬群",
+            "verb": "指出",
+            "opinion": "基於司法院釋字第399號解釋,姓名權為人格權,如何命名為人民自由,應為憲法保障。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-25 10:32"
+        },
+        {
+            "person": "花敬群",
+            "verb": "表示",
+            "opinion": "基於姓名權是個人重要權益,民眾改名本應深思熟慮,對於立委提案增訂改名後一定期限內不得再改名的限制,內政部尊重立法院討論的結果。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "限制",
+                "不得"
+            ],
+            "positive_list": [
+                "重要",
+                "深思",
+                "尊重",
+                "熟慮",
+                "權益",
+                "尊重"
+            ],
+            "datetime": "2022-05-25 10:32"
+        },
+        {
+            "person": "花敬群",
+            "verb": "表示",
+            "opinion": "確實警政署跟台北市警局,有它的那套邏輯。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "確實",
+                "邏輯"
+            ],
+            "datetime": "2022-05-25 13:47"
+        },
+        {
+            "person": "花敬群",
+            "verb": "表示",
+            "opinion": "基於姓名權是個人重要權益,民眾改名本應深思熟慮,對於立委提案增訂改名後一定期限內不得再改名的限制,內政部尊重立法院討論的結果。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "限制",
+                "不得"
+            ],
+            "positive_list": [
+                "重要",
+                "深思",
+                "尊重",
+                "熟慮",
+                "權益",
+                "尊重"
+            ],
+            "datetime": "2022-05-25 12:02"
+        },
+        {
+            "person": "花敬群",
+            "verb": "指出",
+            "opinion": "基於司法院釋字第399號解釋,姓名權為人格權,如何命名為人民自由,應為憲法保障。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-25 12:02"
+        },
+        {
+            "person": "花敬群",
+            "verb": "表示",
+            "opinion": "擴大租金補貼專案將開放申請,歡迎有疑問的民眾在週一到週五上午8時至下午6時,撥打諮詢專線02-7729-8003,或到內政部不動產資訊平台查詢。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "疑問",
+                "疑問"
+            ],
+            "positive_list": [
+                "開放",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 18:49"
+        },
+        {
+            "person": "花敬群",
+            "verb": "表示",
+            "opinion": "擴大租金補貼專案是政府維護租屋族居住正義的重要里程碑,行政院今年5月核定本案為4年計畫,中央每年將編列300億預算,透過實際補貼來減輕國人生活負擔,以作為初入社會青年、新婚家庭、育有未成年子女(含胎兒)與弱勢家庭的靠山。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [
+                "正義",
+                "正義的",
+                "重要",
+                "減輕",
+                "實際"
+            ],
+            "datetime": "2022-06-08 18:24"
+        }
+    ]
+}

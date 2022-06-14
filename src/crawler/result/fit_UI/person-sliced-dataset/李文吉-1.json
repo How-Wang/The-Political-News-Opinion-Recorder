@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李文吉.png",
+    "opinions": [
+        {
+            "person": "李文吉",
+            "verb": "提到",
+            "opinion": "展位上最熱賣的書籍,是旅日台灣作家李琴峰新作《彼岸花盛開之島》,限量精裝版以及日文書封版都已經完售,她也是第一位榮獲日本最重要純文學獎項芥川獎的台灣作家。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-06-07 19:17"
+        }
+    ]
+}

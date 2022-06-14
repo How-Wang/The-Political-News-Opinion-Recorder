@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陸軍司令部.png",
+    "opinions": [
+        {
+            "person": "陸軍司令部",
+            "verb": "指出",
+            "opinion": "為強化聯合兵種營偵蒐能力,陸軍採購50套戰術型近程無人飛行載具(UAV),中科院去年底已完成系統整合,目前正執行功能與性能測試,預計下半年分批交裝,操作人員也考取無人機操作執照。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "無人"
+            ],
+            "positive_list": [
+                "完成",
+                "能力",
+                "聯合"
+            ],
+            "datetime": "2022-06-06 11:34"
+        }
+    ]
+}

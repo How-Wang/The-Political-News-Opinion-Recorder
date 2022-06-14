@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/歐洲人.png",
+    "opinions": [
+        {
+            "person": "歐洲人",
+            "verb": "說",
+            "opinion": "當中國認為「我們辦得到」,那麼中國就必然會這麼做。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "得到"
+            ],
+            "datetime": "2022-06-08 09:52"
+        }
+    ]
+}

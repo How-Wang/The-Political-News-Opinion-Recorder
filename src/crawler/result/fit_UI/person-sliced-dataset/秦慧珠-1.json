@@ -1,0 +1,46 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/秦慧珠.png",
+    "opinions": [
+        {
+            "person": "秦慧珠",
+            "verb": "指出",
+            "opinion": "台北市長照機構淪重災區,高達40%長者打過3劑疫苗仍染疫,死亡率更高達2.5%,讓人心痛台北市「很多老人都走了」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "心痛"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-07 16:19"
+        },
+        {
+            "person": "秦慧珠",
+            "verb": "發現",
+            "opinion": "台北市共有102家住宿型長照機構,總人數4951人,但據6月1日的統計,共有1565人確診,約佔31.6%;其中,打過3劑疫苗的老人共有3913人,但仍有高達40%的人確診。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:22"
+        },
+        {
+            "person": "秦慧珠",
+            "verb": "呼籲",
+            "opinion": "長照機構已成重災區,北市衛生局、社會局應嚴加督促機構做好防疫工作,不能讓長照機構繼續成為染疫高風險的地方。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "成為",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-07 15:22"
+        }
+    ]
+}

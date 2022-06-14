@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/朝鮮經貿文化情報DPRK.png",
+    "opinions": [
+        {
+            "person": "朝鮮經貿文化情報DPRK",
+            "verb": "表示",
+            "opinion": "這個地球上到處都有披薩專賣店,這並不稀奇,稀奇的是,到披薩專賣店用餐時,還能看歌舞表演,而且是剛才幫您製作披薩的美女店員親自表演,這也只有朝鮮這樣做了。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "稀奇",
+                "稀奇的"
+            ],
+            "datetime": "2022-05-26 17:29"
+        }
+    ]
+}

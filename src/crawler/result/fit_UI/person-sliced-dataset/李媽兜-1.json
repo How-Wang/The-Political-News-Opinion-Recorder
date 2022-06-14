@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李媽兜.png",
+    "opinions": [
+        {
+            "person": "李媽兜",
+            "verb": "發現",
+            "opinion": "促轉會的記載中,李媽兜戰後加入地下黨,後成為臺灣省工作委員會臺南市工委會委員兼書記。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-29 07:00"
+        }
+    ]
+}

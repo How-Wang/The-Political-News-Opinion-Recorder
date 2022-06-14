@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/婦女新知基金會.png",
+    "opinions": [
+        {
+            "person": "婦女新知基金會",
+            "verb": "表示",
+            "opinion": "27日將與婦團代表及林淑芬,於第25屆528台灣婦女健康行動會議結束後,拜會衛生福利部,並提交行動宣言,提供民眾對於合適名稱的社會共識及連署書,要求政府積極回應與處理。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "合適",
+                "健康",
+                "福利",
+                "衛生",
+                "積極",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 11:03"
+        }
+    ]
+}

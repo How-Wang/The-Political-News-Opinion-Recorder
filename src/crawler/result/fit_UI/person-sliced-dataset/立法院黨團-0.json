@@ -1,0 +1,52 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "立法院黨團",
+            "verb": "回應",
+            "opinion": "記者會,鄭運鵬表示,祝福朱立倫今天的行程一切順利,也希望美國可以用符合外交禮儀的最高層級,接待朱立倫所帶領的國民黨訪問團。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "符合",
+                "最高",
+                "順利",
+                "希望"
+            ],
+            "datetime": "2022-06-02 11:34"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "回應",
+            "opinion": "記者會,民進黨團副幹事長林靜儀表示,民進黨在縣市首長的提名部分,現在不是只有一個縣市沒有提名,還有好幾個縣市都還在評估階段,而且在5月中之前,有些縣市歷經議員初選,過程非常激烈,現在大家都非常疲勞。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "疲勞",
+                "激烈",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:56"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "表示",
+            "opinion": "希望未來台灣-斯洛伐克國會友好聯誼會的會長許智傑有機會能夠率團回訪斯洛伐克。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "希望",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-06-09 16:14"
+        }
+    ]
+}

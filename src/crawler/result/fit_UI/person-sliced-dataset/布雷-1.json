@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/布雷.png",
+    "opinions": [
+        {
+            "person": "布雷",
+            "verb": "說明",
+            "opinion": "台灣四周環海,海上交通線更是維持生存關鍵,因此維持台海安全與海上交通線的順暢,成為戰時能否延續作戰要點。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [
+                "安全",
+                "成為"
+            ],
+            "datetime": "2022-06-07 12:14"
+        }
+    ]
+}

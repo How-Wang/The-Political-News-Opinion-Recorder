@@ -1,0 +1,5160 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "中央不知道北市計畫就直接一道命令下來,「不要瞎指揮,造成地方困擾」,且三軍總醫院及其分院量能都還沒開出來,叫人家設篩檢站沒道理。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "困擾",
+                "命令",
+                "不知",
+                "不要",
+                "困擾",
+                "沒道理"
+            ],
+            "positive_list": [
+                "知道",
+                "道理"
+            ],
+            "datetime": "2022-05-21 11:57"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "此舉是造成地方困擾,批評不要瞎指揮、亂指揮,引來民進黨議員簡舒培反嗆,最瞎的就是你柯文哲,「你在鬼吼什麼?」對此,北市府發言人陳智菡表示,盲目擴張PCR量能只是製造問題,這時分散人力新增篩檢站,就是在錯誤的時間做錯誤的決策,表面工夫虛應故事、累死三軍。",
+            "negative_score": 14,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "批評",
+                "盲目",
+                "做錯",
+                "問題",
+                "瞎的",
+                "錯誤",
+                "錯誤的",
+                "不要",
+                "困擾",
+                "批評",
+                "盲目",
+                "做錯",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 19:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "「不要瞎指揮、亂指揮,造成地方的困擾」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 19:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "防疫最大問題是「戰略要講清楚」,講清楚就好,我們就配合,「你每天都不講然後叫我們猜,奇怪,怎麼打仗?」柯文哲21日上午出席動物之家中繼園區開幕記者會,受訪時表示,防疫最大問題是「戰略要講清楚」,如果真的要達到群體免疫,視為輕症,那也不是不可以,「問題是你指揮官從來沒有講清楚你的戰略是什麼」。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "打仗",
+                "沒有",
+                "奇怪",
+                "問題",
+                "不可",
+                "不是",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚",
+                "達到"
+            ],
+            "datetime": "2022-05-21 15:02"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "疫情這麼緊張,總是要先打完,否則沒辦法出去選舉。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "緊張",
+                "沒辦法",
+                "緊張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 14:56"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不要為了設而設,本來戰略計畫就是醫學中心留著當戰略預備部隊,但目前三總跟台大醫院的量能都還沒開出來,有需要應該是從既有的先加量,而非開設新的點。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 14:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "非從既有站點先加量,反造成地方困擾,批評不要瞎指揮、亂指揮,事先知道一定反對。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "困擾",
+                "批評",
+                "不要",
+                "困擾",
+                "批評"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 14:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "你想想看,如果一天確診8萬多人,每一個確診者要居隔3個人,「居隔24萬人有可能嗎?就不可能的事情」,不可能的事情還弄半天,所以政府下一道命令,行就行、不行就不行,連常識都知道那個不行,為什麼每天一直在搞?我跟你講,侯友宜是不太會罵人的人,他就抓狂了,因為新北確診者最多,首當其衝,難怪他會發脾氣。",
+            "negative_score": 10,
+            "positive_score": 1,
+            "negative_list": [
+                "不太",
+                "不可",
+                "不可能的",
+                "命令",
+                "發脾氣",
+                "脾氣",
+                "不可",
+                "發脾氣",
+                "脾氣",
+                "罵人"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 12:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "每一個確診者要居隔3個人,「居隔24萬人有可能嗎?就不可能的事情」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "不可能的",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "如今把醫病比放寬,一開始是確診來住院的很多都是來休息的,反正測個血氧機就算了,1比15的話OK,「現在住院的每個都要使用氧氣,還要1:15?這就是戰略戰術矛盾,奇怪」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "矛盾",
+                "奇怪",
+                "矛盾",
+                "算了"
+            ],
+            "positive_list": [
+                "休息",
+                "很多"
+            ],
+            "datetime": "2022-05-21 12:04"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "快篩陽視同確診是「不得不然」,在醫院也不是百分之百確定才能開刀,這是醫學常識,「快篩陽就是PCR陽93%是,就差不多了」,最讓他不高興的是陳時中後面那排人,當年都是同事、同一批老師教的,「為什麼醫術都變得不一樣,我無法理解」。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "不高",
+                "不高興",
+                "不高興的",
+                "無法",
+                "不是",
+                "不得",
+                "無法"
+            ],
+            "positive_list": [
+                "才能",
+                "高興",
+                "高興的",
+                "理解",
+                "確定",
+                "高興"
+            ],
+            "datetime": "2022-05-21 11:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "PCR確認當然是最好,如果是病人很少,幾個鐘頭PCR出來就算了,問題是當你8萬人的時候就是不可能,拖好幾天,做不到就做不到,快篩陽就是PCR陽93%是,就差不多了。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不到",
+                "病人",
+                "問題",
+                "不可",
+                "不到",
+                "問題",
+                "算了"
+            ],
+            "positive_list": [
+                "最好",
+                "當然"
+            ],
+            "datetime": "2022-05-21 11:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "不要為了設而設,本來的戰略計畫就是醫學中心留著當戰略預備部隊,「所以不管是三總跟台大,它的量都還沒開出來」,有需要應該是既有的先加量,而不是開設新的點,「所以常常是這樣,不要瞎指揮、亂指揮,造成地方的困擾」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "困擾",
+                "不是",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "你從中央直接下來,你也不知道我們的作戰計畫,突然下一道命令,三總總院的門診跟它的分院,量還沒開出來,為什麼要設第3個點?這沒有道理,這是戰術佈置錯誤。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "作戰",
+                "沒有",
+                "命令",
+                "突然",
+                "錯誤",
+                "不知",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道",
+                "道理"
+            ],
+            "datetime": "2022-05-21 11:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不要為了設而設,三軍總醫院目前院內名額是466,松山分院是160,也就是說,應該在現有的點增加作業容量,而不是設新的點。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-21 11:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己事先知道,而且反對,「不要瞎指揮,造成地方困擾」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 17:28"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "不要為了設而設,因為三軍總醫院名額466人、中山分院160人,現有應該要在現有的點提升能量,不是設立新的點,「不要瞎指揮,造成地方困擾」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "不是",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-05-21 17:28"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「我們台北市的計劃,本來就是防疫急門診擋在第一線,把醫院住院跟出院標準再弄嚴格一點,有需要是目前舊有的點先加量,而不是要去開設新的點,所以常常是這樣不要瞎指揮,亂指揮這樣會造成地方困擾。」",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "嚴格",
+                "不是",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 17:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "我可以講實話嗎?我事先知道,而且反對。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 14:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "快篩陽視同PCR陽其實「就差不多」,其例子就是前述所言,「不是全部檢查完才開刀」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "政府只要下一道命令,「行就行、不行就不行」,但為何每天還要這樣搞?他也直言,侯友宜平常不太罵人,但侯友宜生氣就是因為新北確診最多,首當其衝,難怪侯友宜會發脾氣。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不太",
+                "生氣",
+                "命令",
+                "發脾氣",
+                "脾氣",
+                "發脾氣",
+                "脾氣",
+                "罵人"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:28"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「我可以講實話嗎?我事先知道,而且反對」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 11:27"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "中央設置新篩檢站,他們一定會去維持交通,但打仗是要有戰略,因為北市計畫防疫急門診擋在第一線,同時將住院標準嚴格、防疫專責旅館加量,加上65歲以下用車來速、65歲以上用防疫急門診分流,系統效率才能達到最高。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "打仗",
+                "嚴格"
+            ],
+            "positive_list": [
+                "才能",
+                "效率",
+                "最高",
+                "達到"
+            ],
+            "datetime": "2022-05-21 10:56"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "不要為設而設,更批評中央不要瞎指揮、亂指揮,造成地方困擾,戰術布置錯誤。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "批評",
+                "錯誤",
+                "不要",
+                "困擾",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:06"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "PCR確診當然最好,如果是病人很少慢幾個鐘頭,「問題是8萬人的時候不可能,要拖好幾天,做不到就是做不到」,快篩陽就PCR陽達93%,就差不多了,不是全部檢查完才可以開刀,這醫學常識。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不到",
+                "病人",
+                "問題",
+                "不可",
+                "不到",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "最好",
+                "當然"
+            ],
+            "datetime": "2022-05-21 15:05"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "PCR確診當然最好,如果是病人很少慢幾個鐘頭,「問題是八萬人的時候不可能,要拖好幾天,做不到就是做不到」,快篩陽就PCR陽達93%,就差不多了,不是全部檢查完才可以開刀,這醫學常識。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不到",
+                "病人",
+                "問題",
+                "不可",
+                "不到",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "最好",
+                "當然"
+            ],
+            "datetime": "2022-05-21 12:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「林鶴明說有問題可以打電話給陳時中時中,我跟你講侯友宜直接在媒體上呼籲多久了?我不想批評啦!我每天在自主應變,抱怨沒有用還是要解決問題。」",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "批評",
+                "沒有",
+                "抱怨",
+                "問題",
+                "有問題",
+                "批評",
+                "沒有",
+                "沒有用",
+                "抱怨",
+                "問題"
+            ],
+            "positive_list": [
+                "有用",
+                "自主",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-21 12:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他早就講過了「用網軍名嘴治國遲早會遭到報應」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "報應"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:26"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "完這句話,黃珊珊也頻頻點頭回應「報應說」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "報應"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:26"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "現在防疫最大問題就是戰略要講清楚,如果真的要達到群體免疫,而且認為是輕症,那也不是不可以,「問題是指揮官從來沒有講清楚,你講清楚我們就配合辦理」,國家戰略要講清楚,不是不可以講清楚就好。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "沒有",
+                "問題",
+                "不可",
+                "不是",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚",
+                "達到"
+            ],
+            "datetime": "2022-05-21 11:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "北市本來的計畫就是,防疫急門診擋在第一線,然後把醫院的住院出院標準弄嚴格,防疫專責旅館再加量,做到輕重分流,防疫急門診再分兩組,65歲以下儘量用車來速,65歲以上要抗病毒藥物,再去醫院防疫急門診,做分流讓系統效率最高。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "毒藥",
+                "嚴格"
+            ],
+            "positive_list": [
+                "效率",
+                "最高"
+            ],
+            "datetime": "2022-05-21 11:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "反對更說「不要瞎指揮、亂指揮,會造成地方的困擾。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "重話「不要瞎指揮、亂指揮,會造成地方的困擾。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "不要為了設而設,三軍總醫院目前院內篩檢量的名額是466,松山分院則是160,他強調原先的戰略計畫是由醫學中心來成立戰略預備部隊,不管是三總還是台大的量都還沒開出來,「有需要,舊有的點先加就好,而不是要去開設新的點。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "不是",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他事先知道這件事「而且反對」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 11:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "篩檢站設了就一定會去維持交通,但他也認為打仗是有戰略的,北市計畫本來就是防疫急門診擋在第一線,然後把醫院的住院、出院標準弄嚴格,然後防疫專責旅館再加量,以做到輕重分流,然後防疫急門診再分兩組,65歲以下儘量用車來速、65歲以上要抗病毒藥物,再去醫院的防疫急門診做分流,讓系統效率最高。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "打仗",
+                "毒藥",
+                "嚴格"
+            ],
+            "positive_list": [
+                "效率",
+                "最高"
+            ],
+            "datetime": "2022-05-21 10:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "重話「不要瞎指揮、亂指揮,會造成地方的困擾。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 10:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他事先知道這件事「而且反對」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 10:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "是將醫學中心留作戰略預備部隊,所以不管三總跟台大量還沒有開出來,有需要應該舊有的點先加量,而不是要開設新的點,認為中央不該瞎指揮、亂指揮,徒增地方的困擾。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "作戰",
+                "困擾",
+                "沒有",
+                "不是",
+                "困擾",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "中央設了篩檢站,北市就一定會去維持交通。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己事先是知道的,且持反對立場,認為不該為了設而設。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "對立",
+                "對立"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 15:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "除了靠藥物治療,染病就得多休息,現在狀況好很多了,請大家不用擔心。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "休息",
+                "治療",
+                "很多"
+            ],
+            "datetime": "2022-05-23 21:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "因爲已打過3劑疫苗,雖然確診,但症狀還算輕微,昨天有發燒、咳嗽、肌肉酸痛、疲憊沒力,今天只剩下流鼻水症狀。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "下流",
+                "疲憊",
+                "發燒",
+                "下流"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 21:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己出現喉嚨不適、咳嗽、發燒等症狀,今日他在視訊會議上似乎仍感到不舒服,不停擤鼻涕、閉眼皺眉頭、甚至多次咳嗽。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不舒服",
+                "不適",
+                "發燒",
+                "皺眉",
+                "皺眉頭"
+            ],
+            "positive_list": [
+                "舒服"
+            ],
+            "datetime": "2022-05-23 16:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "質疑",
+            "opinion": "柯文哲過去主張「快篩陽性視同確診」,如今自己快篩陽卻做PCR,對此,副市長黃珊珊今聲稱,「在制度還沒改之前還是必須PCR,我想市長絕對是守法的。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "守法",
+                "守法的"
+            ],
+            "datetime": "2022-05-23 16:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己出現喉嚨不適、咳嗽、發燒等症狀,今日他在視訊會議上似乎仍感到不舒服,不停擤鼻涕、閉眼皺眉頭、甚至多次咳嗽。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不舒服",
+                "不適",
+                "發燒",
+                "皺眉",
+                "皺眉頭"
+            ],
+            "positive_list": [
+                "舒服"
+            ],
+            "datetime": "2022-05-23 12:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "當初柯文哲說中央不幫忙,現在中央幫忙了又抱怨,真是個難伺候的巨嬰。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "抱怨",
+                "抱怨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 11:16"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "機車被歧視這麼多年了,機車團體這麼多,也不斷發起抗爭、請願,但政府好像都不痛不癢,希望這次能多點立委、議員正視此事,讓機車路權越來越進步。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不斷",
+                "歧視",
+                "機車"
+            ],
+            "positive_list": [
+                "希望",
+                "進步",
+                "希望"
+            ],
+            "datetime": "2022-05-23 19:18"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "北市府大部分會議已經改成線上,接下來的七天,自己還是會參加會議,繼續工作,彭振聲、蔡炳坤、黃珊珊三位副市長,也會辛苦一些,幫忙分擔業務,他坦言,實在有點過意不去,但也想趁這個機會,向全台灣所有的醫護人員表達最深的敬意。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "辛苦",
+                "過意",
+                "過意不去"
+            ],
+            "positive_list": [
+                "參加",
+                "實在",
+                "機會"
+            ],
+            "datetime": "2022-05-23 11:38"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "中央不幫忙,現在中央幫忙了又抱怨,真是個難伺候的巨嬰。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "抱怨",
+                "抱怨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 10:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "要趁這個機會「用確診者的角度,檢視目前防疫體系可以如何優化,讓民眾得到更好的照顧。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "得到",
+                "機會"
+            ],
+            "datetime": "2022-05-23 06:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "身邊的人一一確診,「我當然不是九命怪貓」,昨日起床咳嗽就覺得喉嚨怪怪的,快篩後看到兩條線還想著「會不會是偽陽性?」剛好郭台銘借給他一台口水PCR機,再驗一次還是陽性,立刻預約醫院防疫急門診進行PCR。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不是",
+                "不會"
+            ],
+            "positive_list": [
+                "進行",
+                "當然"
+            ],
+            "datetime": "2022-05-23 06:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「郭台銘董事長借我們一台口水機,這個竟然也是陽性。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "竟然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:34"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "現在為止「黑數一定有」,但他不認為北市黑數比高雄多,這種事情根本不用比較。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "解釋",
+            "opinion": "首都生活圈人流大,疫情來就首當其衝,加上台灣是一日生活圈,病毒慢慢擴散到其他地區,最後到達平均,特別是台中、台南、高雄疫情都可能會追上,這是可預期的事情,而公衛模型也都很清楚,所以沒有覺得很奇怪,這是預期中的事情。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "奇怪",
+                "沒有"
+            ],
+            "positive_list": [
+                "特別",
+                "清楚"
+            ],
+            "datetime": "2022-05-24 16:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「也不是壞事啊」,但總統到第一線鼓勵的程度比較多,因為術業有專攻,不過總統願意關心第一線工作人員總是好事。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "好事",
+                "壞事",
+                "不是"
+            ],
+            "positive_list": [
+                "好事",
+                "鼓勵",
+                "關心",
+                "願意",
+                "好事",
+                "關心",
+                "願意"
+            ],
+            "datetime": "2022-05-24 16:18"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "發現",
+            "opinion": "柯文哲不在家居隔?柯文哲今天透露,原本想要住防疫旅館,但如果住防疫旅館又擔心會被攻擊,因為自己曾說防疫旅館要留給醫院使用,所以後來因有個朋友確診,其朋友索性將太太、小孩安置住進另一間,他們兩確診就住在一起解決。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "攻擊",
+                "透露",
+                "擔心",
+                "攻擊",
+                "擔心"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-24 16:05"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "北市3車來速加上松機篩檢站,相當有效解決醫院急診壓力。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [
+                "有效",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-24 15:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "北市最成功策略是「防疫急門診」,像是北市3車來速篩檢站,1天可以處理4000多人,加上松山機場篩檢站算進去,在週日處理了5500人,相對一天9200多人看防疫急門診,3車來速加上松山機場篩檢站就處理了超過一半,相當有效解決醫院急診壓力。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "超過",
+                "壓力"
+            ],
+            "positive_list": [
+                "成功",
+                "有效",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-24 15:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "政黨支持度有基本盤,事件效應當然會有影響,他更自嘲,終究民眾黨還是小黨,「我們心裡有數,連找人出來選議員都要找老半天。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-24 17:05"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "如果本來都不管的話,洪峰會很大,預計每天最高應該好幾萬,現在有效壓在每天一萬的速度,雖然還有些黑數,但真正影響確診人數的是疫苗覆蓋率,還有人種差異,但是這沒辦法,他更強調,人為操控因素中最後會影響的就是疫苗覆蓋率。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "人為",
+                "不管",
+                "差異",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "有效",
+                "真正",
+                "最高"
+            ],
+            "datetime": "2022-05-24 16:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "這幾天會再思考,也會請蔡炳坤副市長跟教育局衡量,還有社會局托育等問題,最慢周四就會宣布。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "思考"
+            ],
+            "datetime": "2022-05-24 16:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "內部正在討論,最慢周四就會宣布。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說明",
+            "opinion": "當時的想法是,三總院本部跟松山的分院量能還沒開上去,但既然開了就開了,事情做了,就發揮更大功效,他表示,本來計劃是已開量能達到最高後,不夠再開新的點。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [
+                "最高",
+                "達到"
+            ],
+            "datetime": "2022-05-24 16:01"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "中央指示增設松機篩檢站是瞎指揮,他今(24)日透過視訊方式召開防疫記者會,他受訪時表示,既然開了就開了,事情做了就發揮更大功效。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:01"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他自己也在反省,雖然有時候看不順眼就罵人,「但是我絕對不會去明明知道人家不是這個意思,故意去黑人家或斷章取義。」",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "故意",
+                "絕對",
+                "不是",
+                "不順眼",
+                "不會",
+                "罵人"
+            ],
+            "positive_list": [
+                "知道",
+                "順眼"
+            ],
+            "datetime": "2022-05-24 15:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "提到",
+            "opinion": "過去將近兩個禮拜,雙北地區感染人數相當固定,他希望在防疫跟經濟發展取得平衡,所以市府沒有採取強制措施,讓經濟可以存活,希望在未來一個半月內,把可能感染的人都感染完畢,台灣就可以順利解封。",
+            "negative_score": 4,
+            "positive_score": 7,
+            "negative_list": [
+                "沒有",
+                "強制",
+                "感染",
+                "沒有"
+            ],
+            "positive_list": [
+                "平衡",
+                "希望",
+                "固定",
+                "發展",
+                "順利",
+                "平衡",
+                "希望"
+            ],
+            "datetime": "2022-05-24 15:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "呼籲",
+            "opinion": "若符合條件「快篩陽就給藥」,他本身是否服用抗病毒藥物「Paxlovid」,也引起外界關心,更被資深媒體人周玉蔻質疑「柯文哲為什麼不敢吃藥」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "毒藥",
+                "質疑"
+            ],
+            "positive_list": [
+                "符合",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 15:17"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "呼籲",
+            "opinion": "若符合條件「快篩陽就給藥」,他本身是否服用抗病毒藥物「Paxlovid」,也引起外界關心,更被資深媒體人周玉蔻質疑「柯文哲為什麼不敢吃藥」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "毒藥",
+                "質疑"
+            ],
+            "positive_list": [
+                "符合",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 12:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市醫療量能絕對比高雄高,黑數也不會比高雄多,南部疫情會逐漸追上北部,本來就是預期中的事。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "絕對",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說明",
+            "opinion": "有部分民眾即使有症狀,不一定會快篩,而快篩陽性者,不一定會做PCR,所以台北一定會有黑數,但不會比高雄多,這種事情不必多做比較。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "他未滿65歲,不符合用藥標準,喊話周玉蔻不要抹黑。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不符",
+                "不要",
+                "抹黑"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-05-24 17:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "若確診者低於65歲,則要患有腎臟病、肝病等疾病才能拿到Paxlovid,他未滿65歲根本不符合服用Paxlovid的標準。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不符",
+                "疾病"
+            ],
+            "positive_list": [
+                "才能",
+                "符合"
+            ],
+            "datetime": "2022-05-24 17:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己再問問看局長怎麼回事,選舉到了,更要堅守依法行政底線,才能減少很多麻煩。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "麻煩",
+                "減少",
+                "麻煩"
+            ],
+            "positive_list": [
+                "才能",
+                "很多"
+            ],
+            "datetime": "2022-05-25 22:11"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "北市府的原則是依法行政,除非大家對徐巧芯違規停車、違反傳染病防治條例有意見,才有權利要求調密錄器出來看,「至於警察記申誡,我再問問看局長怎麼回事。」",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "傳染",
+                "傳染病",
+                "違反",
+                "有意",
+                "違反",
+                "違規"
+            ],
+            "positive_list": [
+                "有權"
+            ],
+            "datetime": "2022-05-25 22:11"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "這幾天,雙北的確診人數略為下降,停在一個高原期,後續變化仍在觀察中。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-25 21:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "醫師開藥前,會先確認吃這個藥會不會與病患目前服用的藥物產生交互作用,所以光是問診就可能15分鐘,為了避免車來速變車來慢,臺北市的車來速防疫急門診,將不會提供抗病毒藥物,只給一般鎮熱止痛藥物。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "毒藥",
+                "避免",
+                "不會"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-05-25 21:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "北部的洪峰大概過了,現在就是高原期怎麼維持,現在壓力會慢慢轉到中南部去,但因為不是同時到達,政府可以做重心移轉,一個一個來各個擊破,再撐兩個月台灣就解封了。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "壓力",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 17:20"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說明",
+            "opinion": "自己不用當印度神童,疫情拖多久與政府控制有關,若維持北市單日確診數1萬人,估計約2個月就解封。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "神童"
+            ],
+            "datetime": "2022-05-25 17:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "只要政府把戰略講清楚,大家幾乎都會跟著做,但現在問題是「台灣政治不太習慣說清楚、講明白,都很隱晦,(甚至)有時候要猜。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不太",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "明白",
+                "清楚",
+                "習慣"
+            ],
+            "datetime": "2022-05-25 17:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "北市府的原則是依法行政,徐巧芯違規停車有罰錢,罰了900元;被人家說沒戴口罩,也依照違反傳染病防治法,再罰3000元。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "傳染",
+                "傳染病",
+                "違反",
+                "違反",
+                "違規"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 17:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「有時候選舉到了,流彈四飛。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 17:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "依法行政,該罰就罰,只有這樣才能省去很多麻煩。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "麻煩",
+                "該罰",
+                "麻煩"
+            ],
+            "positive_list": [
+                "才能",
+                "很多"
+            ],
+            "datetime": "2022-05-25 17:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "宣布",
+            "opinion": "北市防疫急門診戰略,如果大於65歲以上民眾,或是65歲以下,有肝硬化等免疫力較低的疾病,需要吃抗病毒藥物者,原則上到醫院防疫急門診領藥,但不要到台北市3家車來速,現在車來速是提供給65歲以下身體健康、僅需要發燒、止痛、喉嚨痛的藥物者。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "毒藥",
+                "疾病",
+                "發燒",
+                "不要"
+            ],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-25 16:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「快篩陽視同PCR陽」政策26日要上路,以臨床部分來看,儘管快篩陽視同PCR陽,醫生給藥標準也並非完全按照PCR陽性給藥,若是PCR陽性,但症狀輕微,就不需要給抗病毒藥物,「沒有症狀為何要吃藥?藥吃多了都是毒藥,藥不是補藥。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "毒藥",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 16:58"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "監測雙北每日公布的確診數,發現六日會下降一些,甚至天氣不好也會影響,六日不論看病、甚至實驗室檢查量能都會下降,到星期一確診數會回升,高峰是星期二,他指出,這個禮拜比上個禮拜有掉一點,就算有黑數,洪峰應該是落在上個禮拜,但接下來要看波峰維持多久。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "下降",
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-25 16:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "最慢週四宣布是否會提前放暑徦。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 11:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「我也不要再當印度神童」,疫情會拖多久其實與政府控制有關,地方政府過去就在規畫線上教學,有意踩剎車,假設地方堅持實體上課,每日確診數就是5萬、10萬。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不要",
+                "有意"
+            ],
+            "positive_list": [
+                "神童",
+                "堅持"
+            ],
+            "datetime": "2022-05-25 17:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "現在醫療量能還撐得住,如果確診數少,還可以適度放寬。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "適度"
+            ],
+            "datetime": "2022-05-25 17:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "開放政府、資訊公開透明大家就會跟著做,但可能是因為台灣政治習慣不說清楚、講明白,講得很隱晦,所以台灣戰略一直不太清楚。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "公開",
+                "明白",
+                "清楚",
+                "習慣",
+                "透明",
+                "開放"
+            ],
+            "datetime": "2022-05-25 17:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "視訊診療還需要時間改善,目前是先求有再求好,北市府會盡快找出問題並修正。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "改善",
+                "改善"
+            ],
+            "datetime": "2022-05-25 17:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "儘管台灣還有點手忙腳亂,可是已經撐過關,相對韓國、香港,台灣損傷仍舊最小。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "損傷"
+            ],
+            "positive_list": [
+                "過關"
+            ],
+            "datetime": "2022-05-25 17:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "做足準備當然很好,但坦白說疫情變化已經超出預期,台灣不可能永遠清零,所以下一步就是與病毒共存,如何用最低的成本達到目標。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不可",
+                "最低",
+                "超出",
+                "不可"
+            ],
+            "positive_list": [
+                "坦白",
+                "很好",
+                "準備",
+                "當然",
+                "達到"
+            ],
+            "datetime": "2022-05-25 17:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "其他國家現在才要讓5歲以下兒童打疫苗,有些事情要等到後面發展,才知道前面有需要,抱怨也沒有用。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "抱怨",
+                "沒有",
+                "沒有用",
+                "抱怨"
+            ],
+            "positive_list": [
+                "有用",
+                "知道",
+                "發展"
+            ],
+            "datetime": "2022-05-25 17:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "質疑",
+            "opinion": "「已經確診在A地隔離中的患者,可以再換去其他B地隔離嗎?」、「平民確診在家吃退燒藥就好了,官小孩送急診」、「市長兒女命較高尚,高燒就可擠急診」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "患者",
+                "隔離"
+            ],
+            "positive_list": [
+                "高尚"
+            ],
+            "datetime": "2022-05-26 18:56"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "趕快把問題解決比較重要,一個制度要上線需要時間,現在可通訊診療處理,還是需要時間,後面也衍生很多問題,包括防疫險、法律文件等等,每個政策後續反應相當多,要有前置的時間,已經走到這個地步就趕快應變。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "法律",
+                "很多",
+                "重要",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-26 16:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "特別是臨床上,今天死亡人數104人創新高,未來幾天恐怕還會上升,這個要趕快看怎麼辦。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡",
+                "恐怕",
+                "恐怕"
+            ],
+            "positive_list": [
+                "特別",
+                "創新"
+            ],
+            "datetime": "2022-05-26 16:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "因為25日晚間得知兒子、女兒快篩陽性,且兒子發高燒送急診,現在一家五口有3人確診,剩下陳佩琪、另一名女兒沒感染,所以乾脆就讓陳佩琪與女兒住到外面旅館,感染的人全部都回家,結果回家後發現「當爸爸30年沒照顧過小孩,現在變成奶爸,要看有沒有發燒、藥有沒有吃。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "發燒",
+                "感染",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "他結束8年任期後應退休。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 17:17"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "民眾黨本來就是小黨,剛開始支持度不高,「所以不是前景堪憂,而是每天都在危機中」,要比別人努力才有機會,一步步往前進,過程會很辛苦。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不高",
+                "危機",
+                "辛苦",
+                "不是",
+                "危機"
+            ],
+            "positive_list": [
+                "努力",
+                "前進",
+                "機會"
+            ],
+            "datetime": "2022-05-26 17:17"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "是進攻2024總統大選,只不過台北市民似乎不再相挺。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "進攻"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 20:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "後面也衍生出很多問題,包括防疫險,若可視為法律文件等,每個政策後續引起的反應很多,要有前置的時間,但走到這個地步就趕快應變,他更提到,今天死亡人數104人,臨床上死亡人數創新高,未來幾天可能還會再上升,這個要趕快看怎麼辦。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "死亡",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "法律",
+                "很多",
+                "創新"
+            ],
+            "datetime": "2022-05-26 16:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "依法行政,會向局長了解詳情,今日被追問後續進度,黃珊珊則表示,北市府的立場就是支持警察依法行政,這是單純違規停車,該罰就罰、該辦就辦。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "該罰",
+                "違規"
+            ],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-05-26 17:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "長期以來,台北市的客觀指標都第一名,遙遙領先,雖然主觀滿意度偏低,他坦言,不高的話就要再努力,至於卸任後的工作,他提到以前2014年太陽花學運最有名的一句話「自己的國家自己救」,他直言,「對我來講,自己的工作自己找,反正卸任後找工作,自己會努力。」",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "不高"
+            ],
+            "positive_list": [
+                "有名",
+                "有名的",
+                "努力",
+                "滿意",
+                "滿意",
+                "遙遙領先",
+                "領先"
+            ],
+            "datetime": "2022-05-26 17:27"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "唾液快篩的準確度較低、執行上也比較麻煩,因此還需要蒐集數據研究,「還要再思考一下」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "麻煩",
+                "麻煩"
+            ],
+            "positive_list": [
+                "思考",
+                "準確"
+            ],
+            "datetime": "2022-05-27 17:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "到目前為止,中央也沒有發布唾液快篩的適應症、適用在什麼樣的病人以及時機。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "病人",
+                "沒有"
+            ],
+            "positive_list": [
+                "時機",
+                "適應"
+            ],
+            "datetime": "2022-05-27 17:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "小孩子的隱私不用因為爸爸當市長就要全部公開,但天下父母心,陳佩琪當醫生也很多年了,自己兒子昏倒打電話連講話都講不清楚。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "昏倒",
+                "不清"
+            ],
+            "positive_list": [
+                "公開",
+                "很多",
+                "清楚"
+            ],
+            "datetime": "2022-05-27 16:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "臨床上還是用「症狀治療」,發燒、頭痛、咳嗽、喉嚨痛等各種症狀,通常病人自己描述的症狀是最準的,他覺得不舒服就是不舒服、昏倒就是昏倒,一些客觀數據加上主觀感受,臨床上還是主張按照症狀治療。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不舒服",
+                "昏倒",
+                "病人",
+                "發燒",
+                "頭痛",
+                "頭痛"
+            ],
+            "positive_list": [
+                "治療",
+                "舒服"
+            ],
+            "datetime": "2022-05-27 16:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "吃飯沒問題啦,台北市外送平台這麼多,吃飯哪有問題,吃飯反而是小事,反正就暫時關在家裡。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "關在",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "若以「每10萬人口的感染人數」來看,以後各縣市的數字不會差太多。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "以六都確診數來看,台北市排到第五,北北基桃大至穩定,而台中跟高雄追上來了,代表病毒擴散出去了,大概之後所有縣市「每10萬人口的感染人數」,數字不會差太多。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-05-27 16:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市至今已約25萬人確診,意謂北市已有10%人口確診。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "還好啦!還有弟妹可以幫忙,所以奉勸各位,家庭還是很重要。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-27 16:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "北市12區的確診數分布蠻平均的,「代表病毒到處都有」,再就六都確診數來看,台北市排到第五,北北基桃大至穩定,而台中跟高雄追上來了,「代表病毒擴散出去了」,大概之後各地「每10萬會有多少人確診」,數字都會差不多。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "的確",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 16:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市本土今增加9503例、境外18例,目前全國死亡率比較高,因為確診案例跟死亡曲線落差10至11天,所以現在是反映10天前的確診數,死亡數還會維持一陣子。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "的確",
+                "增加"
+            ],
+            "datetime": "2022-05-27 16:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "六都確診數來看,台北市排到第五,北北基桃大至穩定,而台中跟高雄追上來了,代表病毒擴散出去了,大概之後所有縣市「每10萬人口的感染人數」,數字不會差太多。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-05-27 15:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市至今已約25萬人確診,代表北市已有10%人口確診了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市本土今增加9503例、境外18例,目前全國死亡率比較高,因為確診案例跟死亡曲線落差10至11天,所以現在是反映10天前的確診數,死亡數還會維持一陣子。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "的確",
+                "增加"
+            ],
+            "datetime": "2022-05-27 15:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不可諱言,這2年疫情,本來通膨就相當厲害,什麼都漲價,一定有很多社會底層受傷要處理,目前在疫情穩定狀況下,台北市政府已經展開紓困計畫,這禮拜已經把紓困要做的東西做一些整理。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "受傷",
+                "不可",
+                "不可諱言",
+                "東西",
+                "諱言"
+            ],
+            "positive_list": [
+                "很多",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 15:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "還好有弟妹幫忙,所以奉勸各位家庭很重要,他擔憂再過幾年,政府和個人間沒有家庭做緩衝,政府要照顧到每一個人很困難,因此疫情過後要審視家庭對社會的重要性。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "困難",
+                "沒有",
+                "擔憂",
+                "困難",
+                "沒有",
+                "擔憂"
+            ],
+            "positive_list": [
+                "重要",
+                "重要性"
+            ],
+            "datetime": "2022-05-27 16:43"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "台灣社會的大問題,就是父母8、90歲住在中南部,小孩也沒時間看,都是獨居老人,身體健康的時候都沒問題,但一跌倒就會很頭痛,他透露,媽媽在加護病房住了兩天,因為摔到變貓熊,瘀血也很多,但還是謝謝大家關心。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "透露",
+                "頭痛",
+                "問題",
+                "頭痛"
+            ],
+            "positive_list": [
+                "很多",
+                "健康",
+                "健康的",
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-27 16:35"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "吃飯沒有問題,北市外送平台那麼多,反正就是暫時關在家裡。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "關在",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:28"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "北市27日新增確診個案9503例、相較本土感染,境外移入已經微乎其微,代表社區感染是目前比較大的問題,另外,國內27日新增死亡個案126例,他坦言,死亡率比較高,若國家醫學水準越高,落差天數就會越大,目前的死亡曲線是反映出10天前的確診人數,他強調,目前的死亡人數還會維持一陣子。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "問題",
+                "感染",
+                "問題"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-27 16:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "北北基桃大概穩定,現在是台中、高雄追上來,代表病毒已經擴散到各地,之後每個縣市,大概10萬人感染人數差不多,而台北目前已有約10%人口染疫,已經過了峰值,下個問題是高原期還要維持多久。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "感染",
+                "問題"
+            ],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-05-27 16:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "宣布",
+            "opinion": "北市將啟動紓困,補貼振興經費共28.5億並公布九大紓困計畫,包括延稅、降稅、減租、免租、延租、優息、補貼、企業融資、勞工紓困。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "3個孩子中,1兒1女快篩陽性,兒子發高燒送急診PCR陽性。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:02"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "不過還好,後來送去醫院都有認識的同事會幫忙,不過照理來說發高燒也不應該昏倒,觀察以後還算穩定,謝謝大家的關心,但不用浪費時間討論這個問題。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "昏倒",
+                "浪費",
+                "問題",
+                "不應該",
+                "浪費",
+                "浪費時間",
+                "問題"
+            ],
+            "positive_list": [
+                "穩定",
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-27 18:11"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "質疑",
+            "opinion": "「隔離中為何可更換地點?」、「高官小孩發燒才要送急診」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "發燒",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:53"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "的看法為何?他表示,希望網軍可以說自己相信的話,「我這麼強力監督柯文哲、對他那麼嚴厲」,可是政治不外乎人性,當他的公子染疫的時候,「當然是給他祝福」,哪還會在網路上質疑他、修理說這是市長的小孩,所以是不是有什麼特權。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "特權",
+                "質疑",
+                "嚴厲",
+                "不是"
+            ],
+            "positive_list": [
+                "人性",
+                "希望",
+                "相信",
+                "修理",
+                "當然",
+                "希望"
+            ],
+            "datetime": "2022-05-28 12:46"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "郭彥均只是呼籲大家保持社交距離、避免疫情擴散,不要再給醫護製造壓力,「我看不出那裡煽動、造假?」【柯文哲臉書全文內容如下】:討厭人民發問,甚至把任何對政府的質疑都打成造假,進而箝制人民發聲,這是國家機器對人民的壓迫。",
+            "negative_score": 10,
+            "positive_score": 1,
+            "negative_list": [
+                "討厭",
+                "煽動",
+                "質疑",
+                "壓力",
+                "壓迫",
+                "避免",
+                "不出",
+                "不要",
+                "討厭",
+                "造假"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-05-28 23:04"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "反正網軍無所不在,笑一笑就好。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "有爭議的言論包括,「我是徐巧芯」、「我再回去講」、「沒關係你要開就開」、「我沒差900塊請你開單」等。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:05"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "民主國家本來就有各種聲音,刻意去壓制一個聲音,「沒有聲音不代表事實不存在。」",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不存在",
+                "沒有",
+                "壓制",
+                "沒有",
+                "壓制"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 17:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "因為柯媽跌倒送加護病房,有輕微顱內出血,所以原本上星期要回新竹,結果當天早上快篩呈現陽性,緊急到仁愛醫院PCR也是陽性反應,因此得居家隔離,便無法回去新竹看柯文哲媽。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "隔離",
+                "緊急",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 16:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "說,蘇貞昌院長親自下令調查,將《社維法》、《傳染病防治法》變成箝制人民的工具,這是國家機器對人民的壓迫,「今天不說話、明天說不了話。」",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不說話",
+                "傳染",
+                "傳染病",
+                "壓迫",
+                "不了"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 07:03"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「要能夠同理心老百姓的焦慮,所以也不用在這種事情,好像就把它當作什麼,違反什麼傳染病防治法,這樣法辦啦。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "焦慮",
+                "傳染",
+                "傳染病",
+                "違反",
+                "焦慮",
+                "違反"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 18:18"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "女兒症狀輕微像感冒,兒子吃藥後這幾天看起來穩定,沒太大問題。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "感冒",
+                "問題"
+            ],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-05-29 17:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "看不出郭彥均的PO文,哪裡煽動造假了,強調事實不會因為沒有聲音而消失。",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "消失",
+                "煽動",
+                "不出",
+                "不會",
+                "沒有",
+                "消失",
+                "造假"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:57"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "因為柯文哲媽跌倒送加護病房,有輕微顱內出血,原本上星期要回新竹探望,結果當天早上發現快篩陽性,緊急到仁愛醫院PCR後也是陽性反應,所以得居家隔離,無法回去新竹看柯文哲媽,雖然30日就要解隔,但他也要馬上回去上班,開始進行市議會總質詢,「恐怕要另外找時間回家看一下媽媽。」",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "恐怕",
+                "無法",
+                "隔離",
+                "緊急",
+                "恐怕",
+                "無法"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-29 17:32"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "表示,民主國家本來各種聲音都有,若刻意壓制聲音,不表示事實不存在,他也提到,家長確實有焦慮,所以政府要有同理心,這種事情不用當作違反傳染病防治法法辦,他直言,「沒有那麼嚴重,所以我倒覺得,政府就以一種同理心看待就好。」",
+            "negative_score": 12,
+            "positive_score": 1,
+            "negative_list": [
+                "不存在",
+                "沒有",
+                "焦慮",
+                "傳染",
+                "傳染病",
+                "違反",
+                "壓制",
+                "嚴重",
+                "沒有",
+                "焦慮",
+                "違反",
+                "壓制"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-05-29 17:07"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "該房間有一個小陽台,但自己大部分時間都是在旁邊的「超小書房」,而房內還有獨立衛浴設備,小孩則住在其他間房間,「有需要再出去看他們。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "獨立"
+            ],
+            "datetime": "2022-05-29 17:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "原則上在6月3日以前會將國小疫苗接種完畢,5歲以上幼稚園學生則會分12個行政區,並找一個地方集中處理;另外還有距離第2劑超過5個月的國中、高中生,也大概會在6月3日以前想辦法接種完畢,倘若學生疫苗間隔時間未超過5個月,代表抗體濃度還很高、仍在保護範圍內,所以「不要緊」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "幼稚",
+                "超過",
+                "不要",
+                "幼稚"
+            ],
+            "positive_list": [
+                "保護",
+                "要緊"
+            ],
+            "datetime": "2022-05-29 16:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "國小兒童疫苗部分,打算安排在6月3日以前打完,幼稚園5歲以上的學童,就分12個行政區找一個地方集中處理完畢,離第二劑疫苗滿5個月的國、高中生,也會在6月3日以前把該打完的打完一輪後,大概在6月6日那個禮拜就會恢復實體上課,他強調,打疫苗雖然不是保證不會感染,但至少感染症狀會比較輕。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "幼稚",
+                "感染",
+                "不是",
+                "不會",
+                "幼稚"
+            ],
+            "positive_list": [
+                "保證"
+            ],
+            "datetime": "2022-05-29 16:30"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "疫情已經趨緩,但總要等告一段落之後,疫情期間還有很多事情要處理。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-30 18:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "市長這個職位把事情做好就好、不一定非要有黨派。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "宣布",
+            "opinion": "黃珊珊代表柯文哲創建的台灣民眾黨參選台北市長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "將先返回台大醫學院工作,至於要不要選總統,「要選不用公布,不選才需要公布」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:54"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "不可能把全台北市的國小學生集中到中正紀念堂打疫苗,這是簡單的道理,上次松山機場篩檢站也是一樣,中央設置後2天就不用了,「要相信我們這些第一線的指揮官。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "相信",
+                "紀念",
+                "道理"
+            ],
+            "datetime": "2022-05-30 16:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "黃珊珊不會代表民眾黨參選,不過自己不會挺國民黨籍的蔣萬安。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 15:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "市長把市政做好即可,不太贊成一定要掛黨派,「真的!我內心想法就是這樣。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "贊成"
+            ],
+            "datetime": "2022-05-30 15:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "自己希望黃珊珊出來選,他內心認為市長階級把市政做好就好,不太贊成一定要掛黨派,內心想法是這樣。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "希望",
+                "贊成",
+                "希望"
+            ],
+            "datetime": "2022-05-30 16:38"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "提到",
+            "opinion": "自己每天都在監看病房數,他認為,現在為止,北市不會出現這個局面,但其他縣市有可能,因為北市醫療量能在全台最高,加上洪峰已過,所以只有其他縣市會有(可能出現這個)問題。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "問題",
+                "不會",
+                "問題"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-05-30 16:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "上次松山機場設置篩檢站,結果用了兩天後就不用,中央應該要相信「這些第一線指揮官」,因為打疫苗不需要群聚,特別是流感疫情接種是很多年都有制度,不要發明新的,現在他也不知怎麼因應。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知",
+                "不要"
+            ],
+            "positive_list": [
+                "很多",
+                "相信",
+                "特別"
+            ],
+            "datetime": "2022-05-30 16:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "應退休一事時回應,「卸任後自己的工作自己找」,引起討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "說,「不用,正常就好」,因為他沒事就進入電腦休眠,有事就會醒過來,反正都可以工作,自己也很習慣拖命工作。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "沒事"
+            ],
+            "positive_list": [
+                "正常",
+                "習慣"
+            ],
+            "datetime": "2022-05-30 15:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "還好,三餐都有人送來,餐點放在門口再出去拿就好。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "目前身體狀況還好,但還是會咳嗽、鼻塞,對於先前柯文哲媽何瑞英跌倒送加護病房,柯文哲則說目前狀況應該也還好,找時間會回去探望。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "柯文哲媽在加護病房房住了2天,「摔得變貓熊,瘀血很多」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-30 11:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "不可能把全台北市的國小學生都集中到中正紀念堂打疫苗,上次中央設置松山機場篩檢站也是一樣,過幾天就又不用了,「要相信我們這些第一線的指揮官。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "相信",
+                "紀念"
+            ],
+            "datetime": "2022-05-30 17:05"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "尊重候選人自己的決定,掛哪個黨籍他也沒意見,他也提到,很多國家的市長都是無黨籍,這是很好的文化,他強調,自己個人支持黃珊珊,但終究民主政治還是要由市民投票決定。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "很多",
+                "很好",
+                "很好的",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-30 16:11"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "計劃在6月6日恢復正常實體上課,但復課消息曝光後,引起部分家長反彈和擔憂,對此,他今(30)日表示,國高中比較沒問題,但小學、幼稚園方面,內部還在討論,「原則上就是6月6日恢復實體上課,但會給學校一個彈性。」",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "幼稚",
+                "問題",
+                "擔憂",
+                "反彈",
+                "幼稚",
+                "問題",
+                "擔憂"
+            ],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-05-30 15:18"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "12月25日卸任後應該是要先回台大醫學院,再討論下一步要怎麼做,因為他的本職還是在台大醫學院。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他不可能支持蔣萬安,台北市副市長黃珊珊還是訓練最好的;不過柯文哲也說,黃珊珊不會代表民眾黨參選,目前黃珊珊都還是無黨籍。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不會",
+                "不可",
+                "不會"
+            ],
+            "positive_list": [
+                "訓練",
+                "最好"
+            ],
+            "datetime": "2022-05-30 21:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "「我不曉得」、「中央不要亂下命令啦」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:02"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "這不算是謠言,不過他要失望也不是因為這件事,網軍玩過頭總有1天會遭到報應。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "失望",
+                "謠言",
+                "不是",
+                "失望",
+                "報應"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "民進黨的字典裡沒有認錯這個詞,所以也是很麻煩,他們就是會拗到底,其實這篇文章本身是沒什麼大問題,不用反應這麼激烈,不必要行政院長為了這篇做這個動作,用這個標準,那他們每天被K得不是更冤枉了。",
+            "negative_score": 9,
+            "positive_score": 1,
+            "negative_list": [
+                "不必要",
+                "沒有",
+                "問題",
+                "麻煩",
+                "激烈",
+                "不是",
+                "沒有",
+                "問題",
+                "麻煩"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-05-30 17:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己是主張管制放寬、不要拖太久,包含學校、社會局、民政局管的活動,不過現在大型活動還是進行,以目前本土確診每日8萬例,7月中應該還是會解封,「境外移入現在才40多例,邊境管制已經沒有意義。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "有意義",
+                "進行"
+            ],
+            "datetime": "2022-05-31 19:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "這是因為「莫德納抽單太多。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 16:53"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "「這是很白痴的命令。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:14"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「沒有啦!醫護人力要節省使用,真的。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:14"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "疫苗在學校都打一輪了,如果民眾當天有問題,還可以跟診所、醫院預約,系統在6月3日以前可以全部處理完畢,「你突然在中正紀念堂開大型接種站,你想幹什麼?人家都打完了,你設那個幹什麼?」包括先前的松山機場篩檢站也是一樣,近期防疫急門診預約量下降,不要認為「好像沒做事就是沒功勞」。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "下降",
+                "突然",
+                "問題",
+                "不要",
+                "有問題",
+                "完了",
+                "問題"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-05-31 12:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "秉持開放政府、全民參與、公開透明的政治原則處理問題,自己上任時大巨蛋議題已沸沸揚揚,面對問題是解決問題的第一步,當初並不是他決定開發權利金0、營運權利金0,且幾乎沒有什麼處罰,完全是不平等的條約。",
+            "negative_score": 11,
+            "positive_score": 10,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "不平等的",
+                "沒有",
+                "問題",
+                "處罰",
+                "不平",
+                "不是",
+                "沒有",
+                "問題",
+                "處罰"
+            ],
+            "positive_list": [
+                "公開",
+                "平等",
+                "決定",
+                "透明",
+                "透明的",
+                "揚揚",
+                "開放",
+                "開發",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-31 11:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「民眾黨沒有栽培她(黃珊珊)」,耿葳認為,有沒有栽培每個人的講法不同。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "苗博雅應該請教陳智菡,而不是找衛生局長,苗博雅聽聞不滿表示,「現在議員質詢誰也要被市長指定?」她最後要求給一週的時間,讓陳智菡交報告。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不滿",
+                "要求",
+                "不是",
+                "不滿"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 16:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "宣布",
+            "opinion": "6月1日起分別於台北自由廣場、新北板橋車站、桃園巨蛋體育館、台中自然科學博物館、台南市立圖書總館、高雄展覽館等地設置5至11歲兒童疫苗大型接種站,但柯文哲昨日指稱這很「白痴」,認為應該去學校打,中央不要亂下命令。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "命令",
+                "不要",
+                "白痴"
+            ],
+            "positive_list": [
+                "自由",
+                "自然",
+                "自由"
+            ],
+            "datetime": "2022-05-31 15:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "不會超過70%;教育局長曾燦金補充,有意願的是50%。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "超過",
+                "不會",
+                "有意"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 15:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "考量疫情變化反映在大眾運輸運量,因此相關措施是參考捷運流量來計算,另外,到底應該紓困店家還是個人,還需要通盤考量。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "將要求公車業者配合相關違規開罰,以保障公車乘客及行人權益。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "違規"
+            ],
+            "positive_list": [
+                "權益"
+            ],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "會以黃珊珊副市長為此活動之主要負責人,進行局處間的整合。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "負責",
+                "進行"
+            ],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "雙北目前已開始有往下的趨勢,其他縣市尚不確定,通常會比臺北晚兩週。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不確",
+                "不確定"
+            ],
+            "positive_list": [
+                "確定"
+            ],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "會在6月3日全部打完,有按照行程表,教育局長曾燦金則回應,數據方面,因為有些在學學生是用戶籍做分析,目前用3個模式打,已經到32%,並規劃是這星期會打完。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 16:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「這個很白痴的命令」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 16:03"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "表示,人家問A就不要答B,他更批,此舉反而增加地方負擔,「就是沒必要,累死三軍而已。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "負擔",
+                "不要"
+            ],
+            "positive_list": [
+                "必要",
+                "增加"
+            ],
+            "datetime": "2022-05-31 11:57"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "「人家問A你就不要答B」,他表示,北市學生疫苗已安排學校在6月3日前會打完,就算學校打完一輪,有問題的話還可以到診所跟醫院預約,「系統在6月3日就會處理完畢,人家都打完了,你設那個幹什麼?像松山機場篩檢站也是一樣,防疫急門診量現在也下降」,他認為,不要為了一定要做什麼事,好像沒做事就沒功勞。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "下降",
+                "問題",
+                "不要",
+                "有問題",
+                "完了",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:57"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "前市府讓利遠雄,在契約中明訂「不收權利金」,無法反映民間企業營運獲利與政府分享的公私協力精神,也不符合社會期待,他要跟台北市民宣布,北市府不只爭取到包底,還有營收分潤,「前朝做不到的、我們做到了!儘管我的任期有限,為市民爭取權益,我不會劃地自限。」",
+            "negative_score": 8,
+            "positive_score": 6,
+            "negative_list": [
+                "不到",
+                "不符",
+                "不會",
+                "無法",
+                "不到",
+                "不會",
+                "無法",
+                "管我"
+            ],
+            "positive_list": [
+                "協力",
+                "符合",
+                "期待",
+                "獲利",
+                "權益",
+                "期待"
+            ],
+            "datetime": "2022-05-31 11:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「這個很白痴的命令」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:01"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "宣布",
+            "opinion": "6月1日起將協助6都設置大型接種站,提供5至11歲兒童施打COVID-19(2019冠狀病毒疾病)疫苗,廠牌以輝瑞為主,採隨到隨打,讓有需求家長帶著孩子儘快施打,台北市的地點為中正紀念堂自由廣場。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "疾病"
+            ],
+            "positive_list": [
+                "自由",
+                "協助",
+                "紀念",
+                "自由"
+            ],
+            "datetime": "2022-05-31 10:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市副市長黃珊珊還是訓練最好的,不過,黃珊珊不會代表民眾黨參選,目前黃珊珊都還是無黨籍。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "訓練",
+                "最好"
+            ],
+            "datetime": "2022-05-31 09:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "提出",
+            "opinion": "快篩即確診一事,隔日陳其邁則出面表態現在陽性率低,因此還不能這樣做,「柯文哲市長是醫療專業,他也馬上說這樣是對的。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 07:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "沒在看,能否代表台北市政府立場已然引起市民懷疑,我給了一星期的時間,還是請用正式公文回覆,想好再出手,對歷史負責吧。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [
+                "正式",
+                "負責"
+            ],
+            "datetime": "2022-06-01 22:38"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "每次一直在問當年怎樣,他後來覺得不想浪費時間討論當年問題,「所以我會在任內將這些歷史共業能清的儘量清掉,留下一個比較好的台北給下一代」。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "浪費",
+                "問題",
+                "怎樣",
+                "浪費",
+                "浪費時間",
+                "問題"
+            ],
+            "positive_list": [
+                "比較好",
+                "較好"
+            ],
+            "datetime": "2022-06-01 16:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "那是陳智菡的發言,議員應請教本人,不要問局長,最後苗博雅要求她一週內提出證據。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:59"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "這種東西,過一兩年再來討論。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "東西"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:59"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "政治上甚麼傳言都有,很多東西聽聽就好。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "東西"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-01 16:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "這種東西,過一兩年再來討論,他表示,不是台北市特別聰明,是因為每天看南韓、日本、越南、新加坡的疫情變化,每天看一圈,「他們都早我們兩個月,至少台灣多兩個月時間準備,看國外經驗,可以學到一課,這個模式可以。」",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不是",
+                "東西"
+            ],
+            "positive_list": [
+                "特別",
+                "準備",
+                "經驗",
+                "聰明",
+                "聰明"
+            ],
+            "datetime": "2022-06-01 16:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "沒在看,能否代表台北市政府立場,已然引起市民懷疑,「我給了一星期的時間,還是請用正式公文回覆,想好再出手,對歷史負責吧。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [
+                "正式",
+                "負責"
+            ],
+            "datetime": "2022-06-01 06:14"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "可於6月3日以前完成兒童疫苗在校接種。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-01 16:35"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "兒童疫苗也是要家長同意才能打,所以我們盡量呼籲,但還是給家長決定,畢竟台灣還是民主國家,不能像極權國家不分青紅皂白全部抓來打,在不動用國家公權力下,小學生疫苗涵蓋率50%「已達世界標準」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "抓來"
+            ],
+            "positive_list": [
+                "才能",
+                "同意",
+                "決定"
+            ],
+            "datetime": "2022-06-01 16:28"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市在防疫方面,很少有訴諸強制規定,理論上6月6日恢復實體課程,但國小生因為有疫苗假,可由家長自主決定,如果願意實體上課就上課,不願意則自行請假在家2天,「心安一點也無所謂。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不願意",
+                "強制"
+            ],
+            "positive_list": [
+                "自主",
+                "決定",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-01 15:11"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "質疑",
+            "opinion": "兒童疫苗在6月3日以前就會在校接種完畢,設置大型疫苗接種站是浪費醫療人力、增加地方負擔。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "負擔",
+                "浪費",
+                "浪費"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-06-01 11:09"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "設了就設了沒有必要再說,但針對現場有醫護空等一事指出,自己是醫界出身,知道醫護人員不爽會擺心中,表示人力要節省使用。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不爽",
+                "沒有"
+            ],
+            "positive_list": [
+                "必要",
+                "知道"
+            ],
+            "datetime": "2022-06-01 15:20"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "何必讓第一線醫護人員覺得來這裡不知道要幹什麼,這是他當市長多年經驗,公務人員不怕累,別讓他們覺得做這個沒意義,所以有時人力要節省使用。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不知",
+                "何必"
+            ],
+            "positive_list": [
+                "知道",
+                "經驗"
+            ],
+            "datetime": "2022-06-01 15:20"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "設了就設了,沒必要再講,但他強調,重點是節省使用醫護人力,因為自己是醫界出身,「何必讓第一線人員覺得來這邊幹什麼,我當市長這麼多年經驗,其實公務員不怕累,但不要讓他們覺得做這個沒意義,所以人力要節省使用。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不要",
+                "何必"
+            ],
+            "positive_list": [
+                "必要",
+                "經驗"
+            ],
+            "datetime": "2022-06-01 17:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北市將在6月6日恢復實體上課。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "台灣去年出超1400億美金,出口43%到中國大陸,且內部有36萬名陸配,以及自己到中國大陸昆山市看到10萬名台商,「就是因為關係很緊張,大家彼此互相仇視,所以才需要交流,不然惡意螺旋遲早會出事。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "惡意",
+                "緊張",
+                "仇視",
+                "緊張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 18:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "要調查;台北市資訊局長呂新科也允諾,在6月8日以前查出來。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "允諾"
+            ],
+            "datetime": "2022-06-02 17:46"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "是「數以萬計」,最難的地方就是如何拍出新意。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 16:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己不會去領;而今年4月後確診的公務員,則不提供北市府額外補償金。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 16:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "的在5天內投藥,依據臨床經驗,可少掉80%民眾死亡,等於540人免於死亡。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-06-02 15:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "「行家就知道我在講的意思」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-02 15:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "提出",
+            "opinion": "「快篩陽就給藥」、「否則會死很多人」等言論,卻被陳時中時中罵「病急亂投藥」,使柯文哲當時回應「行家就知道我在講的意思」,質疑柯文哲所稱的「行家」有無包括李秉穎、王必勝?柯文哲直言,行家包括李秉穎,但是「王必勝還不算行家。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [
+                "知道",
+                "很多"
+            ],
+            "datetime": "2022-06-02 15:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「差不多啦!差不多啦!有些可以避免。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-06-02 15:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "如果這個統計慢一點,數字會不一樣,比較合適的統計時機,應是疫情趨緩以後,而現在確診數還在上升,「我覺得會死的都還沒出現」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "死的"
+            ],
+            "positive_list": [
+                "合適",
+                "合適的",
+                "時機"
+            ],
+            "datetime": "2022-06-02 15:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "已安排在校接種,中央此舉是「白痴命令」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:47"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "這種天氣要穿防護衣,真的是一種折磨,「那會中暑,相當熱。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "折磨",
+                "折磨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:47"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "一般還是得以死亡診斷書為主,所以他也不太清楚,但前陣子超過PCR量能時,應該有些沒做PCR的確診者,所以也認為有黑數。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不太",
+                "死亡",
+                "超過"
+            ],
+            "positive_list": [
+                "的確",
+                "清楚"
+            ],
+            "datetime": "2022-06-02 14:10"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "便直接走入記者會會場內。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:17"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "中央在松山機場開設大型篩檢站是瞎指揮,被民進黨北市議員簡舒培嗆聲鬼吼什麼,負責該業務的衛福部醫服會執行長王必勝也說明必要性,但近日到松機篩檢站採檢的民眾卻遠不如預期。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不如",
+                "不如",
+                "嗆聲"
+            ],
+            "positive_list": [
+                "必要",
+                "負責",
+                "說明"
+            ],
+            "datetime": "2022-06-02 09:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不用,這一週就夠了,呂新科則允諾會在下週三有調查報告。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "夠了"
+            ],
+            "positive_list": [
+                "允諾"
+            ],
+            "datetime": "2022-06-02 17:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "目前沒有研究,既有的研究也沒有分開調查。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "分開",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:03"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "每次一直在問當年怎樣,他後來覺得不想浪費時間討論當年問題。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "浪費",
+                "問題",
+                "怎樣",
+                "浪費",
+                "浪費時間",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:30"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "會徹查,並承諾於查清楚後,會在本月8日前將報告交給議會每一名議員。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "承諾",
+                "清楚"
+            ],
+            "datetime": "2022-06-02 21:59"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "是「打馬、屠龍、砍活寶」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:38"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "有問題的話會直接去衛福部,像疫調系統、疫苗等問題,他就會親自去衛福部找陳時中,「如果政策有問題,我就會去找他(陳時中)。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "是「數以萬計」,最難的地方就是如何拍出新意,在林炳存親自掌鏡下,除了傳統的握拳抱胸比愛心的競選照三寶外,還抓拍出阿北經典的抓頭照、可愛萌照、俏皮眨眼照等「表情包」,未來這些形象照除了與候選人合體宣傳外,也將在社群平台上,適時「開箱」柯文哲,甩開偶包的那一面。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "可愛",
+                "愛心",
+                "適時",
+                "可愛",
+                "愛心"
+            ],
+            "datetime": "2022-06-02 14:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "王必勝還不算行家,「小咖的,學術他不是專家」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "專家"
+            ],
+            "datetime": "2022-06-02 21:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "中央設置兒童大型接種站恐浪費人力,李秉穎則認為,設置接種站也沒什麼不好,畢竟COVID-19疫苗比較特別,不是每一間診所都能說打就打,萬一家長無法配合校園接種時,至少還有大型接種站可以施打。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "浪費",
+                "無法",
+                "不好",
+                "不是",
+                "浪費",
+                "無法",
+                "說打就打"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-02 11:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "蘇貞昌表示,我們看到有很多家長,因為學校暫時沒有實體上課,急著要打疫苗,而且為了減輕地方第一線診所的負擔,所以上個禮拜天,我們到台中的時候,蔡其昌副院長和到場的立委也都一再呼籲,希望能設大型兒童疫苗施打站。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "一再",
+                "沒有",
+                "負擔",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "很多",
+                "減輕",
+                "希望"
+            ],
+            "datetime": "2022-06-03 09:31"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "中央下令在六都,設兒童疫苗大型接種站,是好大喜功,累死三軍。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "大喜"
+            ],
+            "datetime": "2022-06-03 18:48"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "中央疫苗站打氣冷,應收起來,但蘇貞昌表示,六都疫苗站都受到熱烈歡迎。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "熱烈",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 12:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「市長這個職位把事情做好就好、不一定非要有黨派」,這聽在民進黨台北市議員王世堅耳裡,可能有些刺耳,日前王世堅議員接受《486會客室》節目專訪,就怒批柯文哲現在已無心市政,不甩市民滿意度「全國倒數第一」笑罵由人。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "刺耳",
+                "不甩"
+            ],
+            "positive_list": [
+                "接受",
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-06-03 12:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "目前疫情仍在高原期,大家還是要謹慎防疫,避免疫情竄升,所以請民眾減少聚餐,待在家立蛋、吃粽子,也很好。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "減少",
+                "避免"
+            ],
+            "positive_list": [
+                "很好",
+                "避免",
+                "謹慎"
+            ],
+            "datetime": "2022-06-03 15:09"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "自己之前沒有立過蛋,在頻頻失敗幾次過後,隨即嘆氣表示,「哀,怎麼有那麼無聊的代誌。」",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "失敗",
+                "沒有",
+                "無聊",
+                "無聊的",
+                "失敗",
+                "沒有",
+                "無聊",
+                "嘆氣"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:09"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "好像沒有必要維持禁止機車通行,回去會檢討看看;陳學台說,公車路線、交通量都已經改變,可以持續檢討。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "禁止",
+                "沒有",
+                "機車"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-06-05 23:05"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "最近全台掀起一陣回憶殺,許多中年心凌男孩,跌回18年前的粉紅泡泡,「雖然我的青春沒有這首《愛你》,但這首歌被改編成疫情版,有網紅模仿我唱起來,也邀我一起唱,那我就來唱個兩句。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 12:27"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "北市府公務員上班時間可以玩PTT,他會就此收手,不再繼續挖出那些尚未曝光的上班摸魚玩PTT帳號群,目前看起來北市府IP還有不少摸魚公務員帳號可以挖呢!民進黨台北市議員王閔生在市政總質詢上揭露,PTT帳號LoveError發表多篇文章,身分與內容被網友抓包不合理後還稱是幻想文,IP竟然在北市府。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合理",
+                "幻想",
+                "尚未",
+                "揭露",
+                "竟然"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-05 09:01"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「侯伯伯跟我雙北連線,確診數下降一點,希望我的忠言,時鐘能真的看見,王世堅讓我心甘情願愛你。」",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "下降",
+                "心甘情願"
+            ],
+            "positive_list": [
+                "心甘情願",
+                "希望",
+                "情願",
+                "心甘情願",
+                "希望",
+                "情願"
+            ],
+            "datetime": "2022-06-05 18:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「如果你突然打了個噴嚏,那一定就是covid19。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "突然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 18:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "中央把規則講清楚,地方就會遵守。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "遵守"
+            ],
+            "datetime": "2022-06-05 17:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "不曉得,重申一直以為是24小時要火化。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「雖然我的青春沒有這首《愛你》,但這首歌被改編成疫情版,有網紅模仿我唱起來,也邀我一起唱,那我就來唱個兩句」,但先警告「不准笑」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不准",
+                "沒有",
+                "警告",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 11:47"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "「這個我倒是很有把握,因為我們沒有錢養什麼網軍。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "有把握",
+                "有錢",
+                "把握",
+                "把握"
+            ],
+            "datetime": "2022-06-05 18:01"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他也一直以為是24小時,「昨(4)天才知道沒有。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "天才",
+                "知道"
+            ],
+            "datetime": "2022-06-05 17:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "副市長黃珊珊不會代表民眾黨參選台北市長,是否擔心若黃珊珊披親民黨戰袍,恐與國民黨票源重疊。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "擔心",
+                "不會",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 10:59"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "「我們沒有甩(鍋)」,因為自己一直以為(是這樣),但全台灣都這樣認為,問題是他會錯意,奇怪的是「全台都會錯意」。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "奇怪",
+                "奇怪的",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:23"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "不曉得,重申一直以為是24小時要火化,還強調中央把規則講清楚,地方就會遵守。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "遵守"
+            ],
+            "datetime": "2022-06-06 17:23"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "陳智菡發言有所本,當時回應,「發言人的事叫發言人回答就好了,我怎麼會落魄到變發言人的發言人」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "落魄"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:13"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "非常確信北市府沒有網軍,但也認為「上班時間太閒了」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "太閒",
+                "沒有"
+            ],
+            "positive_list": [
+                "確信"
+            ],
+            "datetime": "2022-06-06 14:41"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "不曉得,重申一直以為是24小時要火化,還強調中央把規則講清楚,地方就會遵守。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "遵守"
+            ],
+            "datetime": "2022-06-06 10:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "不曉得,重申一直以為是24小時要火化,還強調中央把規則講清楚,地方就會遵守。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "遵守"
+            ],
+            "datetime": "2022-06-06 09:54"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "不曉得,重申一直以為是24小時要火化,還強調中央把規則講清楚,地方就會遵守。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "遵守"
+            ],
+            "datetime": "2022-06-06 09:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "以前認知都以為是24小時內要火化,陳時中沒講以前都沒注意到,且已執行許久,認為全台不只有北市是在24小時內火化遺體,「全台灣的人都沒辦法體察陳時中的用意」,他並無甩鍋,但若全台都會錯意就奇怪了。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒注意到",
+                "奇怪",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "注意"
+            ],
+            "datetime": "2022-06-06 22:54"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "舉辦雙城論壇的策略上,應該是有問題才要處理,沒問題反而不需要處理,但現在看起來,問題還是蠻多的。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "自己也一直以為染疫死亡者24小時內要火化,一直到前一天才知道並非如此。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "天才",
+                "知道"
+            ],
+            "datetime": "2022-06-06 11:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "發現",
+            "opinion": "去年6月8日台北市疫情記者會時,媒體聯合提問「儘管中央現在不強制24小時之內火化確診遺體,有殯葬業向市府爭取疫苗,收到衛生局的來函,公文直接抱歉難以配發,議員質疑為什麼殯葬處同仁已經可以施打疫苗,那為什麼殯葬業不能優先施打疫苗?」柯文哲當時就在場,但這問題是由副市長黃珊珊回答。",
+            "negative_score": 8,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "抱歉",
+                "問題",
+                "強制",
+                "質疑",
+                "難以",
+                "抱歉",
+                "問題"
+            ],
+            "positive_list": [
+                "衛生",
+                "聯合",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 05:55"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "一直到前天才知道不用24小時內火化,但這番說法卻被去年台北市疫情記者會的一段影片打臉。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "天才",
+                "知道"
+            ],
+            "datetime": "2022-06-06 05:55"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "當時調整社宅租金公式是考量因無法呈現區位,才納入地價稅、房屋稅,今年初調整後,透過調整區位係數解決,但區位不同、價格就不同,且「抽籤就抽籤」,政策都是需上線後再修正。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-06 21:34"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "陳智菡是台北市政府的發言人,發言還是代表台北市政府,講話一定有證據,但就像蔡英文的發言人問題,也不需要蔡英文來發言,如果議員有問題,由陳智菡自己回答比較好。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [
+                "比較好",
+                "較好"
+            ],
+            "datetime": "2022-06-06 17:57"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他也一直以為是24小時,「昨(4)天才知道沒有。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "天才",
+                "知道"
+            ],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他也一直以為是24小時,「昨(4)天才知道沒有。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "天才",
+                "知道"
+            ],
+            "datetime": "2022-06-06 13:48"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他也以為要在24小時內火化,直到4日才知道沒有這樣的規定。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-06 06:55"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "柯文哲當時差不多4、5月就在論壇上發表市政願景,所以有至少半年時間醞釀這個事情。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:36"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "口罩就另外處理,可以再討論,他更補充說明,口罩要看確診人數變化,還要再觀察,微解封、慢慢解、都知道每天感染多少人數,「口罩什麼時候拿不用講這麼大聲,但邊境管制現在是完全沒意義。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "大聲",
+                "感染"
+            ],
+            "positive_list": [
+                "知道",
+                "說明"
+            ],
+            "datetime": "2022-06-07 17:08"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "沒錢不會找網軍,甚至說如果有網軍,那一定是2014年民進黨幫忙的。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:55"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "國內一天確診8萬人、每天入境確診40個,邊境管制已經沒有意義,「邊境隨時都可以打開」;至於拿下口罩,柯則認為可以再討論。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "有意義"
+            ],
+            "datetime": "2022-06-07 16:31"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台北的高原期已經過了,南部還沒過。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:31"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "沒有規範要怎麼執行,台北市副市長黃珊珊則說明,傳染病防治法的確沒有規定24小時火化,但根據新冠肺炎指引,對屍體處理有2個原則,第一個是醫院車子入殮,第二個是收到遺體就逕送火化,因為二殯沒有地方暫存,不用24小時火化的問題在於遺體存放空間。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "傳染",
+                "傳染病",
+                "沒有",
+                "屍體",
+                "問題"
+            ],
+            "positive_list": [
+                "有規範",
+                "的確",
+                "規範",
+                "說明"
+            ],
+            "datetime": "2022-06-07 15:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "因為人民主動減少群聚,但也有一部分是「多數民眾已經染疫」,現在台北市紀錄的確診數達到14%,若將黑數加上去,恐怕已達20%人染疫,還要計算疫苗覆蓋率等,「事實上要大量爆發感染,這不容易。」",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "恐怕",
+                "減少",
+                "感染",
+                "爆發",
+                "恐怕"
+            ],
+            "positive_list": [
+                "主動",
+                "的確",
+                "容易",
+                "達到"
+            ],
+            "datetime": "2022-06-07 19:16"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "後,略為驚訝地說「喔!這麼多!」至於一殯、二殯有多少冰櫃、焚化爐?陳冠伶表示,一殯有228個冰櫃,二殯則是726個,加起來共954個,儘管現在冰櫃中沒有確診亡者,但一殯仍滿常爆滿,甚至不得不調冰貨櫃,而二殯滿的程度有8、9成,北市焚化爐則有14個。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "驚訝",
+                "不得",
+                "沒有",
+                "驚訝"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:22"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "那麼多醫護人員在台北市需要的時候出面幫忙,結果現在可以欠人家薪水?只是因為中央還沒發下來,但難道就不能先給嗎?特別是有醫護人員從三月欠到現在?柯文哲聽聞後驚呼:「欠這麼久?」璩大成坦言也正在試著努力看看,而黃珊珊趕緊說,「我們可以先墊支」,應曉薇則說:「就先墊嘛!」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "驚呼"
+            ],
+            "positive_list": [
+                "努力",
+                "特別"
+            ],
+            "datetime": "2022-06-07 16:35"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "嗯...這個」,但陳義洲對著柯文哲說,不要一直看他、看自己,對了就該去做,還說「市長不用怕,我時間有...我可以慢慢等。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 14:43"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "過「阿扁一開始是裝的後來真的病了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 05:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "疫情爆發當下,大家都沒有把握,最後就推一個衛福部長上去每天報明牌,後來發現報明牌好像每天喊「加零」聲勢不錯,後來就上癮了,報明牌報了兩年,結果現在才知道說「報不下去了」,但防疫不是只有防疫,還有很多問題要處理。",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "上癮",
+                "沒有",
+                "問題",
+                "爆發",
+                "不下",
+                "不是",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "有把握",
+                "把握",
+                "知道",
+                "很多",
+                "把握"
+            ],
+            "datetime": "2022-06-08 17:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "「你要變成鯊魚了」,特別是現在到這地步。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "鯊魚"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-08 17:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "跟羅智強交情不錯,但不曉得羅智強現在怎麼辦,接下來會再找機會跟他談談看。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-06-08 10:09"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "提到",
+            "opinion": "到底九二共識的內容是什麼,老實講到今天,他還是搞不清楚,所以結論是,有時候兩岸之間大家遇到什麼問題,還是務實地拿出來講,不要一直遷就在名稱,搞得最後沒有人知道自己在幹什麼。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "沒有",
+                "問題",
+                "遷就",
+                "不要",
+                "不清",
+                "沒有",
+                "問題",
+                "搞得"
+            ],
+            "positive_list": [
+                "老實",
+                "知道",
+                "務實",
+                "清楚"
+            ],
+            "datetime": "2022-06-08 17:46"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「九二共識」已經是30幾年前的事,那個年代已經過去了,新時代有新的問題,務實把問題拿出來講比較重要。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "重要",
+                "務實"
+            ],
+            "datetime": "2022-06-08 17:46"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "只要中央規則清楚,地方都會配合辦理,但這件事會鬧這麼大,是因為疫情2年前出現時,沒有疫苗、死亡率高,特別在年紀大族群,甚至70歲以上死亡率20%,相當可怕,當時的罹難者都是屍袋封住就盡速火化,後來大家也習以為常,現在疫情趨緩,疫苗也打了三、四劑,還有抗病毒藥物,疫情也沒有當時那麼嚴重。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "可怕",
+                "死亡",
+                "沒有",
+                "毒藥",
+                "嚴重",
+                "可怕",
+                "沒有"
+            ],
+            "positive_list": [
+                "特別",
+                "清楚"
+            ],
+            "datetime": "2022-06-08 17:14"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說明",
+            "opinion": "最新疫情狀況,台北市副市長蔡炳坤說明校園微解封方案,包括開放北市境內單日校外教學,以及畢業典禮採全線上方或混成模式辦理。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "開放",
+                "說明"
+            ],
+            "datetime": "2022-06-08 15:53"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "中央不會蓄意去剝奪人民權利,法令也是為了避免傳染,「但到底有沒有討論空間與權宜做法?我相信是有的。」",
+            "negative_score": 10,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "剝奪",
+                "傳染",
+                "蓄意",
+                "避免",
+                "權宜",
+                "不會",
+                "沒有",
+                "剝奪"
+            ],
+            "positive_list": [
+                "相信",
+                "避免"
+            ],
+            "datetime": "2022-06-08 09:40"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "活在世界上不可能每件事情都做對,不如就公開透明、要改進就改進。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "不如",
+                "不可",
+                "不如"
+            ],
+            "positive_list": [
+                "公開",
+                "改進",
+                "透明"
+            ],
+            "datetime": "2022-06-08 16:56"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "該員工是會展產業發展基金會開會決議懲處,也不是屬於北市管轄,「我沒有講什麼」,儘管他尊重其決定,但也透過市政會議傳達,自己相信每個人要為自己的行為負責,但不會今天發生這事情就要求斷絕北市電腦連外網、上班不准看fb等,他不會幹這種事情。",
+            "negative_score": 8,
+            "positive_score": 6,
+            "negative_list": [
+                "不准",
+                "不會",
+                "沒有",
+                "要求",
+                "斷絕",
+                "不是",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "決定",
+                "相信",
+                "負責",
+                "尊重",
+                "發展",
+                "尊重"
+            ],
+            "datetime": "2022-06-08 16:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說明",
+            "opinion": "並指出自己也深受網軍所害,強調民眾黨選舉經費是「0」,如何養網軍。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:01"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "疫情沒必要「超前部署」,適當部署就好,現在問疫情會不會在秋冬反撲,他也沒把握,過去2年都=信誓旦旦認為打滿2劑疫苗、達成70%群體免疫就可以不用戴口罩,結果自己打了3劑疫苗還是確診,「我根本沒辦法預測還會不會出現新的變種(病毒)。」",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "不會",
+                "沒把握",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "必要",
+                "把握",
+                "達成",
+                "適當",
+                "把握"
+            ],
+            "datetime": "2022-06-08 17:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "只要活在世界上,每天都有要面對的問題,所以認真過每一天、盡量快樂過每一天,每天都有新問題就應付、解決即可,抱持理性、務實、科學態度認真過每一天、快樂過每一天就好。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "快樂",
+                "務實",
+                "理性",
+                "解決",
+                "認真",
+                "快樂",
+                "解決"
+            ],
+            "datetime": "2022-06-08 17:33"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "公開透明就好,「我一貫的態度,有人批評拿回來看,該改的就改。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "批評",
+                "批評"
+            ],
+            "positive_list": [
+                "公開",
+                "透明"
+            ],
+            "datetime": "2022-06-08 16:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "「其實這個喔!公開透明就好。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "透明"
+            ],
+            "datetime": "2022-06-08 16:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "「那你應該理智跟感情都支持黃珊珊,不可以黨意超過民意,不可以黨意超過良心。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "超過",
+                "不可"
+            ],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "自己先前常說「防疫、紓困、振興與轉型」,這是面對疫情時政府要做的4件事情,不單單只有紓困,未來2年後回頭看,會發現台灣這2年防疫戰略最大的錯誤,就是「怎麼讓防疫去當總指揮」,這個有問題。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "錯誤",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:53"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "你是要送還是要拿回去?要當道具我就不接受,先講清楚。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "接受",
+                "清楚"
+            ],
+            "datetime": "2022-06-09 14:30"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "有扶龍王之稱的王世堅議員,每次總質詢都會送他禮物,「今天送了我一面鏡子,要我看看自己的靈魂,承認錯誤、從中學習」、「我也希望王議員照鏡子時,面對自己的內心,不要黨意凌駕民意,更不要讓黨意凌駕自己的良心」。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "錯誤",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "良心",
+                "承認",
+                "學習",
+                "希望",
+                "良心"
+            ],
+            "datetime": "2022-06-09 21:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他要特別謝謝王世堅有良心、講真話,也要鼓勵對方應該堅定支持黃珊珊到底,「別做個只聽黨意,違背自己良心的民代」。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "違背",
+                "違背"
+            ],
+            "positive_list": [
+                "良心",
+                "良心的",
+                "特別",
+                "堅定",
+                "鼓勵",
+                "良心",
+                "謝謝"
+            ],
+            "datetime": "2022-06-09 21:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "應該理智跟感情都要支持黃珊珊,不可以黨意超過民意,不可以黨意超過你的良心,不行。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "超過",
+                "不可"
+            ],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-09 20:42"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不管是什麼共識,「那個時代都已經過去了。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "沒辦法替侯友宜回答,每個人的政治風格不一樣,「要是我的話就全部拿出來,你要打就打,哪邊要改,回去改一改就好」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "如果是他的話,就會出來講,當時不要說是新北市,台北市都亂掉了,一天確診1、2萬人根本都亂掉了,為什麼當時要出來說快篩陽等於確診?因為就是沒辦法做疫調了。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不要",
+                "沒辦法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "如果是媒體要的話就不行,當事人的話,我的邏輯是可以,媒體要公審當然不同意,當事人要看的話就給他看。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不同意"
+            ],
+            "positive_list": [
+                "同意",
+                "當然",
+                "邏輯"
+            ],
+            "datetime": "2022-06-09 17:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "台北市政府會全部拿出來,我們的政治文化就是拿出來、有問題再檢討。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「該怎麼做就怎麼做,不需要未審先判,或是不審就先判沒有。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:06"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "應該理智跟感情都要支持黃珊珊,不可以黨意超過民意,不可以黨意超過你的良心,不行。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "超過",
+                "不可"
+            ],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-09 14:50"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "中央每次都是正式函請,副市長黃珊珊補充,有時她代表市長參加,讓王世堅批,所以他才說「沒事柯文哲,有事黃珊珊」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "沒事"
+            ],
+            "positive_list": [
+                "正式",
+                "參加"
+            ],
+            "datetime": "2022-06-09 15:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "這世界上有人被騙,應譴責騙人的人。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "騙人",
+                "騙人的",
+                "譴責",
+                "被騙"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "這是勸告、誠摯誠懇的呼籲,「王世堅議員我們總算有共同的想法,不見得每一件事情都相同,但有共同支持的人」,還是希望他民意可以克服黨意。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不見",
+                "勸告"
+            ],
+            "positive_list": [
+                "希望",
+                "誠摯",
+                "誠懇",
+                "誠懇的",
+                "克服",
+                "希望",
+                "誠摯",
+                "誠懇"
+            ],
+            "datetime": "2022-06-09 15:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不會,並反過來邀他支持黃珊珊選台北市;王世堅說,自己感情上百分百支持黃珊珊,但理智往往戰勝感情,故理智上支持民進黨人選。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-09 15:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不會,並希望「王世堅議員也堅定支持黃珊珊」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "希望",
+                "堅定",
+                "希望"
+            ],
+            "datetime": "2022-06-09 23:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "貪污縱容,上級不可能不知情。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "不知",
+                "貪污",
+                "縱容",
+                "不可",
+                "不知",
+                "貪污"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 23:14"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "他認為王世堅應該在理智上、感情上都支持黃珊珊,不該讓黨意壓過民意、黨意壓過良心,「這樣不行」;柯文哲更笑稱,總算是和王世堅有共同的想法了。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-09 16:47"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "趙少康選前每天罵他,「我也沒有必要做什麼人情給他」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "罵他"
+            ],
+            "positive_list": [
+                "人情",
+                "必要"
+            ],
+            "datetime": "2022-06-10 16:20"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "不曉得;財政局則說,台北市政府列出來的都有依規定捐贈,沒有捐給民眾黨,都有去檢核。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "捐贈"
+            ],
+            "datetime": "2022-06-10 15:14"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "我就是覺得說,國家的運作應該就是,我的一級首長事務官超過一半,不應該把整個國家全部都在搞政治,這是一個行政的團隊,所以他們平常也沒有在搞什麼政治。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "超過",
+                "不應該",
+                "沒有",
+                "搞什麼",
+                "搞政治"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 14:03"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "「我跟你講,這種話都有前因後果,很不幸我沒有政治幕僚,有政治幕僚就不會搞成這樣。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "不會",
+                "沒有",
+                "不幸",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 19:56"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "提到",
+            "opinion": "轄內「大龍國宅」歷屆市長、三十年來都無法解決,最後在柯文哲手上解決,特別是斯文里三期民眾掉眼淚,「別人做不到、柯文哲做了」,儘管被罵但對得起自己良心,還不忘拋出柯文哲「八年任期到底留給市民什麼?」林國成說,北市議會議員「少數對你不友善」,但多數議員對柯文哲政績是肯定,「市長、辛苦了」。",
+            "negative_score": 9,
+            "positive_score": 8,
+            "negative_list": [
+                "不友善",
+                "不到",
+                "辛苦",
+                "眼淚",
+                "無法",
+                "無法解決",
+                "不到",
+                "眼淚",
+                "無法"
+            ],
+            "positive_list": [
+                "友善",
+                "良心",
+                "肯定",
+                "特別",
+                "解決",
+                "友善",
+                "良心",
+                "解決"
+            ],
+            "datetime": "2022-06-10 16:06"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "這八年來留給市民「正常社會、政府可信、法律遵守、公務員服務老百姓、司法公平」等,重大建設必須要有耐心,這就是困難,所以一步一步還是可以解決。",
+            "negative_score": 2,
+            "positive_score": 11,
+            "negative_list": [
+                "困難",
+                "困難"
+            ],
+            "positive_list": [
+                "公平",
+                "可信",
+                "正常",
+                "法律",
+                "建設",
+                "重大",
+                "解決",
+                "遵守",
+                "公平",
+                "可信",
+                "解決"
+            ],
+            "datetime": "2022-06-10 16:06"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "防疫照理說要一視同仁,怎麼會有黨籍不同之分,「這不是我們要解釋,這反而是民進黨自己要解釋,總統召開會議怎麼問我們」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:49"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "謊?柯文哲高分貝反擊,「沒有民眾黨時都是民進黨在當」,承諾一週後會公開全部遴選會議記錄。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "承諾"
+            ],
+            "datetime": "2022-06-10 15:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "情感上支持黃珊珊選市長,理智上一定支持民進黨的候選人,這句話似乎讓蔣萬安不但鬆了口氣,更想討個罵。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 12:32"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "暗崁,也許用的名詞...太過於,怎麼講,在雙北疫情最嚴重的時候,你們也沒找雙北的首長討論啊。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "太過",
+                "嚴重",
+                "嚴重的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 21:29"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "每個長官都有內部管理,徐立信則建議,北市府應訂立規範辦法,讓主管機關各自決定,避免又有爭議發生,柯文哲回應表示,要訂規範也可以,只是不太好訂,反正遇到問題,大家再拿出來討論,也可以再內部討論看看。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不太",
+                "問題",
+                "避免",
+                "問題"
+            ],
+            "positive_list": [
+                "決定",
+                "規範",
+                "管理",
+                "避免",
+                "太好"
+            ],
+            "datetime": "2022-06-10 17:25"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "不曉得,但這個應該會有報表;台北市財政局長陳家蓁則回應,台北市政府列出的都有依規定捐贈,沒有捐給民眾黨,都有去檢核;但簡舒培質疑,端木正說跟富邦拿酬金捐給民眾黨,等於是富邦金的金庫通民眾黨的黨庫,要求北市檢視派任獨董的規定,並要求北市府要在一周內把獨董有無符合任命規則公開。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "質疑",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "捐贈",
+                "符合"
+            ],
+            "datetime": "2022-06-10 15:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "每個人政治風格不同,若是北市府會全部交出來,要打就打,有問題再檢討。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 11:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "王世堅問他,會不會支持黃珊珊選下一屆台北市長,他立刻回答當然,並反問「那你呢」,「果然真男人議員馬上坦承,感情上,他百分之百支持法學素養深厚、堅毅強韌的黃珊珊,而且黃珊珊當選市長,也是台北市議會的光榮。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "光榮",
+                "堅毅",
+                "當然",
+                "光榮"
+            ],
+            "datetime": "2022-06-10 09:38"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "確實只有執行,至於流標,是因遇到大環境等因素,目前已第3次重新上網招標。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-11 10:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "柯文哲承諾會改進,但二備金已經花在不該花的地方,而柯文哲市長也快要卸任了。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "改進",
+                "承諾"
+            ],
+            "datetime": "2022-06-12 17:41"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "自己感情上百分百支持台北市副市長黃珊珊,但理智往往戰勝感情。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-12 15:30"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃淑英.png",
+    "opinions": [
+        {
+            "person": "黃淑英",
+            "verb": "說",
+            "opinion": "器官的命名不應該有價值觀,應該以器官的功能、位置來命名,除了「處女膜」之外,婦團也主張應該將「惡露」等名詞更名,例如以產後排除物、產露等名詞取代,不該冠以「惡」的名稱,不要老是用一些歧視、污名的方式命名。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "排除",
+                "不要",
+                "不應該",
+                "老是",
+                "歧視"
+            ],
+            "positive_list": [
+                "有價值"
+            ],
+            "datetime": "2022-05-26 10:20"
+        }
+    ]
+}

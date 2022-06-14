@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/佛洛姆.png",
+    "opinions": [
+        {
+            "person": "佛洛姆",
+            "verb": "說",
+            "opinion": "的,現代的權威或領袖,已經不是一個具體的人物,而是一種被深化的概念,一種被標榜的價值。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 06:40"
+        }
+    ]
+}

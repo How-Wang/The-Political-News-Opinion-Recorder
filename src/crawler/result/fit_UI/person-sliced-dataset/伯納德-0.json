@@ -1,0 +1,49 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/伯納德.png",
+    "opinions": [
+        {
+            "person": "伯納德",
+            "verb": "說",
+            "opinion": "道:「我是台灣的朋友,台灣也一直是貝里斯的朋友,我們的外交關係已有32年了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 07:40"
+        },
+        {
+            "person": "伯納德",
+            "verb": "強調",
+            "opinion": "貝國立場,「貝里斯強力且堅定地做台灣後盾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-05-26 07:40"
+        },
+        {
+            "person": "伯納德",
+            "verb": "說",
+            "opinion": "道:「我是台灣的朋友,台灣也一直是貝里斯的朋友,我們的外交關係已有32年了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 08:14"
+        },
+        {
+            "person": "伯納德",
+            "verb": "強調",
+            "opinion": "貝國立場,「貝里斯強力且堅定地做台灣後盾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-05-26 08:14"
+        }
+    ]
+}

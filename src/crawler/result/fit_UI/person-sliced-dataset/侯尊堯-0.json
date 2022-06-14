@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/侯尊堯.png",
+    "opinions": [
+        {
+            "person": "侯尊堯",
+            "verb": "說",
+            "opinion": "「那這個人數也不是歷年最多,我想也是受到疫情的一些影響,所以我們做了選手跟觀眾的人潮分流,選手的部分也是當天,我們都會再做快篩。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 13:03"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蘇揆.png",
+    "opinions": [
+        {
+            "person": "蘇揆",
+            "verb": "表示",
+            "opinion": "此次天災造成的農損不僅限於西瓜,還包括荔枝等其他作物,受災地區除台中市外,也包括全台其他地區,請農委會以最快速度幫助農民,凡符合災害性天氣參數標準,即可免除現勘作業,並盡量從寬增加救助額度,同時盡力協助各地復耕所需肥料。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "災害"
+            ],
+            "positive_list": [
+                "免除",
+                "協助",
+                "符合",
+                "增加",
+                "幫助"
+            ],
+            "datetime": "2022-05-29 16:19"
+        },
+        {
+            "person": "蘇揆",
+            "verb": "說",
+            "opinion": "「非針對單一藝人」、意圖轉往「資訊戰」、「認知作戰」等說法,但依舊無法止住民眾怒氣。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "作戰",
+                "怒氣",
+                "無法",
+                "意圖",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 06:10"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "侯勝茂",
+            "verb": "表示",
+            "opinion": "昨天新光醫院有285名人員確診,馬上發給確診者關懷包,請他們好好休息。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "休息",
+                "關懷"
+            ],
+            "datetime": "2022-05-22 12:33"
+        },
+        {
+            "person": "侯勝茂",
+            "verb": "說",
+            "opinion": "新光醫院同仁能夠積極付出,再一次感謝所有防疫團隊、醫療團隊,他們這段時間確實很辛苦,我們也要給他們多多關懷、支持。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "感謝",
+                "確實",
+                "積極",
+                "感謝",
+                "關懷"
+            ],
+            "datetime": "2022-05-22 14:33"
+        },
+        {
+            "person": "侯勝茂",
+            "verb": "說",
+            "opinion": "「我跟總統報告一下,我們在外面第一線打仗的情況,上個禮拜我們最緊張的時候,這樣一上來,可是我覺得陳建仁時中時中做得很好,大家給他鼓勵應該給他鼓勵,他沒有讓我們醫療,出現像山崩式這樣的病情。」",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "打仗",
+                "沒有",
+                "緊張",
+                "緊張的",
+                "沒有",
+                "緊張"
+            ],
+            "positive_list": [
+                "很好",
+                "鼓勵"
+            ],
+            "datetime": "2022-05-22 13:08"
+        }
+    ]
+}

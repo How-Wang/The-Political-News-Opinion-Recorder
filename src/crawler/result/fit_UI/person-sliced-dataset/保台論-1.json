@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/保台論.png",
+    "opinions": [
+        {
+            "person": "保台論",
+            "verb": "說",
+            "opinion": "拜登在日本接受媒體提問:若台灣受到中國大陸攻擊,美國是否會在軍事上保衛台灣?拜登答:「會,我們對此有承諾」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [
+                "承諾",
+                "接受"
+            ],
+            "datetime": "2022-05-30 06:00"
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "除了加強新進人員訓練,也呼籲僑民可以用其他替代方案抵台。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-05-25 13:08"
+        },
+        {
+            "person": "外交部",
+            "verb": "指出",
+            "opinion": "也擬有完整規畫,系統提供整併表件、打包整理等功能,使旅行社送件流程更為順暢。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-05-26 13:37"
+        },
+        {
+            "person": "外交部",
+            "verb": "指出",
+            "opinion": "這項系統全面開辦後,未來國人申辦護照仍可依現行紙本方式填寫「簡式護照資料表」,或採用網路填表的服務,填表系統另包括「上傳數位照片」及「預約申辦時段」的功能供民眾使用。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-05-26 13:37"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "第75屆世界衛生大會(WHA)昨天在日內瓦閉幕,與會各國對於終結疫情的期盼及對俄烏情勢的關切,充分呼應大會主題「醫衛和平.相輔相成」,同時各國也更加認同積極貢獻國際公衛及人道援助的台灣,是全球公衛機制不可或缺的利益攸關者。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "充分",
+                "利益",
+                "和平",
+                "衛生",
+                "積極",
+                "期盼",
+                "認同",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 10:06"
+        },
+        {
+            "person": "外交部",
+            "verb": "指出",
+            "opinion": "今年理念相近國家挺台力道更明顯增強,在WHA全會共有美國、英國、澳大利亞、法國、德國、加拿大、盧森堡、立陶宛、捷克、日本及紐西蘭11國及馬爾他騎士團,以直接或間接方式發言支持,其中法、德、盧、立、捷5國是首度明確提及台灣;在有限的發言時間中,聲援台灣參與WHA,意義重大。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "明確",
+                "明顯",
+                "重大"
+            ],
+            "datetime": "2022-05-29 10:06"
+        },
+        {
+            "person": "外交部",
+            "verb": "提到",
+            "opinion": "具有WHO會員國身分的台灣13個友邦向WHO提出「邀請台灣以觀察員身分參與世界衛生大會」提案,4個友邦聖文森、貝里斯、史瓦帝尼及吐瓦魯分別在總務委員會及全會為我案辯論,反駁中國片面謊言及謬論,強調聯合國大會第2758號決議及WHA第25.1號決議並未授權中國在聯合國體系代表台灣,正義陳詞令人振奮。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "反駁",
+                "謊言",
+                "謬論",
+                "辯論",
+                "反駁",
+                "謊言"
+            ],
+            "positive_list": [
+                "正義",
+                "衛生",
+                "聯合",
+                "振奮",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 10:06"
+        },
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "台瓜邦誼穩固友好,並批評中媒刻意誇大、操弄,令人不齒。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "批評",
+                "誇大",
+                "批評"
+            ],
+            "positive_list": [
+                "友好",
+                "穩固"
+            ],
+            "datetime": "2022-05-29 19:07"
+        },
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "和瓜國的邦誼穩固友好。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "穩固"
+            ],
+            "datetime": "2022-05-29 16:52"
+        },
+        {
+            "person": "外交部",
+            "verb": "指出",
+            "opinion": "歐洲、拉美及加海、印太、亞西及非洲地區跨國國會平台「福爾摩沙俱樂部」(FormosaClub)成員,也踴躍響應各項助我作為,包括歐洲地區共有烏克蘭在內34國、超過1,500位議員聯名致函,以及印太地區辦理首屆視訊年會,宣讀支持我國參與WHO等國際組織聯合宣言。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-05-29 11:08"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "多年來台灣國際醫療合作計畫的專業貢獻及人道濟世熱忱,也具體呈現在今年外交部製作的推案短片「遠來的朋友」(SweetnessofFriendship),總觀看次數已超過1,676萬,成功地向世界展現台灣有決心也有能力幫忙。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "合作",
+                "成功",
+                "有決心",
+                "有能力",
+                "決心",
+                "能力",
+                "熱忱",
+                "合作",
+                "熱忱"
+            ],
+            "datetime": "2022-05-29 11:08"
+        },
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "國際各界的挺身而出,顯示其等認同唯有屏除政治藩籬,讓台灣共同參與WHO及WHA,才能為走過疫情的世界,建立更具韌性的全球衛生體系,共同保障全人類的健康福祉與安全。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "安全",
+                "健康",
+                "衛生",
+                "福祉",
+                "認同",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 09:44"
+        },
+        {
+            "person": "外交部",
+            "verb": "說",
+            "opinion": "衛福部次長李麗芬率領「世衛行動團」前往日內瓦,傳達我國爭取參與WHA的堅定訴求,期間出席外交酒會、參與WHO健走、專業論壇、僑界活動、接受媒體專訪、並與美國、捷克及立陶宛等國代表團及國際醫衛專業組織進行共29場雙邊會談,討論如何增進衛生合作,以實際行動展現台灣貢獻健康人權的承諾和決心。",
+            "negative_score": 0,
+            "positive_score": 12,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "決心",
+                "承諾",
+                "健康",
+                "堅定",
+                "接受",
+                "進行",
+                "實際",
+                "增進",
+                "衛生",
+                "合作",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 09:44"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "除行政部門之外,各國立法部門及跨國議會組織也接連以通過法案、決議及動議或致函WHO及行政部門等方式力挺台灣,支持力度益發強勁。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-05-29 09:44"
+        },
+        {
+            "person": "外交部",
+            "verb": "說",
+            "opinion": "多年來台灣國際醫療合作計畫的專業貢獻及人道濟世熱忱,也具體呈現在今年外交部製作的推案短片「遠來的朋友」(SweetnessofFriendship),總觀看次數已超過1,676萬,成功地向世界展現台灣有決心也有能力幫忙。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "合作",
+                "成功",
+                "有決心",
+                "有能力",
+                "決心",
+                "能力",
+                "熱忱",
+                "合作",
+                "熱忱"
+            ],
+            "datetime": "2022-05-29 09:44"
+        },
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "繼4月美國聯邦參議員葛瑞姆(LindseyGraham)率領重量級國會議員訪問台灣後,相隔1個多月美方再度有達克沃絲率團來台,展現美國國會對台灣的高度重視與堅定支持,彰顯美國對台灣「堅若磐石」的支持與承諾,外交部相信達克沃絲來訪有助於進一步深化台美關係的緊密合作夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "有助",
+                "承諾",
+                "相信",
+                "重視",
+                "堅定",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-05-30 20:38"
+        },
+        {
+            "person": "外交部",
+            "verb": "說明",
+            "opinion": "達克沃絲對台灣高度友好,去年6月國內疫情升溫且急缺疫苗時,達克沃絲專程訪台並代表美國政府宣布捐贈台灣疫苗,以協助對抗疫情。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "友好",
+                "協助",
+                "捐贈"
+            ],
+            "datetime": "2022-05-30 20:38"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "3月7日至3月18日期間辦理募集民間愛心物資援贈烏克蘭活動,募得582噸、3萬7620箱,已全數於27日完成運送,誠摯盼望烏克蘭人民早日脫離戰爭苦難,回復平靜生活、重建家園。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "苦難",
+                "脫離",
+                "戰爭"
+            ],
+            "positive_list": [
+                "平靜",
+                "完成",
+                "盼望",
+                "愛心",
+                "誠摯",
+                "平靜",
+                "愛心",
+                "誠摯"
+            ],
+            "datetime": "2022-05-30 16:30"
+        },
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "期待台灣提供的物資能協助烏克蘭難民度過難關,誠盼烏克蘭人民早日脫離戰爭苦難,回復平靜生活,重建家園。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "苦難",
+                "脫離",
+                "戰爭",
+                "難民"
+            ],
+            "positive_list": [
+                "平靜",
+                "協助",
+                "期待",
+                "平靜",
+                "期待"
+            ],
+            "datetime": "2022-05-30 16:30"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "該訪團展現美國國會對台的高度重視,相信來訪有助於進一步深化台美關係的緊密合作夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "有助",
+                "相信",
+                "重視",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-05-30 20:47"
+        },
+        {
+            "person": "外交部",
+            "verb": "指出",
+            "opinion": "繼本年4月美國聯邦參議員葛瑞姆(LindseyGraham,R-SC)率領重量級國會議員訪問台灣後,相隔1個多月美方再度有達克沃絲率團來台,展現美國國會對台灣的高度重視與堅定支持,彰顯美國對台灣「堅若磐石」的支持與承諾,相信來訪有助於進一步深化台美關係的緊密合作夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "有助",
+                "承諾",
+                "相信",
+                "重視",
+                "堅定",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-05-30 20:47"
+        },
+        {
+            "person": "外交部",
+            "verb": "指出",
+            "opinion": "今年3月7日至3月18日期間辦理募集民間愛心物資援贈烏克蘭活動,並自3月17日起陸續以航空貨運將人道物資送往鄰近烏克蘭的斯洛伐克與波蘭等國。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "愛心",
+                "愛心"
+            ],
+            "datetime": "2022-05-30 17:55"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "台灣作為世界一股良善力量,會持續擴大「善的循環」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "良善"
+            ],
+            "datetime": "2022-05-30 17:55"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "他們相信達克沃絲來訪有助於進一步深化台美關係的緊密合作夥伴關係。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "有助",
+                "相信",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-05-30 20:42"
+        },
+        {
+            "person": "外交部",
+            "verb": "強調",
+            "opinion": "期待台灣提供的物資能協助烏克蘭難民度過難關,誠盼烏克蘭人民早日脫離戰爭苦難,回復平靜生活,重建家園。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "苦難",
+                "脫離",
+                "戰爭",
+                "難民"
+            ],
+            "positive_list": [
+                "平靜",
+                "協助",
+                "期待",
+                "平靜",
+                "期待"
+            ],
+            "datetime": "2022-05-30 19:26"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "3月7日至3月18日期間辦理募集民間愛心物資援贈烏克蘭活動,募得582噸、3萬7620箱,已全數於27日完成運送,誠摯盼望烏克蘭人民早日脫離戰爭苦難,回復平靜生活、重建家園。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "苦難",
+                "脫離",
+                "戰爭"
+            ],
+            "positive_list": [
+                "平靜",
+                "完成",
+                "盼望",
+                "愛心",
+                "誠摯",
+                "平靜",
+                "愛心",
+                "誠摯"
+            ],
+            "datetime": "2022-05-30 19:26"
+        },
+        {
+            "person": "外交部",
+            "verb": "說",
+            "opinion": "「方便,不用那麼麻煩啊。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "麻煩",
+                "麻煩"
+            ],
+            "positive_list": [
+                "方便"
+            ],
+            "datetime": "2022-06-01 13:09"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "韓方向我方指出,由於疫苗認證涉及多項醫衛專業技術議題,目前仍由韓方相關機關研議中,外交部將持續密切注意相關進展,並與韓方相關單位保持聯繫。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "注意"
+            ],
+            "datetime": "2022-06-02 13:27"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "我國自2021年已將「高端疫苗」相關資料提供給韓國政府,力洽接種高端疫苗的我國民眾未來能順利赴韓國旅遊。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "順利"
+            ],
+            "datetime": "2022-06-02 13:20"
+        },
+        {
+            "person": "外交部",
+            "verb": "表示",
+            "opinion": "加拿大渥太華大學人權研究暨教育中心(HumanRightsResearchandEducationCentre)在中心40週年之際,於加東時間昨天上午舉辦「中國的挑戰:保障21世紀之全球民主制度及人權」研討會,邀集全球各界人士共同討論中國對人權所構成的挑戰,吳釗燮也以預錄影片方式致詞。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 14:50"
+        }
+    ]
+}

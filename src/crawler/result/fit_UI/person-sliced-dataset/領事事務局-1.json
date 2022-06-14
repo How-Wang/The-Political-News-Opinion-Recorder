@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/領事事務局.png",
+    "opinions": [
+        {
+            "person": "領事事務局",
+            "verb": "說明",
+            "opinion": "領務局有完整的人別辨識機制,包括利用電子化系統進行檢核,也有經過特別訓練的同仁會負責審核;此外,國人仍可依現行紙本方式填寫「簡式護照資料表」,領務局現場的事務機仍然也提供比市價低的照相及列印服務。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "完整",
+                "完整的",
+                "負責",
+                "特別",
+                "訓練",
+                "進行"
+            ],
+            "datetime": "2022-06-01 13:05"
+        },
+        {
+            "person": "領事事務局",
+            "verb": "宣布",
+            "opinion": "今(1日)起國人申辦護照,多了網路「填表」、「照片上傳」、「線上預約」三合一服務,節省沖洗照片的成本,及現場填寫、臨櫃等待的時間。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 13:05"
+        }
+    ]
+}

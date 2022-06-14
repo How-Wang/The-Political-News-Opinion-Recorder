@@ -1,0 +1,98 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/奧斯丁.png",
+    "opinions": [
+        {
+            "person": "奧斯丁",
+            "verb": "說",
+            "opinion": "我們將儘自己所能,負責任地管控這些緊張局勢,防止衝突,追求和平與繁榮。」",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "緊張",
+                "衝突",
+                "緊張",
+                "衝突"
+            ],
+            "positive_list": [
+                "防止",
+                "和平",
+                "負責",
+                "繁榮"
+            ],
+            "datetime": "2022-06-11 14:44"
+        },
+        {
+            "person": "奧斯丁",
+            "verb": "說",
+            "opinion": "近幾個月來,這些侵入防空識別區的事件激增。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "侵入"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 14:44"
+        },
+        {
+            "person": "奧斯丁",
+            "verb": "表示",
+            "opinion": "儘管北京在亞洲地區(包括台灣附近)變得越來越咄咄逼人,但美國將盡其所能管控與中國的緊張關係,防止衝突。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "緊張",
+                "衝突",
+                "逼人",
+                "緊張",
+                "衝突"
+            ],
+            "positive_list": [
+                "防止"
+            ],
+            "datetime": "2022-06-11 14:44"
+        },
+        {
+            "person": "奧斯丁",
+            "verb": "說",
+            "opinion": "。奧斯丁在演講中重點談到了美國對該地區的承諾。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-06-11 14:44"
+        },
+        {
+            "person": "奧斯丁",
+            "verb": "說",
+            "opinion": "中國飛機和艦船與其他國家的飛機和艦船之間不安全、不專業的接觸出現了「令人擔憂」的增加。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不安",
+                "不安全",
+                "擔憂",
+                "不安",
+                "擔憂"
+            ],
+            "positive_list": [
+                "安全",
+                "增加"
+            ],
+            "datetime": "2022-06-11 14:44"
+        },
+        {
+            "person": "奧斯丁",
+            "verb": "指出",
+            "opinion": "北京在包括台海的亞洲地區變得愈發具侵略性,同時美國會持續與包括台灣在內的盟友站在一起。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "侵略"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 23:13"
+        }
+    ]
+}

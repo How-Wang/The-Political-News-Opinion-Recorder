@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/朱園里.png",
+    "opinions": [
+        {
+            "person": "朱園里",
+            "verb": "指出",
+            "opinion": "可以促進台美之間經貿交流我們都樂見。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "促進",
+                "樂見"
+            ],
+            "datetime": "2022-06-03 15:38"
+        }
+    ]
+}

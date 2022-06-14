@@ -1,0 +1,28 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/沈富雄.png",
+    "opinions": [
+        {
+            "person": "沈富雄",
+            "verb": "表示",
+            "opinion": "要給台灣前半場防疫表現90分、後半場則因「人謀不臧」給45分。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 15:23"
+        },
+        {
+            "person": "沈富雄",
+            "verb": "說",
+            "opinion": "細看美國與台灣,結論是台灣比美國好太多,這是身為台灣人很大福氣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "福氣",
+                "福氣"
+            ],
+            "datetime": "2022-06-08 15:23"
+        }
+    ]
+}

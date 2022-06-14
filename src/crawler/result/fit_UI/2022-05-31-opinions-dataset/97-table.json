@@ -1,0 +1,8 @@
+{
+    "date": "2022-05-31",
+    "news_id": 97,
+    "title": "陳致中驚爆「陳水扁確診」 昨篩陰今快篩陽症狀曝光",
+    "article": "高雄市議員陳致中今(31)日驚爆,爸爸陳水扁早上打給他,說他確診,昨篩陰今篩陽,沒發燒,有咳嗽及喉嚨痛,已開始服藥。陳致中表示,祝爸爸早日康復,謝謝各位朋友的關心,我們互相加油一起度過疫情的挑戰。",
+    "opinions": "[{'person': '陳水扁', 'verb': '說', 'opinion': '他確診,昨篩陰今篩陽,沒發燒,有咳嗽及喉嚨痛,已開始服藥。', 'order': 0, 'negative_score': 1, 'positive_score': 0, 'negative_list': ['發燒'], 'positive_list': []}, {'person': '陳致中', 'verb': '表示', 'opinion': '祝爸爸早日康復,謝謝各位朋友的關心,我們互相加油一起度過疫情的挑戰。', 'order': 1, 'negative_score': 1, 'positive_score': 3, 'negative_list': ['挑戰'], 'positive_list': ['關心', '謝謝', '關心']}]",
+    "little_topic": "0"
+}

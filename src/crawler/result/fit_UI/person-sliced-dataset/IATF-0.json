@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/IATF.png",
+    "opinions": [
+        {
+            "person": "IATF",
+            "verb": "指出",
+            "opinion": "無論台灣人入境菲國出示何種新冠肺炎(COVID-19)疫苗證明,將一律採納通過,這項好消息代表儘管民眾施打的是尚未獲得WHO認證的高端疫苗,也可以合法進出菲律賓。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "未獲",
+                "尚未"
+            ],
+            "positive_list": [
+                "合法",
+                "通過",
+                "獲得"
+            ],
+            "datetime": "2022-06-09 21:55"
+        }
+    ]
+}

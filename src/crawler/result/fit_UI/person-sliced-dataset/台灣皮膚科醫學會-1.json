@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣皮膚科醫學會.png",
+    "opinions": [
+        {
+            "person": "台灣皮膚科醫學會",
+            "verb": "呼籲",
+            "opinion": "衛福部與立法院重視主治醫師勞動權益,讓主治醫師能有合理、安全的工作環境。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合理",
+                "安全",
+                "安全的",
+                "重視",
+                "權益"
+            ],
+            "datetime": "2022-06-07 23:05"
+        }
+    ]
+}

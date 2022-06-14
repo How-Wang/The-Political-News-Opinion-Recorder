@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/府中商圈.png",
+    "opinions": [
+        {
+            "person": "府中商圈",
+            "verb": "說明",
+            "opinion": "在疫情衝擊下,店家遭遇的困境,業者呼籲政府應傾聽業者心聲,「及時紓困、確實到位」,避免引爆大規模的關店潮或退租潮。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "困境",
+                "衝擊",
+                "遭遇",
+                "避免"
+            ],
+            "positive_list": [
+                "確實",
+                "避免"
+            ],
+            "datetime": "2022-05-27 12:12"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/冼義哲.png",
+    "opinions": [
+        {
+            "person": "冼義哲",
+            "verb": "表示",
+            "opinion": "澎湖縣長提名是中央黨部的職權,黨部在初選提名過程,保持中立。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:21"
+        }
+    ]
+}

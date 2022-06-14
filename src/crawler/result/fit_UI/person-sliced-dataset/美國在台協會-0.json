@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/美國在台協會.png",
+    "opinions": [
+        {
+            "person": "美國在台協會",
+            "verb": "表示",
+            "opinion": "商務組昨天舉辦「2022年選擇美國投資高峰會SelectUSA」臨行派對,與會者包括AIT處長孫曉雅、鄧振中、龔明鑫等。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 22:59"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡清祥",
+            "verb": "表示",
+            "opinion": "「這個修法可以考慮,看如果用什麼樣的方式,能夠把訊息更公開一點。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "考慮"
+            ],
+            "datetime": "2022-05-23 13:10"
+        },
+        {
+            "person": "蔡清祥",
+            "verb": "說",
+            "opinion": "美國加州發生教會槍擊案,台灣應該修法訂定仇恨罪,超前部署。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "仇恨",
+                "仇恨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 10:26"
+        },
+        {
+            "person": "蔡清祥",
+            "verb": "表示",
+            "opinion": "台灣從未停止對國際社會有所貢獻,隨時準備好在民主法治的基礎上,與各國交流。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-08 16:29"
+        },
+        {
+            "person": "蔡清祥",
+            "verb": "說",
+            "opinion": "這是邁出里程碑的第一步,相信未來會與更多歐洲國家簽署相關協議。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-06-08 11:52"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/莊人祥.png",
+    "opinions": [
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "民眾自主防疫應變,有助於讓疫情趨勢平緩,未來疫情降幅將依據人流、活動狀況而定,畢竟當疫情下降,人流自然會逐漸變得活躍,就可能影響社區疫情傳播,造成確診病例再增加,高原期後的個案數很難預測。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "有助",
+                "自主",
+                "自然",
+                "增加"
+            ],
+            "datetime": "2022-05-29 17:17"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "一般而言確診者3個月內不會再度感染,應是屬於陰陰陽陽的階段,指揮中心先前也是建議,康復後3個月內不用再做PCR,侯漢廷個人狀況指揮中心也無法進一步說明;至於柯文哲部分,剛感染的個案近期應該也不會再次感染。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "無法",
+                "感染",
+                "不會",
+                "無法"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-03 20:20"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "一般而言確診三個月內不會再次感染,多是屬於陰陰陽陽階段,也因此,指揮中心先前的建議是康復後三個月內不用再做PCR,至於侯漢廷議員個人狀況部分,指揮中心無法進一步說明。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "無法",
+                "感染",
+                "不會",
+                "無法"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-03 18:01"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "應該處於陰陰陽陽階段,3個月內也不會再判定確診。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 21:36"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "死亡個案規定一直都沒有更改,部分第五類傳染病規定要在24小時內火化,但新型流感和新冠肺炎除了火化以外,經主管機關同意也可以深埋。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "沒有",
+                "傳染",
+                "傳染病",
+                "沒有"
+            ],
+            "positive_list": [
+                "同意"
+            ],
+            "datetime": "2022-06-03 17:52"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "一般而言三個月內不會重複感染,應該處於陰陰陽陽階段,三個月內也不會再判定確診。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:21"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "高雄疫情已接近滿載臨界值,近日可能到達高峰,但高原期會持續多久,需再觀察。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:50"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "高雄疫情已接近滿載臨界值,近日可能到達高峰,但高原期會持續多久,需再觀察。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:56"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "說",
+            "opinion": "「關於1922的部分,我們指的都是外包啦,那這個部分我們大致上,都是做諮詢的服務,那公權力的部分,指揮官有在記者會多做說明,我這邊就不再另外做統述。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-12 17:09"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "陳早日時中指揮官居家照護期間,指揮中心持續進行防疫工作,指揮官相關業務將由陳早日時中副指揮官宗彥暫代,陳早日時中指揮官亦會透過電話及視訊方式,掌握各項防疫工作進度。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "掌握",
+                "進行"
+            ],
+            "datetime": "2022-06-12 15:15"
+        },
+        {
+            "person": "莊人祥",
+            "verb": "表示",
+            "opinion": "陳時中指揮官居家照護期間,指揮中心持續進行防疫工作,指揮官相關業務將由陳時中副指揮官宗彥暫代,陳時中指揮官亦會透過電話及視訊方式,掌握各項防疫工作進度。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "掌握",
+                "進行"
+            ],
+            "datetime": "2022-06-12 14:58"
+        }
+    ]
+}

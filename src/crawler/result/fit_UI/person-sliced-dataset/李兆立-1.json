@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李兆立.png",
+    "opinions": [
+        {
+            "person": "李兆立",
+            "verb": "說",
+            "opinion": "台灣是比較晚共存的國家,他國經驗可以提供我們參考,希望政府落實經濟防疫,不要再閉門造車,好好聆聽民間企業的需求。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "經驗",
+                "希望"
+            ],
+            "datetime": "2022-06-02 16:54"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉軍川.png",
+    "opinions": [
+        {
+            "person": "劉軍川",
+            "verb": "表示",
+            "opinion": "統一後,所有擁護祖國統一的台灣同胞將在台灣真正當家作主,並在國際上更安全、有尊嚴。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "正當",
+                "安全",
+                "真正",
+                "尊嚴",
+                "尊嚴",
+                "擁護"
+            ],
+            "datetime": "2022-06-09 14:40"
+        }
+    ]
+}

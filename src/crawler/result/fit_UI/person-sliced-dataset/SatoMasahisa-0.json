@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/SatoMasahisa.png",
+    "opinions": [
+        {
+            "person": "SatoMasahisa",
+            "verb": "指出",
+            "opinion": "岸田文雄首相應該參加北約(NATO)首腦峰會,因為這次會議預計將討論針對中國的戰略問題。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-06-11 07:10"
+        }
+    ]
+}

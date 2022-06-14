@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/賴怡忠.png",
+    "opinions": [
+        {
+            "person": "賴怡忠",
+            "verb": "說",
+            "opinion": "台海議題已經多邊化,台灣也必須要跳脫傳統美中台格局,從多邊化的思維來找到角色。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:53"
+        }
+    ]
+}

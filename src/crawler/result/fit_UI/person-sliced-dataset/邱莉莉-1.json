@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱莉莉.png",
+    "opinions": [
+        {
+            "person": "邱莉莉",
+            "verb": "指出",
+            "opinion": "這封檢舉函漏洞百出,她認為是有人要藉此達成某些人的目的:這「武俠小說」(指黑函)顛倒寫,還罵到民進黨,讓她看不下去」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "漏洞",
+                "顛倒",
+                "不下"
+            ],
+            "positive_list": [
+                "達成"
+            ],
+            "datetime": "2022-06-08 17:50"
+        }
+    ]
+}

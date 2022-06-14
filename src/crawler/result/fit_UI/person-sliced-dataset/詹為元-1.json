@@ -1,0 +1,60 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/詹為元.png",
+    "opinions": [
+        {
+            "person": "詹為元",
+            "verb": "表示",
+            "opinion": "現在民主國家都不能講真話了嗎?郭彥均25日晚間在臉書分享與醫護朋友的對話,對方哭訴,院內的同仁長期沒休息,許多孩子病況越來越慘,「看到這(麼)多孩子,就這樣走」等。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "哭訴"
+            ],
+            "positive_list": [
+                "休息"
+            ],
+            "datetime": "2022-05-27 14:03"
+        },
+        {
+            "person": "詹為元",
+            "verb": "說",
+            "opinion": "現在藍營政治人物基本上不太被網軍出征了,因為綠營1450知道藍營支持者已經聽到大量事實,很難被帶風向了。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-27 14:03"
+        },
+        {
+            "person": "詹為元",
+            "verb": "表示",
+            "opinion": "歸根究底,目前兒童疫苗的分配就是不夠。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:09"
+        },
+        {
+            "person": "詹為元",
+            "verb": "質疑",
+            "opinion": "讓人不解的事情是,一個簡單的24小時火化規定,指揮中心就站出來說「是或不是!」,如果「是」,那現在疫情跟過往不同了,有沒有調整的可能性。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:23"
+        }
+    ]
+}

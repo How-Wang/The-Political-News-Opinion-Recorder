@@ -1,0 +1,172 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/澤倫斯基.png",
+    "opinions": [
+        {
+            "person": "澤倫斯基",
+            "verb": "說",
+            "opinion": "。這是蔡英文總統連續第3年應邀在哥本哈根民主峰會(CopenhagenDemocracySummit)發表專題演說。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 22:34"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "說",
+            "opinion": "這些人現在胃口大了,我們因此需要一個外交解決方案來支持需要援助的國家。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-12 13:14"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "呼籲",
+            "opinion": "國際社會在中國發動攻擊前先支持台灣」的專文中寫說,澤倫斯基(VolodymyrZelenskyy)這席話甘冒著擾亂烏克蘭與中國微妙平衡的風險,但澤倫斯基堅稱,侵略者無論在哪裡出現,都必須勇敢面對。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "攻擊",
+                "侵略",
+                "侵略者",
+                "發動",
+                "擾亂",
+                "攻擊"
+            ],
+            "positive_list": [
+                "平衡",
+                "勇敢",
+                "微妙",
+                "平衡"
+            ],
+            "datetime": "2022-06-12 13:14"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "說",
+            "opinion": "我們必不能棄他們不顧,任憑另一個財政、領土和設備方面更強大的國家擺布。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "不顧",
+                "不顧"
+            ],
+            "positive_list": [
+                "強大",
+                "強大的"
+            ],
+            "datetime": "2022-06-12 13:14"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "呼籲",
+            "opinion": "國際社會在中國發動攻擊前先支持台灣」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "攻擊",
+                "發動",
+                "攻擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 09:30"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "回應",
+            "opinion": "他認為今日的烏克蘭就是擺在全世界的例子,國際社會必須支持任何先發制人的措施來避免戰爭(Theworldmustalwayssupportanyactionrelatedtopre-emptivemeasuressothatthereisnowar.)。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "戰爭",
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-06-12 09:30"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "指出",
+            "opinion": "各國應該透過外交手段,給予需要的國家幫助,絕不能讓它落單,並強調外交斡旋應該在開戰前就要行動,才能有效阻止戰爭帶來的傷亡。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "阻止",
+                "傷亡",
+                "戰爭",
+                "絕不"
+            ],
+            "positive_list": [
+                "才能",
+                "有效",
+                "給予",
+                "幫助"
+            ],
+            "datetime": "2022-06-12 17:40"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "說",
+            "opinion": "方式,參與在新加坡舉行的香格里拉對話,會後被問到台海議題,他以烏克蘭為例。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "舉行"
+            ],
+            "datetime": "2022-06-12 17:40"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "說",
+            "opinion": "烏克蘭給國際社會提供了一個教訓,各國應該在中國對台灣出手前給予幫助和支持,澤倫斯基強調「沒有人能從戰爭中受益」,戰爭僅是滿足想征服其他國家的領導人,但這些人的野心永遠不會滿足。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "征服",
+                "戰爭",
+                "不會",
+                "沒有",
+                "野心"
+            ],
+            "positive_list": [
+                "征服",
+                "給予",
+                "滿足",
+                "幫助",
+                "滿足"
+            ],
+            "datetime": "2022-06-12 09:28"
+        },
+        {
+            "person": "澤倫斯基",
+            "verb": "提到",
+            "opinion": "烏克蘭就是一個活生生的例子,一但發生戰爭,代價是驚人的,如果可以的話國際社會應該在戰爭爆發前就加以阻擋、干預,確保較小的國家能抵禦侵略者。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "代價",
+                "侵略",
+                "侵略者",
+                "戰爭",
+                "爆發",
+                "驚人",
+                "驚人的",
+                "驚人"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 09:28"
+        }
+    ]
+}

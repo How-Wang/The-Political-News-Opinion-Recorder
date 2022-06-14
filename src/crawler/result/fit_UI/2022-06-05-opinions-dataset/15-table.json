@@ -1,0 +1,8 @@
+{
+    "date": "2022-06-05",
+    "news_id": 15,
+    "title": "訪美首站赴胡佛研究所 朱立倫:國民黨會繼續捍衛中華民國",
+    "article": "國民黨主席朱立倫率團訪美,預計拜會白宮官員,也會替國民黨駐美代表處揭牌。他今(5)日表示,他第一站來到史丹佛大學胡佛研究所,學者們對於地方選舉議題非常感興趣。此外,他也強調國民黨會持續捍衛中華民國,堅持自由民主價值。朱立倫今在臉書發文表示,他訪美第一站來到史丹佛大學胡佛研究所,距離他上次訪問胡佛已經3年,很高興再次見到許多老朋友,也結交許多新朋友。朱立倫表示,他們和常駐胡佛熟悉台灣的學者專家,包括戴雅門(LarryDiamond)、祁凱立(KharisTempleman)、前軍事將領以及新生代學者共同探討了疫情後的國際變局、美中台關係的最新動態,以及大家相當感興趣的地方選舉議題。面對自由主義國際秩序面臨挑戰,朱立倫強調,國民黨會持續捍衛中華民國、貫徹自總理孫中山先生創黨建國以來的自由民主價值。他說,這次來美國,就是要和全世界民主國家交朋友,持續扮演穩定台海和平的重要力量。",
+    "opinions": "[{'person': '國民黨', 'verb': '表示', 'opinion': '他第一站來到史丹佛大學胡佛研究所,學者們對於地方選舉議題非常感興趣。', 'order': 0, 'negative_score': 0, 'positive_score': 1, 'negative_list': [], 'positive_list': ['興趣']}, {'person': '胡佛研究所', 'verb': '強調', 'opinion': '國民黨會持續捍衛中華民國,堅持自由民主價值。', 'order': 1, 'negative_score': 0, 'positive_score': 3, 'negative_list': [], 'positive_list': ['自由', '堅持', '自由']}, {'person': '朱立倫', 'verb': '強調', 'opinion': '國民黨會持續捍衛中華民國、貫徹自總理孫中山先生創黨建國以來的自由民主價值。', 'order': 4, 'negative_score': 0, 'positive_score': 2, 'negative_list': [], 'positive_list': ['自由', '自由']}, {'person': '朱立倫', 'verb': '表示', 'opinion': '他訪美第一站來到史丹佛大學胡佛研究所,距離他上次訪問胡佛已經3年,很高興再次見到許多老朋友,也結交許多新朋友。', 'order': 2, 'negative_score': 0, 'positive_score': 2, 'negative_list': [], 'positive_list': ['高興', '高興']}, {'person': '孫中山', 'verb': '說', 'opinion': '這次來美國,就是要和全世界民主國家交朋友,持續扮演穩定台海和平的重要力量。', 'order': 5, 'negative_score': 0, 'positive_score': 4, 'negative_list': [], 'positive_list': ['和平', '和平的', '重要', '穩定']}]",
+    "little_topic": "0"
+}

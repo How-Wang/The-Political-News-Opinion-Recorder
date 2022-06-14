@@ -1,0 +1,47 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "金管會保險局",
+            "verb": "表示",
+            "opinion": "保戶若收到根據《傳染病防治法》第48條而開立「居家隔離通知書」(隔離單),只要符合保單條款,保險公司就要依約理賠。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "傳染",
+                "傳染病",
+                "隔離"
+            ],
+            "positive_list": [
+                "符合",
+                "通知"
+            ],
+            "datetime": "2022-05-24 10:45"
+        },
+        {
+            "person": "金管會保險局",
+            "verb": "質疑",
+            "opinion": "遴選結果不公開,柯文哲強調,當然經得起考驗,一定有會議記錄,「若要這樣從我上任開始的都公開,怎麼提名張景森、陳景峻,怎麼提名民進黨的,全部都公開」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不公"
+            ],
+            "positive_list": [
+                "公開",
+                "當然"
+            ],
+            "datetime": "2022-06-10 15:07"
+        },
+        {
+            "person": "金管會保險局",
+            "verb": "說明",
+            "opinion": "該銀行上次金檢就已經被查到受理炒房團的貸款案件,至於何時開罰,目前正在程序處理中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:15"
+        }
+    ]
+}

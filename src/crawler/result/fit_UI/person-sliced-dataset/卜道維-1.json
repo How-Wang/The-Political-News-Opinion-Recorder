@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/卜道維.png",
+    "opinions": [
+        {
+            "person": "卜道維",
+            "verb": "認為",
+            "opinion": "國民黨恢復駐美代表處,能為重建中華民國台灣與美國間信任與合作做出極大的貢獻。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "信任",
+                "合作"
+            ],
+            "datetime": "2022-06-09 04:07"
+        },
+        {
+            "person": "卜道維",
+            "verb": "認為",
+            "opinion": "國民黨恢復駐美代表處,能為重建中華民國台灣與美國間信任與合作做出極大的貢獻。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "信任",
+                "合作"
+            ],
+            "datetime": "2022-06-09 05:16"
+        },
+        {
+            "person": "卜道維",
+            "verb": "認為",
+            "opinion": "國民黨恢復駐美代表處,能為重建中華民國台灣與美國間信任與合作做出極大的貢獻。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "信任",
+                "合作"
+            ],
+            "datetime": "2022-06-09 07:06"
+        }
+    ]
+}

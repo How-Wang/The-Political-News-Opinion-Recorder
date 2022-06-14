@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中華奧會.png",
+    "opinions": [
+        {
+            "person": "中華奧會",
+            "verb": "表示",
+            "opinion": "4月已向亞奧理事會反映並表達我們的立場。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:53"
+        }
+    ]
+}

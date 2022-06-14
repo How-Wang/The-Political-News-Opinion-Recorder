@@ -1,0 +1,36 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "江翠篩檢站",
+            "verb": "強調",
+            "opinion": "新北早就準備好了,要中央早一點做,不用再等了。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-25 13:15"
+        },
+        {
+            "person": "江翠篩檢站",
+            "verb": "宣布",
+            "opinion": "停止服務!但卻也傳出,端午連假,負責承攬篩檢工作的台中榮總,原先希望能讓醫護休假,但台中市政府卻要求篩檢站3天全開,中榮院長事後寫信向市長盧秀燕陳情,並以「殘忍」兩個字表達內心感受。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "要求",
+                "停止",
+                "殘忍",
+                "殘忍"
+            ],
+            "positive_list": [
+                "希望",
+                "負責",
+                "希望"
+            ],
+            "datetime": "2022-06-07 12:26"
+        }
+    ]
+}

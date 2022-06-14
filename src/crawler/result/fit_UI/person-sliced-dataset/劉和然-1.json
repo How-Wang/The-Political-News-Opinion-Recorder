@@ -1,0 +1,1415 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "劉和然",
+            "verb": "解釋",
+            "opinion": "5/1到5/19,新北確診人數高達35萬664位,裡面多少人發生問題,哪些資料錯誤,新北都無法掌握,因為這些資料都在舊系統裡。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "無法",
+                "錯誤",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [
+                "掌握"
+            ],
+            "datetime": "2022-05-21 15:45"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "確診個案要填自主回報疫調系統,如實填報個人跟同住家人資料,填好後才會匯入法傳系統跟Trace系統,接著才會自動觸發有關確診者跟居隔者的居隔單。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自主",
+                "自動"
+            ],
+            "datetime": "2022-05-21 15:45"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "新北市不斷強調,新北就是台灣的縮影,有都會型,也有偏鄉型。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 15:56"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "新北目前有近8成學校改為線上上課,若家長不方便,也有請學校提供基本照顧,新北處理學校停課是因校制宜。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "方便"
+            ],
+            "datetime": "2022-05-23 15:56"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "如果該校疫情相對穩定,實體課程對孩子學習最好,經過跟學校行政、家長、老師、防疫小組等討論後,維持實體上課對孩子最有利,不只照顧健康,連學習都可以照顧好。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "有利",
+                "健康",
+                "最好",
+                "學習",
+                "穩定"
+            ],
+            "datetime": "2022-05-23 15:56"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "新北在處理幼兒園或是學校的學習上,秉持同樣的立場,各幼兒園的做法與中央規定一致,該班只要有一位確診者就會停課三天,新北目前維持這樣的做法。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "學習"
+            ],
+            "datetime": "2022-05-23 15:25"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "依照中央規定,該班確診就停課三天,若幼兒園有特別考量,也會尊重。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-23 15:25"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "近期確診人數有稍微下降,是否代表疫情有變化,要持續觀察2至3天。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 15:12"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "新北市今天收到5.7萬劑兒童疫苗,預計3天後會再進3.8萬劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 15:42"
+        },
+        {
+            "person": "劉和然",
+            "verb": "回應",
+            "opinion": "學校施打要看行事歷且跟醫院協調,讓醫院跟學校彼此搭配,並非因為人力不夠才在6月底施打。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [
+                "協調"
+            ],
+            "datetime": "2022-05-24 15:42"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "新北市將做出4項調整,包含遠距門診增加、防疫急診門診轉型、親友代看門診增加以及社區篩檢站轉型。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-24 17:57"
+        },
+        {
+            "person": "劉和然",
+            "verb": "強調",
+            "opinion": "整體疫情走向仍需要持續觀察。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 17:57"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "根據新北本土確診人數曲線圖分析,確診人數反覆升降,自5月18日出現2萬7000例左右後,確診數開始下降,像新北市昨日本土確診數有1萬5000多、今日則為1萬6609例。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "下降",
+                "反覆"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 17:57"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "新北今日增2萬1350例,居家照護執行有13萬7257人,居家隔離列管數2萬7347人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 16:51"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "新北市為鼓勵65歲以上長者施打疫苗將贈2支快篩,同時中央也有補助2支,因此最多能領到4支快篩。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "鼓勵"
+            ],
+            "datetime": "2022-05-25 16:51"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "對此,新北訂出高風險、低風險,進行實體、線上分流,實施過程中,也因為區域各校差異,讓校長、老師及家長充分溝通,防疫小組給予專業建議,行政在背後做最有力後盾,這就是新北一直在做的。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "差異"
+            ],
+            "positive_list": [
+                "充分",
+                "有力",
+                "給予",
+                "進行"
+            ],
+            "datetime": "2022-05-25 16:09"
+        },
+        {
+            "person": "劉和然",
+            "verb": "回應",
+            "opinion": "北北基桃每個縣市生活樣態條件都不一樣,「新北真的就是台灣的縮影」,尤其新北還有好幾所學校沒有確診個案,在教育本質上,給孩子最好學習,一直是新北對教育的初衷,因此要在疫情與學習間取得平衡。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "平衡",
+                "最好",
+                "學習",
+                "平衡",
+                "好學"
+            ],
+            "datetime": "2022-05-25 16:09"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "新北從5月1日呼籲到現在,中央終於全面實施快篩陽視同確診,上述幾個事項也請市民朋友參考。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-05-25 16:23"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "新北市真的就是台灣的縮影,尤其在新北還有好幾所學校沒有確診個案,教育的本質就是孩子,給孩子最好、最適性的學習,一直是新北對教育的初衷。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "最好",
+                "學習",
+                "適性"
+            ],
+            "datetime": "2022-05-25 16:01"
+        },
+        {
+            "person": "劉和然",
+            "verb": "回應",
+            "opinion": "跨生活圈的部分,平時都會討論,因為基北北桃四區域來看,生活、樣態條件都不一樣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 16:01"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "除了中央送2支快篩外,新北再加碼送2支,呼籲長者盡速施打疫苗。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 15:33"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "疫苗施打愈高,覆蓋率愈高,轉為中重症比率變少。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 15:33"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "民眾關心確診數字變化對新北疫情發展為何,前幾天感覺到下降,今天又提升,至於是否達到高峰,要看7日線。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "提升",
+                "發展",
+                "達到",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-25 15:13"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "居隔列管27,347人,居家照護執行中13萬7257人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 15:13"
+        },
+        {
+            "person": "劉和然",
+            "verb": "強調",
+            "opinion": "法定傳染病當由中央成立指揮中心處理,所有原本在地方的權限都要上繳到中央,由中央統一指揮、調度。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [
+                "法定"
+            ],
+            "datetime": "2022-05-26 16:41"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "5/1以前,新北市曾用相關Google表單做測試,但最後仍要回到法傳系統。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:41"
+        },
+        {
+            "person": "劉和然",
+            "verb": "呼籲",
+            "opinion": "民代,傳遞相關訊息時不要模糊焦點,以致民眾覺得地方政府沒有做好。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:41"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "不管是民代或有管道可以發聲的社會人士,新北市都虛心接受對於疫情的建議,但對於一些議題的傳遞跟訊息的發布,一定要正確。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "正確",
+                "接受"
+            ],
+            "datetime": "2022-05-26 16:41"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "今天新北確診人數來到1萬7千人,相較於前幾天有高有低,新北會再來觀察這幾天的改變是什麼,同時,居隔人數不斷在下降,希望公衛體系的同仁可以做一些公衛體系工作的調整。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "不斷"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-26 15:35"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "今日COVID-19確定病例,17,632人採檢陽性,居住地為新北。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "確定"
+            ],
+            "datetime": "2022-05-26 15:35"
+        },
+        {
+            "person": "劉和然",
+            "verb": "呼籲",
+            "opinion": "民眾盡量以遠距門診為主,與基層診所、醫院、衛生所保持聯繫,市府已增加遠距診次;如果需要親友代理,請親友帶著檢測卡夾彌封好,寫上名字及日期送至基層診所醫院,院所會把資料上傳,再進行視訊協助。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "進行",
+                "增加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 15:39"
+        },
+        {
+            "person": "劉和然",
+            "verb": "呼籲",
+            "opinion": "盡量以遠距診療為主,如需親自出門看診,民眾可至16家醫院防疫急門診、江翠社區防疫急門診及18處社區採檢站。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:39"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "疫情發展有微微下降,但有兩個方向須要注意。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "注意",
+                "發展",
+                "微微"
+            ],
+            "datetime": "2022-05-26 15:46"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "可以觀察快篩陽即確診後,人數的變化,至於整體發展還需要多加觀察,政策執行後的變化為何。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-05-26 15:10"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "各醫療院所的動線會隨著施打的民眾多寡及時改變,目前亞東醫院也已經調整動線;至於疫苗施打政策的問題,他則強調,問題並不是出在新北市府的施打規劃,而是不知道中央何時才會配送疫苗到新北。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "問題",
+                "不知",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-27 17:40"
+        },
+        {
+            "person": "劉和然",
+            "verb": "強調",
+            "opinion": "疫苗施打的問題並不在於哪天之前要打完、而是疫苗哪天配送到新北市,或是到各地方政府。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 17:40"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "新北推出的紓困,將回朔到5/1起,至5、6、7月共3個月,包含,公有市場使用費減收八成,只收兩成使用費;市有不動產租金、權利金打5折/權利金最多減收35%;社區住宅也將緩繳租金50%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:16"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "康復後的解隔人士目前執行程度,明天就會破40萬,謝謝所有醫療同仁來協助。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "謝謝"
+            ],
+            "datetime": "2022-05-27 17:34"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "這幾天以七日平均數來看,確診人數有趨緩的現象,大約在下週三,可以看到快篩陽等同確診這幾天實施的狀況,屆時會有一份詳細的報告,和民眾說明疫情發展會朝什麼樣的方向走。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "發展",
+                "詳細",
+                "說明"
+            ],
+            "datetime": "2022-05-28 15:42"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "這段時間,有發現幼兒施打疫苗的部分,還是有很多排隊的人潮,稍早新北獲指揮中心通知,5/30將配發2萬劑疫苗,6/3再配發5.5萬劑,如果有幼童在先前的意願調查沒有說要施打疫苗,但現在想要施打的話,隨時跟學校反應,都會再安排施打。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多",
+                "通知"
+            ],
+            "datetime": "2022-05-28 15:42"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "疫情期間依造傳染病防治法有很多規範,網路上或媒體訊息,真假都會有很多規範,還是要看當事者針對這議題發布的動機,是否有散步謠言的動機及事實,相關單位要查明,如果是事實法律自有相關規定,若非事實,則是要還當事者清白。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "傳染",
+                "傳染病",
+                "謠言"
+            ],
+            "positive_list": [
+                "法律",
+                "很多",
+                "清白",
+                "規範"
+            ],
+            "datetime": "2022-05-28 16:19"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "這幾天以七日平均數來看,確診人數有趨緩的現象,大約在下週三,可以看到快篩陽等同確診這幾天實施的狀況,屆時會有一份詳細的報告,和民眾說明疫情發展會朝什麼樣的方向走。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "發展",
+                "詳細",
+                "說明"
+            ],
+            "datetime": "2022-05-28 16:06"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "中央先前已配發9.5萬劑的兒童BNT疫苗至新北各區,由於民眾預約踴躍,中央已宣布,5月30日會在配發2萬劑,6月3日還會再配發5.5萬劑,另外,校園集中接種將從25日施打至6月10日。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 16:06"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "對疫情發展持續掌控,長輩第四劑持續推動,也會給長者兩劑快篩試劑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-05-28 15:36"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "經過醫療院所、衛生局、教育局、學校四方共同討論後,訂定5月25日至6月10日採取校園集中接種規劃,221所國小及附幼,校園集中接種BNT;市立及私立幼兒園,全市29區選定國小開設施打站,由園方通知有意願家長造冊,時間地點由各幼兒園同知家長,比較大的區域例如板橋等有必要會安排到兩個國小。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "必要",
+                "通知",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-30 15:43"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "中央疫苗分四梯次配送,總劑量17萬劑,今會再配發2萬劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 15:43"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "這個案大家都很難過,個案發生時中央對於確診者都有一定的規範,相關單位都依照規範進行,這是國內第一起導致腦幹腦炎的案例,發生時中央及地方政府都非常重視,負責治療的雙和醫院也非常慎重,醫師團隊全力搶救,也邀集台大兒科重症多位專家共同會診,希望這樣的憾事不會再重複發生。",
+            "negative_score": 4,
+            "positive_score": 10,
+            "negative_list": [
+                "不會",
+                "難過",
+                "不會",
+                "難過"
+            ],
+            "positive_list": [
+                "全力",
+                "希望",
+                "治療",
+                "負責",
+                "重視",
+                "專家",
+                "規範",
+                "進行",
+                "慎重",
+                "希望"
+            ],
+            "datetime": "2022-05-30 18:24"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "地方在公布前不知情,不過若有需要,地方都會協助。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-30 17:56"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "中央5月24日配送2.7萬劑,5月27日配發3.8萬劑,5月30日配發2萬劑,6月3日配發5.5萬劑,疫苗總共分四梯次配送,總劑量17萬劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:56"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "目前居家照護執行中122,681人,居家隔離列管數31,359人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 15:26"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "「公部門該提供的相關資訊我們一定會來提供」,新北市也會依照政府資訊公開法以及檔案法,提供該提供的資料。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-05-31 15:21"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "昨天下午已收到恩恩爸爸要求市府提供的資料,包含市政府、消防局、衛生局三處都已經收到資料,後續會針對恩恩父母所提出的訴求,進一步了解,同時也會親自與家屬來做聯繫,家屬所要的資料,市府一定會提供。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "了解",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 15:21"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "中央、地方上下一條心,中央宣布政策不了解第一線執行情況,或是沒有制定、執行好的,地方馬上補位、補足。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不了",
+                "沒有"
+            ],
+            "positive_list": [
+                "了解",
+                "補足"
+            ],
+            "datetime": "2022-05-31 16:03"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "柯文哲市長這個人快人快語,但柯文哲想呈現的可能是,地方縣市政府對於中央跟地方的協助一定一樣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-31 16:03"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "所有恩恩爸爸寄過來的資料,新北昨天下午都已經收到,包括衛生局、消防局、市政府,總共有3份都收到。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 15:36"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "新北昨天下午已經收到恩恩爸爸寄來的資料,按照相關規定也一定會提供。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 15:36"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "會整理好相關資料,依照相關規定及做法回應,他也向劉致謝,但強調要的不是「回應」,而是希望新北市府可以承諾他們能調閱所需的完整資料,以此釐清真相。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "完整",
+                "希望",
+                "承諾",
+                "希望"
+            ],
+            "datetime": "2022-05-31 10:46"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "昨天晚上大約7點多有與恩爸聯繫上,原本預計在新竹見面討論,但昨晚10點多,收到恩爸訊息,希望先看到資料不碰面,因此尊重家屬,但市府後續還是會持續與家屬聯絡,「我們是非常有誠意的,希望可以帶著資料,當面跟他說明」。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "尊重",
+                "說明",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-06-01 17:50"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "「跟爸爸在說的時候我們都說,要到你那邊我們資料帶過去,所以希望這樣的彼此善意,不要在外界中做成其他的負面,其他的不同的解讀,消防局長跟衛生局長會帶著資料,跟恩恩爸爸做說明,如果恩恩爸爸他堅持說,請我們就資料寄過去,我們也會遵照他的這個要求。」",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "要求",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "堅持",
+                "善意",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 18:22"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "今天還是會請衛生局高副局長持續保持聯絡,市府非常有誠意,請衛生局長、消防局長帶著資料,當面說明,讓恩恩爸媽更了解實際情況。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "實際",
+                "說明",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 16:26"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "市府昨天下午就開始聯絡,直到晚上7點多連絡上,恩恩爸想要碰面了解,開始安排,也因為恩恩爸在新竹工作,所以市府特別請衛生局長、消防局長親自到新竹,立即在新竹飯店租會議室,晚間10點左右,恩恩爸來訊想先看資料,暫時不碰面,至於有何考量市府並不清楚。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "不清"
+            ],
+            "positive_list": [
+                "了解",
+                "特別",
+                "清楚",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 16:26"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "由於恩恩爸爸強調要了解當時情況,侯友宜充分理解,因此新北不僅提供資料,也希望兩位局長親自補充口頭說明,也回應恩恩爸爸希望了解全貌。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "充分",
+                "希望",
+                "理解",
+                "說明",
+                "希望"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "雙方也提到碰面地點,市府便立即在新竹找飯店、租會議室,一切連繫妥當。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "妥當"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "新北市每週會都會召開教育防疫會議,學校老師扮演重要的角色,不僅照顧學生學習狀況,也要確診學生身體健康。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "健康",
+                "學習"
+            ],
+            "datetime": "2022-06-01 15:52"
+        },
+        {
+            "person": "劉和然",
+            "verb": "強調",
+            "opinion": "新北市就像台灣的縮影,有都會、有偏鄉,有些學校確診個案數非常多,但也有些學校是沒有確診的,因此還是就高風險、低風險的概念,分為線上、線下等方式上課,目前一樣授權給學校,讓學校來判斷是否改為線上上課。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "下等",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:52"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "6月3日有5.5萬劑,這1.8萬劑中央也應該補發,因為這次目標就是希望想讓5-11歲幼童想打都要打,「本來不夠,中央就一定會補阿」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "每週四上午學校都會統計一些數據給教育局,明天教育局整理好相關數據後,會再與外界公布。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:22"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "從7日的平均數可以看出,中間有高峰約在5月20日、21日左右,之後新北疫情就是往下走,目前新北正在緩降中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:11"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "從7日的平均確診數可以看出,中間有過高峰落在5月20日、21日左右,之後新北的疫情就逐漸往下走,目前新北正在緩降中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 17:03"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "目前新北市居隔列管有2萬5543人,居家照護執行中的有10萬7132人,從7日的平均確診數來看,新北市的疫情正在緩降中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 17:03"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "會上指出,市府絕對尊重當事人權利;為讓「恩恩」爸爸真正瞭解全貌,先做出報案電話逐字稿,但提供聲音檔的要求,消防局勤務中心有其規範。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "要求",
+                "絕對"
+            ],
+            "positive_list": [
+                "真正",
+                "規範",
+                "尊重",
+                "瞭解",
+                "尊重"
+            ],
+            "datetime": "2022-06-02 21:40"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "上午相關同仁要讓恩爸聽取錄音檔,但恩爸拒絕。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "拒絕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:40"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "市府2日上午已用雙掛號將資料寄出,而今天恩恩爸前往市府,相關人員還是馬上印了資料給對方,恩恩爸在當下看完資料後提出了一些疑問,同仁了解他的疑問後也馬上為他說明,隨後表示,如果要聽音檔,可以馬上聽取,「不過恩恩父親當下回應他不要聽。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "疑問",
+                "不要",
+                "疑問"
+            ],
+            "positive_list": [
+                "了解",
+                "說明"
+            ],
+            "datetime": "2022-06-02 17:16"
+        },
+        {
+            "person": "劉和然",
+            "verb": "強調",
+            "opinion": "恩恩爸爸離開市府前,特別向他表示,若之後還是想要聽取錄音檔,市府隨時都可以派專人帶著錄音檔送去給他聽取。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-02 17:04"
+        },
+        {
+            "person": "劉和然",
+            "verb": "強調",
+            "opinion": "只要恩恩爸想聽,市府隨時都會配專人送給恩恩爸爸聽取。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:38"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "上午相關同仁要讓恩爸聽取錄音檔,但恩恩爸拒絕。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "拒絕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:38"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "「如果恩恩爸爸想要聽,兩次三次我們都會親自送到,所以有些細節跟相關情況,如果讓我們兩個局長在,我們就會隨時立即補充。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 19:04"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "高副局長開完會後,發現恩恩爸打了好幾通電話,高副局長就趕緊結束會議,跟恩恩爸說明資料已經寄出,可是恩恩爸說「既然已經來了,可不可以拿到資料」,因此高副局長緊急連絡消防局、衛生局處把將寄出的資料影印出來,當場交給恩恩爸簽收帶走。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "緊急",
+                "不可"
+            ],
+            "positive_list": [
+                "說明",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 16:14"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "新北市府今有跟恩恩爸強調幾件事,第一,如果恩恩爸回去看資料有任何疑問,就算端午節連假,只要恩恩爸有需要,兩位局長都會親自到新竹說明報告。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "疑問",
+                "疑問"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-02 16:14"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "今天有當場向恩恩爸爸說,回去看資料後,有任何疑問,即便是三天連續假期,衛生局長、消防局長都可到新竹親自向恩恩父母親報告。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "疑問",
+                "疑問"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 17:33"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說明",
+            "opinion": "市府2日上午已用雙掛號將相關資料寄出。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 19:52"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "「因為他今天表達說他不想聽,那一樣的我們也跟他表達,這幾天他想要聽錄音帶、對所有的逐字稿,我們這幾天有專人一定送到新竹,可以讓我們的爸爸聽。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 18:34"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "根據7日平均數可以看到,新北疫情正在緩降當中,呼籲民眾,在生活如常過程中,還是要做好防疫措施。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 16:07"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "前天恩恩爸爸到新北市府時,一直希望多問一些問題,這也是前段時間侯友宜市長希望消防局長跟衛生局長,兩個人親自到新竹跟恩恩父母說明的原因,有些資料口頭說明,或是當時4月14號那天的狀況做解釋,「我們都希望能把情境講越清楚越好」,消防局長跟衛生局長隨時都準備好回答問題了。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "準備",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-04 16:32"
+        },
+        {
+            "person": "劉和然",
+            "verb": "說",
+            "opinion": "前天恩恩爸爸到新北市府時,一直希望多問一些問題,這也是前段時間侯友宜市長希望消防局長跟衛生局長,兩個人親自到新竹跟恩恩父母說明的原因,有些資料口頭說明,或是當時4月14號那天的狀況做解釋,「我們都希望能把情境講越清楚越好」,消防局長跟衛生局長隨時都準備好回答問題了。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "準備",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-04 15:47"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "恩恩爸爸今天已經聽過了,如果後續有想法與需要,侯友宜也特別交代,只要有需要,市府還是會走一趟新竹,如果想再聽錄音檔,市府都會全力配合。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "特別"
+            ],
+            "datetime": "2022-06-06 19:39"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "聯絡過程是連續性動作,消防局持續打給衛生局、衛生所的過程中,也會主動跟醫院聯絡;衛生局連繫也是連續性動作,並要跟醫院討論聯絡。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "主動",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 16:30"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "恩恩爸中間有提問,但因為尊重恩恩爸所以就不透露,而在聽取音檔時恩恩爸有表示不希望太多人在現場,所以有清場,只有留下人員操作機器。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "透露"
+            ],
+            "positive_list": [
+                "希望",
+                "尊重",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-06-06 15:54"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "今天恩恩爸來到消防局由主秘接待,經過一樓看到外面有媒體,當下有詢問恩恩爸要不要受訪,他說不用,過程中恩恩爸有提到想看看勤務中心,主秘也有說明,之後才聽錄音帶。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-06 15:54"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "1922是疫情專線電話,當天衛生局接到1922轉北區管理中心電話時,恩恩已經送到醫院接受治療。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "治療",
+                "接受",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-08 15:57"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "就民眾認知來說,1922是疫情專線電話,當天衛生局接到1922轉北區管理中心的電話時,恩恩已經送到醫院接受治療。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "治療",
+                "接受",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-08 15:30"
+        },
+        {
+            "person": "劉和然",
+            "verb": "指出",
+            "opinion": "送交資料包括,恩恩媽與消防局所有的通話記錄,包括恩恩媽打來消防局的5通電話,以及消防局回撥的3通電話逐字稿譯文。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:08"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "理解恩恩爸想要知道4月14日當時新北疫情的情況下,恩恩送醫的全貌與真相,也見過面說明。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "理解",
+                "說明"
+            ],
+            "datetime": "2022-06-09 16:08"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "這個議題已經被模糊,消防局前兩天也被質疑造假,這對公務同仁來說是很嚴重的指控,同仁為了捍衛清白及形象,已經做了該有的司法處置,市府將會併同這個案子,檢送所有資料給司法單位調查。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "指控",
+                "處置",
+                "模糊",
+                "質疑",
+                "嚴重",
+                "嚴重的",
+                "指控",
+                "造假"
+            ],
+            "positive_list": [
+                "清白"
+            ],
+            "datetime": "2022-06-09 16:09"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "已準備好所有資料,包含恩恩媽跟消防局所有通話紀錄、外界一直想了解的橫向聯繫資料,都送交司法單位。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "準備"
+            ],
+            "datetime": "2022-06-09 16:09"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "可以理解恩恩爸想了解恩恩送醫過程的全貌,黃德清局長、陳潤秋局長也都有做說明、盡量把全貌跟真相告訴他,但也要符合公務體系的相關運作。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "理解",
+                "符合",
+                "說明"
+            ],
+            "datetime": "2022-06-09 16:09"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "這兩年只要跟新冠疫情有關,大家很熟悉,就是如果因為Covid-19有緊急就醫需求,請撥打緊急防疫專線1922。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "熟悉"
+            ],
+            "datetime": "2022-06-10 15:31"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "這是一種信任感,也是一種服務的態度,昨天陳時中的發言,很多民眾可能會重新檢視,這兩年下來,1922該扮演的角色。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "信任",
+                "很多"
+            ],
+            "datetime": "2022-06-10 15:31"
+        },
+        {
+            "person": "劉和然",
+            "verb": "認為",
+            "opinion": "民進黨最擅長「倒果為因」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "擅長"
+            ],
+            "datetime": "2022-06-10 10:15"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "為何4月20日前後送醫指引會改變,這是討論焦點。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 17:29"
+        },
+        {
+            "person": "劉和然",
+            "verb": "表示",
+            "opinion": "恩恩議題已逐漸被模糊,嚴重影響基層在工作的努力,市府已將所有資料提交給司法單位,包括8通通話內容、音檔及橫向聯繫資料,捍衛消防人員尊嚴。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "模糊",
+                "嚴重"
+            ],
+            "positive_list": [
+                "努力",
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-10 11:06"
+        }
+    ]
+}

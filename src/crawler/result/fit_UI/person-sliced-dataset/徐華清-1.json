@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐華清.png",
+    "opinions": [
+        {
+            "person": "徐華清",
+            "verb": "表示",
+            "opinion": "當時護理師確認孩子體溫為39.7度,經過評估後建議轉院至設有小兒專科的醫院,而國軍屏東醫院的防疫兒童專責通道,設置的時間為週六上午9點至10點。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:03"
+        }
+    ]
+}

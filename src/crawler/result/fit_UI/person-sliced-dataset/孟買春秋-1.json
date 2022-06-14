@@ -1,0 +1,58 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/孟買春秋.png",
+    "opinions": [
+        {
+            "person": "孟買春秋",
+            "verb": "表示",
+            "opinion": "陳智菡和楊寶楨兩個發言人,一個代表台北市一個代表民眾黨,就直屬長官而言,都是替柯文哲發言的,她們沒有參與制定政策的權力。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 14:54"
+        },
+        {
+            "person": "孟買春秋",
+            "verb": "指出",
+            "opinion": "柯文哲下面的發言人接連惹出爭議,凸顯出一個嚴重問題,「她們並沒有民意的授權,卻以為她們有,因為她們已經雞犬升天。」",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "嚴重",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 14:54"
+        },
+        {
+            "person": "孟買春秋",
+            "verb": "認為",
+            "opinion": "一個地方政府的發言人,對疫情大放厥詞前沒有請教衛生局長,讓長官在議會中無法回答議員質詢,事後的強詞奪理,繼續大發議論自曝自以為是的料,她猜測衛生局長一樣不知情。",
+            "negative_score": 10,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "沒有",
+                "無法",
+                "議論",
+                "不知",
+                "自以為",
+                "自以為是",
+                "沒有",
+                "強詞奪理",
+                "無法"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-01 14:54"
+        }
+    ]
+}

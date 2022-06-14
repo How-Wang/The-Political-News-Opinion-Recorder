@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/Sim.png",
+    "opinions": [
+        {
+            "person": "Sim",
+            "verb": "表示",
+            "opinion": "自己將近半夜2點還在排隊做核酸,因為只有一個窗口,就算半夜去做,他也排了45分鐘才完成檢測。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-02 12:08"
+        }
+    ]
+}

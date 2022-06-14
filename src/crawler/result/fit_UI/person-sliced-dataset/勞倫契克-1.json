@@ -1,0 +1,263 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/勞倫契克.png",
+    "opinions": [
+        {
+            "person": "勞倫契克",
+            "verb": "表示",
+            "opinion": "「斯洛伐克支持台灣,這次的來訪就是證明」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 10:23"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "「斯洛伐克的台灣好朋友就站在你們的背後,不會因為外界的阻撓或干擾而妥協,而且也做好隨時抵抗威脅民主強權的準備」。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "干擾",
+                "不會",
+                "抵抗",
+                "威脅",
+                "干擾",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-07 11:28"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "表示",
+            "opinion": "兩國為實現民主,都走過漫長坎坷的道路,而蔡英文就是台灣跟人民,民主自由的化身。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由",
+                "實現"
+            ],
+            "datetime": "2022-06-07 11:28"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "台灣跟斯洛伐克並肩走在疫情時代,疫情是艱難的考驗,斯洛伐克不會忘記最艱難的那段日子,台灣無私的援助,而台灣為了感謝斯洛伐克的疫苗時,特別在101點燈,這讓斯洛伐克深深難忘。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "忘記",
+                "艱難",
+                "艱難的",
+                "不會"
+            ],
+            "positive_list": [
+                "特別",
+                "感謝",
+                "難忘",
+                "感謝"
+            ],
+            "datetime": "2022-06-07 11:28"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "「斯洛伐克的台灣好朋友,就站在你們身後,不會因外界阻撓或干擾妥協,也做好了隨時抵抗,威脅民主強權的準備。」",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "干擾",
+                "不會",
+                "抵抗",
+                "威脅",
+                "干擾",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-07 19:01"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "「在我繼續我的演講之前,我想向蔡英文總統表達深切感謝,我們在房間中發現的禮物,讓我們非常地驚喜,非常非常感謝。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "深切",
+                "感謝",
+                "感謝",
+                "驚喜"
+            ],
+            "datetime": "2022-06-07 19:01"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "「斯洛伐克的台灣好朋友就站在你們身後,不會因為外界的阻撓或干擾而妥協,也做好了隨時抵抗威脅民主強權的準備。」",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "干擾",
+                "不會",
+                "抵抗",
+                "威脅",
+                "干擾",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-07 13:07"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "「在我繼續我的演講之前,我想向蔡英文總統表達深切的感謝,我們在房間中發現的禮物,讓我們非常地驚喜,非常非常感謝。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "深切",
+                "感謝",
+                "感謝",
+                "驚喜"
+            ],
+            "datetime": "2022-06-07 13:07"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "表示",
+            "opinion": "蔡英文是台灣民主與自由的化身,「斯洛伐克的台灣好朋友就站在你們身後,不會因為外界的阻撓、干擾而妥協,也做好了隨時抵抗威脅民主強權的準備」。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "干擾",
+                "不會",
+                "抵抗",
+                "威脅",
+                "干擾",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "準備",
+                "自由"
+            ],
+            "datetime": "2022-06-07 12:58"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "表示",
+            "opinion": "榮幸與地理相距遙遠但心理相盡的台灣總統蔡英文相會。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "榮幸"
+            ],
+            "datetime": "2022-06-07 12:58"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "說",
+            "opinion": "斯洛伐克永遠不會忘記在疫情最艱難的日子,台灣提供的無數援助,成千上萬的醫療口罩使斯國眾多國民免於感染,台灣為感謝斯洛伐克提供疫苗,特別在101點燈出現感謝斯洛伐克字樣,讓我們深深感動。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "忘記",
+                "感染",
+                "艱難",
+                "艱難的",
+                "不會"
+            ],
+            "positive_list": [
+                "特別",
+                "感動",
+                "感謝",
+                "感動",
+                "感謝"
+            ],
+            "datetime": "2022-06-07 12:58"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "指出",
+            "opinion": "台灣和斯洛伐克肩並肩走在疫情時代,全球疫情是艱鉅的考驗,卻也促成兩國友誼之橋的架構和實現。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "友誼",
+                "促成",
+                "實現"
+            ],
+            "datetime": "2022-06-07 12:58"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "表示",
+            "opinion": "斯洛伐克站在台灣的身後,不會因為外界的阻撓或干擾而妥協,也做好隨時抵抗威脅民主強權的準備。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "干擾",
+                "不會",
+                "抵抗",
+                "威脅",
+                "干擾",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-07 16:26"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "表示",
+            "opinion": "他身為斯洛伐克國會副議長,和議員們深感榮幸,能與地理距離遙遠,但心靈彼此貼近民主的中華民國(台灣)最高領袖相會。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "榮幸"
+            ],
+            "datetime": "2022-06-07 16:26"
+        },
+        {
+            "person": "勞倫契克",
+            "verb": "提到",
+            "opinion": "斯洛伐克永遠不會忘記在疫情最艱難的那段日子裡,台灣提供的無私援助,成千上萬個醫療口罩讓斯國眾多國民免於感染。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "忘記",
+                "感染",
+                "艱難",
+                "艱難的",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:26"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/顧莫中.png",
+    "opinions": [
+        {
+            "person": "顧莫中",
+            "verb": "提到",
+            "opinion": "近期美國制裁瓜地馬拉檢察總長事件,是明顯的霸凌與干涉,中國外交部發言人也因此聲援瓜地馬拉,強調官方這樣公開談及「非邦交國」,相當罕見。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "干涉"
+            ],
+            "positive_list": [
+                "公開",
+                "罕見",
+                "明顯",
+                "明顯的"
+            ],
+            "datetime": "2022-05-29 19:07"
+        }
+    ]
+}

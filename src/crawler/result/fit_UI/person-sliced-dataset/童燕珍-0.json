@@ -1,0 +1,51 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "童燕珍",
+            "verb": "說",
+            "opinion": "希望人選是真心的為高雄付出,即使是空降,必須趕快到高雄來,盡快了解高雄市政,如果是空降的,努力要加倍再加倍。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "努力",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-07 14:53"
+        },
+        {
+            "person": "童燕珍",
+            "verb": "說",
+            "opinion": "「近期之內中央會很尊重,我們地方黨籍議員的意見,我們並不期望說,這個候選人一定百分之百,可以打贏這場市長的仗,最重要是希望,這個候選人能夠帶領國民黨。」",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "重要",
+                "最重要",
+                "尊重",
+                "希望",
+                "尊重",
+                "期望"
+            ],
+            "datetime": "2022-06-07 18:43"
+        },
+        {
+            "person": "童燕珍",
+            "verb": "說",
+            "opinion": "目前被外界點名的有孫文學校總校長張亞中、國民黨智庫執行長柯志恩、金門立委陳玉珍和前衛生署長楊志良等人。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-07 15:00"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/歐陽貴婦.png",
+    "opinions": [
+        {
+            "person": "歐陽貴婦",
+            "verb": "說",
+            "opinion": "要「開」50台賓利,並稱她是屬於一個賓利車俱樂部,因此可以調來50輛車,表示吵架鏡頭是「後期配音,相關字幕和內容是惡意剪輯」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "吵架",
+                "惡意",
+                "吵架"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:03"
+        }
+    ]
+}

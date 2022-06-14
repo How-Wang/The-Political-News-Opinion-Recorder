@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台積電.png",
+    "opinions": [
+        {
+            "person": "台積電",
+            "verb": "說",
+            "opinion": "台積電正加快向美國轉移,要在美國建立六個廠,我們絕對不能讓它轉移的目標全部實現。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "絕對"
+            ],
+            "positive_list": [
+                "實現"
+            ],
+            "datetime": "2022-06-07 14:40"
+        }
+    ]
+}

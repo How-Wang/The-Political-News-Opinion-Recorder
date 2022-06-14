@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周錫瑋.png",
+    "opinions": [
+        {
+            "person": "周錫瑋",
+            "verb": "說",
+            "opinion": "小王啊,我們把事情做好最重要,不要太在意民眾對我們的評論。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "在意",
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-06-10 05:30"
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "謝長廷",
+            "verb": "認為",
+            "opinion": "「最關心的好像還是台灣問題」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-23 15:31"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "表示",
+            "opinion": "東京港區迎賓館今舉行日美首腦會談,他列出有7大重點。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "舉行"
+            ],
+            "datetime": "2022-05-23 15:31"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "指出",
+            "opinion": "第四,北韓核威脅問題,由美日韓共同合作處理;第五,同意明年的G7高峰會議在廣島舉行,主題為守護和平和世界秩序;第六,美國倡導的IPEF(印度太平洋經濟架構)日本參加並支持;以及第七,聯合國安理會如改革,支持日本加入理事會。",
+            "negative_score": 4,
+            "positive_score": 11,
+            "negative_list": [
+                "威脅",
+                "問題",
+                "威脅",
+                "問題"
+            ],
+            "positive_list": [
+                "同意",
+                "合作",
+                "改革",
+                "和平",
+                "秩序",
+                "參加",
+                "理會",
+                "聯合",
+                "舉行",
+                "合作",
+                "理會"
+            ],
+            "datetime": "2022-05-23 17:32"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "提到",
+            "opinion": "針對TPP、IPEF等問題,記者也有提問,但最關心的好像還是台灣問題。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-23 17:32"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "說",
+            "opinion": "到,今日有兩件事值得紀念,一是中國天安門鎮壓殘殺學生事件,另一個則是日本第一批友情疫苗送抵台灣的日子,謝長廷也回憶日本贈送疫苗的那一日,「我彎腰鞠躬表達感謝,嘴𥚃唸著一切拜託了,淚水雨水已經分不清楚,只祈禱故鄉的人可以平安渡過疫情」。",
+            "negative_score": 7,
+            "positive_score": 7,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "殘殺",
+                "鎮壓",
+                "不清",
+                "拜託",
+                "殘殺"
+            ],
+            "positive_list": [
+                "平安",
+                "紀念",
+                "值得",
+                "值得紀念",
+                "清楚",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-04 18:17"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "表示",
+            "opinion": "司馬遼太郎在《台灣紀行》這本書的最後一段說,祈望民主台灣不會從歴史消失,而是能成為世界的典範,「台灣和日本在困難時互相扶持的良善循環,就是鄰國和平相處的典範」。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "困難",
+                "消失",
+                "不會",
+                "困難",
+                "消失"
+            ],
+            "positive_list": [
+                "成為",
+                "和平",
+                "良善"
+            ],
+            "datetime": "2022-06-04 18:17"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "表示",
+            "opinion": "6月4日有兩件事值得紀念,一是中國天安門鎮壓殘殺學生事件滿33週年;一是去年日本首批友情疫苗送抵台灣。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "殘殺",
+                "鎮壓",
+                "殘殺"
+            ],
+            "positive_list": [
+                "紀念",
+                "值得",
+                "值得紀念"
+            ],
+            "datetime": "2022-06-04 22:18"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "說",
+            "opinion": "日本已故歷史小說家司馬遼太郎在「台灣紀行」一書,最後的一段話寫著「祈望民主台灣不會從歷史消失,而是能成為世界的典範」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "消失",
+                "不會",
+                "消失"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-04 22:18"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "指出",
+            "opinion": "中國政府常主張台灣是中華人民共和國的一部分,不僅妨礙台灣參與國際組織,以武力威嚇,逼迫台灣接受統一。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "妨礙",
+                "武力",
+                "威嚇",
+                "逼迫",
+                "逼迫"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-09 22:05"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "指出",
+            "opinion": "去年6月4日飛往台灣的日本航空飛機在雨中的成田機場起飛,當這班飛機平安降落台灣時,他心中卸下大石感到放心,同時也被日本溫馨的友情深受感動。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "放心",
+                "感動",
+                "情深",
+                "感動",
+                "溫馨"
+            ],
+            "datetime": "2022-06-09 22:05"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "指出",
+            "opinion": "中國政府常主張台灣是中華人民共和國的一部分,不僅妨礙台灣參與國際組織,以武力威嚇,逼迫台灣接受統一。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "妨礙",
+                "武力",
+                "威嚇",
+                "逼迫",
+                "逼迫"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-10 09:54"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "指出",
+            "opinion": "去年6月4日飛往台灣的日本航空飛機在雨中的成田機場起飛,當這班飛機平安降落台灣時,他心中卸下大石感到放心,同時也被日本溫馨的友情深受感動。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "放心",
+                "感動",
+                "情深",
+                "感動",
+                "溫馨"
+            ],
+            "datetime": "2022-06-10 09:54"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "表示",
+            "opinion": "其實這都是中國(中共)促進的,中共的軍機飛的那麼逼近台灣,日本民眾當然會覺得緊張。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "逼近",
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [
+                "促進",
+                "當然"
+            ],
+            "datetime": "2022-06-11 01:57"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "指出",
+            "opinion": "講這種話就是在製造緊張,所以他前天在臉書(facebook)上傳了一張「搶婚」的圖片。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 01:57"
+        },
+        {
+            "person": "謝長廷",
+            "verb": "說",
+            "opinion": "通常他們很不高興或抗議,表示我們做的應該是正確的。」",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不高",
+                "不高興",
+                "抗議"
+            ],
+            "positive_list": [
+                "正確",
+                "正確的",
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-11 01:57"
+        }
+    ]
+}

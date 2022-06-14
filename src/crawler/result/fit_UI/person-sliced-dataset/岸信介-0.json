@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/岸信介.png",
+    "opinions": [
+        {
+            "person": "岸信介",
+            "verb": "說",
+            "opinion": "中國和俄羅斯之間的軍事合作加劇了該地區的安全擔憂。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "加劇",
+                "擔憂",
+                "擔憂"
+            ],
+            "positive_list": [
+                "合作",
+                "安全",
+                "合作"
+            ],
+            "datetime": "2022-06-11 14:44"
+        }
+    ]
+}

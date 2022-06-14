@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中正一分局.png",
+    "opinions": [
+        {
+            "person": "中正一分局",
+            "verb": "指出",
+            "opinion": "民主大道前的「恥辱柱」展示品遭人噴漆,由於該展示品是用來紀念六四天安門事件,警方獲報後不敢大意,隨即調閱監視器畫面追查,並陪同主辦單位完成報案程序,目前專案小組已掌握特定對象,6小時內追緝李男嫌姓嫌犯到案。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "大意",
+                "恥辱"
+            ],
+            "positive_list": [
+                "完成",
+                "紀念",
+                "掌握"
+            ],
+            "datetime": "2022-06-12 16:28"
+        }
+    ]
+}

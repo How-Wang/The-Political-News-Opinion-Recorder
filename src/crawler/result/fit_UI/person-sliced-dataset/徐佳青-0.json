@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐佳青.png",
+    "opinions": [
+        {
+            "person": "徐佳青",
+            "verb": "說",
+            "opinion": "我們在民主的國度裡面,民進黨、國民黨都在同一個平台上面,互相努力求進步,政黨競爭是必然的,良性的競爭對國家是更好,我們非常正向看待。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "努力",
+                "良性",
+                "良性的",
+                "進步",
+                "良性"
+            ],
+            "datetime": "2022-06-11 14:01"
+        }
+    ]
+}

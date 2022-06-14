@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市議會.png",
+    "opinions": [
+        {
+            "person": "台北市議會",
+            "verb": "表示",
+            "opinion": "自己跟羅智強交情還不錯,「我會再找機會跟他談談看。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-06-07 17:41"
+        }
+    ]
+}

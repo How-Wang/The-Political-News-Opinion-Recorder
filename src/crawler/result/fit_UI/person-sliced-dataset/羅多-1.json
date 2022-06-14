@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/羅多.png",
+    "opinions": [
+        {
+            "person": "羅多",
+            "verb": "說",
+            "opinion": "他對羅智強純粹一片善意、好意,也非常感謝市議員詹江村支持。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "好意",
+                "善意",
+                "感謝",
+                "好意",
+                "感謝"
+            ],
+            "datetime": "2022-06-06 12:03"
+        }
+    ]
+}

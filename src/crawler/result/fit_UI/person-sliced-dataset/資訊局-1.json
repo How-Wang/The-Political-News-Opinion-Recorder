@@ -1,0 +1,169 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/資訊局.png",
+    "opinions": [
+        {
+            "person": "資訊局",
+            "verb": "指出",
+            "opinion": "調查人員直接聯繫文PO文當事人,坦承「LXXXXXXr」、「gXXXXX0」、「gXXXXX0」均為他的帳號,但發文為自身遭遇,抒發不滿而非造謠,於上班時間從事非公務行為,願受懲處。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "造謠",
+                "遭遇",
+                "不滿",
+                "造謠"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-02 23:15"
+        },
+        {
+            "person": "資訊局",
+            "verb": "指出",
+            "opinion": "調查人員直接聯繫文PO文當事人,坦承LXXXXXXr、gXXXXX0、gXXXXX0均為他的帳號,但發文為自身遭遇,抒發不滿而非造謠,於上班時間從事非公務行為,願受懲處。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "造謠",
+                "遭遇",
+                "不滿",
+                "造謠"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-02 22:34"
+        },
+        {
+            "person": "資訊局",
+            "verb": "認為",
+            "opinion": "財團法人台北市會展產業發展基金會林姓員工。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-03 11:09"
+        },
+        {
+            "person": "資訊局",
+            "verb": "表示",
+            "opinion": "為台北市會展產業發展基金會林姓員工發文,林姓員工還表示文章內容都是親身經歷、不是造謠。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "造謠",
+                "不是",
+                "造謠"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-04 22:32"
+        },
+        {
+            "person": "資訊局",
+            "verb": "表示",
+            "opinion": "為台北市會展產業發展基金會林姓員工發文,林姓員工還表示文章內容都是親身經歷、不是造謠。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "造謠",
+                "不是",
+                "造謠"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-04 22:49"
+        },
+        {
+            "person": "資訊局",
+            "verb": "認為",
+            "opinion": "台北市會展產業發展基金會林育生姓員工發文,林育生員宣稱文章內容為親身經歷、不是造謠。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "造謠",
+                "不是",
+                "造謠"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-05 22:39"
+        },
+        {
+            "person": "資訊局",
+            "verb": "表示",
+            "opinion": "為台北市會展產業發展基金會林姓員工發文,林姓員工還表示文章內容都是親身經歷、不是造謠。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "造謠",
+                "不是",
+                "造謠"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-05 09:01"
+        },
+        {
+            "person": "資訊局",
+            "verb": "認為",
+            "opinion": "台北市會展產業發展基金會林育生姓員工發文,林育生員宣稱文章內容為親身經歷、不是造謠。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "造謠",
+                "不是",
+                "造謠"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-05 22:45"
+        },
+        {
+            "person": "資訊局",
+            "verb": "強調",
+            "opinion": "「台北市政府員工使用資通訊裝置應注意事項」在其他行為規範,各機關應善用本府網路與其他資通訊資源,不得作非公務或違反公務紀律之使用或有浪費資源等行為;使用市府公務資通訊裝置及網路應遵循網路禮節,不得有惡意中傷或人身攻訐、謾罵、散佈不實言論之行為,或發表個人政治立場等違反行政中立之情事。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "中傷",
+                "有惡意",
+                "浪費",
+                "惡意",
+                "違反",
+                "不得",
+                "不實",
+                "浪費",
+                "違反"
+            ],
+            "positive_list": [
+                "注意",
+                "規範",
+                "資源"
+            ],
+            "datetime": "2022-06-09 09:22"
+        },
+        {
+            "person": "資訊局",
+            "verb": "說明",
+            "opinion": "報告,針對12個帳號進行調查,共7個局處有帳號。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 19:38"
+        }
+    ]
+}

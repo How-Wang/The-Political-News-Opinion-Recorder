@@ -1,0 +1,245 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳亭妃",
+            "verb": "指出",
+            "opinion": "行政院「因應疫情新一波振興作為」振興政策,受疫重創最嚴重產為交通運輸及觀光產業,交通部爭取60億元振興預算,5億元會用在公路客運振興補助,55億元用在旅行業、旅宿業和觀光業,未包含計程車產業,直接放生,重重打擊計程車業者。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "打擊",
+                "重打",
+                "嚴重",
+                "打擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 10:58"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "「我覺得我們應該要從個人資金來查起,我們都希望把營業秘密法的部分能做一些比較完整的修法,這樣才能有第一道、第二道、第三道的防線。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "秘密"
+            ],
+            "positive_list": [
+                "才能",
+                "完整",
+                "完整的",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-27 18:58"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "她一早趕高鐵就有計程車司機大哥向她陳情,為何昨天公布的紓困方案沒有計程車。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:11"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "說",
+            "opinion": "疫情肆虐計程車收入銳減4分之1,幾乎連基本工資都無法達標,足見計程車是最須納入振興產業之一。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "肆虐",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:11"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "認為",
+            "opinion": "行政院各部會決策前,應該要收集更多基層的聲音,前年、去年已經兩次紓困了,這次是進行第三次,交通部怎麼可能還掛一漏萬,讓相關業別的民眾有很不好的感覺。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-27 13:11"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "認為",
+            "opinion": "遊覽車跟計程車駕駛被放生,呼籲行政院再研擬放寬。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:58"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "她接獲計程車大哥陳情,且她提出數據指出,計程車收入銳減4分之1,幾乎連基本工資都無法達標,要求交通部長王國材將其納入首波振興產業。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:31"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "現在立法院的會期結束了,大家都開始在討論,國父孫中山的這張照片怎麼辦,「這個可是要問國民黨,最會破壞、賴帳的國民黨,到底這次敢不敢賴帳」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "破壞",
+                "破壞"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:15"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "國民黨最會破壞跟賴帳,這幾天很多人都問她,是否認為國民黨會賴帳,「我都說一定會,因為賴帳是他們的本能科」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "否認",
+                "破壞",
+                "破壞"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-01 10:15"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "說",
+            "opinion": "「大家都問我,你覺得國民黨會賴帳嗎,我都說一定會,因為賴帳是他們的本門科。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:50"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "中執會通過暫緩提名公告,全案移請中評會進行實質調查,因為黨紀會影響黨權的問題。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "通過",
+                "進行"
+            ],
+            "datetime": "2022-06-08 16:36"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "指出",
+            "opinion": "這要看選對會,過去黨代表大會是造勢大會,但現在因為疫情,所以要看狀況適不適合做大規模造勢,今天中執會都沒有討論這個議題,還是防疫優先。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不適",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "適合"
+            ],
+            "datetime": "2022-06-08 16:36"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "說",
+            "opinion": "「目前我們今天通過黨代表大會,是暫定就是在7/17,所以我們這次是會改選中執委,中評委跟中常委,做了以上的報告,但是並沒有去討論到,選舉提名的部分。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-08 18:38"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "指出",
+            "opinion": "今天會中通過全代會訂在7月17日,當天預計會改選黨職,而今天並未討論到選舉提名。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-08 15:32"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "這要看選對會,過去黨代表大會是造勢大會,但現在因為疫情,所以要看到時候整個疫情狀況,適不適合做大規模造勢,或做一些相關活動,要到時候再看。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [
+                "適合"
+            ],
+            "datetime": "2022-06-08 15:32"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "表示",
+            "opinion": "許多團膳業者配合政府推行國產3章1Q政策,如今受到疫情停課影響,政府應給予備料損失補償。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "損失"
+            ],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-06-10 11:59"
+        },
+        {
+            "person": "陳亭妃",
+            "verb": "說",
+            "opinion": "大家都在問朱立倫怎麼了,到了美國就換了另一個腦袋嗎?外界應該關注,朱立倫回到台灣第一句話會怎麼說,當媒體問他馬曉光的話,朱立倫會怎麼回答?國民黨真的是親美反共的政黨嗎?朱立倫說共機擾台不該發生,但他回到台灣還敢用這麼強硬的態度嗎?期待朱立倫回到台灣,到底會給台灣什麼樣的答案。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "他馬"
+            ],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-10 11:31"
+        }
+    ]
+}

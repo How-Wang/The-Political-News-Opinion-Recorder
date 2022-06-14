@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "USTR",
+            "verb": "說",
+            "opinion": "該次會談是在美國在台協會(AIT)與美國台北經濟文化代表處(我國駐美代表處,TECRO)架構下舉行。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "舉行"
+            ],
+            "datetime": "2022-05-21 09:03"
+        }
+    ]
+}

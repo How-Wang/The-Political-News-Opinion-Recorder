@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高士佛社.png",
+    "opinions": [
+        {
+            "person": "高士佛社",
+            "verb": "表示",
+            "opinion": "近年來透過文化部的「歷史場域再造計畫」,積極活化「牡丹社事件」的歷史脈動,無論是紀念活動、石碑設立,或是牡丹社事件故事館的落成,皆朝著還原歷史事件的目標前進。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "前進",
+                "紀念",
+                "積極"
+            ],
+            "datetime": "2022-05-30 18:00"
+        }
+    ]
+}

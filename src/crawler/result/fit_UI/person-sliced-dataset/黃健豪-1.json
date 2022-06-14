@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃健豪.png",
+    "opinions": [
+        {
+            "person": "黃健豪",
+            "verb": "質疑",
+            "opinion": "蘇貞昌掌握國家機器和8400億預算,莫名其妙發一個2歲以下不能用的快篩給2歲以下的幼童,到底是什麼意思?政策有夠矛盾。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "矛盾",
+                "矛盾",
+                "有夠",
+                "莫名",
+                "莫名其妙"
+            ],
+            "positive_list": [
+                "掌握"
+            ],
+            "datetime": "2022-05-27 16:30"
+        }
+    ]
+}

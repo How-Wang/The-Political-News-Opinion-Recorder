@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林明知.png",
+    "opinions": [
+        {
+            "person": "林明知",
+            "verb": "提到",
+            "opinion": "2014年其母親來台探親時,因婚外情一事,被許妻女兒許家蓓甩巴掌,可知許妻早就知道婚外情事實,卻在6年後才提告,已超過侵權行為請求權時效。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "巴掌",
+                "超過"
+            ],
+            "positive_list": [
+                "知道",
+                "請求"
+            ],
+            "datetime": "2022-06-03 12:48"
+        }
+    ]
+}

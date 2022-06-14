@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡瑩潔.png",
+    "opinions": [
+        {
+            "person": "蔡瑩潔",
+            "verb": "表示",
+            "opinion": "若要求員工在工作時間以外提供勞務,就要給予加班費,若要求提早打卡,就是偽造工時紀錄;因為薪資是勞資雙方協商議定,如果要變更獎金薪酬制度,也必須要徵得員工同意。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "偽造",
+                "偽造"
+            ],
+            "positive_list": [
+                "同意",
+                "給予"
+            ],
+            "datetime": "2022-05-26 11:08"
+        }
+    ]
+}

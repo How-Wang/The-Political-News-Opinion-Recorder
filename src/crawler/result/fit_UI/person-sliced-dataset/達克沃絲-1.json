@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/達克沃絲.png",
+    "opinions": [
+        {
+            "person": "達克沃絲",
+            "verb": "宣布",
+            "opinion": "捐贈台灣疫苗,以協助對抗疫情。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "協助",
+                "捐贈"
+            ],
+            "datetime": "2022-05-30 20:42"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "「也希望我們今日討論,不只包括全動署國民兵,也希望討論經濟合作,有直接的互動簽署協議。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "希望",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-02 17:50"
+        }
+    ]
+}

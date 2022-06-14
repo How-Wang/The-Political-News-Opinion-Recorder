@@ -1,0 +1,38 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李國璋.png",
+    "opinions": [
+        {
+            "person": "李國璋",
+            "verb": "表示",
+            "opinion": "非常肯定高虹安的表現,若未來她正式參選,一定會全力輔佐。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "全力",
+                "肯定"
+            ],
+            "datetime": "2022-05-29 09:00"
+        },
+        {
+            "person": "李國璋",
+            "verb": "說",
+            "opinion": "張善政確實是不可多得的人才,提名他也確實是奇兵,但如果能更尊重地方意願就會更好,張善政的問題在於如何團結在地民意。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "問題",
+                "不可",
+                "問題"
+            ],
+            "positive_list": [
+                "尊重",
+                "確實",
+                "尊重"
+            ],
+            "datetime": "2022-05-29 09:00"
+        }
+    ]
+}

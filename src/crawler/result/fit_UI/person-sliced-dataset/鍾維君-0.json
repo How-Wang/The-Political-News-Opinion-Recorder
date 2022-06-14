@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鍾維君.png",
+    "opinions": [
+        {
+            "person": "鍾維君",
+            "verb": "表示",
+            "opinion": "非常歡迎朱立倫主席來,上一次來舊金山是七年以前舉辦了一場盛大的僑界集會,沒想到朱立倫主席一見面就記得,立刻提起這件往事,感覺就像昨天一樣,非常歡迎朱立倫主席來到舊金山。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 08:19"
+        },
+        {
+            "person": "鍾維君",
+            "verb": "表示",
+            "opinion": "非常歡迎朱立倫來,上一次來舊金山是七年以前舉辦了一場盛大的僑界集會,沒想到朱立倫一見面就記得,立刻提起這件往事,感覺就像昨天一樣,非常歡迎朱立倫來到舊金山。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 08:57"
+        }
+    ]
+}

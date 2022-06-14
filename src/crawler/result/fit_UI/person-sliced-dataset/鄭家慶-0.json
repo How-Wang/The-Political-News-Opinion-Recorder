@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭家慶.png",
+    "opinions": [
+        {
+            "person": "鄭家慶",
+            "verb": "說",
+            "opinion": "「國會議員或副議長來訪,事實上也可以凸顯我們跟國會之間的交流是密切的,不是只有在實質的經貿議題上面,但是在(兩國)友誼上面,跟斯洛伐克人民以及代表上,我們有更進一步的深化彼此友誼。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "友誼"
+            ],
+            "datetime": "2022-06-05 16:51"
+        },
+        {
+            "person": "鄭家慶",
+            "verb": "說",
+            "opinion": "「國會議員或副議長來訪,事實上也可以凸顯我們跟國會之間的交流是密切的,不是只有在實質的經貿議題上面,但是在(兩國)友誼上面,跟斯洛伐克人民以及代表上,我們有更進一步的深化彼此友誼。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "友誼"
+            ],
+            "datetime": "2022-06-05 12:58"
+        }
+    ]
+}

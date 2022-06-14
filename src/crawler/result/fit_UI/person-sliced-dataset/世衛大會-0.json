@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/世衛大會.png",
+    "opinions": [
+        {
+            "person": "世衛大會",
+            "verb": "說",
+            "opinion": "法,清楚指出這些決議只提及中國代表問題,既未授權中國代表台灣,也沒有說台灣是中國的一部分。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-27 01:35"
+        }
+    ]
+}

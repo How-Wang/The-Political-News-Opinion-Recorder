@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳慶元.png",
+    "opinions": [
+        {
+            "person": "陳慶元",
+            "verb": "指出",
+            "opinion": "「我們希望,也讓我們的徐榛蔚縣長知道,教師權益的保障,才能夠實質來提升,我們花蓮學生的受教育品質。」",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "希望",
+                "知道",
+                "提升",
+                "權益",
+                "希望"
+            ],
+            "datetime": "2022-06-05 18:22"
+        }
+    ]
+}

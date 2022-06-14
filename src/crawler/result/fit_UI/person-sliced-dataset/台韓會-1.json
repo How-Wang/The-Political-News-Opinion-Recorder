@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台韓會.png",
+    "opinions": [
+        {
+            "person": "台韓會",
+            "verb": "表示",
+            "opinion": "為促成本次捐贈事宜,駐台北韓國代表部、大韓貿易投資振興公社(KOTRA)、台北韓國貿易館與全國經濟人聯合會保持緊密協商,協助快篩試劑安全轉交予台灣。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "協助",
+                "促成",
+                "捐贈",
+                "聯合"
+            ],
+            "datetime": "2022-06-06 12:24"
+        }
+    ]
+}

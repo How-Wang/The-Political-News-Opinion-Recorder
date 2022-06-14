@@ -1,0 +1,92 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蘇利文",
+            "verb": "表示",
+            "opinion": "台灣未被納入印太經濟架構,但他強調美國正在尋求深化與台灣經濟夥伴關係。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "未被"
+            ],
+            "positive_list": [
+                "夥伴"
+            ],
+            "datetime": "2022-05-22 18:11"
+        },
+        {
+            "person": "蘇利文",
+            "verb": "指出",
+            "opinion": "拜登政府致力於與盟友和夥伴合作,發出明確威嚇訊息,並支持美國政府的基本政策,亦即美中三公報與台灣關係法下的一個中國政策,美方不希望看到片面改變現狀,也不希望見到軍事侵略。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "侵略",
+                "威嚇"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "明確",
+                "夥伴",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-05-22 18:11"
+        },
+        {
+            "person": "蘇利文",
+            "verb": "表示",
+            "opinion": "會在高科技領域,尋求深化與我經貿關係。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:38"
+        },
+        {
+            "person": "蘇利文",
+            "verb": "表示",
+            "opinion": "台灣不會成為IPEF的創始成員,不過也說,美國貿易代表戴琪日前才與行政院政委鄧振中,在APEC貿易部長會議上討論,台美能在高科技領域有更多合作,但這樣只有「口頭說法」,實質上卻把台灣排除在外,讓在野黨紛紛跳出來質疑「台美關係史上最好」,淪為空話。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "空話",
+                "排除",
+                "淪為",
+                "質疑",
+                "不會"
+            ],
+            "positive_list": [
+                "合作",
+                "成為",
+                "最好",
+                "合作"
+            ],
+            "datetime": "2022-05-23 12:45"
+        },
+        {
+            "person": "蘇利文",
+            "verb": "表示",
+            "opinion": "台灣不會列入「印太經濟架構」(Indo-PacificEconomicFramework,IEPF)的名單,看似讓台灣遺憾,但對比遭受俄國侵攻的烏克蘭,美國的基本立場相同,認同民主價值的重要,也對文明衝突的可能性抱持保留。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "衝突",
+                "遭受",
+                "遺憾",
+                "不會",
+                "衝突",
+                "遺憾"
+            ],
+            "positive_list": [
+                "重要",
+                "認同"
+            ],
+            "datetime": "2022-05-26 06:00"
+        }
+    ]
+}

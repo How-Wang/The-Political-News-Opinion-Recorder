@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊源明.png",
+    "opinions": [
+        {
+            "person": "楊源明",
+            "verb": "說",
+            "opinion": "「我們發現已經逐漸偏離事實,而且造成社會大眾錯誤的認知,所以我們特別請信義分局,要公布密錄器的影像,以昭公信,同時維護我們警方執法的公信力。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "錯誤",
+                "錯誤的"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-28 12:34"
+        },
+        {
+            "person": "楊源明",
+            "verb": "說",
+            "opinion": "網路販毒是目前查緝毒品的重點,多數網路販毒是透過網路社交軟體聯繫,但目前碰到聯繫管道加密等挑戰,這部分會強化科技偵測,包括透過通訊工具進行數位鑑識進而追查。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "挑戰",
+                "毒品"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-30 17:28"
+        }
+    ]
+}

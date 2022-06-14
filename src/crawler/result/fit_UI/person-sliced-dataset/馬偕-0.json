@@ -1,0 +1,20 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "馬偕",
+            "verb": "說",
+            "opinion": "我曾經於90年代末期到過台灣,當時特地到馬偕醫院參觀,有機會對先人馬偕有更深入的了解,深深為他貢獻台灣的精神所感動。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "感動",
+                "機會",
+                "感動"
+            ],
+            "datetime": "2022-05-22 16:10"
+        }
+    ]
+}

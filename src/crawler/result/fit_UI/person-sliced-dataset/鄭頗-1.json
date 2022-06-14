@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭頗.png",
+    "opinions": [
+        {
+            "person": "鄭頗",
+            "verb": "強調",
+            "opinion": "他們3人都是有抱著相同的理想、認真工作、正派從政,這是我們共同的價值。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正派",
+                "理想",
+                "認真"
+            ],
+            "datetime": "2022-05-29 14:36"
+        }
+    ]
+}

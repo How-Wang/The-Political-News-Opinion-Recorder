@@ -1,0 +1,19 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "端木",
+            "verb": "質疑",
+            "opinion": "任命與專業不符;對此,柯文哲反嗆,國營事業裡面有多少民進黨籍?國營事業裡面新潮流更多,「沒有民眾黨的時候,都民進黨在當啦」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不符",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:07"
+        }
+    ]
+}

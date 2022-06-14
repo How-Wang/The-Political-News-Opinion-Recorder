@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蕭信昌.png",
+    "opinions": [
+        {
+            "person": "蕭信昌",
+            "verb": "指出",
+            "opinion": "彰基院長陳穆寬霸凌、羞辱醫院員工,不僅多年前把他逼離工作30年的彰基,更要求與他比較熟識的醫師不要跟他說話,試圖排擠、孤立他。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "孤立",
+                "要求",
+                "羞辱",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 23:05"
+        }
+    ]
+}

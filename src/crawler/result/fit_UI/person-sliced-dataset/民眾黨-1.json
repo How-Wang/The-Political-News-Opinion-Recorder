@@ -1,0 +1,297 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "民眾黨",
+            "verb": "說",
+            "opinion": "朱立倫在桃園的做法會造成什麼嚴重傷害,是言過其實。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "傷害",
+                "嚴重",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:01"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "說",
+            "opinion": "不是說前景堪憂啦,是每天都在危機當中,所以就是要比別人更努力才有機會。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "危機",
+                "不是",
+                "危機"
+            ],
+            "positive_list": [
+                "努力",
+                "機會"
+            ],
+            "datetime": "2022-05-26 20:24"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "表示",
+            "opinion": "基隆是自己的故鄉,從求學到就業以來,對故鄉的期待一直都非常高,他強調,目前基隆最重要是把防疫工作做好,「我個人不避戰也不怯戰」,會積極爭取市民認同,一切尊重黨中央決策;至於是否曾跟黨主席柯文哲談過此事?他回應,選決會跟中央委員會都會進行討論。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "最重要",
+                "尊重",
+                "期待",
+                "進行",
+                "積極",
+                "尊重",
+                "期待",
+                "認同"
+            ],
+            "datetime": "2022-05-26 15:23"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "宣布",
+            "opinion": "成立「基隆防疫小組」,提供民眾防疫服務。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:36"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "表示",
+            "opinion": "黨中央是6月會啟動提名或徵召機制,現在還在評估的過程,並不會把話說死,但她會持續進行在地經營,也有收到不少民眾的期待。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "期待",
+                "進行",
+                "經營",
+                "期待"
+            ],
+            "datetime": "2022-05-27 15:33"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "表示",
+            "opinion": "透過來自印尼、越南、柬埔寨及大陸等地的新住民介紹,大家認識不同國家的粽子,但同樣都有團結的好寓意。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "寓意"
+            ],
+            "datetime": "2022-05-29 14:01"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "表示",
+            "opinion": "面對許多新住民受到防疫邊境管制的原因,出入境不方便,很多人為照顧家庭無法返鄉,家屬也受限法令無法來台,希望疫情能盡速過去,早日開放讓新住民的家屬來台探親團聚。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "人為",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "方便",
+                "希望",
+                "很多",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-05-29 14:01"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "指出",
+            "opinion": "台灣不該受到政治干擾,被拒參與世界衛生大會,這是全球公衛體系的一大損失;政府應努力弭平防疫資訊落差,外交政策也必須更加靈活,持續爭取加入各種國際組織的入場券。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "干擾",
+                "損失",
+                "干擾"
+            ],
+            "positive_list": [
+                "努力",
+                "衛生",
+                "靈活",
+                "衛生"
+            ],
+            "datetime": "2022-05-30 12:17"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "宣布",
+            "opinion": "?柯文哲說,到時就要投票,這樣會來不及,而有關自己的動向再次重申,「要選的話不用公布,不選才需要公布」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:54"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "宣布",
+            "opinion": "時間,柯文哲表示,黃珊珊要選是她自己出來講,怎麼會是他替黃宣布,這邏輯很奇怪。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "奇怪"
+            ],
+            "positive_list": [
+                "邏輯"
+            ],
+            "datetime": "2022-05-30 16:38"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "宣布",
+            "opinion": "黃珊珊選台北市長?他則表示,要由黃珊珊自己出來講,「怎麼會是我代替她宣布?這邏輯很奇怪。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "奇怪"
+            ],
+            "positive_list": [
+                "邏輯"
+            ],
+            "datetime": "2022-05-30 16:11"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "宣布",
+            "opinion": "?柯文哲表示,2024就要投票了來不及,當被詢問所以是2023年公布選總統?他不斷強調,到時候再講,最後才鬆口說,「我不是講過嗎?要選的話不用公布,不選才需要公布。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 14:43"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "表示",
+            "opinion": "對於參選市長待民眾黨內「6月啟動提名徵召」,2大黨持續「母雞」未浮出現的情況下,也讓藍營基層緊張。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 08:20"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "提出",
+            "opinion": "修正動議,主張增加食品安全管理規定,規定採用國產在地肉類及其加工品,並禁止使用含基因改造以及來自核子事故地區產製的食材及其加工品,今經院會表決,以5票贊成、53票反對,以及34票贊成、53票反對遭民進黨團以人數優勢否決。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "反對",
+                "否決",
+                "事故",
+                "禁止",
+                "禁止使用"
+            ],
+            "positive_list": [
+                "安全",
+                "管理",
+                "增加",
+                "優勢",
+                "贊成"
+            ],
+            "datetime": "2022-05-31 15:30"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "強調",
+            "opinion": "高虹安出身鴻海、有專業背景,不是非從政不可,若生涯規劃無意長期從政,可能沒必要玩這局。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可",
+                "不是"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-05-31 10:06"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "表示",
+            "opinion": "高虹安若要參選竹市得先過三關,包括個人意願、郭台銘與民眾黨願意給多少資源。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "資源",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-31 10:06"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "質疑",
+            "opinion": "過去前台北市長馬英九,任內簽下大巨蛋零權利金不平等條約,「國民黨台北市長參選人蔣萬安難道要視而未見?」蔣萬安今(2)日表示,大巨蛋延宕八年,當年大張旗鼓喊的五大弊案,現在來看就是政治操作,「自己的爛攤子自己收」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "不平"
+            ],
+            "positive_list": [
+                "平等"
+            ],
+            "datetime": "2022-06-02 10:37"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "指出",
+            "opinion": "中央主管機關面對即將舉辦的大型活動要有實質作為,比照年初跨年活動期間敦促地方政府落實防疫,交通部也應提出計畫,解決基隆市在城市博覽會期間湧入人潮,必須防患未然才能賓主盡歡。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "敦促"
+            ],
+            "positive_list": [
+                "才能",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-06 11:04"
+        },
+        {
+            "person": "民眾黨",
+            "verb": "質疑",
+            "opinion": "台北富邦獨董遴選機制已經變成柯文哲遮羞布,特別是民眾黨寄生中央、國會、市府,現在連富邦金控也寄生,還要求全部放民眾黨黨員。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-10 15:00"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/貝肯.png",
+    "opinions": [
+        {
+            "person": "貝肯",
+            "verb": "指出",
+            "opinion": "他對於台灣的飛彈防衛策略非常感興趣,認為台灣要有強力戰略及戰術準備以威懾中國入侵,同時也感謝國民黨執政時對於內布拉斯加州的產品進口多有協助。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "威懾"
+            ],
+            "positive_list": [
+                "協助",
+                "感謝",
+                "準備",
+                "興趣",
+                "感謝"
+            ],
+            "datetime": "2022-06-08 10:17"
+        },
+        {
+            "person": "貝肯",
+            "verb": "指出",
+            "opinion": "他對於台灣的飛彈防衛策略非常感興趣,認為台灣要有強力戰略及戰術準備,威懾中國入侵,同時也感謝國民黨執政時對於內布拉斯加州的產品進口多有協助。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "威懾"
+            ],
+            "positive_list": [
+                "協助",
+                "感謝",
+                "準備",
+                "興趣",
+                "感謝"
+            ],
+            "datetime": "2022-06-08 12:41"
+        }
+    ]
+}

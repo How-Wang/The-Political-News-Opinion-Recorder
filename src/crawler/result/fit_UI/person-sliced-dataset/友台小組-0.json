@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/友台小組.png",
+    "opinions": [
+        {
+            "person": "友台小組",
+            "verb": "說",
+            "opinion": "非常感謝台灣駐法代表吳志中,因為吳釗燮志中在巴黎推展台灣外交非常活躍且有活力,舉辦許多活動讓他更了解台灣。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "感謝",
+                "活力",
+                "感謝"
+            ],
+            "datetime": "2022-06-08 09:32"
+        }
+    ]
+}

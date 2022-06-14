@@ -1,0 +1,209 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡易餘",
+            "verb": "說",
+            "opinion": "「鼻腔就是一樣要戳鼻子的,只是說它不是傳統的快篩,它是PCR但是外界都一直誤會,那一台是唾液快篩機,事實上並不是的,從頭到尾送食藥署的,就是這個鼻腔的這個PCR檢測儀。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "誤會",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:34"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "提出",
+            "opinion": "《會計法》修正草案,明定2006年以前各機關支用的國務機要費與特別費一樣,解除相關人員的財務責任,不追究其行政和民事責任,如涉及刑事責任者不罰。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "刑事"
+            ],
+            "positive_list": [
+                "特別",
+                "解除"
+            ],
+            "datetime": "2022-05-28 20:00"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "自己和議員吳沛憶一起去看T1聯盟季後賽,從畫面中可見,蔡易餘和吳沛憶坐在畫面左上方,但網友們的目光全都在蔡易餘斜前方的長髮正妹上。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 10:10"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "「在角落默默替台灣啤酒英雄加油,沒想到還是被電視台錄到!」還附上轉播畫面截圖,然而畫面中的一位女球迷卻成為焦點,讓眾人狂喊「我只看到大燈,沒看到委員」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒想",
+                "沒想到",
+                "默默"
+            ],
+            "positive_list": [
+                "成為",
+                "英雄"
+            ],
+            "datetime": "2022-05-28 00:48"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "說",
+            "opinion": "陳水扁還是有其他的訴訟、定讞案件,還是得繼續維持保外就醫的狀態,希望他趕快把身體調養好,不會因為國務機要費除罪化改變任何現狀。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-30 14:02"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "認為",
+            "opinion": "國務機要費的由來,可追溯至民國40、50年代,當時分為「機要費」與「特別費」2筆,60年代則合併稱為「機要費」,顯見「機要費」與「特別費」的性質相同。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-30 10:23"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "陳水扁先前曾針對國務機要費召開國際記者會,說明有些支出內容,包括有些外交支出、公益支出以及對紅衫軍發起人一些餽贈,「因公支出大於因公收入、沒有不法所得」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-30 12:47"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "認為",
+            "opinion": "國務機要費的由來,可追溯至民國40、50年代,當時分為「機要費」與「特別費」2筆,60年代則合併稱為「機要費」,顯見「機要費」與「特別費」的性質相同。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-30 11:00"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "他不認為國民黨須賠償,因為他已建議立法院長游錫堃,把該油畫拿到蘇富比拍賣,解決歷史共業,又可增加國庫。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "解決",
+                "增加",
+                "解決"
+            ],
+            "datetime": "2022-06-01 11:33"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "國民黨立委把國父遺照砸出一個大洞來,把這幅油畫砸出一個洞,「我想是一個歷史的偶然,但這也顯示國民黨連自己的神主牌都不要了,但我也不認為國民黨需要賠償」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 11:33"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "說",
+            "opinion": "「因為這個見證了國民黨,放棄了他的神主牌,所以我覺得這個在蘇富比拍賣,可以賣到很好的價錢增加台灣的國庫,我想國父來增加中華民國的國庫,他也是很願意的。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "放棄"
+            ],
+            "positive_list": [
+                "很好",
+                "很好的",
+                "增加",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-01 18:50"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "他已經向立法院長游錫堃建議,把這幅油畫拿到蘇富比做拍賣,見證國民黨放棄他的神主牌,這天也解決歷史共業,將國務機要費與特別費做為相同的處理,這歷史性的一刻。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "放棄"
+            ],
+            "positive_list": [
+                "特別",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-01 12:14"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "表示",
+            "opinion": "「不可思議」,此裁定可讓林秉樞取回證據去威脅別人,他一定要聲援高嘉瑜。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可思議",
+                "威脅",
+                "不可",
+                "威脅"
+            ],
+            "positive_list": [
+                "不可思議"
+            ],
+            "datetime": "2022-06-07 22:18"
+        },
+        {
+            "person": "蔡易餘",
+            "verb": "說",
+            "opinion": "「時間都還有,評估出最強最棒的人選,反而是最重要的。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-12 18:06"
+        }
+    ]
+}

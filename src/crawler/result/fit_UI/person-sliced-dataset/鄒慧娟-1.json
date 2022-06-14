@@ -1,0 +1,71 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄒慧娟.png",
+    "opinions": [
+        {
+            "person": "鄒慧娟",
+            "verb": "表示",
+            "opinion": "民眾若收到不明來源種子,可主動聯繫防檢局,防檢局將派員調查並銷毀;防檢局與臉書已建立綠色通道,若有違法事證將要求臉書下架相關貼文。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不明",
+                "要求",
+                "違法"
+            ],
+            "positive_list": [
+                "主動"
+            ],
+            "datetime": "2022-06-09 12:08"
+        },
+        {
+            "person": "鄒慧娟",
+            "verb": "回應",
+            "opinion": "輸入種子一定要申報檢疫,合格才能輸入,如果收到不明種子要交給農委會調查,農委會也會要求臉書上非法廣告下架。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不明",
+                "非法",
+                "要求"
+            ],
+            "positive_list": [
+                "才能",
+                "合格"
+            ],
+            "datetime": "2022-06-09 14:02"
+        },
+        {
+            "person": "鄒慧娟",
+            "verb": "回應",
+            "opinion": "輸入種子一定要申報檢疫,合格才能輸入,民眾如果收到來路不明的種子,一定要交給農委會調查,農委會也會要求下架臉書上的非法廣告。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不明",
+                "非法",
+                "要求"
+            ],
+            "positive_list": [
+                "才能",
+                "合格"
+            ],
+            "datetime": "2022-06-09 15:51"
+        },
+        {
+            "person": "鄒慧娟",
+            "verb": "說",
+            "opinion": "「我們會來調查,當然不合法輸入的,一定要來銷毀。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不合",
+                "不合法"
+            ],
+            "positive_list": [
+                "合法",
+                "當然"
+            ],
+            "datetime": "2022-06-09 12:46"
+        }
+    ]
+}

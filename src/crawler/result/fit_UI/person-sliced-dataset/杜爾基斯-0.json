@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/杜爾基斯.png",
+    "opinions": [
+        {
+            "person": "杜爾基斯",
+            "verb": "強調",
+            "opinion": "的台灣作為「關鍵貢獻者」、「重要夥伴」、「成功經驗」角色,並清楚指出邀請台灣,世衛與世界都將受益。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "成功",
+                "重要",
+                "清楚",
+                "經驗",
+                "夥伴"
+            ],
+            "datetime": "2022-05-27 01:35"
+        }
+    ]
+}

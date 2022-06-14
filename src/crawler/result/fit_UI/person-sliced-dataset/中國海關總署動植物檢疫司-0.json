@@ -1,0 +1,101 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中國海關總署動植物檢疫司.png",
+    "opinions": [
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "表示",
+            "opinion": "自6月13日起暫停受理台灣石斑魚報關,強調從去年以來,多次從台灣輸入的石斑魚中檢驗出孔雀石綠、結晶紫禁用藥物,還檢出土黴素超標。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 22:41"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "宣布",
+            "opinion": "13日起暫停台灣石斑魚輸入中國。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 14:02"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "宣布",
+            "opinion": "13日起暫停輸入台灣石斑魚,並指多次檢出孔雀石綠、結晶紫等禁用藥物,甚至土霉素超標。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 15:16"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "宣布",
+            "opinion": "13日起暫停輸入台灣石斑魚,並指多次檢出孔雀石綠、結晶紫等禁用藥物,甚至土霉素超標。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:21"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "指出",
+            "opinion": "因為台灣輸中國石斑魚中檢出孔雀石綠、結晶紫禁用藥物,因此決定「自2022年6月13日起暫停台灣石斑魚輸入中國」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-11 14:50"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "表示",
+            "opinion": "去年以來,中國海關多次從台灣輸中國石斑魚中檢出孔雀石綠、結晶紫禁用藥物,還檢出土黴素超標。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 10:48"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "指出",
+            "opinion": "以台灣石斑魚中檢出孔雀石綠、結晶紫禁用藥物為由,宣布13日起暫停輸入我國石斑魚。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 22:10"
+        },
+        {
+            "person": "中國海關總署動植物檢疫司",
+            "verb": "指出",
+            "opinion": "以台灣石斑魚中檢出孔雀石綠、結晶紫禁用藥物為由,宣布13日起暫停輸入我國石斑魚。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 14:59"
+        }
+    ]
+}

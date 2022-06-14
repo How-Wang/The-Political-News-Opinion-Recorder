@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝典林.png",
+    "opinions": [
+        {
+            "person": "謝典林",
+            "verb": "表示",
+            "opinion": "他英文不好、數學也不好,因此標記了行政院長蘇貞昌,希望院長能幫忙算一下一共出現幾次「很多孩子都走了」,「要辦一起辦~。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "希望",
+                "很多",
+                "希望"
+            ],
+            "datetime": "2022-05-29 00:15"
+        }
+    ]
+}

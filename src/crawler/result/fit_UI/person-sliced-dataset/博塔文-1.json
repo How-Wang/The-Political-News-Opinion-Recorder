@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/博塔文.png",
+    "opinions": [
+        {
+            "person": "博塔文",
+            "verb": "表示",
+            "opinion": "吳釗燮也會頒贈外交睦誼獎章給歐舒斯基友台小組主席,表彰他對深化台斯關係的貢獻,並見證簽署「台斯民事暨商事司法合作協議」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-07 09:51"
+        }
+    ]
+}

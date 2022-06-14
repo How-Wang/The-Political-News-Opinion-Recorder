@@ -1,0 +1,23 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張幸松",
+            "verb": "指出",
+            "opinion": "目前指揮中心公布的兒童收治標準,仍須經過PCR採檢確診才能開始醫治,不少案例因快篩陽性到院進行PCR後開始出現症狀,顯示到院進行PCR時,恐已超過兒童救治的最佳黃金期。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "才能",
+                "最佳",
+                "進行",
+                "醫治",
+                "黃金"
+            ],
+            "datetime": "2022-05-25 12:40"
+        }
+    ]
+}

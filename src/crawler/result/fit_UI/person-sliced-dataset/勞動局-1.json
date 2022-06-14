@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/勞動局.png",
+    "opinions": [
+        {
+            "person": "勞動局",
+            "verb": "宣布",
+            "opinion": "下週維持遠距教學,台北市則宣布,國小與幼兒園疫苗6月3日前接種完畢,並於6月6日恢復實體到校上課。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:58"
+        }
+    ]
+}

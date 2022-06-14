@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/段體佩.png",
+    "opinions": [
+        {
+            "person": "段體佩",
+            "verb": "提出",
+            "opinion": "「修理惡棍普丁」的超狂政見,並附上把俄羅斯總統普丁踩在腳底下的照片,該看版被分享到網路上,還被駐台的波蘭記者在推特轉發。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "惡棍",
+                "惡棍"
+            ],
+            "positive_list": [
+                "修理"
+            ],
+            "datetime": "2022-05-26 09:58"
+        },
+        {
+            "person": "段體佩",
+            "verb": "說",
+            "opinion": "台灣不能置身事外,沒想到這個選戰哏,還被一名駐台的波蘭記者分享、PO文到推特,紅到國外。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:36"
+        }
+    ]
+}

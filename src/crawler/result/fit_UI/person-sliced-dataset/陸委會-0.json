@@ -1,0 +1,379 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "中華民國是主權國家,台灣在歷史、國際法及兩岸現實上,從未一日屬於中華人民共和國,中方一再打壓我參與世衛案,更以悖離事實的謊言誤導國際社會,我政府表達強烈不滿。",
+            "negative_score": 10,
+            "positive_score": 0,
+            "negative_list": [
+                "一再",
+                "不滿",
+                "強烈",
+                "現實",
+                "誤導",
+                "謊言",
+                "不滿",
+                "打壓",
+                "現實",
+                "謊言"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 21:48"
+        },
+        {
+            "person": "陸委會",
+            "verb": "強調",
+            "opinion": "未來政府仍將努力不懈、持續積極爭取友好國際支持,並共同應對全球疫情挑戰。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "不懈",
+                "友好",
+                "努力",
+                "積極"
+            ],
+            "datetime": "2022-05-23 21:48"
+        },
+        {
+            "person": "陸委會",
+            "verb": "指出",
+            "opinion": "北京當局破壞國際秩序規則,企圖以其「一中原則」錯誤連結聯大及世衛等決議,根本無法獲得各方認可。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "破壞",
+                "無法",
+                "錯誤",
+                "破壞",
+                "無法"
+            ],
+            "positive_list": [
+                "秩序",
+                "認可",
+                "獲得"
+            ],
+            "datetime": "2022-05-23 21:48"
+        },
+        {
+            "person": "陸委會",
+            "verb": "強調",
+            "opinion": "台灣公衛成就有目共睹,也願貢獻參與國際社會,這是我全民的長期期待。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成就",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-05-23 21:43"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "中華民國是主權國家,台灣在歷史、國際法及兩岸現實上,從未一日屬於中華人民共和國;中方一再打壓我參與世衛案,更以悖離事實的謊言誤導國際社會,我政府表達強烈不滿。",
+            "negative_score": 10,
+            "positive_score": 0,
+            "negative_list": [
+                "一再",
+                "不滿",
+                "強烈",
+                "現實",
+                "誤導",
+                "謊言",
+                "不滿",
+                "打壓",
+                "現實",
+                "謊言"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 21:43"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "大陸相關規定適用所用境外旅客,不是只針對台灣。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 18:29"
+        },
+        {
+            "person": "陸委會",
+            "verb": "回應",
+            "opinion": "只要在年底九合一選舉投票日的4個月前入境,辦妥遷入登記,仍具選舉權,所以選擇權是在台商自己。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 17:45"
+        },
+        {
+            "person": "陸委會",
+            "verb": "強調",
+            "opinion": "中華民國是主權國家,北京長期操作錯誤定位的「一中原則」,限縮我國際空間、加大對台政軍脅迫等,這些違反國際秩序與和平的行徑,已引起國際社會高度關切,台灣民意也堅決反對。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "反對",
+                "脅迫",
+                "違反",
+                "錯誤",
+                "違反"
+            ],
+            "positive_list": [
+                "和平",
+                "和平的",
+                "秩序",
+                "堅決"
+            ],
+            "datetime": "2022-06-02 15:08"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "面對中共製造台海及區域安全風險,8成以上民眾贊成政府主張「中華民國與中華人民共和國互不隸屬」是兩岸客觀現實,也是當前台海現狀(82.2%),及不認同中共聲稱「一個中國原則」、台灣是中國領土不可分割的一部分等立場(83.6%)。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "分割",
+                "現實",
+                "不可",
+                "現實"
+            ],
+            "positive_list": [
+                "安全",
+                "贊成",
+                "認同"
+            ],
+            "datetime": "2022-06-02 15:08"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "政府將持續提升自我防衛能力,與美、日等價值共享的夥伴深化合作,堅定捍衛國家主權與台海安全。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "合作",
+                "安全",
+                "能力",
+                "堅定",
+                "提升",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-02 15:59"
+        },
+        {
+            "person": "陸委會",
+            "verb": "呼籲",
+            "opinion": "北京當局真誠面對「六四事件」歷史真相,啟動政治改革、落實民主治理及公民社會參與,才能對內提升人民福祉、對外改善國際形象。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "改革",
+                "改善",
+                "真誠",
+                "提升",
+                "改善",
+                "福祉"
+            ],
+            "datetime": "2022-06-03 13:36"
+        },
+        {
+            "person": "陸委會",
+            "verb": "指出",
+            "opinion": "民主自由與人權法治,是台灣及全球珍視的生活方式與一致理念;兩岸關係的良性發展與區域的和平繁榮,也都是植基在此基礎之上。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "自由",
+                "良性",
+                "和平",
+                "發展",
+                "繁榮",
+                "自由",
+                "良性"
+            ],
+            "datetime": "2022-06-03 13:36"
+        },
+        {
+            "person": "陸委會",
+            "verb": "強調",
+            "opinion": "面對中共製造台海及區域安全風險,8成以上民眾贊成政府主張「中華民國與中華人民共和國互不隸屬」是兩岸客觀現實,也是當前台海現狀(82.2%),及不認同中共聲稱「一個中國原則」、台灣是中國領土不可分割的一部分等立場(83.6%)。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "分割",
+                "現實",
+                "不可",
+                "現實"
+            ],
+            "positive_list": [
+                "安全",
+                "贊成",
+                "認同"
+            ],
+            "datetime": "2022-06-03 13:36"
+        },
+        {
+            "person": "陸委會",
+            "verb": "指出",
+            "opinion": "1989年中國共產黨以武力鎮壓要求政治改革的學生與群眾,迄未反思錯誤,仍持續監控、打壓言論自由及侵犯人權,對此表達高度遺憾。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "犯人",
+                "武力",
+                "侵犯",
+                "要求",
+                "遺憾",
+                "錯誤",
+                "鎮壓",
+                "打壓",
+                "遺憾"
+            ],
+            "positive_list": [
+                "自由",
+                "改革",
+                "自由"
+            ],
+            "datetime": "2022-06-03 13:36"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "兩岸互不隸屬是客觀事實及台海現狀,反對武力侵犯更是國際社會及台灣民意的共識。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "武力",
+                "侵犯"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:31"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "兩岸互不隸屬是客觀事實及台海現狀,反對武力侵犯更是國際社會及台灣民意的共識。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "武力",
+                "侵犯"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:46"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "針對陸方於去年12月透過兩岸協議平台通報我方2家養殖場石斑魚檢出禁藥,我方十分重視,經農委會會同地方政府合力擴大涉案養殖場調查,均未檢出禁藥,已自本(111)年1月起三度透過協議平台通報陸方調查結果、水生動物養殖企業名單,及我方強化輸出養殖業者之監管措施。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "生動",
+                "重視"
+            ],
+            "datetime": "2022-06-11 12:00"
+        },
+        {
+            "person": "陸委會",
+            "verb": "呼籲",
+            "opinion": "陸方儘速取消禁令,以兩岸溝通協商讓兩岸農產貿易重回正軌,不要讓技術性問題影響兩岸關係。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "取消",
+                "問題",
+                "禁令",
+                "不要",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:00"
+        },
+        {
+            "person": "陸委會",
+            "verb": "呼籲",
+            "opinion": "中國大陸儘速取消禁令,以兩岸溝通協商讓兩岸農產貿易重回正軌,不要讓技術性問題影響兩岸關係。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "取消",
+                "問題",
+                "禁令",
+                "不要",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:27"
+        },
+        {
+            "person": "陸委會",
+            "verb": "表示",
+            "opinion": "兩岸互不隸屬是現狀更是事實。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 20:52"
+        },
+        {
+            "person": "陸委會",
+            "verb": "回應",
+            "opinion": "時反嗆,中共始終漠視國際及台灣對其強勢行徑與錯誤主張的反對,企圖「以武逼統」並阻礙國際對台支持,終將自食惡果。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "阻礙",
+                "漠視",
+                "錯誤",
+                "自食惡果",
+                "惡果",
+                "漠視"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 20:52"
+        },
+        {
+            "person": "陸委會",
+            "verb": "呼籲",
+            "opinion": "中國大陸儘速取消禁令,以兩岸溝通協商讓兩岸農產貿易重回正軌,不要讓技術性問題影響兩岸關係。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "取消",
+                "問題",
+                "禁令",
+                "不要",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:55"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/胡立希.png",
+    "opinions": [
+        {
+            "person": "胡立希",
+            "verb": "說",
+            "opinion": "歐盟對歐中關係的看法正出現重大轉變,中國對俄烏戰爭的立場,以及對立陶宛的經濟脅迫,都促成了此一發展,而這兩者都與台灣間接相關,促使歐盟重新考慮對台態度。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "脅迫",
+                "對立",
+                "戰爭",
+                "戰爭的",
+                "對立"
+            ],
+            "positive_list": [
+                "考慮",
+                "促成",
+                "重大",
+                "發展"
+            ],
+            "datetime": "2022-06-09 13:51"
+        }
+    ]
+}

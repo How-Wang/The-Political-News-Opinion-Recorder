@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/沈志修.png",
+    "opinions": [
+        {
+            "person": "沈志修",
+            "verb": "表示",
+            "opinion": "過去稽查結果農民都有照SOP蒸煮,全國民眾可以安心,基於風險農委會專業評估、採取適當措施,輔導設置場外蒸煮中心前,落實蒸煮、行文加強稽查,全力配合。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "適當",
+                "安心"
+            ],
+            "datetime": "2022-05-27 12:53"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/消防局長.png",
+    "opinions": [
+        {
+            "person": "消防局長",
+            "verb": "說明",
+            "opinion": "這樣能在說明過程中除了看到資料,也有口頭補充,讓恩恩父母親更了解當時實際情況。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "實際",
+                "說明"
+            ],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "消防局長",
+            "verb": "表示",
+            "opinion": "通聯記錄早已準備好,更有10多頁逐字文,還說原定6月1日就要跟衛生局長陳瑞秋,親自下新竹跟恩恩爸爸解釋。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "準備",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 14:22"
+        }
+    ]
+}

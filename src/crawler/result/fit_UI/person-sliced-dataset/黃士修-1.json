@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃士修.png",
+    "opinions": [
+        {
+            "person": "黃士修",
+            "verb": "表示",
+            "opinion": "台北市空曠場所很多,疫苗大型施打站,可以在花博、可以在北車。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-30 20:32"
+        },
+        {
+            "person": "黃士修",
+            "verb": "批評",
+            "opinion": "對政客來說,太少孩子走了,他們根本沒看到。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:32"
+        },
+        {
+            "person": "黃士修",
+            "verb": "指出",
+            "opinion": "爸爸媽媽看著出生的孩子,從只會躺著,到學習翻身和爬行,再到第一次用兩隻腳站起來,開始會跑會跳。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "學習"
+            ],
+            "datetime": "2022-05-30 20:32"
+        }
+    ]
+}

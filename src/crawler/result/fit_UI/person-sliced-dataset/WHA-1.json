@@ -1,0 +1,66 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "WHA",
+            "verb": "提出",
+            "opinion": "以「台灣」名義申請加入「觀察員」,又遭否決。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "否決"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 09:49"
+        },
+        {
+            "person": "WHA",
+            "verb": "強調",
+            "opinion": "用「中華臺北」沒有矮化問題。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 05:50"
+        },
+        {
+            "person": "WHA",
+            "verb": "批評",
+            "opinion": "蔡英文總統說無法參與是受對岸「中共打壓」的說法,對此,日昨衛福部長陳時中表示,台灣參加國際組織是希望提高能見度並能有所貢獻,但是「我們不要『矮化自己後』來參加」云云。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "無法",
+                "不要",
+                "打壓",
+                "無法"
+            ],
+            "positive_list": [
+                "希望",
+                "參加",
+                "提高",
+                "希望"
+            ],
+            "datetime": "2022-06-02 05:30"
+        },
+        {
+            "person": "WHA",
+            "verb": "強調",
+            "opinion": "相信台灣和斯洛伐克會與理念相近的國家加強合作,打造具有韌性的民主陣線,為世界做出更多貢獻。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "相信",
+                "合作"
+            ],
+            "datetime": "2022-06-07 13:03"
+        }
+    ]
+}

@@ -1,0 +1,455 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/達克沃絲.png",
+    "opinions": [
+        {
+            "person": "達克沃絲",
+            "verb": "表示",
+            "opinion": "美台關係不是老大哥與小老弟,而是對等朋友,美國去年雖然捐贈疫苗協助台灣,但其實早在這之前,台灣也贈送口罩等物資給當時最需要的美國。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不是",
+                "老大"
+            ],
+            "positive_list": [
+                "協助",
+                "捐贈"
+            ],
+            "datetime": "2022-05-31 17:01"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "宣布",
+            "opinion": "捐贈疫苗,有效幫忙台灣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "有效",
+                "捐贈"
+            ],
+            "datetime": "2022-05-31 17:01"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "美台關係非老大哥與小老弟,而是對等朋友,也盼台美在經貿層面能簽署協議。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "老大"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:01"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "強調",
+            "opinion": "對台灣安全的支持不僅是軍事也是經濟上的,不只軍事國防,美國總統拜登也希望推動提升台美經濟合作關係。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "安全的",
+                "希望",
+                "提升",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-05-31 12:31"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "表示",
+            "opinion": "希望每年都可以拜訪台灣,此行要再次重申美國不會讓台灣孤軍奮戰,如同去年她來宣布美國要捐贈第一批疫苗給台灣時所說,「當時,我們捐贈疫苗給許多國家,台灣是第一個捐贈的對象。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "希望",
+                "捐贈",
+                "希望"
+            ],
+            "datetime": "2022-05-31 12:31"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "疫情一開始,因為疫情的關係讓美國許多生產線都完全停擺,台灣在半導體生產上面持續的運作,幫助美國能夠維持數以萬計的工作,讓這些人不會失業,有工作、有食物,為此,她對台灣非常感謝。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "失業",
+                "不會"
+            ],
+            "positive_list": [
+                "生產",
+                "感謝",
+                "幫助",
+                "感謝"
+            ],
+            "datetime": "2022-05-31 12:31"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "去年7月達克沃絲領先提出「台灣夥伴法案」,獲得跨黨派支持,也因此,美國國防部正積極研議國民兵跟台灣合作交流。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "夥伴",
+                "積極",
+                "獲得",
+                "合作",
+                "領先"
+            ],
+            "datetime": "2022-05-31 11:16"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "「美國不會讓台灣孤軍奮戰」,這句話讓台灣人民相當感動。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "感動",
+                "感動"
+            ],
+            "datetime": "2022-05-31 11:16"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "表示",
+            "opinion": "美國對台灣安全的支持不只是軍事,也是經濟上的,「美國對台灣的大力支持,尤其在國會有非常強勁的支持台灣力量,不只在軍事上會支持台灣,也會確保台灣不會孤軍奮戰,美國會跟台灣站在一起」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的"
+            ],
+            "datetime": "2022-05-31 18:17"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "強調",
+            "opinion": "美國對台灣安全的支持,蔡英文總統剛也提到國民兵的合作還有在國會推動的法案。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "安全的",
+                "合作"
+            ],
+            "datetime": "2022-05-31 11:50"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "表示",
+            "opinion": "這次來非常開心,我要再次重申,美國不會讓台灣孤軍奮戰,正如同我去年來宣布美國要捐贈第一批疫苗給台灣時所說,當時我們捐贈疫苗給許多國家,台灣是第一個捐贈的對象,再次證明台美間的伙伴關係是真實、且非常重視的。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "重視",
+                "捐贈",
+                "真實",
+                "開心"
+            ],
+            "datetime": "2022-05-31 11:50"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "非常感謝蔡英文總統的熱情歡迎,這次來非常開心,希望每年都可以拜訪台灣。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "感謝",
+                "熱情",
+                "歡迎",
+                "希望",
+                "開心",
+                "感謝",
+                "熱情",
+                "歡迎"
+            ],
+            "datetime": "2022-05-31 11:50"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "其回憶錄《活著的每一天》讓台灣人認識「美國的好朋友」,並從中受到鼓舞。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "活著",
+                "活著的",
+                "鼓舞",
+                "鼓舞"
+            ],
+            "datetime": "2022-05-31 11:31"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "強調",
+            "opinion": "美國對台大力支持,會確保台灣不會孤軍奮戰。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 18:59"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "提到",
+            "opinion": "「我要再次強調,我們對台灣安全的支持,不只軍事而且是經濟上的,國會有非常強勁的支持台灣力量,美國總統已經表明他對台灣的支持,你已經從美國軍方聽到了。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "安全的"
+            ],
+            "datetime": "2022-05-31 13:24"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "宣布",
+            "opinion": "援贈疫苗後,昨晚再度造訪台灣,對她來說,算是在一年內二度訪問台灣,甚至也是在短短一個多月內,二度有美國參議員訪台。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 13:24"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "指出",
+            "opinion": "真正朋友是要互相幫助,美國疫情初期缺乏個人防護裝備及口罩的時候台灣捐贈大量醫療設備給美國,為此美國也捐贈疫苗給台灣作為回禮;疫情關係讓美國很多生產線停擺,而台灣在半導體持續運作,幫助美國維持數以萬計工作,讓這些人不會失業,有工作、有食物,對台灣非常感謝。",
+            "negative_score": 4,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "失業",
+                "缺乏",
+                "不會"
+            ],
+            "positive_list": [
+                "生產",
+                "很多",
+                "捐贈",
+                "真正",
+                "感謝",
+                "幫助",
+                "感謝"
+            ],
+            "datetime": "2022-05-31 12:07"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "這次來也要強調美國對台灣安全的支持,蔡英文總統剛提到國民兵合作和國會推動法案,最近她推動2022強化台灣安全法案,獲得跨黨派支持,有3位民主黨和3位共和黨議員連署,非常多關心國防議題的人非常關心,也積極想連署。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "安全的",
+                "積極",
+                "獲得",
+                "關心",
+                "合作",
+                "關心"
+            ],
+            "datetime": "2022-05-31 12:07"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "表示",
+            "opinion": "非常感謝總統蔡英文熱情歡迎她再次來台灣,很開心,希望每年都可以來台灣,也要為蘇利文(DanSullivan,R-AK)及昆斯(ChrisCoons,D-DE)表達他們遺憾不能來,但他們說下次一定會再來。",
+            "negative_score": 3,
+            "positive_score": 9,
+            "negative_list": [
+                "不能",
+                "遺憾",
+                "遺憾"
+            ],
+            "positive_list": [
+                "希望",
+                "感謝",
+                "熱情",
+                "歡迎",
+                "希望",
+                "開心",
+                "感謝",
+                "熱情",
+                "歡迎"
+            ],
+            "datetime": "2022-05-31 12:07"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "表示",
+            "opinion": "「美國與台灣之間,不是老大哥與小老弟的關係,是對等的朋友關係。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "老大"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:16"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "宣布",
+            "opinion": "美國捐贈台灣疫苗後,密集第二次訪台。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈"
+            ],
+            "datetime": "2022-05-31 14:08"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": ")美國不會讓台灣孤軍奮戰,這句話讓台灣人民相當地感動,台灣和美國是彼此在印太區域重要的經濟和安全夥伴。」",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "安全",
+                "重要",
+                "重要的",
+                "感動",
+                "夥伴",
+                "感動"
+            ],
+            "datetime": "2022-05-31 14:08"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "提出",
+            "opinion": "「台灣夥伴法案」,獲得跨黨派支持,也因此,美國國防部正積極研議國民兵與台灣合作交流;達克沃絲近日更進一步提出「2022年強化台灣安全法案」,支持美軍的印太部署要優先因應台灣的安全情境,她期待雙方在區域安全合作上能夠更深化、緊密。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "期待",
+                "夥伴",
+                "積極",
+                "獲得",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-05-31 12:28"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "宣布",
+            "opinion": "台灣將在第一波的捐贈中,收到75萬劑疫苗。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈"
+            ],
+            "datetime": "2022-05-31 07:45"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "到,美國不會讓台灣孤軍奮戰,美國和台灣站在一起,對台灣安全的支持不只有軍事上也有經濟上的。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的"
+            ],
+            "datetime": "2022-06-01 18:54"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "到,去年6月達克沃絲訪問台灣時說美國不會讓台灣孤軍奮戰,這句話讓台灣人非常感動,感謝美國政府、國會對台海和平穩定的重視,對於美國政府創立的印太經濟架構(IPEF),台灣會持續向美國政府表達參與的意願,期待短期內台美將以嶄新的作為一起規劃出具體途徑,共同深化台美雙邊經貿夥伴關係。",
+            "negative_score": 2,
+            "positive_score": 15,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "重視",
+                "創立",
+                "期待",
+                "感動",
+                "感謝",
+                "夥伴",
+                "嶄新",
+                "嶄新的",
+                "穩定",
+                "穩定的",
+                "期待",
+                "感動",
+                "感謝"
+            ],
+            "datetime": "2022-06-01 18:54"
+        },
+        {
+            "person": "達克沃絲",
+            "verb": "說",
+            "opinion": "「我這次來非常開心,而且要再次重申,美國與台灣站在一起,不會讓台灣孤軍奮戰。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "開心"
+            ],
+            "datetime": "2022-06-01 17:54"
+        }
+    ]
+}

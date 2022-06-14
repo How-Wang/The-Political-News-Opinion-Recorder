@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/TVBS.png",
+    "opinions": [
+        {
+            "person": "TVBS",
+            "verb": "指出",
+            "opinion": "在下午新北市府疫情記者會開始前,侯友宜在與記者們閒聊時提及,「說要選台北市長的人都會確診」,語畢後大笑三聲。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "大笑"
+            ],
+            "datetime": "2022-06-12 18:59"
+        }
+    ]
+}

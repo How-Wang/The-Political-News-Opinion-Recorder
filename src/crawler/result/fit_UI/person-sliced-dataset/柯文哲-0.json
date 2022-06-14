@@ -1,0 +1,748 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "他因為咳嗽、喉嚨不適,自行快篩後呈現陽性,已赴聯合醫院PCR採檢,目前正在家中自行隔離,等待結果。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不適",
+                "隔離"
+            ],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-05-22 12:41"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "他的狀況還好,市政工作不會受到影響,一切如常,只是要小心不能傳染給在聯醫婦幼院區工作的妻子陳佩琪,因為還有很多醫療與防疫的工作需要她,他們會萬事小心,請大家不用擔心。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "小心",
+                "不能",
+                "不會",
+                "傳染",
+                "擔心",
+                "不會",
+                "擔心"
+            ],
+            "positive_list": [
+                "小心",
+                "很多"
+            ],
+            "datetime": "2022-05-22 12:41"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "要趁這次機會,「用確診者的角度,檢視目前防疫體系可以如何優化,讓民眾得到更好的照顧。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "得到",
+                "機會"
+            ],
+            "datetime": "2022-05-22 21:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "回家經過七個小時,下午將近六點自己收到了聯醫的確診通知,自我隔離的過程中,也在想如何避免傳染給家人,「尤其是佩琪每天要去上班,一旦她也感染請假,恐怕會再增加其他同事的負擔。」",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "自我",
+                "負擔",
+                "恐怕",
+                "傳染",
+                "感染",
+                "隔離",
+                "避免",
+                "恐怕"
+            ],
+            "positive_list": [
+                "的確",
+                "通知",
+                "增加",
+                "避免"
+            ],
+            "datetime": "2022-05-22 21:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "想趁這個機會,向全臺灣所有的醫護人員表達最深的敬意。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-05-22 21:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "感謝友邦為台灣爭取國際空間,台灣絕對有能力也有意願承擔國際社會成員的責任。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "絕對",
+                "有意"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 18:34"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "WHA召開在即,感謝美澳英加日駐台機構在5月21日,共同發表聯合聲明,一致推崇台灣在公共衛生的成就,聯合聲明支持台灣應該參加世界衛生組織的論壇與各項技術會議,這不只對臺灣2千3百萬民眾有利,也能讓全世界受惠。",
+            "negative_score": 0,
+            "positive_score": 10,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "成就",
+                "有利",
+                "參加",
+                "感謝",
+                "衛生",
+                "衛生的",
+                "聯合",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 18:34"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "新冠疫情還在肆虐,這是全球健康和社會經濟的重大危機,兩年來,病毒奪去了無數人的生命。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "危機",
+                "肆虐",
+                "危機"
+            ],
+            "positive_list": [
+                "重大",
+                "健康"
+            ],
+            "datetime": "2022-05-22 18:34"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "痛批",
+            "opinion": "根本戰術佈置錯誤,「不要瞎指揮、亂指揮,造成地方的困擾。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "錯誤",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:06"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "因早上咳嗽、喉嚨不適,主動快篩後呈陽性,上午已至仁愛醫院完成PCR採檢,正等待結果中。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [
+                "主動",
+                "完成"
+            ],
+            "datetime": "2022-05-22 15:24"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己使用快篩後呈現陽性,後來又用鴻海集團創辦人郭台銘的口水機快篩,結果也呈現陽性,所以由先前確診隔離結束的隨扈載去仁愛醫院PCR,「5分鐘全部做完。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 14:48"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "發現",
+            "opinion": "「喉嚨怪怪的」,「也不是很痛,就是卡卡的,然後會咳嗽、流鼻水。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 14:48"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己目前身體狀況還好,市政工作不會受到影響,「只是我要小心不能傳染給陳佩琪,因為還有很多醫療與防疫的工作需要她」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "小心",
+                "不能",
+                "不會",
+                "傳染",
+                "不會"
+            ],
+            "positive_list": [
+                "小心",
+                "很多"
+            ],
+            "datetime": "2022-05-22 12:45"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "戰術佈置錯誤,瞎指揮造成地方困擾,看似再次點燃於中央的戰火。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "錯誤",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 10:37"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "根本戰術佈置錯誤,「不要瞎指揮、亂指揮,造成地方的困擾」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "錯誤",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 01:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "宣布",
+            "opinion": "自己快篩陽,就被網友調侃兩人是不是有偷偷見面,讓高嘉瑜大聲喊冤。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "大聲",
+                "偷偷",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:28"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "自己快篩陽性,市長有沒有關心他的狀況,有打電話跟柯文哲市長慰問或聯繫嗎?」侯友宜聽完後說,柯文哲市長這段時間為了防疫盡心盡力,真的備極辛苦,一聽到柯文哲市長快篩陽性之後,便立即表達關心,「希望柯文哲市長能夠早日康復平安,跟我們再度並肩作戰守護雙北市民的安全,柯文哲市長加油你絕對沒有問題」。",
+            "negative_score": 8,
+            "positive_score": 7,
+            "negative_list": [
+                "作戰",
+                "沒有",
+                "辛苦",
+                "問題",
+                "絕對",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "平安",
+                "安全",
+                "希望",
+                "關心",
+                "希望",
+                "慰問",
+                "關心"
+            ],
+            "datetime": "2022-05-22 15:41"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "早上因為咳嗽,喉嚨有些不適,主動做了快篩,結果是陽性。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [
+                "主動"
+            ],
+            "datetime": "2022-05-22 15:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "自己的狀況還好、市政工作不會收到影響,一切如常,只是要小心不能傳染給太太陳佩琪,因為還有很多醫療與防疫的工作需要她,會萬事小心。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "小心",
+                "不能",
+                "不會",
+                "傳染",
+                "不會"
+            ],
+            "positive_list": [
+                "小心",
+                "很多"
+            ],
+            "datetime": "2022-05-22 15:00"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說明",
+            "opinion": "起床時喉嚨怪怪的,不是很痛但卡卡的,還有咳嗽流鼻水,經快篩為陽性,又想到郭台銘借給北市府一台口水機,拿出來做一做也是陽性。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 14:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "早上因為咳嗽,喉嚨有些不適,主動做了快篩,結果是陽性。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [
+                "主動"
+            ],
+            "datetime": "2022-05-22 14:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "家裡有2位醫生,請大家不用擔心!柯文哲市長今日一早傳出喉嚨不適,在家快篩採陽,並到北市聯合醫院仁愛院區進行PCR採檢。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不適",
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "進行",
+                "聯合"
+            ],
+            "datetime": "2022-05-22 20:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "家裡有2位醫生,請大家不用擔心!看更多新冠肺炎(COVID-19)疫情最新報導:https://bit.ly/37gsay1★三立新聞網提醒您:防範新冠肺炎,外出時應配戴口罩、勤洗手,並遵循疾管署最新防疫指引。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 20:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "上午因咳嗽、喉嚨不適主動做快篩,結果是陽性,接著他前往北市聯合醫院仁愛院區防疫急門診做PCR,目前正在等待結果。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [
+                "主動",
+                "聯合"
+            ],
+            "datetime": "2022-05-22 15:21"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "後來想到郭台銘董事長借了一台口水機,於是拿出來做一做竟然也是陽性,因此他就聯絡去仁愛醫院,剛好他的隨扈上周確診過了隔離出來,所以就由確診過的隨扈載我去仁愛醫院作PCR。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離",
+                "竟然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 14:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "早上因為咳嗽,喉嚨有些不適,主動做了快篩,結果是陽性。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [
+                "主動"
+            ],
+            "datetime": "2022-05-22 13:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "強調",
+            "opinion": "自己的狀況還好、市政工作不會受到影響,一切如常,只是他要小心不能傳染給陳佩琪,因為還有很多醫療與防疫的工作需要她,我們會萬事小心,也請大家不用擔心!日前確診現已出關的黃珊珊則發文寫道,市長快篩陽,正在等PCR,但市府仍會正常運作,遠距辦公已是常態,最重要的決策與執行,都不會有任何影響。",
+            "negative_score": 7,
+            "positive_score": 7,
+            "negative_list": [
+                "小心",
+                "不能",
+                "不會",
+                "傳染",
+                "擔心",
+                "不會",
+                "擔心"
+            ],
+            "positive_list": [
+                "小心",
+                "正常",
+                "很多",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-22 13:15"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "他的狀況還好、市政工作不會收到影響,一切如常,只是我要小心不能傳染給陳佩琪,因為還有很多醫療與防疫的工作需要她,我們會萬事小心,也請大家不用擔心。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "小心",
+                "不能",
+                "不會",
+                "傳染",
+                "擔心",
+                "不會",
+                "擔心"
+            ],
+            "positive_list": [
+                "小心",
+                "很多"
+            ],
+            "datetime": "2022-05-22 12:53"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "上午他已經透過掛號系統,預約仁愛醫院的防疫急門診,採檢完畢,目前正在等待PCR結果。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 12:39"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "不要為設而設,更批評中央不要瞎指揮、亂指揮,造成地方困擾,戰術布置錯誤。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "批評",
+                "錯誤",
+                "不要",
+                "困擾",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 09:02"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "不要為設而設,更批評中央不要瞎指揮、亂指揮,造成地方困擾,戰術布置錯誤。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "批評",
+                "錯誤",
+                "不要",
+                "困擾",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 07:52"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "4月開始的疫情,讓許多民眾生活受影響,在野黨也痛批快篩短缺及太貴等問題。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 16:27"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台灣絕對有能力也有意願承擔國際社會成員的責任,他呼籲,若繼續排拒台灣加入WHA,將使全球衛生安全與普世價值出現缺口,「公然破壞組織宣言與價值,蒙羞的將是WHA,而不是台灣。」",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "破壞",
+                "絕對",
+                "蒙羞",
+                "不是",
+                "有意",
+                "破壞",
+                "蒙羞"
+            ],
+            "positive_list": [
+                "安全",
+                "有能力",
+                "能力",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 08:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "認為",
+            "opinion": "這不只對台灣2千3百萬民眾有利,也能讓全世界受惠。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "有利"
+            ],
+            "datetime": "2022-05-23 08:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "批評",
+            "opinion": "中央在六都設置大型接種站是白癡命令,院長怎麼看?蘇貞昌表示,我們打疫苗是最最重要,小小朋友要打疫苗,家長都因有些學校停止上課而心急,我們看到地方有很大的負擔,所以指揮中心應各地要求,在各地加設大型的疫苗注射站,就是要來滿足家長的期待,幫忙地方減少他們的負擔。",
+            "negative_score": 8,
+            "positive_score": 6,
+            "negative_list": [
+                "白癡",
+                "命令",
+                "要求",
+                "負擔",
+                "停止",
+                "減少",
+                "心急",
+                "白癡"
+            ],
+            "positive_list": [
+                "重要",
+                "最重要",
+                "期待",
+                "滿足",
+                "期待",
+                "滿足"
+            ],
+            "datetime": "2022-05-31 14:54"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "純粹從科學上考量,台灣每天本土8萬多、入境確診40例,「根本邊境封鎖沒意義了,裡面比外面感染嚴重」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "封鎖",
+                "感染",
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:43"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "本土都已經感染成這樣,後來發現韓國也是在最嚴重的時候解封,一開始覺得很奇怪,後來想一想在科學上的確是,「你想想本土感染8萬力,入境確診40例,所以勒?那個數學n趨近於無限大時,n+1等於n」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "奇怪",
+                "感染",
+                "嚴重",
+                "嚴重的"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-06-01 15:43"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "台灣每天本土確診8萬多例、入境確診40例,台灣本土都感染成這樣,邊境封鎖已經沒意義了,裡面比外面感染得還嚴重,他提到,韓國也是在疫情最嚴重的時候解封,他一開始還覺得很奇怪,後來想想,若純粹以科學上考量的確是如此,「數學n趨近於無限大時,n+1等於n。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "奇怪",
+                "封鎖",
+                "感染",
+                "嚴重",
+                "嚴重的"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-06-01 15:46"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "指出",
+            "opinion": "「六四」33年了,為何還要紀念六四,就是為了提醒民主自由之可貴。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "可貴",
+                "自由",
+                "紀念",
+                "自由"
+            ],
+            "datetime": "2022-06-04 12:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "一個國家的強大,不應只從經濟力與軍事力來評判,尊重多元價值、創造共容共融共榮的社會,才會真正偉大。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "真正",
+                "偉大",
+                "強大",
+                "創造",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-04 12:19"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "「民主自由是普世價值,不是政府的恩慈」,紀念六四就是為了提醒民主自由可貴,尊重多元價值、創造共容共融共榮的社會,才會真正偉大。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "可貴",
+                "自由",
+                "紀念",
+                "真正",
+                "偉大",
+                "創造",
+                "尊重",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-06-04 12:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "33年前中國青年們聚集在天安門廣場,追求新聞與言論自由、社會平等,要求中國大陸政治民主化,青年們爭取公民基本權利,卻換來暴力的壓制,33年後,人民對於自由的想望還在,卻連這段歷史都被刻意掩蓋。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "要求",
+                "暴力",
+                "壓制",
+                "暴力",
+                "壓制"
+            ],
+            "positive_list": [
+                "平等",
+                "自由",
+                "自由的",
+                "自由",
+                "求新"
+            ],
+            "datetime": "2022-06-04 12:51"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "回應",
+            "opinion": "「敵軍在施行反間計」,自己態度是「你講你的,我做我的」,認為跟中國關係好的自己不算排在前面。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "敵軍"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:44"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "表示",
+            "opinion": "跟羅智強交情不錯,但是不曉得他現在怎麼辦,「我覺得他是好人,應該會找到出路吧,我再找機會找他談談看」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-06-07 16:48"
+        },
+        {
+            "person": "柯文哲",
+            "verb": "說",
+            "opinion": "自己感情上百分百支持台北市副市長黃珊珊,但理智往往戰勝感情。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-10 10:46"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李世明.png",
+    "opinions": [
+        {
+            "person": "李世明",
+            "verb": "提到",
+            "opinion": "今年是中華民國與教廷建交80年,使館正積極籌備系列慶祝活動,包括7月1日「友善台灣/眾位弟兄」書畫展及7月11日「美麗寶島,天主莊園」座談會等,盼大家共襄盛舉。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "友善",
+                "美麗",
+                "慶祝",
+                "積極",
+                "友善",
+                "慶祝"
+            ],
+            "datetime": "2022-06-03 22:25"
+        },
+        {
+            "person": "李世明",
+            "verb": "提到",
+            "opinion": "疫情讓全球陷入困境,尤其烏俄戰爭造成人員傷亡、人民被迫離開家園;因此,餐會上也一起禱告,盼望全球能早日度過疫情。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "困境",
+                "陷入",
+                "傷亡",
+                "戰爭",
+                "離開"
+            ],
+            "positive_list": [
+                "盼望"
+            ],
+            "datetime": "2022-06-03 22:25"
+        }
+    ]
+}

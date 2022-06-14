@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林文央.png",
+    "opinions": [
+        {
+            "person": "林文央",
+            "verb": "認為",
+            "opinion": "可能因此得罪民進黨某些高層。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "得罪",
+                "得罪"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:06"
+        },
+        {
+            "person": "林文央",
+            "verb": "表示",
+            "opinion": "「你們有把我放在平行的位置去看待嗎,完全沒有。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:06"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/英系.png",
+    "opinions": [
+        {
+            "person": "英系",
+            "verb": "提出",
+            "opinion": "應暫緩提名公告,並送中評會處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:36"
+        }
+    ]
+}

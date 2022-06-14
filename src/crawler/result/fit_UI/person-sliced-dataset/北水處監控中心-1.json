@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/北水處監控中心.png",
+    "opinions": [
+        {
+            "person": "北水處監控中心",
+            "verb": "指出",
+            "opinion": "台北近年配合北水南送計畫,雖有透過翡翠水庫、南勢溪等水資源,支援其他區域供水情形;但近年受極端氣候影響,降雨強度雖有更強趨勢,降雨區域仍分布不均,再加上河短流急等因素,深深影響每人每年平均可分配水量。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "極端",
+                "極端"
+            ],
+            "positive_list": [
+                "支援",
+                "資源"
+            ],
+            "datetime": "2022-05-30 18:02"
+        },
+        {
+            "person": "北水處監控中心",
+            "verb": "指出",
+            "opinion": "此外,近期適逢防汛期間,提醒北水處應持續妥適處理各項細節,以維護民眾權益。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "權益"
+            ],
+            "datetime": "2022-05-30 18:02"
+        }
+    ]
+}

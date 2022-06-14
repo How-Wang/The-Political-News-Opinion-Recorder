@@ -1,0 +1,19 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "Airbnb",
+            "verb": "說",
+            "opinion": "中國出境旅遊業務是一個更大的機會,因此,Airbnb將在北京設立一個擁有數百名員工的辦公室,專注發展出境旅遊業務。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "發展",
+                "擁有",
+                "機會"
+            ],
+            "datetime": "2022-05-24 11:05"
+        }
+    ]
+}

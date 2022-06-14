@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/WEAREBACK.png",
+    "opinions": [
+        {
+            "person": "WEAREBACK",
+            "verb": "強調",
+            "opinion": "國民黨路線就是「親美」,而且從來沒變,朱立倫亟欲讓華府聽到國民黨的聲音,因為藍營的對美工作中斷14年,雙方缺乏面對面的溝通管道,因此朱立倫此行重頭戲,就是為國民黨新設的「駐美代表處」揭牌,以修補和美方的關係。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "中斷",
+                "缺乏"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 19:42"
+        }
+    ]
+}

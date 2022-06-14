@@ -1,0 +1,42 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "金傳春",
+            "verb": "提到",
+            "opinion": "衛生局現在都忙著在匡列,發居家隔離書,但其實更應即早對年長者到府接種,提升打完3劑新冠疫苗率,降低未來的醫療負擔。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "負擔",
+                "降低",
+                "隔離"
+            ],
+            "positive_list": [
+                "提升",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 16:44"
+        },
+        {
+            "person": "金傳春",
+            "verb": "表示",
+            "opinion": "由於孕婦和胎幼兒是免疫最脆弱族群,無安全藥可用,政府相關單位宜備妥Omicron的「高效價抗體血漿」,3天內給予被動免疫救急,並希望政府召開「全國防疫專家會議」。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "脆弱"
+            ],
+            "positive_list": [
+                "可用",
+                "安全",
+                "希望",
+                "專家",
+                "給予",
+                "希望"
+            ],
+            "datetime": "2022-05-21 16:44"
+        }
+    ]
+}

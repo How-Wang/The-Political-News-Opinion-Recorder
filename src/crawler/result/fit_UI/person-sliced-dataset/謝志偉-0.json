@@ -1,0 +1,311 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "謝志偉",
+            "verb": "表示",
+            "opinion": "這是台德關係史上頭一遭!第75屆世界衛生大會,22日在瑞士日內瓦登場,儘管我方未收到出席邀請,但衛福部次長李麗芬,20日晚間將率團前往交流,民視新聞團隊將全程紀錄。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "管我"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 08:45"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "指出",
+            "opinion": "如果蔡英文政府在馬英九政府之後,繼續配合「台灣是中國的一省/一部分」的一中原則,以換取中國不打壓台灣,不是明擺著告訴國際社會「中國怎麼料理台灣,是中國的事,別人別管閒事!」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "管閒事",
+                "不是",
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 09:39"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "表示",
+            "opinion": "在馬英九之前的扁政府8年,以及之後的蔡政府至今第6年,年年未能受邀出席世衞大會,都是因為中國打壓台灣,但是馬英九卻沾沾自喜地明知故問。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:51"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "表示",
+            "opinion": "接受德國受民眾青睞的全國性新聞台NTV訪問,記者首先詢問,台灣被中國入侵的危險有多高,謝志偉回應,中國侵略台灣的威脅本來一向就很高,尤其是俄國入侵烏克蘭之後,當然會思考中國會不會有樣學樣而侵略台灣。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "危險",
+                "侵略",
+                "威脅",
+                "不會",
+                "威脅"
+            ],
+            "positive_list": [
+                "思考",
+                "接受",
+                "當然"
+            ],
+            "datetime": "2022-05-31 12:02"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "認為",
+            "opinion": "德國當然可以繼續和中國作生意,只是作生意的雙方應該就是「夥伴」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "當然",
+                "夥伴"
+            ],
+            "datetime": "2022-05-31 12:02"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "說",
+            "opinion": "他要強調的是這兩位獨裁者各自囂張,但互通聲氣。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "獨裁",
+                "獨裁者",
+                "獨裁",
+                "囂張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:02"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "表示",
+            "opinion": "台灣被中國入侵的危險是當下且真實的存在的,中國國家主席習近平說不定也會效法俄國總統普丁的作為攻打台灣,「也可能是普丁根本在學習近平」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不定",
+                "危險",
+                "不定"
+            ],
+            "positive_list": [
+                "真實",
+                "真實的",
+                "學習"
+            ],
+            "datetime": "2022-05-31 12:02"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "認為",
+            "opinion": "過去這些年來,中國對台灣的威脅一直沒中斷,「他們不只是動刀動槍作勢威脅而已,而是真的以軍艦、潛艦、軍機繞台等動作武嚇台灣。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "中斷",
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:02"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "提到",
+            "opinion": "德國媒體記者從頭到尾都是用「台灣大使」來稱呼他,重點在「台灣/Taiwan」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:02"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "說",
+            "opinion": "中國「可能昨天就攻擊我們了」,自從天安門大屠殺以來,台灣不再相信中共,歐洲人的邏輯不必然適用於中國。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "大屠殺",
+                "攻擊",
+                "屠殺",
+                "大屠殺",
+                "攻擊",
+                "屠殺"
+            ],
+            "positive_list": [
+                "相信",
+                "邏輯"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "提到",
+            "opinion": "中國與台灣之間的緊張關係升高,台灣駐德代表說,北京使盡全力恐嚇台灣;外交官謝志偉在德國代表台灣,他在專訪中談到對中國的不信任,俄羅斯在烏克蘭行徑的類比,以及他的國家對德國政府的期待。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不信",
+                "不信任",
+                "恐嚇",
+                "緊張",
+                "恐嚇",
+                "緊張"
+            ],
+            "positive_list": [
+                "全力",
+                "信任",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "回應",
+            "opinion": "針對俄羅斯的侵烏戰爭有兩種看法。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "提到",
+            "opinion": "俄羅斯總統普丁對烏克蘭的態度,與中國對台灣的認知之間有極大共同點,就是想要倒轉時間之輪,稱曾為一家人就要在一起,這兩者都是病態的民族主義。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "病態"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "說",
+            "opinion": "「目前暫時沒有」,但台灣在許多方面是重要且不可或缺的,例如半導體生產。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "沒有",
+                "不可",
+                "沒有"
+            ],
+            "positive_list": [
+                "生產",
+                "重要"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "說",
+            "opinion": "去年全世界下海啟用的戰艦有四成來自中國,中國有79艘潛艦,台灣只有老舊的4艘,只要中國願意,就有能力攻擊台灣。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "說",
+            "opinion": "原則上台灣很感謝德國,德國聯邦國會首度支持台灣參與WHO,德國衛生部長KarlLauterbach明確提及台灣,要求WHO納入台灣。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "明確",
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "回應",
+            "opinion": "最好當然是德國承認台灣為一個主權國家,但這還需要時間。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "承認",
+                "最好",
+                "當然"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "說",
+            "opinion": "台灣人是自由的燈塔,台灣的民主威脅到中國,如同烏克蘭對俄羅斯的威脅。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由"
+            ],
+            "datetime": "2022-06-08 09:52"
+        },
+        {
+            "person": "謝志偉",
+            "verb": "指出",
+            "opinion": "大部分的歐洲專家與戰略人士認為中國領導人習近平在俄羅斯挫敗後,暫時不會染指台灣,但也有可能是習近平說,將發動殘忍與有效率的閃電戰。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "挫敗",
+                "殘忍",
+                "發動",
+                "不會",
+                "殘忍"
+            ],
+            "positive_list": [
+                "有效",
+                "有效率",
+                "有效率的",
+                "效率",
+                "專家"
+            ],
+            "datetime": "2022-06-08 09:52"
+        }
+    ]
+}

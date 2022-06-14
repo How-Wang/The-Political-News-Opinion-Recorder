@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李進勇.png",
+    "opinions": [
+        {
+            "person": "李進勇",
+            "verb": "說明",
+            "opinion": "中選會尊重監察院調查結果,將針對近年舉辦各項公投經驗,徹底檢討公投辦理過程,為外界所質疑之各項疏失,並透過修法等法定程序,強化中選會之審議權限及聽證會功能,建全公投提案及理由書,以強化公投之公信力。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [
+                "法定",
+                "尊重",
+                "經驗",
+                "尊重"
+            ],
+            "datetime": "2022-06-11 11:00"
+        }
+    ]
+}

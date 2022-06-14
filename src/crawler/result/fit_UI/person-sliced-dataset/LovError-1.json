@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/LovError.png",
+    "opinions": [
+        {
+            "person": "LovError",
+            "verb": "痛批",
+            "opinion": "中央,事後被網友揪出發文的IP位置在台北市政府,反而引發養網軍風波。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "風波"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 11:09"
+        }
+    ]
+}

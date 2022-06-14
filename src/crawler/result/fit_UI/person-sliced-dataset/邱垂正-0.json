@@ -1,0 +1,91 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱垂正.png",
+    "opinions": [
+        {
+            "person": "邱垂正",
+            "verb": "說",
+            "opinion": "自疫情爆發迄今,中國大陸因整體內外部的因素,以及疫情防控的需求,持續不斷調整其入出境防疫措施,對此次陸方再次調整相關規範,陸委會將持續觀察及了解,「相關規定適用所用境外{旅客},不是只針對台灣。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "爆發",
+                "不是"
+            ],
+            "positive_list": [
+                "了解",
+                "規範"
+            ],
+            "datetime": "2022-05-26 18:29"
+        },
+        {
+            "person": "邱垂正",
+            "verb": "表示",
+            "opinion": "截至目前,陸委會共12人確診,佔陸委會總人數的4.8%,未影響業務運作,各項工作推動如常。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 18:29"
+        },
+        {
+            "person": "邱垂正",
+            "verb": "強調",
+            "opinion": "戶籍遷出之國人如果在選舉投票日前4個月入境,並辦妥遷入登記,仍具有地方公職人員的選舉權,所以提醒台商朋友,如果有要在年底的九合一選舉投票的話,依法務必安排在7月26號前回台一趟。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 17:27"
+        },
+        {
+            "person": "邱垂正",
+            "verb": "指出",
+            "opinion": "「地方公職人員選舉,其核心是為了在地居民參與政治,自應了解地方事務,才能選賢與能。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "才能"
+            ],
+            "datetime": "2022-05-26 17:27"
+        },
+        {
+            "person": "邱垂正",
+            "verb": "回應",
+            "opinion": "相關提問時說,注意到近年以來許多中共治疆的實際情況曝光,人權是普世價值,政府長期關注及呼籲中共尊重人權,近年來,陸方壓迫新疆維吾爾族人的信仰、文化等自由,已遭到國際社會的嚴重關切及批評。",
+            "negative_score": 4,
+            "positive_score": 7,
+            "negative_list": [
+                "批評",
+                "壓迫",
+                "嚴重",
+                "批評"
+            ],
+            "positive_list": [
+                "自由",
+                "注意",
+                "尊重",
+                "尊重人",
+                "實際",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-05-26 23:33"
+        },
+        {
+            "person": "邱垂正",
+            "verb": "指出",
+            "opinion": "地方公職人員選舉,其核心是為了在地居民參與政治,自應了解地方事務,才能選賢與能。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "才能"
+            ],
+            "datetime": "2022-05-26 17:45"
+        }
+    ]
+}

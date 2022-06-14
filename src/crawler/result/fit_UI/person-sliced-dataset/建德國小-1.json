@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/建德國小.png",
+    "opinions": [
+        {
+            "person": "建德國小",
+            "verb": "表示",
+            "opinion": "確診以後就會有抗體,而且政府對於所有的兒童疫苗、各種疫苗,量都很足夠,而現在學校也都恢復了實體上課,也都回歸校園施打,今天就特別來基隆來看校園施打的情形。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "足夠",
+                "特別"
+            ],
+            "datetime": "2022-06-07 10:48"
+        }
+    ]
+}

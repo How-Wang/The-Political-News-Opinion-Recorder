@@ -1,0 +1,86 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "世界衛生大會",
+            "verb": "表示",
+            "opinion": "已收到海地、宏都拉斯、巴拉圭等成員國提案,要求將「邀請台灣作為觀察員參加世界衛生大會」列入補充議程。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "參加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 08:13"
+        },
+        {
+            "person": "世界衛生大會",
+            "verb": "表示",
+            "opinion": "已收到海地、宏都拉斯、巴拉圭等成員國提案,要求將「邀請台灣作為觀察員參加世界衛生大會」列入補充議程。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "參加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 08:50"
+        },
+        {
+            "person": "世界衛生大會",
+            "verb": "說",
+            "opinion": "今日前所未有的衛生挑戰需要國際間的緊密合作,美國強烈倡議世界衛生組織邀請台灣以觀察員身分參與大會,以便台灣能在這個尋求解決方案的論壇中提供其專長。",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "挑戰",
+                "強烈",
+                "求解"
+            ],
+            "positive_list": [
+                "合作",
+                "解決",
+                "衛生",
+                "合作",
+                "解決",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 08:10"
+        },
+        {
+            "person": "世界衛生大會",
+            "verb": "呼籲",
+            "opinion": "世界衛生組織(WHO)邀請台灣以觀察員身分出席5月22日到28日舉行的第75屆世界衛生大會(WHA)。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "舉行",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 08:10"
+        },
+        {
+            "person": "世界衛生大會",
+            "verb": "提出",
+            "opinion": "的「邀請台灣以觀察員身分出席WHA」一案,在上午進行辯論,友邦「史瓦帝尼」和「吐瓦魯」擔任正方辯論代表,為台辯論。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "辯論"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-24 09:58"
+        }
+    ]
+}

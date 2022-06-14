@@ -1,0 +1,54 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭淇元.png",
+    "opinions": [
+        {
+            "person": "鄭淇元",
+            "verb": "回應",
+            "opinion": "如果有同仁要報加班,之後也會給同仁報加班;要求業績不好的同仁拍攝影片上傳到群組,是一種教育訓練方式。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "要求",
+                "不好"
+            ],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-05-26 11:08"
+        },
+        {
+            "person": "鄭淇元",
+            "verb": "說",
+            "opinion": "「看到你們壓力這麼大,我覺得我們這邊會跟主管講,其實我們拍影片的目的是教育訓練,我會要求他們,我剛講其實第一個再來檢討,這方式是不是最好的方式,若主管自己散置這樣的作為,我們都會懲處主管的。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "壓力",
+                "不是"
+            ],
+            "positive_list": [
+                "訓練",
+                "最好"
+            ],
+            "datetime": "2022-05-26 12:36"
+        },
+        {
+            "person": "鄭淇元",
+            "verb": "表示",
+            "opinion": "如果有同仁要報加班,之後也會給同仁報加班;要求業績不好的同仁拍攝影片上傳到群組,是一種教育訓練方式。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "要求",
+                "不好"
+            ],
+            "positive_list": [
+                "訓練"
+            ],
+            "datetime": "2022-05-26 15:38"
+        }
+    ]
+}

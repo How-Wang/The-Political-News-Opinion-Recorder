@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃慧慈.png",
+    "opinions": [
+        {
+            "person": "黃慧慈",
+            "verb": "說",
+            "opinion": "「生育補助全國最低的問題,失業率全國第二高。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "失業",
+                "問題",
+                "最低",
+                "問題"
+            ],
+            "positive_list": [
+                "生育"
+            ],
+            "datetime": "2022-05-27 18:51"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/趙正宇.png",
+    "opinions": [
+        {
+            "person": "趙正宇",
+            "verb": "表示",
+            "opinion": "活潑的小朋友跑跳玩耍,汗水常會浸溼口罩,透過透氣且具過濾效果的口罩,在提高保護力的同時也減少悶熱不適,是最實用的端午節禮物。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不適",
+                "悶熱",
+                "減少"
+            ],
+            "positive_list": [
+                "保護",
+                "活潑",
+                "活潑的",
+                "提高",
+                "實用"
+            ],
+            "datetime": "2022-06-02 18:12"
+        },
+        {
+            "person": "趙正宇",
+            "verb": "表示",
+            "opinion": "端午佳節將至,氣溫逐步高升,有感於市面口罩較為悶熱,今天特別贈送9萬份「口罩國家隊」兆羿公司所製造的醫用兒童口罩,要給桃園市第六選區內的公立幼兒園。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "悶熱"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-02 18:12"
+        },
+        {
+            "person": "趙正宇",
+            "verb": "說明",
+            "opinion": "這9萬份口罩將會分送至八德區、大溪區、復興區及中壢區華勛里等12里選區內的44間公立幼兒園,方便孩子在學校替換使用。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "方便"
+            ],
+            "datetime": "2022-06-02 18:12"
+        }
+    ]
+}

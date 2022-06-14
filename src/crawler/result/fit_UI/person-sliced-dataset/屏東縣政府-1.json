@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/屏東縣政府.png",
+    "opinions": [
+        {
+            "person": "屏東縣政府",
+            "verb": "發現",
+            "opinion": "離自己最近且設有兒童綠色通道的醫院是國軍屏東醫院,便帶著孩子前往就醫。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:03"
+        }
+    ]
+}

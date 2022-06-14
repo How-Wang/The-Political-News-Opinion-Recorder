@@ -1,0 +1,27 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "文化部",
+            "verb": "表示",
+            "opinion": "依《文化內容策進院設置條例》規定,文策院董事會由文化內容專業人士及相關政府代表組成,任期為3年,第二屆董監事任期將自2022年5月28日起至2025年5月27日止。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 22:31"
+        },
+        {
+            "person": "文化部",
+            "verb": "宣布",
+            "opinion": "最新人事安排,「國立臺灣美術館」館長將由國立臺北藝術大學博物館研究所教授廖仁義接任;而原國美館館長梁永斐,則繼續專任國立歷史博物館館長。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "藝術"
+            ],
+            "datetime": "2022-06-06 18:48"
+        }
+    ]
+}

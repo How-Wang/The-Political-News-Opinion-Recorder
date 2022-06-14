@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/傅雲慶.png",
+    "opinions": [
+        {
+            "person": "傅雲慶",
+            "verb": "說",
+            "opinion": "「我們覺得階段性工作結束,所以我們回歸照顧中重症病人。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "病人"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:26"
+        }
+    ]
+}

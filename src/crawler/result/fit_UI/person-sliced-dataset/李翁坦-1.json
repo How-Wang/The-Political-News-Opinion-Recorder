@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李翁坦.png",
+    "opinions": [
+        {
+            "person": "李翁坦",
+            "verb": "表示",
+            "opinion": "自己常看電視,很注意新聞時事。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "注意"
+            ],
+            "datetime": "2022-05-26 11:40"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林義傑.png",
+    "opinions": [
+        {
+            "person": "林義傑",
+            "verb": "表示",
+            "opinion": "他做正義的事情卻被列為嫌疑犯「查水表,就查吧,我沒有做什麼壞事,也沒有做違法的事情。」",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "嫌疑",
+                "嫌疑犯",
+                "違法",
+                "違法的",
+                "壞事",
+                "沒有"
+            ],
+            "positive_list": [
+                "正義",
+                "正義的"
+            ],
+            "datetime": "2022-06-08 22:24"
+        }
+    ]
+}

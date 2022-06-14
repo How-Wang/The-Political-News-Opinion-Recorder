@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林志誠.png",
+    "opinions": [
+        {
+            "person": "林志誠",
+            "verb": "表示",
+            "opinion": "雙方推擠下,1名22歲徐巧芯男姓男子不慎撞倒辦公桌上的電腦螢幕,造成掉落地面摔壞,徐男當下即向警方道歉也立刻寫下悔過書。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "推擠",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:51"
+        }
+    ]
+}

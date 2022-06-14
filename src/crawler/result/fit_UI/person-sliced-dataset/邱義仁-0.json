@@ -1,0 +1,54 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱義仁.png",
+    "opinions": [
+        {
+            "person": "邱義仁",
+            "verb": "強調",
+            "opinion": "「因為有您,日台關係才會如此不一樣」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:14"
+        },
+        {
+            "person": "邱義仁",
+            "verb": "說",
+            "opinion": "邱義仁會長,這六年來您辛苦了!相信我們的友情以及您和日本間的情感,今後也會持續升溫。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-05-27 19:10"
+        },
+        {
+            "person": "邱義仁",
+            "verb": "表示",
+            "opinion": "「您在日台間擔任不可或缺的重要橋梁已滿6年」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-27 20:19"
+        },
+        {
+            "person": "邱義仁",
+            "verb": "強調",
+            "opinion": "「因為有您,日台關係才會如此不一樣。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:42"
+        }
+    ]
+}

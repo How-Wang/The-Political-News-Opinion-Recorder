@@ -1,0 +1,8 @@
+{
+    "date": "2022-06-12",
+    "news_id": 18,
+    "title": "澤倫斯基香格里拉演講 華郵:烏克蘭迄今最挺台言論",
+    "article": "烏克蘭總統澤倫斯基昨天在新加坡「香格里拉對話」首度公開聲援台灣引起國際輿論關注。美國華盛頓郵報今天發表專論,標題為「澤倫斯基呼籲國際社會在中國發動攻擊前先支持台灣」。華盛頓郵報(TheWashingtonPost)今天評論指出,澤倫斯基雖然沒有明白點名中國,但這已是澤倫斯基與烏克蘭任何政府成員迄今為止,對台灣與台灣生存權發表的最堅定捍衛言論。「烏克蘭開放商業報」(UkraineOpenForBusiness)報導澤倫斯基(VolodymyrZelenskyy)的談話時,也以標題凸顯「澤倫斯基在被問到中國對台灣的態度時,呼籲全世界採取積極主動作為來預防暴力發生」。澤倫斯基昨天在第19屆亞洲「香格里拉對話」(Shangri-LaDialogue)安全會議發表視訊演說,媒體提問國際社會可做什麼來對抗中國對台灣的軍事與經濟威脅。澤倫斯基回應,他認為今日的烏克蘭就是擺在全世界的例子,國際社會必須支持任何先發制人的措施來避免戰爭(Theworldmustalwayssupportanyactionrelatedtopre-emptivemeasuressothatthereisnowar.)。華郵指出,自俄羅斯入侵以來,烏克蘭政府一直小心翼翼避免與北京發生衝突,因為烏克蘭認為北京可能扮演有益或有害的角色。中國沒有譴責俄羅斯入侵烏克蘭,呼應俄羅斯的宣傳指責西方,但北京也沒有積極支持俄羅斯的入侵。「烏克蘭開放商業報」引述,澤倫斯基還說,國際社會應該以外交手段解決所有事務,支持有需要的國家,不該放任某個國家單獨面對比他經濟、武力、領土都強大許多的國家,但外交手段不該等戰爭爆發後才介入,那時已有成千上萬犧牲者,戰爭除了滿足少數人的野心之外,對任何人都沒有好處。「烏克蘭開放商業報」指出,根據美國智庫「傳統基金會」的政策分析師埃諾思(OliviaEnos)描述,中國代表團在澤倫斯基演講中途離開會場。",
+    "opinions": "[{'person': '澤倫斯基', 'verb': '呼籲', 'opinion': '國際社會在中國發動攻擊前先支持台灣」。', 'order': 0, 'negative_score': 3, 'positive_score': 0, 'negative_list': ['攻擊', '發動', '攻擊'], 'positive_list': []}, {'person': '澤倫斯基', 'verb': '回應', 'opinion': '他認為今日的烏克蘭就是擺在全世界的例子,國際社會必須支持任何先發制人的措施來避免戰爭(Theworldmustalwayssupportanyactionrelatedtopre-emptivemeasuressothatthereisnowar.)。', 'order': 2, 'negative_score': 2, 'positive_score': 1, 'negative_list': ['戰爭', '避免'], 'positive_list': ['避免']}, {'person': '烏克蘭', 'verb': '指出', 'opinion': '根據美國智庫「傳統基金會」的政策分析師埃諾思(OliviaEnos)描述,中國代表團在澤倫斯基演講中途離開會場。', 'order': 4, 'negative_score': 1, 'positive_score': 0, 'negative_list': ['離開'], 'positive_list': []}]",
+    "little_topic": "1"
+}

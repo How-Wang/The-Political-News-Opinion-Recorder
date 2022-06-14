@@ -1,0 +1,84 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳慧玲.png",
+    "opinions": [
+        {
+            "person": "陳慧玲",
+            "verb": "宣布",
+            "opinion": "爭取黨內提名,前澎湖縣長陳光復也是熱門人選。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 12:14"
+        },
+        {
+            "person": "陳慧玲",
+            "verb": "說明",
+            "opinion": "但高植澎依舊不賣帳,強調若是民進黨推陳慧玲角逐縣長,他一定會出來參選。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:38"
+        },
+        {
+            "person": "陳慧玲",
+            "verb": "說",
+            "opinion": "「包括停權包括被開除黨籍,其實都不是他講的這樣子,都是因為他沒有繳公職分攤金,還有他沒有繳黨費被停權,被自動退黨。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "開除",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "自動"
+            ],
+            "datetime": "2022-06-06 18:38"
+        },
+        {
+            "person": "陳慧玲",
+            "verb": "指出",
+            "opinion": "年底縣長選舉之際,近年來高植澎屢屢在臉書貼文陳年舊案,將過往恩怨加諸在她的身上,加上在有心人士刻意轉貼,也對其從政多年的人格污衊與糟蹋,特別對外提出說明,期盼透過對話機會來化解,團結一致,贏得選舉重返執政。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "污衊"
+            ],
+            "positive_list": [
+                "一致",
+                "特別",
+                "說明",
+                "機會",
+                "期盼"
+            ],
+            "datetime": "2022-06-06 14:21"
+        },
+        {
+            "person": "陳慧玲",
+            "verb": "表示",
+            "opinion": "這是高、謝私人恩怨,與黨部無關,民進黨中央對支領車馬費與黨規不符,對兩造作成「糾正並繳回」,高則對中央「糾正」一事,憤而辭去主委一職。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不符",
+                "無關",
+                "憤而"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:21"
+        },
+        {
+            "person": "陳慧玲",
+            "verb": "說明",
+            "opinion": "是私人恩怨,而高植澎則強調,如果提名陳慧玲,那麼他就會參選到底。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 20:42"
+        }
+    ]
+}

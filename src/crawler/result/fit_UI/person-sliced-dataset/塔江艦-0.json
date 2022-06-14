@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/塔江艦.png",
+    "opinions": [
+        {
+            "person": "塔江艦",
+            "verb": "指出",
+            "opinion": "131艦隊在基隆外海實施「空層空域操演」,傳出操演的是「塔江艦」校正砲控與雷達系統所需,空軍並將派機協助提供追瞄目標。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-12 15:42"
+        }
+    ]
+}

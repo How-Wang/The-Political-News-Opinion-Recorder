@@ -1,0 +1,71 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='opinions.css') }}">
+<header>
+    <div class="container">
+        <h1 class="logo">
+            單篇 新聞意見 <span></span>{{ version }}</span>
+        </h1>
+        <section class="social">
+            {% set last_link = "/dynamic/page/" ~ date ~ "/" ~ "now" %}
+            <a class="btn" href={{ last_link }}>回到首頁</a>
+            {% set cluster_link = '/dynamic/cluster/' ~ date ~ '/' ~ little_topic %}
+            <a class="btn" href={{ cluster_link }}>回到新聞分群列表</a>
+        </section>
+    </div>
+</header>
+
+<div class="container">
+<h1 class="project-name"><mark class="blue">{{title}}</mark></h1>
+    <div class="textbox">
+        <p>{{ article }}</p>
+    </div>
+    <div id="timeline">
+        {% set row_class = cycler("Left", "Right") %}
+        {% for op in opinions %}
+            {% if row_class.next()=='Left'%}
+                <div class="timeline-item">
+                    <div class="timeline-icon">
+                        {% if op.positive_score >= op.negative_score %}
+                            {% set img_link = "/dynamic/pic/positive-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% else %}
+                         {% set img_link = "/dynamic/pic/negative-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% endif %}
+                    </div>
+                    <div class="timeline-content">
+                        {% set person_link = "/dynamic/person/" ~ op.person ~ "/" ~ date ~ "/" ~ little_topic %}
+                        <a href={{person_link}}><h2>{{ op.person }}</h2></a>
+                        <h2>{{ date }}</h2>
+                        {% set img_link = "/dynamic/pic/" ~ op.person ~ ".png" %}
+                        <img src={{img_link}} alt="error image"/>
+                        <p class="opinion">{{ op.opinion }}
+                        </p>
+                        <a href={{person_link}} class="btn">查看過去意見</a>
+                    </div>
+                </div>
+            {% else %}
+                <div class="timeline-item">
+                    <div class="timeline-icon">
+                        {% if op.positive_score >= op.negative_score %}
+                            {% set img_link = "/dynamic/pic/positive-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% else %}
+                         {% set img_link = "/dynamic/pic/negative-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% endif %}
+                    </div>
+                    <div class="timeline-content right">
+                        {% set person_link = "/dynamic/person/" ~ op.person ~ "/" ~ date ~ "/" ~ little_topic %}
+                        <a href={{person_link}}><h2>{{ op.person }}</h2></a>
+                        <h2>{{ date }}</h2>
+                        {% set img_link = "/dynamic/pic/" ~ op.person ~ ".png" %}
+                        <img src={{img_link}} alt="error image"/>
+                        <p class="opinion">{{ op.opinion }}
+                        </p>
+                        <a href={{person_link}} class="btn">查看過去意見</a>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

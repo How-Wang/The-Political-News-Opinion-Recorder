@@ -1,0 +1,18 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "突宣布",
+            "verb": "宣布",
+            "opinion": "徵召行政院前院長張善政參選桃園市長,引發部分國民黨內及地方人士不滿。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "不滿"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:57"
+        }
+    ]
+}

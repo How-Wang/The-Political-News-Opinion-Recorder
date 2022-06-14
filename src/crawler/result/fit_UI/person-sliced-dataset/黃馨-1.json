@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃馨.png",
+    "opinions": [
+        {
+            "person": "黃馨",
+            "verb": "說",
+            "opinion": "「議員在議事廳的建議希望警察局長能夠虛心接納」,當然白線有時候違法在先,但是取締方面情跟理有時候必須要加以兼顧,「有錯就改,也沒什麼大了不起」,但如果一直在凹,可能會產生後面很大的效應。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "違法",
+                "不起"
+            ],
+            "positive_list": [
+                "了不起",
+                "希望",
+                "當然",
+                "了不起",
+                "希望"
+            ],
+            "datetime": "2022-06-04 11:46"
+        }
+    ]
+}

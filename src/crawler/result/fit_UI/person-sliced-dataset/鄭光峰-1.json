@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭光峰.png",
+    "opinions": [
+        {
+            "person": "鄭光峰",
+            "verb": "說",
+            "opinion": "「我想我們是要獲得高雄市民的認同,不在乎高雄市國民黨到底推不推人選,我們會跟自己競爭,我們要讓高雄市民認同。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不在乎",
+                "競爭"
+            ],
+            "positive_list": [
+                "在乎",
+                "獲得",
+                "認同"
+            ],
+            "datetime": "2022-05-27 18:45"
+        },
+        {
+            "person": "鄭光峰",
+            "verb": "說",
+            "opinion": "「關懷的電話還有居隔的一些服務案件,非常地多,其實每天接的電話大概將近200通。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-06-03 18:18"
+        }
+    ]
+}

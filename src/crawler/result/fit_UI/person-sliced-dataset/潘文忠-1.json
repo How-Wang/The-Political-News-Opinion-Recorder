@@ -1,0 +1,83 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/潘文忠.png",
+    "opinions": [
+        {
+            "person": "潘文忠",
+            "verb": "回應",
+            "opinion": "未來協商時可以進一步考量合適性,再做審酌。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合適",
+                "適性"
+            ],
+            "datetime": "2022-05-26 13:21"
+        },
+        {
+            "person": "潘文忠",
+            "verb": "表示",
+            "opinion": "雙方目前僅止於在做溝通,這2校現階段都正常辦學,若能考量教職員工及學生權益,教育部在態度上會給予尊重。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "尊重",
+                "給予",
+                "權益",
+                "尊重"
+            ],
+            "datetime": "2022-05-26 10:18"
+        },
+        {
+            "person": "潘文忠",
+            "verb": "說",
+            "opinion": "依照私校退場條例規定,私立學校如果停辦或完成校產清算後,確實有一個管道,可以考量捐贈給公立或國立學校,這在法制上是可行的。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "退場",
+                "清算"
+            ],
+            "positive_list": [
+                "可行",
+                "可行的",
+                "完成",
+                "捐贈",
+                "確實"
+            ],
+            "datetime": "2022-05-26 10:18"
+        },
+        {
+            "person": "潘文忠",
+            "verb": "說",
+            "opinion": "華夏科大目前不是教育部列入的專輔學校,學校財務跟辦學各方面,目前尚屬正常,而董事會可能考量到少子女化等情形,學校這幾年招生情形也有比較欠理想狀況。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "正常",
+                "理想",
+                "生情"
+            ],
+            "datetime": "2022-05-26 10:18"
+        },
+        {
+            "person": "潘文忠",
+            "verb": "表示",
+            "opinion": "在國高中部分,考量整體防疫上跟各縣市實際作為,會將原來九宮格改變成比照國小和幼兒園,有1人確診就全班停課,讓學校運作各方面更順暢。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "改變成"
+            ],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-05-31 17:30"
+        }
+    ]
+}

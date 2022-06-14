@@ -1,0 +1,54 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊憲宏.png",
+    "opinions": [
+        {
+            "person": "楊憲宏",
+            "verb": "指出",
+            "opinion": "自己和陳時中會打橋牌,陳時中的橋牌在北醫是第一名,而橋牌中,不是張張都要拿大牌,如果別人拿出大牌,自己就該拿小牌對陣,「能躲就躲」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:56"
+        },
+        {
+            "person": "楊憲宏",
+            "verb": "認為",
+            "opinion": "選舉與治國的人不一樣,陳時中不是「馬上得天下」,而是「下馬治天下」,所以勸他別去選舉,現在已經是部長了,之後會有更好的位置可以發揮。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:56"
+        },
+        {
+            "person": "楊憲宏",
+            "verb": "表示",
+            "opinion": "陳時中不是那種可以「馬上得天下」的人,而是可以「下馬治天下」的人,陳時中已經是部長,如果不選,後面還會有更好的位置發揮,勸陳時中「不要去選舉」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 08:20"
+        },
+        {
+            "person": "楊憲宏",
+            "verb": "認為",
+            "opinion": "陳時中作為專業人士,轉換跑道去參選不見得會好。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不見"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 08:20"
+        }
+    ]
+}

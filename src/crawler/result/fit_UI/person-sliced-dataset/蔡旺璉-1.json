@@ -1,0 +1,46 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡旺璉",
+            "verb": "說",
+            "opinion": "基隆市昨天的確診數已降到1000例以下,截至昨天,已連續3天是台灣本島確診數第3低的城市,這場博覽會能順利舉辦,正是展現出林右昌及所有市民在防疫上團結努力的成果。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "的確",
+                "順利"
+            ],
+            "datetime": "2022-06-10 13:36"
+        },
+        {
+            "person": "蔡旺璉",
+            "verb": "表示",
+            "opinion": "面對這一波Omicron疫情挑戰,基隆首當其衝。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:36"
+        },
+        {
+            "person": "蔡旺璉",
+            "verb": "表示",
+            "opinion": "期待從「台灣頭」的基隆出發,放眼台灣的未來,帶動整個國家的發展。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "發展",
+                "期待"
+            ],
+            "datetime": "2022-06-10 13:36"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/馬曉光.png",
+    "opinions": [
+        {
+            "person": "馬曉光",
+            "verb": "表示",
+            "opinion": "敦促美方以實際行動恪守一個中國原則和中美三個聯合公報規定,企圖打「台灣牌」,阻止中國統一和民族復興,不會得逞。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "阻止",
+                "敦促",
+                "不會"
+            ],
+            "positive_list": [
+                "實際",
+                "聯合"
+            ],
+            "datetime": "2022-06-02 18:40"
+        },
+        {
+            "person": "馬曉光",
+            "verb": "指出",
+            "opinion": "九二共識不容任意扭曲,要保持頭腦清醒,把握正確方向。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "任意",
+                "扭曲"
+            ],
+            "positive_list": [
+                "正確",
+                "把握",
+                "把握"
+            ],
+            "datetime": "2022-06-11 13:04"
+        }
+    ]
+}

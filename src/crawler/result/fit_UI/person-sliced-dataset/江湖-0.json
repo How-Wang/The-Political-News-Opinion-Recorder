@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/江湖.png",
+    "opinions": [
+        {
+            "person": "江湖",
+            "verb": "說",
+            "opinion": "「走,我們到旁邊談談」,台灣該戒慎恐懼。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "恐懼",
+                "恐懼"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 07:10"
+        }
+    ]
+}

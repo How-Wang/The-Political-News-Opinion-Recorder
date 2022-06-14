@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中央指揮中心.png",
+    "opinions": [
+        {
+            "person": "中央指揮中心",
+            "verb": "宣布",
+            "opinion": "8日新增8萬195例本土個案,不少縣市的學子都關心,下週是否宣布恢復實體上課;嘉義市公布最新政策,13日正式恢復實體課程。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-08 16:36"
+        }
+    ]
+}

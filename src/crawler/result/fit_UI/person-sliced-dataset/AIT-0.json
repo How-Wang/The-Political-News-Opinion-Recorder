@@ -1,0 +1,124 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "AIT",
+            "verb": "強調",
+            "opinion": "台灣若能有意義參與,全世界都會受惠。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "有意義"
+            ],
+            "datetime": "2022-05-21 17:31"
+        },
+        {
+            "person": "AIT",
+            "verb": "強調",
+            "opinion": "台灣公衛的專業知識,不該被排除在外,駐美代表蕭美琴也指出,美國強烈支持台灣參與WHA訊號明確,願意支持與關心台灣的國家,正在增加當中,其中一個就是德國。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "強烈",
+                "排除"
+            ],
+            "positive_list": [
+                "明確",
+                "增加",
+                "關心",
+                "願意",
+                "關心",
+                "願意"
+            ],
+            "datetime": "2022-05-21 08:45"
+        },
+        {
+            "person": "AIT",
+            "verb": "指出",
+            "opinion": "國務卿的演說重申了美國長期以來的「一個中國」政策,該政策以《台灣關係法》、美中三個聯合公報、以及六項保證為指導。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "保證",
+                "聯合"
+            ],
+            "datetime": "2022-06-03 16:08"
+        },
+        {
+            "person": "AIT",
+            "verb": "表示",
+            "opinion": "這是基於美國國務卿布林肯(AntonyBlinken)對中國政策演說做出的更新。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 14:47"
+        },
+        {
+            "person": "AIT",
+            "verb": "表示",
+            "opinion": "新版美台關係論述是基於布林肯於5月26日針對中國政策演說做出更新,「我們反對任何一方單方面改變現狀;我們不支持台獨;我們期待兩岸分歧以和平方式解決。」",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "分歧",
+                "反對",
+                "台獨"
+            ],
+            "positive_list": [
+                "和平",
+                "期待",
+                "解決",
+                "期待",
+                "解決"
+            ],
+            "datetime": "2022-06-03 14:47"
+        },
+        {
+            "person": "AIT",
+            "verb": "表示",
+            "opinion": "台灣是印太地區充滿活力的民主及領先經濟體,美台有著牢固的非官方關係。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "牢固",
+                "牢固的",
+                "活力",
+                "領先"
+            ],
+            "datetime": "2022-06-03 14:47"
+        },
+        {
+            "person": "AIT",
+            "verb": "指出",
+            "opinion": "孫曉雅在致詞時強調,這是下週將出發到美國的200多名台灣團代表與美國的絕佳合作起點,參加峰會的台灣企業擁有美國渴望吸引的活力、熱誠和技術;她也歡迎代表團在峰會結束後,留在美國欣賞7月4日美國獨立紀念日的煙火。",
+            "negative_score": 0,
+            "positive_score": 16,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "吸引",
+                "欣賞",
+                "紀念",
+                "參加",
+                "渴望",
+                "熱誠",
+                "擁有",
+                "獨立",
+                "歡迎",
+                "合作",
+                "欣賞",
+                "活力",
+                "渴望",
+                "熱誠",
+                "歡迎"
+            ],
+            "datetime": "2022-06-10 22:59"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃英賢",
+            "verb": "強調",
+            "opinion": "氣候變遷議題的重要性,準新任總理艾班尼斯(AnthonyAlbanese)也已宣布,將以4年為期,撥款5億2500萬澳幣援助太平洋島國與東帝汶(EastTimor)。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要性"
+            ],
+            "datetime": "2022-05-22 14:45"
+        }
+    ]
+}

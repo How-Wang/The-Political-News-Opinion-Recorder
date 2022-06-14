@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/輔仁大學.png",
+    "opinions": [
+        {
+            "person": "輔仁大學",
+            "verb": "表示",
+            "opinion": "在義大利國慶日這天,義大利經濟貿易文化推廣辦事處全體向所有在台的義大利同胞、當地政府與對義大利友好的朋友們致意並表達謝意。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "友好的",
+                "致意"
+            ],
+            "datetime": "2022-06-02 14:19"
+        }
+    ]
+}

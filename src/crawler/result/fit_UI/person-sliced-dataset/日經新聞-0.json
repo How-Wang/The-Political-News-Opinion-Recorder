@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/日經新聞.png",
+    "opinions": [
+        {
+            "person": "日經新聞",
+            "verb": "指出",
+            "opinion": "有超過9成的日本民眾認為,日本應該對台灣有事預先做準備。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-31 14:08"
+        }
+    ]
+}

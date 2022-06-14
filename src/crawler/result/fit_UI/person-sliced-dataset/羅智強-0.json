@@ -1,0 +1,553 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "下一步,將走遍桃園13區,共516里,傾聽市民在疫情下的痛苦,反映給在地的民意代表,希望能夠解決問題;而同樣表態投入大選的立委呂玉玲表示「不排除任何動作」,而議長邱奕勝則陸續退出黨內群組。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "退出",
+                "問題",
+                "排除",
+                "痛苦",
+                "問題",
+                "痛苦"
+            ],
+            "positive_list": [
+                "希望",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-22 10:16"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "下一步,將走遍桃園13區,共516里,傾聽市民在疫情下的痛苦,反映給在地的民意代表,希望能夠解決問題。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "問題",
+                "痛苦",
+                "問題",
+                "痛苦"
+            ],
+            "positive_list": [
+                "希望",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-22 10:00"
+        },
+        {
+            "person": "羅智強",
+            "verb": "指出",
+            "opinion": "他會結合「桃園千里行」,和他新成立的「桃園疫情關懷中心」,把桃園走透透,幫助人民,23日早上八點,就會從中壢火車站出發,一步一腳印,為桃園祈福。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "幫助",
+                "關懷"
+            ],
+            "datetime": "2022-05-22 10:00"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "「是我疏忽了,對不起!」並說「我會在5/23週一,挑一個適當的時間和地點,和媒體朋友再當面多作說明」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "疏忽",
+                "不起",
+                "對不起"
+            ],
+            "positive_list": [
+                "說明",
+                "適當",
+                "適當的"
+            ],
+            "datetime": "2022-05-22 08:55"
+        },
+        {
+            "person": "羅智強",
+            "verb": "指出",
+            "opinion": "而他也會努力的把大家的陳情反映給桃園在地的民意代表,請他們能夠幫助解決大家的問題、減輕大家的痛苦,明天早上8點,他會從中壢火車站出發一步一腳印,為桃園祈福。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "痛苦",
+                "問題",
+                "痛苦"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "減輕",
+                "解決",
+                "幫助",
+                "解決"
+            ],
+            "datetime": "2022-05-22 17:26"
+        },
+        {
+            "person": "羅智強",
+            "verb": "表示",
+            "opinion": "「我知道,這一陣子,很多人為我不捨,我想說的是,個人的委曲不足掛齒,真正讓我感到不捨的是,疫情蔓延下,許多人民的痛苦。」",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "人為",
+                "不足",
+                "痛苦",
+                "蔓延",
+                "不足",
+                "痛苦"
+            ],
+            "positive_list": [
+                "知道",
+                "很多",
+                "真正"
+            ],
+            "datetime": "2022-05-22 17:26"
+        },
+        {
+            "person": "羅智強",
+            "verb": "表示",
+            "opinion": "有一個人,我想好好的感謝,梁為超。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 14:38"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "梁為超知道自己很關心桃園的疫情,因此建議他「走出選舉的政治風雨,專心為疫情下人民的辛苦發聲」;梁為超還對他說,「疫情下,很多桃園市民都很慘,真的有好多好多的市民陳情,看了讓人難過不捨。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "辛苦",
+                "難過",
+                "難過"
+            ],
+            "positive_list": [
+                "知道",
+                "很多",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 14:38"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "他不需要任何人的道歉,個人的委屈與否並不重要,「走出黨派,走進群眾,服務人民」才是該走的路。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不重要",
+                "委屈",
+                "道歉"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-22 11:44"
+        },
+        {
+            "person": "羅智強",
+            "verb": "表示",
+            "opinion": "他將結合「桃園千里行」,和他新成立的「桃園疫情關懷中心」,他要把桃園13區,516里走透透,一區一區,一里一里的傾聽桃園市民在疫情下的痛苦,幫助人民發聲,為桃園市民喉舌。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "痛苦",
+                "痛苦"
+            ],
+            "positive_list": [
+                "幫助",
+                "關懷"
+            ],
+            "datetime": "2022-05-22 09:29"
+        },
+        {
+            "person": "羅智強",
+            "verb": "表示",
+            "opinion": "「我知道,這一陣子,很多人為我不捨,我想說的是,個人的委曲不足掛齒,真正讓我感到不捨的是,疫情蔓延下,許多人民的痛苦。」",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "人為",
+                "不足",
+                "痛苦",
+                "蔓延",
+                "不足",
+                "痛苦"
+            ],
+            "positive_list": [
+                "知道",
+                "很多",
+                "真正"
+            ],
+            "datetime": "2022-05-22 09:29"
+        },
+        {
+            "person": "羅智強",
+            "verb": "表示",
+            "opinion": "他希望,能為這群深受疫情之苦的民眾,貢獻棉薄之力。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "苦的"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-22 09:29"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退出桃園市長選舉,但他先前已辭掉台北市議員職務,下一步動向也引發外界關注。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:41"
+        },
+        {
+            "person": "羅智強",
+            "verb": "指出",
+            "opinion": "「沒有公正,何來善政?」,希望張善政能勇於接受考驗,補足程序正義,否則將遭受民眾的質疑,成為張善政參選最致命的「正當性破口」。",
+            "negative_score": 7,
+            "positive_score": 8,
+            "negative_list": [
+                "沒有",
+                "致命",
+                "致命的",
+                "質疑",
+                "遭受",
+                "沒有",
+                "破口"
+            ],
+            "positive_list": [
+                "公正",
+                "正當",
+                "正義",
+                "成為",
+                "希望",
+                "接受",
+                "補足",
+                "希望"
+            ],
+            "datetime": "2022-06-07 15:25"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選後,桃園市布局似乎已告一段落。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 14:23"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退出桃園市長選舉,對此,民眾黨桃園市長參選人賴香伶今(7)日受訪時,將炮火瞄準國民黨,她批評,政黨沒有公平機制會讓支持者失望,但非常敬佩羅智強的精神。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "失望",
+                "批評",
+                "沒有",
+                "退出",
+                "失望",
+                "批評",
+                "沒有"
+            ],
+            "positive_list": [
+                "公平",
+                "公平",
+                "敬佩"
+            ],
+            "datetime": "2022-06-07 13:20"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選桃園市長,侯友宜今受訪表示,其實最重要的是,要好好努力團結為桃園來做事,「就像我在新北市,我只有一個想法,努力把握當下,每一個人盡自己的角色,好好把事情做好。」",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "把握",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "把握"
+            ],
+            "datetime": "2022-06-07 12:47"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退出桃園市長選舉,黃健庭回應,這是一個好的開始,期待早日看到羅智強加入張善政的輔選團隊,大家團結來爭取勝選;至於苗栗縣徵召徐志榮參選縣長,仍持續溝通。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "退出",
+                "強加"
+            ],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-07 12:43"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選桃園市長選舉,中廣董事長趙少康今(7)日受訪時表示,相信羅智強也是以大局為重的人,現在退出就會讓選情單純一點,張善政不妨三顧茅廬,敦請羅智強負責選戰空軍部分。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [
+                "相信",
+                "負責"
+            ],
+            "datetime": "2022-06-07 12:21"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選桃園市長,引起各界譁然,對此,有意角逐桃園市長的民進黨立委鄭運鵬今(7)日表示,他一向尊重國民黨對於桃園市長的意願,看得出來是國民黨不尊重羅智強,那跟民進黨沒有關係。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不尊重",
+                "沒有",
+                "不尊重",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-07 11:24"
+        },
+        {
+            "person": "羅智強",
+            "verb": "回應",
+            "opinion": "讓人尊敬,也希望經過這次挫折,對方日後能再起。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挫折"
+            ],
+            "positive_list": [
+                "希望",
+                "尊敬",
+                "希望"
+            ],
+            "datetime": "2022-06-07 09:49"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選後,目前已無政治人物可「換」,由張善政選到底的格局應不會改變。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 09:44"
+        },
+        {
+            "person": "羅智強",
+            "verb": "回應",
+            "opinion": "「目前關心的就是行腳」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-07 09:21"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "自己昨天已經走了一個上午,對行行業業在疫情之下受的苦有很多感想,幾人也互相討論要怎麼結合手中的力量,讓桃園民眾能夠得到更多的關懷與幫助。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "得到",
+                "幫助",
+                "關懷"
+            ],
+            "datetime": "2022-06-07 09:21"
+        },
+        {
+            "person": "羅智強",
+            "verb": "認為",
+            "opinion": "羅智強是好人、會找到出路,接下來會再找機會跟羅智強談談看。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-06-07 17:01"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "推出桃園市長爭奪後,其子弟兵、國民黨大安文山議員參選人楊植斗今天也在臉書上不滿黨內人士在媒體放話「羅智強跟戰鬥藍不夠中道丶不夠理性」,讓他今天宣布決定請辭國民黨副發言人一職。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不夠",
+                "不滿",
+                "戰鬥",
+                "不滿"
+            ],
+            "positive_list": [
+                "決定",
+                "理性"
+            ],
+            "datetime": "2022-06-07 15:16"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "「一個人的成全,好過一群人的糾結,此時此刻最關心的,就是我怎麼樣去,用我的力量為桃園祈福,所以很簡單就是成全。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-07 12:53"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "要對張善政提出3個建議,若做到就退選。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 11:24"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "「成全」,決定退出桃園市長選舉。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-07 11:24"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退出桃園市長選戰,還引用歌手劉若英的「成全」一曲,表示「一個人的成全、好過一群人的糾結」,更宣布會繼續行腳,為台灣人民祈福。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:48"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選,黃健庭說,提名後就是團結的開始,期待羅智強早日加入張善政輔選團隊,一起為桃園未來打拚。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-07 15:00"
+        },
+        {
+            "person": "羅智強",
+            "verb": "表示",
+            "opinion": "他決定退出桃園市長選舉,繼續行腳,為台灣人民祈福。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-07 13:37"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選桃園市長,引起關注。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:44"
+        },
+        {
+            "person": "羅智強",
+            "verb": "宣布",
+            "opinion": "退選桃園市長選舉,但仍持續「祈福走桃園」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 09:33"
+        },
+        {
+            "person": "羅智強",
+            "verb": "說",
+            "opinion": "走完祈福桃園516里後,想把祈福桃園的心意擴散為祈福台灣,因此將從桃園出發,用2個月的時間,走路環島一圈,再回到桃園。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 09:33"
+        }
+    ]
+}

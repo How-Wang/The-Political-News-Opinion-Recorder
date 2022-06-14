@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾建元.png",
+    "opinions": [
+        {
+            "person": "曾建元",
+            "verb": "強調",
+            "opinion": "六四事件系列紀念活動是合法申請、合法辦理,「這是我們的言論自由」;對於這些表態有不同意見者,也可以去合法申請、合法辦理系列活動表現自己的不同意,而不是用破壞行為去影響他人的自由。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不同意",
+                "破壞",
+                "不是",
+                "破壞"
+            ],
+            "positive_list": [
+                "同意",
+                "合法",
+                "自由",
+                "紀念",
+                "自由"
+            ],
+            "datetime": "2022-06-12 14:40"
+        },
+        {
+            "person": "曾建元",
+            "verb": "表示",
+            "opinion": "現場設有監視器,潑漆行為人破壞動作都被錄下來了,目前警方已經追蹤到人。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "破壞",
+                "追蹤",
+                "破壞"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 14:40"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/市府局處.png",
+    "opinions": [
+        {
+            "person": "市府局處",
+            "verb": "說",
+            "opinion": "有2段時間疑點,也就是消防局及衛生局的橫向聯繫資料,市府仍以恩恩爸爸非聯絡當事人而不肯給。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不肯"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 12:38"
+        }
+    ]
+}

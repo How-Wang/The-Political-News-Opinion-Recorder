@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林明溱.png",
+    "opinions": [
+        {
+            "person": "林明溱",
+            "verb": "呼籲",
+            "opinion": "若不停止公器私用的輔選行為,將提出檢舉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 13:04"
+        }
+    ]
+}

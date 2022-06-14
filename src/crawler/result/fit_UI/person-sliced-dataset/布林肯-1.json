@@ -1,0 +1,32 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "布林肯",
+            "verb": "呼籲",
+            "opinion": "中方恪遵國際規範,引來中國外交部發言人華春瑩反擊,更在推特連發11條貼文回應,引發國際關注。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-05-29 14:36"
+        },
+        {
+            "person": "布林肯",
+            "verb": "提出",
+            "opinion": "上任16個月以來,最重要的對中策略演說,內容包括美國的國際焦點是美中關係,美國將依靠聯盟在貿易及投資中抗衡中國,並在經濟、外交、軍事、科技等方面用實力圍堵中國。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-30 08:20"
+        }
+    ]
+}

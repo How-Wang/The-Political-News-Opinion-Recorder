@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/波特王.png",
+    "opinions": [
+        {
+            "person": "波特王",
+            "verb": "提到",
+            "opinion": "商標權歸屬,假設藝名最後是個人專用,除非聚暘公司舉證雙方先前曾簽過協議,若有提到商標申請應該歸屬公司,那公司就可以就此提起第三人檢舉意見函,不過商標審核為半年,應該不久就會有審查結果。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:28"
+        }
+    ]
+}

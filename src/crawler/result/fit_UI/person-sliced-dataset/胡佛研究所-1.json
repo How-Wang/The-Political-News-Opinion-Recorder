@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/胡佛研究所.png",
+    "opinions": [
+        {
+            "person": "胡佛研究所",
+            "verb": "強調",
+            "opinion": "國民黨會持續捍衛中華民國,堅持自由民主價值。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "堅持",
+                "自由"
+            ],
+            "datetime": "2022-06-05 11:43"
+        },
+        {
+            "person": "胡佛研究所",
+            "verb": "表示",
+            "opinion": "國民黨是「與美國擁有緊密連結的親美政黨,持續對抗共產主義,與中共做價值與制度的競爭」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "對抗",
+                "競爭"
+            ],
+            "positive_list": [
+                "擁有"
+            ],
+            "datetime": "2022-06-12 07:20"
+        }
+    ]
+}

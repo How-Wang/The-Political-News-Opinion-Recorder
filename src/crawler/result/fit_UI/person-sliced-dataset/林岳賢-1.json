@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林岳賢.png",
+    "opinions": [
+        {
+            "person": "林岳賢",
+            "verb": "說",
+            "opinion": "「民進黨可以說就是利用雜誌,民調前先來做司法動作,所以造成民調當然比較低,民進黨現在選舉還是勸他們,好好把證件拿出來,不要整天說縣長,哪裡怎樣哪裡怎樣,這都不是正常的選舉。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不是",
+                "不要",
+                "利用",
+                "怎樣"
+            ],
+            "positive_list": [
+                "正常",
+                "正常的",
+                "當然"
+            ],
+            "datetime": "2022-05-30 23:20"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪申翰.png",
+    "opinions": [
+        {
+            "person": "洪申翰",
+            "verb": "指出",
+            "opinion": "今天院會要處理國營事業預算和其他民生法案,他比較早到議場,看到國民黨立委突然要占主席台,自己不讓他們占,因此發生拉扯,被拉下主席台,過程中左手割傷,但無大礙。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "突然",
+                "割傷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 08:34"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "指出",
+            "opinion": "現血痕,另一張照片則可見口罩上也有血。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 09:30"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "提到",
+            "opinion": "國民黨黨團一早就佔領主席台,而洪申翰委員雖然先坐住主席台,但是被國民黨立委拉扯,隨後還在留言區貼上沾到鮮血的口罩。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 09:13"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "指出",
+            "opinion": "許多男性朋友可能因為習慣性壓抑、不擅表達情緒困境等特質,導致男性受害人常常「難看見、難開口、難求助」。",
+            "negative_score": 9,
+            "positive_score": 1,
+            "negative_list": [
+                "困境",
+                "受害",
+                "害人",
+                "壓抑",
+                "難看",
+                "求助",
+                "害人",
+                "壓抑",
+                "難看"
+            ],
+            "positive_list": [
+                "習慣"
+            ],
+            "datetime": "2022-06-02 15:59"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "表示",
+            "opinion": "今天整個被強尼戴普勝訴的新聞大洗版,提醒了暴力受害者不分性別。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "受害",
+                "受害者",
+                "暴力",
+                "暴力"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:31"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "指出",
+            "opinion": "男性關懷專線0800-013-999,拜託各位男性,打這支電話不是示弱,也不是顏面掃地,是諮詢專業協助!而且他今天問過衛福部,市話、手機撥打,都是免付費。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不是",
+                "拜託"
+            ],
+            "positive_list": [
+                "協助",
+                "關懷"
+            ],
+            "datetime": "2022-06-02 17:31"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "指出",
+            "opinion": "許多男性朋友可能因為習慣性壓抑、不擅表達情緒困境等特質,導致男性受害人常常「難看見、難開口、難求助」。",
+            "negative_score": 9,
+            "positive_score": 1,
+            "negative_list": [
+                "困境",
+                "受害",
+                "害人",
+                "壓抑",
+                "難看",
+                "求助",
+                "害人",
+                "壓抑",
+                "難看"
+            ],
+            "positive_list": [
+                "習慣"
+            ],
+            "datetime": "2022-06-02 16:49"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "強調",
+            "opinion": "推動溫管法大修為《氣候變遷因應法》已刻不容緩,上個月院版草案已出委員會,預計下個會期展開黨團協商,期待下半年可以三讀通過。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "通過",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-07 17:04"
+        },
+        {
+            "person": "洪申翰",
+            "verb": "表示",
+            "opinion": "近期天氣多雨潮濕,食品中毒問題不可輕忽,根據食藥署統計,自2016年至2020年每年各類及各場所食品中毒影響總患者數高達4千至6千人。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "問題",
+                "患者",
+                "不可",
+                "中毒",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:04"
+        }
+    ]
+}

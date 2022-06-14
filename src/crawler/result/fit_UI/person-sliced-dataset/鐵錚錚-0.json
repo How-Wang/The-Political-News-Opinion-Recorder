@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鐵錚錚.png",
+    "opinions": [
+        {
+            "person": "鐵錚錚",
+            "verb": "呼籲",
+            "opinion": "在座貴賓及全世界國會議員一同聯手對抗「威權獨裁體制」,共同守護「自由民主價值」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "對抗",
+                "獨裁",
+                "獨裁"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-09 16:14"
+        }
+    ]
+}

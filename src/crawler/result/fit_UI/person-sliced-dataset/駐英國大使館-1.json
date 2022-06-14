@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/駐英國大使館.png",
+    "opinions": [
+        {
+            "person": "駐英國大使館",
+            "verb": "提到",
+            "opinion": "「中國是愛好和平的國家,同時堅決捍衛本國主權、安全、發展利益。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "利益",
+                "和平",
+                "和平的",
+                "堅決",
+                "發展",
+                "愛好",
+                "愛好和平",
+                "愛好和平的"
+            ],
+            "datetime": "2022-05-29 15:42"
+        }
+    ]
+}

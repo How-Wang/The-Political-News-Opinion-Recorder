@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/侯嘉倫.png",
+    "opinions": [
+        {
+            "person": "侯嘉倫",
+            "verb": "指出",
+            "opinion": "他除了肯定5人在國外的成就與毅力,也勉勵要充實本職學能以奠定領導基礎,並強化領導統御、凝聚部隊向心力,最後更期勉將所學發揮在部隊,成為一名現代化優質幹部。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "成就",
+                "肯定",
+                "凝聚",
+                "優質",
+                "毅力"
+            ],
+            "datetime": "2022-06-09 20:33"
+        }
+    ]
+}

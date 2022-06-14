@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林志玲.png",
+    "opinions": [
+        {
+            "person": "林志玲",
+            "verb": "回應",
+            "opinion": "「我會平平安安的,謝謝解接。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "謝謝"
+            ],
+            "datetime": "2022-06-08 09:54"
+        }
+    ]
+}

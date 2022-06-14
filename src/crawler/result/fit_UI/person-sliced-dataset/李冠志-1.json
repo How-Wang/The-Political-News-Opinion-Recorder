@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李冠志.png",
+    "opinions": [
+        {
+            "person": "李冠志",
+            "verb": "說明",
+            "opinion": "隨著疫苗施打普及,經濟部會繼續討論商務人士入境放寬的可能性,有關回國檢疫隔離的政策,確實造成社會很大的成本負擔,國貿局會把企業界意見完整轉達給指揮中心,以作為政策調整的考量。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "負擔",
+                "隔離"
+            ],
+            "positive_list": [
+                "完整",
+                "確實"
+            ],
+            "datetime": "2022-06-02 16:54"
+        }
+    ]
+}

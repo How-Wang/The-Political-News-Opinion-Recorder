@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/博嘉國小.png",
+    "opinions": [
+        {
+            "person": "博嘉國小",
+            "verb": "表示",
+            "opinion": "6月3日全數接種完畢後,疫苗覆蓋率可達52.67%,已達到世界標準。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "達到"
+            ],
+            "datetime": "2022-06-01 17:44"
+        },
+        {
+            "person": "博嘉國小",
+            "verb": "宣布",
+            "opinion": "台北市校園將於6月6日恢復實體上課,北市府也進一步公布5大配套方案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:21"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周登春.png",
+    "opinions": [
+        {
+            "person": "周登春",
+            "verb": "表示",
+            "opinion": "不得因與「執行職務無關之特質」而對勞工有不利之對待。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不利",
+                "無關",
+                "不利",
+                "不得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 11:53"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣交流協會.png",
+    "opinions": [
+        {
+            "person": "台灣交流協會",
+            "verb": "強調",
+            "opinion": "地址,沒想到隔一天就有統派團體前來抗議。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "抗議",
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:13"
+        }
+    ]
+}

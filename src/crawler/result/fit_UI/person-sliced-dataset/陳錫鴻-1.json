@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳錫鴻.png",
+    "opinions": [
+        {
+            "person": "陳錫鴻",
+            "verb": "指出",
+            "opinion": "學校辦理午餐,要保障學校也保障團膳業者,雙方有簽訂午餐採購契約,非歸責於廠商部分,學校應補償廠商增加的必要費用,視情形也可延長履約期限,教育部會督導地方政府協助學校依合約履行。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "必要",
+                "協助",
+                "增加",
+                "履行"
+            ],
+            "datetime": "2022-06-06 13:07"
+        },
+        {
+            "person": "陳錫鴻",
+            "verb": "回應",
+            "opinion": "學校辦理午餐,要保障學校也保障團膳業者,雙方有簽訂午餐採購契約,非歸責於廠商部分,學校應補償廠商增加的必要費用,視情形也可延長履約期限,教育部會督導地方政府協助學校依合約履行。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "必要",
+                "協助",
+                "增加",
+                "履行"
+            ],
+            "datetime": "2022-06-06 13:55"
+        }
+    ]
+}

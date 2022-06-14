@@ -1,0 +1,197 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/呂秋遠.png",
+    "opinions": [
+        {
+            "person": "呂秋遠",
+            "verb": "表示",
+            "opinion": "徐巧芯身為議員,有權力審查警政預算,甚至能請局長到辦公室罰站,而面臨開單風波的員警只是基層,又該如何開下去。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "風波"
+            ],
+            "positive_list": [
+                "有權",
+                "有權力"
+            ],
+            "datetime": "2022-05-28 20:31"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "指出",
+            "opinion": "徐巧芯說了「我是徐巧芯哦」、「那我們回去再講」這2句話,換做是一般人,又怎麼敢開單,身為議員應該比別人更低調、犯錯更願意受罰,不該表明身分,更不該「回去再處理」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "犯錯"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 20:31"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "認為",
+            "opinion": "徐巧芯一開始就有2件事做錯,該道歉就要道歉,別讓員警因此被懲戒。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "做錯",
+                "做錯",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 20:31"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "說明",
+            "opinion": "當時明明沒有任何人在車內,為何徐巧芯一開始的發文還強調「有人在車內」,可以勸導就好。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 20:31"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "說",
+            "opinion": "徐巧芯特別強調自己的名字就錯了,說出「回去再講」這樣的話就更有問題了,「往後的要求對方開單,在我看來,都已經多餘。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "多餘",
+                "要求",
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-28 15:41"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "說",
+            "opinion": "這則謠言想要營造的氛圍,是醫院快垮了、小孩快死光了,透過媒體快速傳播,這樣的謠言,就會讓父母人人自危,不再信任政府的防疫措施,沒怎樣,就歸功於自己照顧的好,有怎樣,就會責怪這個政府照顧不周,不顧醫療人員生活、不管父母孩子死活,「這就是這個謠言的目標」。",
+            "negative_score": 11,
+            "positive_score": 1,
+            "negative_list": [
+                "不管",
+                "不顧",
+                "責怪",
+                "謠言",
+                "人人自危",
+                "不顧",
+                "死光",
+                "死活",
+                "自危",
+                "怎樣",
+                "責怪"
+            ],
+            "positive_list": [
+                "信任"
+            ],
+            "datetime": "2022-05-30 12:17"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "認為",
+            "opinion": "我們想法應該都要是任何生命「一個都不能少」,因此,死亡不應該只是數字,而是活生生的人,在他的家人、朋友面前消失的一場悲劇。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "死亡",
+                "消失",
+                "悲劇",
+                "不應該",
+                "消失"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:17"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "認為",
+            "opinion": "這就是意圖讓父母們恐慌的謠言。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "恐慌",
+                "意圖",
+                "謠言",
+                "恐慌"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:17"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "認為",
+            "opinion": "站在一個都不能少的立場,「很多」孩子走了,當然是主觀上的事實。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "很多",
+                "當然"
+            ],
+            "datetime": "2022-05-30 12:17"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "指出",
+            "opinion": "沒有人說,不能評論孩子重症的數目是多是少,因為那本來就很主觀,但是,不要散布謠言,因為真的會有人信,而且很信。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "謠言",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:01"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "指出",
+            "opinion": "4月5日到4月15日以前,就沒有兒童重症,4月26日,才出現第二個兒童重症。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:01"
+        },
+        {
+            "person": "呂秋遠",
+            "verb": "表示",
+            "opinion": "對於任何的生命,應該都要是「一個都不能少」,因此死亡不應該只是數字,而是活生生的人,在他的家人、朋友面前消失的一場悲劇。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "死亡",
+                "消失",
+                "悲劇",
+                "不應該",
+                "消失"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:01"
+        }
+    ]
+}

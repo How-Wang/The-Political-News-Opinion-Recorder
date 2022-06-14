@@ -1,0 +1,63 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='opinions.css') }}">
+
+<header>
+    <div class="container">
+        <h1 class="logo">
+            人物意見 ‧ 議題追蹤
+        </h1>
+        <section class="social">
+            {% set page_link = "/dynamic/page_datetime/" ~ opinions[-1].datetime %}
+            <a class="btn" href={{ page_link }}>回到首頁</a>
+        </section>
+    </div>
+</header>
+
+<div class="container">
+<h1 class="project-name"><mark class="pink">{{ opinions[0].person }}</mark></h1>
+    <div class="picbox">
+        {% set img_link = "/dynamic/pic/" ~ opinions[0].person ~ ".png" %}
+        <img src={{img_link}} alt="error image"/>
+    </div>
+    <div id="timeline">
+        {% set row_class = cycler("Left", "Right") %}
+        {% for op in opinions %}
+            {% if row_class.next()=='Left'%}
+                <div class="timeline-item">
+                    <div class="timeline-icon">
+                        {% if op.positive_score >= op.negative_score %}
+                            {% set img_link = "/dynamic/pic/positive-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% else %}
+                         {% set img_link = "/dynamic/pic/negative-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% endif %}
+                    </div>
+                    <div class="timeline-content">
+                        <!-- <h2>{{ op.person }}</h2> -->
+                        <h2>{{ op.datetime }}</h2>
+                        <p class="opinion">{{ op.opinion }}
+                        </p>
+
+                    </div>
+                </div>
+            {% else %}
+                <div class="timeline-item">
+                    <div class="timeline-icon">
+                        {% if op.positive_score >= op.negative_score %}
+                            {% set img_link = "/dynamic/pic/positive-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% else %}
+                         {% set img_link = "/dynamic/pic/negative-vote.png" %}
+                            <img src={{img_link}} alt="error image"/>
+                        {% endif %}
+                    </div>
+                    <div class="timeline-content right">
+                        <!-- <h2>{{op.person}}</h2> -->
+                        <h2>{{ op.datetime }}</h2>
+                        <p class="opinion">{{op.opinion}}</p>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張詠惠.png",
+    "opinions": [
+        {
+            "person": "張詠惠",
+            "verb": "表示",
+            "opinion": "本案首次開庭至今超過1年才聲請法官迴避,沒有正當理由,顯然意圖延滯訴訟,諭知繼續審理。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "超過",
+                "意圖",
+                "沒有"
+            ],
+            "positive_list": [
+                "正當"
+            ],
+            "datetime": "2022-06-10 22:02"
+        }
+    ]
+}

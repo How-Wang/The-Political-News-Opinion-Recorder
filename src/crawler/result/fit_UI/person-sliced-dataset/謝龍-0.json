@@ -1,0 +1,30 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/謝龍.png",
+    "opinions": [
+        {
+            "person": "謝龍",
+            "verb": "說",
+            "opinion": "到,台灣其實可以「做自己」,就是要去跟中國談判,他更說到,中國過去的外交可說是「與人為善、敦親睦鄰」,反而是美國跟全世界「吵透透」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "人為"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 16:29"
+        },
+        {
+            "person": "謝龍",
+            "verb": "表示",
+            "opinion": "「中國從以前開始的外交,都是與人為善、敦親睦鄰,不曾派兵侵略人家」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "人為",
+                "侵略"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:20"
+        }
+    ]
+}

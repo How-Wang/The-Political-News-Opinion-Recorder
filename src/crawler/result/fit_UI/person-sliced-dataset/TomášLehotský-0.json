@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/TomášLehotský.png",
+    "opinions": [
+        {
+            "person": "TomášLehotský",
+            "verb": "表示",
+            "opinion": "非常榮幸來到由台灣人民通過自由與民主程序選出的立法委員所組成的立法院,來到立法院就感覺好像回到家一樣,感到特別溫馨及溫暖。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "特別",
+                "通過",
+                "溫暖",
+                "自由",
+                "溫暖",
+                "溫馨",
+                "榮幸"
+            ],
+            "datetime": "2022-06-09 16:14"
+        }
+    ]
+}

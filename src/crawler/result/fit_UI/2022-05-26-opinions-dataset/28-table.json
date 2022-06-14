@@ -1,0 +1,8 @@
+{
+    "date": "2022-05-26",
+    "news_id": 28,
+    "title": "布林肯演說 外交部:台美密集溝通但事前不便透露",
+    "article": "美國國務卿布林肯將於美東時間26日發表美國對中國戰略演說。外交部表示,美方過去幾週已就此案與台灣密集溝通,但基於台美互信與交往默契,外交部不便透露相關內容。美國國務院24日宣布,布林肯(AntonyBlinken)定26日在喬治華盛頓大學(GeorgeWashingtonUniversity)發表美國對中國戰略演說。外交部副發言人崔靜麟今天在外交部例行記者會上,被問到美方是否已在事前告知台灣相關內容時表示,布林肯原本規劃在5月初發表對中政策演說,因為確診武漢肺炎延期到26日;台美溝通管道順暢,美方過去數週以來已對此案與台灣密集溝通,但基於互信與交往默契,外交部不便透露相關內容。美國政治新聞媒體Politico日前報導指出,布林肯26日的演說將向政府部會、外國政府與中國共產黨闡明,拜登政府聚焦中國的政策與管控行動符合一致性的藍圖,具有明確具體對外政策目標。拜登政府的挑戰在於確保這個戰略能獲得接受,並將取決於建立與強化在亞洲與其他地區的聯盟與夥伴關係。",
+    "opinions": "[{'person': '布林肯', 'verb': '說', 'opinion': '。外交部表示,美方過去幾週已就此案與台灣密集溝通,但基於台美互信與交往默契,外交部不便透露相關內容。', 'order': 0, 'negative_score': 3, 'positive_score': 0, 'negative_list': ['不便', '透露', '不便'], 'positive_list': []}, {'person': '國務院', 'verb': '宣布', 'opinion': '布林肯(AntonyBlinken)定26日在喬治華盛頓大學(GeorgeWashingtonUniversity)發表美國對中國戰略演說。', 'order': 1, 'negative_score': 0, 'positive_score': 0, 'negative_list': [], 'positive_list': []}, {'person': 'Politico', 'verb': '指出', 'opinion': '布林肯26日的演說將向政府部會、外國政府與中國共產黨闡明,拜登政府聚焦中國的政策與管控行動符合一致性的藍圖,具有明確具體對外政策目標。', 'order': 2, 'negative_score': 0, 'positive_score': 3, 'negative_list': [], 'positive_list': ['一致', '明確', '符合']}]",
+    "little_topic": "1"
+}

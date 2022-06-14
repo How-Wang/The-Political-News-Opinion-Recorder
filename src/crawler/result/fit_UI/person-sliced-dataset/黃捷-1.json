@@ -1,0 +1,142 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃捷",
+            "verb": "說",
+            "opinion": "上次挖眼布條那案,警方已破案,犯案者也承認了,至於犯罪動機,目前仍在了解中。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "犯罪"
+            ],
+            "positive_list": [
+                "了解",
+                "承認"
+            ],
+            "datetime": "2022-05-23 12:21"
+        },
+        {
+            "person": "黃捷",
+            "verb": "指出",
+            "opinion": "布條在1個月內遭到2次蓄意破壞,甚至還把她的眼睛挖掉,她報警並呼籲,立場再怎麼不同,都不需訴諸仇恨行為,懇請彼此尊重。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "仇恨",
+                "破壞",
+                "蓄意",
+                "仇恨",
+                "破壞"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-23 12:21"
+        },
+        {
+            "person": "黃捷",
+            "verb": "說",
+            "opinion": "謝謝徐少尉為台灣的付出,願亡者安息,生者堅強。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "堅強",
+                "謝謝"
+            ],
+            "datetime": "2022-05-31 10:47"
+        },
+        {
+            "person": "黃捷",
+            "verb": "指出",
+            "opinion": "審判期間,騷擾者更多次徘徊在倩倩家附近,傳「被輪姦記得要去開庭」、「給我撤告不然斷你全家手腳」、「去殯儀館幫你爸媽收屍」等恐嚇訊息給她。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "恐嚇",
+                "徘徊",
+                "審判",
+                "騷擾",
+                "恐嚇"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "黃捷",
+            "verb": "呼籲",
+            "opinion": "社會持續關注、譴責跟騷犯罪。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "犯罪",
+                "譴責"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "黃捷",
+            "verb": "表示",
+            "opinion": "政府必須審核有裝修與施工執照的合格裝修公司,或透過社團法人台灣住宅品質消費者保護協會的住保履約,幫助民眾杜絕不肖業者。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不肖",
+                "絕不"
+            ],
+            "positive_list": [
+                "合格",
+                "保護",
+                "幫助"
+            ],
+            "datetime": "2022-06-02 14:03"
+        },
+        {
+            "person": "黃捷",
+            "verb": "提到",
+            "opinion": "近期接獲民眾陳情,高雄某工程裝潢業者以購買材料等理由向屋主索討百萬裝修費,但取款後卻業者卻以「鎖門」、「屋主不讓工班進入」等各種藉口延宕工程,即便多次催促或申請調解,負責人至今避不見面,徒留滿目瘡痍的爛尾屋。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不見",
+                "催促",
+                "藉口",
+                "藉口"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-06-02 15:29"
+        },
+        {
+            "person": "黃捷",
+            "verb": "指出",
+            "opinion": "這些裝潢蟑螂從北騙到南,受害者達上百人。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "受害",
+                "受害者"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:29"
+        },
+        {
+            "person": "黃捷",
+            "verb": "說",
+            "opinion": "這種就是在路上行走的人,若是言論不符中共意識型態者,就被叫作「行走的五十萬」,很多小粉紅等著拿這個獎金。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不符"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-09 18:17"
+        }
+    ]
+}

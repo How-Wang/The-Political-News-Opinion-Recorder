@@ -1,0 +1,34 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "金馬澎分署",
+            "verb": "表示",
+            "opinion": "海巡署「籌建海巡艦艇發展方案」新造的35噸級巡防艇及10噸級沿岸多功能艇,最高航速都高達45節以上,在確保航安前提下,馬祖海巡隊以登檢帶案為目標。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "發展"
+            ],
+            "datetime": "2022-05-21 15:47"
+        },
+        {
+            "person": "金馬澎分署",
+            "verb": "說明",
+            "opinion": "但因禁限制水域地理範圍距離很短,進行追緝時,因陸籍快艇速度快,很容易就出界線範圍,便無管轄權限,但海巡署仍嚴密蒐證資料,將提供對岸單位循線追查這類船舶。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "限制"
+            ],
+            "positive_list": [
+                "容易",
+                "進行",
+                "嚴密"
+            ],
+            "datetime": "2022-05-21 15:47"
+        }
+    ]
+}

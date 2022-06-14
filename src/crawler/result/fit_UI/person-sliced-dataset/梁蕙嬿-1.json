@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/梁蕙嬿.png",
+    "opinions": [
+        {
+            "person": "梁蕙嬿",
+            "verb": "說明",
+            "opinion": "「會以維護市府的權益,做最優先考量,再決定說是不是要進一步上訴。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "決定",
+                "權益"
+            ],
+            "datetime": "2022-06-12 17:16"
+        }
+    ]
+}

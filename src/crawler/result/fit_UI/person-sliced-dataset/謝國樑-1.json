@@ -1,0 +1,147 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "謝國樑",
+            "verb": "說",
+            "opinion": "他當市長最重要的方針,就是要引進產業,創造就業率,讓基隆成為北台灣重要的就業基地,期待與雙北一起努力。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "努力",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "創造",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-05-25 15:48"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "說",
+            "opinion": "「張善政院長相當具有國際觀,擔任過行政院長,在桃園工作過十幾年時間,深度了解桃園需求,非常願意跟張善政一起來努力。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "努力",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-25 18:48"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "表示",
+            "opinion": "要引進基隆的產業以提升就業力,並希望將基隆變成亞洲愛的城市,讓特教孩童與其家庭可以共融樂活。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "提升",
+                "希望"
+            ],
+            "datetime": "2022-05-25 15:20"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "說",
+            "opinion": "「民眾黨參選,是藍綠的票都會拿到,尤其很多年輕族群,所以我們不放棄跟民眾黨合作。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "放棄"
+            ],
+            "positive_list": [
+                "合作",
+                "很多",
+                "合作"
+            ],
+            "datetime": "2022-05-26 13:16"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "提到",
+            "opinion": "受疫情影響,各行各業苦撐度日,經濟部提出對於餐飲產業的行銷補助金,但除了針對受創最深的餐飲產業,也應提對於其他產業的紓困方案,才能幫助攤商一起度過難關。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "幫助"
+            ],
+            "datetime": "2022-06-01 13:41"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "表示",
+            "opinion": "基隆市議會2日針對「染疫慰問金」提案展開討論,有議員指出基隆確診率全台第一,建請市府應增列「染疫者」慰問金,最後順利得到議會成員的支持通過。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "得到",
+                "通過",
+                "順利",
+                "慰問"
+            ],
+            "datetime": "2022-06-04 12:08"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "表示",
+            "opinion": "很難想像,一向以認真、專業態度自詡的陳薇仲,會把這麼重要的數字搞錯,也希望陳薇仲能再確認一下數字。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "自詡"
+            ],
+            "positive_list": [
+                "希望",
+                "重要",
+                "重要的",
+                "想像",
+                "認真",
+                "希望"
+            ],
+            "datetime": "2022-06-04 12:08"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "表示",
+            "opinion": "至於陳薇仲可能投身年底基隆市長的選舉,大家都知道時代力量是所謂的「小綠」,他認為如果時力投入今年的基隆市長選舉,相信選情將會更加熱鬧,精彩可期。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "相信",
+                "熱鬧"
+            ],
+            "datetime": "2022-06-04 12:08"
+        },
+        {
+            "person": "謝國樑",
+            "verb": "強調",
+            "opinion": "政府關心年輕人,年輕人必須做公益來關懷弱勢朋友,產生善的循環,這對基隆來說,絕對充滿正能量。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "關心",
+                "關心",
+                "關懷"
+            ],
+            "datetime": "2022-06-11 12:55"
+        }
+    ]
+}

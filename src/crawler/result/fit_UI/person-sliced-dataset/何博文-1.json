@@ -1,0 +1,231 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "何博文",
+            "verb": "表示",
+            "opinion": "余天德高望重,他從來不是和余天競爭,而是走一個民主程序而已。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "競爭",
+                "不是"
+            ],
+            "positive_list": [
+                "德高望重"
+            ],
+            "datetime": "2022-05-22 21:52"
+        },
+        {
+            "person": "何博文",
+            "verb": "表示",
+            "opinion": "感謝同志支持,才讓他能順利過關。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "順利",
+                "感謝",
+                "感謝",
+                "過關"
+            ],
+            "datetime": "2022-05-22 19:23"
+        },
+        {
+            "person": "何博文",
+            "verb": "說",
+            "opinion": "余天大哥德高望重,和他同時登記主委,從來就不是競爭,而是走一個必須的民主程序而已,「感謝余天大哥,衷心祝福余天大哥家庭平安順心」。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "競爭",
+                "不是"
+            ],
+            "positive_list": [
+                "平安",
+                "衷心",
+                "感謝",
+                "德高望重",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 21:14"
+        },
+        {
+            "person": "何博文",
+            "verb": "宣布",
+            "opinion": "退選的余天拿下7744票,兩人差距不到3000票。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 21:14"
+        },
+        {
+            "person": "何博文",
+            "verb": "說",
+            "opinion": "年底大選爭取議會席次極大化,期待讓新北市綠色榮光執政再現,這是所有民眾和黨員的期待,也是他努力的方向。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-05-22 21:14"
+        },
+        {
+            "person": "何博文",
+            "verb": "強調",
+            "opinion": "距離年底九合一選舉,剩不到半年的時間,這是現階段最重要的任務,他將為黨的團結盡最大的努力,讓民進黨在新北市重返執政、議會過半,他要邀請所有愛民主、愛本土的夥伴共同打拚,一起擦亮綠色執政的招牌。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "努力",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "夥伴"
+            ],
+            "datetime": "2022-05-22 20:47"
+        },
+        {
+            "person": "何博文",
+            "verb": "說",
+            "opinion": "「慰勉市民一句,說抱歉、讓你們辛苦了,這不見得是你的錯喔,這是一種表達一種誠意,你願意嗎?」新北市長侯友宜說,「我跟你說,先把前面的事情說清楚,我還沒說完,我這不是要追究責任。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不見",
+                "辛苦",
+                "抱歉",
+                "不是",
+                "抱歉"
+            ],
+            "positive_list": [
+                "清楚",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-25 13:15"
+        },
+        {
+            "person": "何博文",
+            "verb": "說",
+            "opinion": "「主席我不講話,她只要站上來,沒有經過我的允許,站上來我不講話。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:15"
+        },
+        {
+            "person": "何博文",
+            "verb": "說",
+            "opinion": "「對講得很好所以在你眼中,全部通通都是they的錯。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很好"
+            ],
+            "datetime": "2022-05-25 13:15"
+        },
+        {
+            "person": "何博文",
+            "verb": "表示",
+            "opinion": "去年疫情爆發從萬華傳到新北中、永和等地,今年新北確診人數又最多,不管中央還是地方,第一線都非常辛苦。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不管",
+                "辛苦",
+                "爆發"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:07"
+        },
+        {
+            "person": "何博文",
+            "verb": "說",
+            "opinion": "「聽到說新北市政府用所謂說,聲紋可能會洩漏個資,我就知道這個裡面的錄音檔,絕對是內情不單純。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "內情",
+                "洩漏",
+                "絕對"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-03 18:30"
+        },
+        {
+            "person": "何博文",
+            "verb": "表示",
+            "opinion": "新北消防局成立的粉專就曾經公開民眾向119報案的錄音檔,恩恩家的報案電話為何不能公佈?。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "何不"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-03 16:09"
+        },
+        {
+            "person": "何博文",
+            "verb": "表示",
+            "opinion": "看到恩恩寶貴生命因人為聯繫疏失殞落,恩恩爸眼淚流盡,四處尋求真相,沒有責怪任何人。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "人為",
+                "沒有",
+                "眼淚",
+                "責怪",
+                "沒有",
+                "淚流",
+                "眼淚",
+                "責怪"
+            ],
+            "positive_list": [
+                "寶貴"
+            ],
+            "datetime": "2022-06-07 19:20"
+        },
+        {
+            "person": "何博文",
+            "verb": "認為",
+            "opinion": "這件事非同小可,此人具名爆料,「審視內容指控也非常具體,很可能是了解內情的人良心發現」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "內情",
+                "指控",
+                "指控"
+            ],
+            "positive_list": [
+                "了解",
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-07 19:35"
+        }
+    ]
+}

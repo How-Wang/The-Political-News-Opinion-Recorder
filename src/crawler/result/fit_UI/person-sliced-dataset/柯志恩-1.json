@@ -1,0 +1,782 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "死,而張亞中則是有支持者在市區為他掛布條應援,眼看桃園提名爭議延燒,議員也紛紛跳出來,要黨先聽聽地方的聲音,就怕高雄變成桃園2.0。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 18:06"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "強調",
+            "opinion": "桃園的例子已經擺在前面,高雄要派什麼人選,請黨中央好好地到高雄去走一走,對她個人來說,在地的當然是最優先處理,聽聽在地議員的聲音,黨中央來做配合,這才是重要的事。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "當然"
+            ],
+            "datetime": "2022-05-23 09:40"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "自己目前是學校的專職老師,現在還在學期中,還有1個月才會結束,學校工作耗費她非常多時間,且她認為,好好地做現在所處的角色,這才是認真負責的表現。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "耗費"
+            ],
+            "positive_list": [
+                "負責",
+                "負責的",
+                "認真"
+            ],
+            "datetime": "2022-05-23 09:40"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "當然還是在地的是優先,自己只是一個專職的老師,雖然現在是遠距教學,還有太多的學生作業要改,學校工作耗費很多時間,做好你現在的角色,才是一個負責的表現。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "耗費"
+            ],
+            "positive_list": [
+                "很多",
+                "負責",
+                "負責的",
+                "當然"
+            ],
+            "datetime": "2022-05-23 10:42"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "強調",
+            "opinion": "高雄的徵召要記取(桃園)教訓,必須從高雄地方來。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 10:42"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "強調",
+            "opinion": "高雄的徵召要記取(桃園)教訓,必須從高雄地方來。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 09:48"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "回應",
+            "opinion": "說「桃園的例子已經擺在眼前」,以在地優先,更透露張善政正在思考一些事情。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "透露"
+            ],
+            "positive_list": [
+                "思考"
+            ],
+            "datetime": "2022-05-23 09:48"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "張善政這張牌當然沒問題,但雖然不需要幫他鋪紅地毯,還是要開一條路讓他走。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-23 09:48"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "當然還是在地的是優先,自己只是一個專職的老師,雖然現在是遠距教學,還有太多的學生作業要改,學校工作耗費很多時間,做好你現在的角色,才是一個負責的表現。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "耗費"
+            ],
+            "positive_list": [
+                "很多",
+                "負責",
+                "負責的",
+                "當然"
+            ],
+            "datetime": "2022-05-23 09:48"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "回應",
+            "opinion": "應記取桃園教訓,呼籲黨中央先到高雄了解,以在地優先。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-05-24 11:15"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "過會以民調的方式來決定提名人選;國民黨秘書長黃健庭也說過,誰民調高就提誰,甚至說羅智強民調第一,且地方認同,就會提名羅智強。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "認同"
+            ],
+            "datetime": "2022-06-01 05:30"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "「我高雄人,支持妳來選市長」、「勇敢挑戰高雄市長一職吧」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "勇敢"
+            ],
+            "datetime": "2022-06-05 11:41"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "朋友家人間可不可聊政治?當然可以,但要看怎麼聊。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-06-05 11:41"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "國民黨秘書長黄健庭明天要到高雄,地方要整合出一個人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "2個人真的是非常優秀,可能會對韓國瑜有不同看法,但是對於韓國瑜團隊應該給他大讚,他們都是身經百戰的,不管從哪角度來看當然高雄人都非常希望他們能出來,這2個人都跟主席談過,「但就我的理解,他們都表達,也包括我自己,因為我也被點名,必須要說,我們都認為應該是找一個在地的人」。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "希望",
+                "理解",
+                "當然",
+                "優秀",
+                "希望"
+            ],
+            "datetime": "2022-06-06 10:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "高雄今天可以大膽講,李四川和葉匡時這兩個人她上禮拜和上上禮拜都有看到,都是黨中央有想到的人選,上禮拜有看到李四川和朱立倫談,更上個禮拜有看到葉匡時跟朱立倫談。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "大膽",
+                "大膽"
+            ],
+            "positive_list": [
+                "大膽"
+            ],
+            "datetime": "2022-06-06 10:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "朱立倫訪美前,已先後與葉匡時、李四川見面詳談。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:54"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "就她的理解,包括她自己在內,李四川及葉匡時都認為,國民黨應該在高雄找一個在地的人選,因為不能只考量今年11月的選舉,還要考量之後能否長期經營,這對高雄才是負責任的做法,但顯然目前檯面上的人選都是住在台北。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "負責",
+                "理解",
+                "經營"
+            ],
+            "datetime": "2022-06-06 13:54"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "她只是眾多被徵詢者之一,不是唯一、也不是第一,且她從頭到尾都支持在地優先。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:54"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "黨主席朱立倫訪美前,已先後與前高雄市副市長葉匡時、李四川見面詳談;不過就她理解,包括她自己在內,李四川及葉匡時都認為,國民黨應該在高雄找一個在地的人選。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "理解"
+            ],
+            "datetime": "2022-06-06 17:21"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "朱立倫訪美前,已先後與葉匡時、李四川見面詳談。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 12:25"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "就她的理解,包括她自己在內,李四川及葉匡時都認為,國民黨應該在高雄找一個在地的人選,因為不能只考量今年11月的選舉,還要考量之後能否長期經營,這對高雄才是負責任的做法,但顯然目前檯面上的人選都是住在台北。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "負責",
+                "理解",
+                "經營"
+            ],
+            "datetime": "2022-06-06 12:25"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "她只是眾多被徵詢者之一,不是唯一、也不是第一,且她從頭到尾都支持在地優先。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 12:25"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "強調",
+            "opinion": "要在地優先,學者就建議,國民黨可以從在地拉拔,循黃俊英模式,培養未來戰力。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:08"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "參選並非生涯規畫,在訊息太少的情況下,無法回答是否要選,但若具公信力的民調結果顯示她最高,那她也認了,但她不相信結果會是如此。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不相信",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "相信",
+                "最高"
+            ],
+            "datetime": "2022-06-09 16:07"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "她的名字在5月前從未跟高雄市長連結過,參選高雄市長並不是生涯規畫,雖然常跟朱立倫見面,但朱立倫只是表示高雄這一局很多人提到她,要她好好思考而已,而黨內也從未提供任何細節資料,所以她無法回答是或否。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "無法",
+                "不是",
+                "無法"
+            ],
+            "positive_list": [
+                "很多",
+                "思考"
+            ],
+            "datetime": "2022-06-09 16:07"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "國民黨目前處在低點,高雄這一仗確實很難打,自己也有自知之明,要選就選、不選就不選,可是她現在的訊息太少,且她認為自己現在在高雄,知名度可能比在地議員都還要低,真的不能從台北看天下。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-09 16:07"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "指出",
+            "opinion": "朱立倫在訪美前,已先後與葉匡時、李四川見面詳談。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 11:58"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "這真的是「往事已矣」,候選人一定要誠實面對這個問題。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "誠實"
+            ],
+            "datetime": "2022-06-09 15:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "李四川、葉匡時兩人即使過去曾在韓市府工作,但很多人都認為他們與韓國瑜已脫鉤。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-09 15:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "強調",
+            "opinion": "「自己不會是第一,也不會是唯一,只是候選人之一」,相信朱立倫沒有口袋名單,高雄這一仗確實很難打,自己也有自知之明,要選就選、不選就不選,如果在具公信力的狀況下,民調做出來是自己,「那我也認了」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "相信",
+                "確實"
+            ],
+            "datetime": "2022-06-09 15:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "「如果是立委鄭運鵬,應該很容易就可以打敗,鄭運鵬對不起喔」,而林智堅則具有年齡優勢,也會希望他出來選,因為這樣前立委鄭寶清跟鄭運鵬就會跳腳,狀況會跟國民黨一樣,大家就可以等著看好戲。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不起",
+                "等著看",
+                "對不起"
+            ],
+            "positive_list": [
+                "希望",
+                "容易",
+                "優勢",
+                "希望"
+            ],
+            "datetime": "2022-06-09 15:22"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "黨主席朱立倫訪美前確實有跟自己談過,要好好慎重考慮參選可能性,但並沒有進一步討論,因此現階段選高雄市長沒在生涯規劃裡面;柯志恩說,黨內應先對可能人選做民調,「但最後如果民調我最高,那我就認了」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "考慮",
+                "最高",
+                "慎重",
+                "確實"
+            ],
+            "datetime": "2022-06-09 14:49"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "認為",
+            "opinion": "僅列四個人選項太少,應該多放一些現在張亞中有意願。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:49"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "認為",
+            "opinion": "這兩人即使過去曾在韓市府工作,但很多人都認為他們與韓國瑜已脫鉤,例如李四川具有工程背景、葉匡時則擔任過交通部長,所以點名這兩人並不是想追回韓國瑜的光環,而是想展現他們曾幫助韓國瑜施政的實力。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "很多",
+                "幫助"
+            ],
+            "datetime": "2022-06-09 14:49"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "黨主席朱立倫訪美前,已先後與前高雄市副市長葉匡時、李四川見面詳談。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 09:30"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "由張開始林善政參選確實讓人驚訝,但朱立倫必須在年底選戰證明這招是正確的選擇,現在距離投票還有5個月的時間,就是要全力幫助張選上桃園市長。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "驚訝",
+                "驚訝"
+            ],
+            "positive_list": [
+                "正確",
+                "正確的",
+                "全力",
+                "確實",
+                "幫助"
+            ],
+            "datetime": "2022-06-09 23:46"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "認為",
+            "opinion": "張善政應該可以打敗鄭運鵬。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 23:46"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "最後由張善政參選確實讓人有點驚訝,而過去桃園民調幾乎都是立委魯明哲第一,立委萬美玲跟前北市議員羅智強也趨近打平,現在若再把張善政擺進去不知道結果會如何,而如果不是張善政被徵召,那最後就是魯明哲出線。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "驚訝",
+                "不知",
+                "不是",
+                "驚訝"
+            ],
+            "positive_list": [
+                "知道",
+                "確實"
+            ],
+            "datetime": "2022-06-09 16:02"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "如果是鄭運鵬,應該很容易就可以打敗。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "容易"
+            ],
+            "datetime": "2022-06-09 16:02"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "認為",
+            "opinion": "僅列四個人選項太少,應該多放一些,且現在張亞中有意願,陳玉珍也有表態,所以應該要說服有意願的人,用公平、公正、公開方式,並且提供數據來決定最後人選。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "公平",
+                "公正",
+                "公開",
+                "決定",
+                "說服",
+                "公平"
+            ],
+            "datetime": "2022-06-09 15:15"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "認為",
+            "opinion": "他們與韓國瑜已脫鉤,例如李四川具有工程背景、葉匡時則擔任過交通部長,所以點名這兩人並不是想追回韓國瑜的光環,而是想展現他們曾幫助韓國瑜施政的實力。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "幫助"
+            ],
+            "datetime": "2022-06-09 15:15"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "強調",
+            "opinion": "「自己不會是第一,也不會是唯一,只是候選人之一」,相信朱立倫沒有口袋名單,高雄這一仗確實很難打,自己也有自知之明,要選就選、不選就不選,且不應以台北看天下,她認為自己現在在高雄,知名度可能比在地議員都還要低,所以要考量是否能帶動國民黨士氣,以及能帶給高雄何種願景。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "相信",
+                "確實"
+            ],
+            "datetime": "2022-06-09 15:15"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "呼籲",
+            "opinion": "黨內可以做民調,或是找其他2家機構一起做,接著再對比數據,「而如果最後結果出乎意料之外,民調是我最高,那我就認了,但我不相信結果會是如此」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不相信",
+                "出乎",
+                "出乎意料"
+            ],
+            "positive_list": [
+                "相信",
+                "最高",
+                "出乎意料"
+            ],
+            "datetime": "2022-06-09 15:15"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "「朱立倫出國之前,他有慎重講說,高雄這一局你要慎重考慮,我不是個扭捏的人,如果沒有任何運作,高雄人還願意接受你,還要知道你的名字,我覺得身為黨的一員,你有什麼好說的,我就用我的小腿,走遍高雄每個角落給你看。」",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "考慮",
+                "知道",
+                "接受",
+                "慎重",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-09 17:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "「公平的很透明的兩家民調,竟然是我,我告訴你,我認。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "竟然"
+            ],
+            "positive_list": [
+                "公平",
+                "公平的",
+                "透明",
+                "透明的",
+                "公平"
+            ],
+            "datetime": "2022-06-09 17:50"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "認為",
+            "opinion": "這有一點試的味道,不知道是誰或媒體突然有的消息,另一方面,自己是屏東人也有被黨問過是否選屏東。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "突然",
+                "不知"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-09 16:30"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "這段時間很多人問她要不要選高雄,但自己的名字在5月前沒跟高雄市長連結過,說實在這也不是自己的生涯規畫。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "很多",
+                "實在"
+            ],
+            "datetime": "2022-06-09 16:30"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "回應",
+            "opinion": "如果公平、有公信力的民調出來她還是最高,「我告訴你我就認了!但我不相信結果會是如此」。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不相信"
+            ],
+            "positive_list": [
+                "公平",
+                "相信",
+                "最高",
+                "公平"
+            ],
+            "datetime": "2022-06-09 16:30"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "「資深的議員如果能夠放掉這一局,或許沒有選上明年馬上就是立委了,你那個整個格局就會不一樣了。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:22"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "說",
+            "opinion": "「對我們這種沒有意願,還只是覺得被點名的人,都沒有任何動作之下,我強調是真正要給人家,參看式的民調參考。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "真正"
+            ],
+            "datetime": "2022-06-10 18:22"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "回應",
+            "opinion": "如果公平、有公信力的民調出來她還是最高,「我告訴你我就認了!但我不相信結果會是如此」。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不相信"
+            ],
+            "positive_list": [
+                "公平",
+                "相信",
+                "最高",
+                "公平"
+            ],
+            "datetime": "2022-06-11 12:01"
+        },
+        {
+            "person": "柯志恩",
+            "verb": "表示",
+            "opinion": "朱立倫訪美前確實有跟她談過,要好好慎重考慮參選可能性,但並沒有進一步討論,因此現階段選高雄市長沒在生涯規劃裡面。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "考慮",
+                "慎重",
+                "確實"
+            ],
+            "datetime": "2022-06-11 12:36"
+        }
+    ]
+}

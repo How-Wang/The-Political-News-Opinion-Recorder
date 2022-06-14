@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/SI公司.png",
+    "opinions": [
+        {
+            "person": "SI公司",
+            "verb": "回應",
+            "opinion": "雙方潛艦構型不同,沒有抄襲問題。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 08:20"
+        }
+    ]
+}

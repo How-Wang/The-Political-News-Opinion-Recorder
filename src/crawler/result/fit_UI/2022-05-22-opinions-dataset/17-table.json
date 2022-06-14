@@ -1,0 +1,8 @@
+{
+    "date": "2022-05-22",
+    "news_id": 17,
+    "title": "何博文連任民進黨新北市黨部主委",
+    "article": "民進黨今天舉行全國黨代表、地方黨部主委選舉,根據新北市黨部的初步統計,余天雖退選但仍獲不少選票,何博文最後仍獲多數票並順利連任新北市黨部主委。新北市黨部下屆主委原由現任主委、新北市議員何博文與立法委員余天角逐,余天日前宣布退選,但根據多區開票情形,余天仍拿到不少選票。何博文稍晚表示,感謝同志支持,才讓他能順利過關。",
+    "opinions": "[{'person': '余天', 'verb': '宣布', 'opinion': '退選,但根據多區開票情形,余天仍拿到不少選票。', 'order': 0, 'negative_score': 0, 'positive_score': 0, 'negative_list': [], 'positive_list': []}, {'person': '何博文', 'verb': '表示', 'opinion': '感謝同志支持,才讓他能順利過關。', 'order': 1, 'negative_score': 0, 'positive_score': 4, 'negative_list': [], 'positive_list': ['順利', '感謝', '感謝', '過關']}]",
+    "little_topic": "1"
+}

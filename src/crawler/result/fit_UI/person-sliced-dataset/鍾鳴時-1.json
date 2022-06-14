@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鍾鳴時.png",
+    "opinions": [
+        {
+            "person": "鍾鳴時",
+            "verb": "指出",
+            "opinion": "該處裝設區監測速「會出事」,認為該處裝設區間測速不妥,直言台北橋有知名的「機車瀑布」,將來重新橋會出現「機車貪吃蛇」,機車一台接一台,會中侯友宜也回應,將會以安全為最大考量,持續蒐集相關資料、繼續評估與檢討。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "貪吃",
+                "機車"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-05 18:40"
+        }
+    ]
+}

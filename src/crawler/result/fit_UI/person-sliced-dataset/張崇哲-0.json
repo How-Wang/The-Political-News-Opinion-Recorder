@@ -1,0 +1,56 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張崇哲",
+            "verb": "說",
+            "opinion": "人們一直想知道美國政府對此「模糊戰略」的態度,現在拜登已經打破了這種模稜兩可。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "打破",
+                "模糊"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-25 09:37"
+        },
+        {
+            "person": "張崇哲",
+            "verb": "指出",
+            "opinion": "美國與台灣之間的關係受「台灣關係法」規管,美方與台灣斷交後,為規範雙邊關係制定此法,文中有一明確條例保護台灣免受中國入侵,但有關華盛頓是否直接發動軍事干預的立場模糊。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "發動",
+                "模糊"
+            ],
+            "positive_list": [
+                "明確",
+                "保護",
+                "規範"
+            ],
+            "datetime": "2022-05-25 09:37"
+        },
+        {
+            "person": "張崇哲",
+            "verb": "表示",
+            "opinion": "中國對台海安全的挑戰引起國際社會的高度關注,台灣政府堅定捍衛台灣自由、民主和安全的決心從未改變。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "自由",
+                "決心",
+                "堅定",
+                "自由"
+            ],
+            "datetime": "2022-05-25 09:37"
+        }
+    ]
+}

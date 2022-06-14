@@ -1,0 +1,151 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "烏克蘭",
+            "verb": "說",
+            "opinion": "出「台灣與烏克蘭站在一起」,再次表達台灣對烏國堅定的支持,並請在場的旅台烏克蘭社群代表問候及鼓勵切列霍夫。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "堅定",
+                "堅定的",
+                "鼓勵"
+            ],
+            "datetime": "2022-05-31 19:26"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "說",
+            "opinion": "出「TaiwanstandswithUkraine」,再次表達台灣對烏國堅定的支持,並請在場的旅台烏克蘭社群代表問候及鼓勵切列霍夫市長。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "堅定",
+                "堅定的",
+                "鼓勵"
+            ],
+            "datetime": "2022-05-31 18:56"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "指出",
+            "opinion": "MaistoBankas成立至今已超過20年,是立陶宛重要慈善組織,也是立陶宛外交部建議的合作對象,以利妥善運用台灣民眾的愛心。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "合作",
+                "重要",
+                "慈善",
+                "愛心",
+                "合作",
+                "愛心"
+            ],
+            "datetime": "2022-06-08 22:10"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "指出",
+            "opinion": "俄羅斯的入侵改變一切,「台灣可以成為烏克蘭重要的戰略夥伴,但要達成這件事需要更多努力」,在這次戰爭中,台灣與烏克蘭同在,烏克蘭也必須站在台灣這邊,「台灣可能很快會面臨與烏克蘭同樣處境,但我希望這不會發生」。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "不會",
+                "戰爭",
+                "不會"
+            ],
+            "positive_list": [
+                "成為",
+                "努力",
+                "希望",
+                "重要",
+                "重要的",
+                "達成",
+                "夥伴",
+                "希望"
+            ],
+            "datetime": "2022-06-09 09:22"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "說",
+            "opinion": "總統表示,維持民主及區域和平安全仍將是台灣的優先要務,將致力與區域和全球夥伴共同達成這個目標。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "安全",
+                "和平",
+                "達成",
+                "夥伴"
+            ],
+            "datetime": "2022-06-10 20:42"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "說",
+            "opinion": "維持民主及區域和平安全仍將是台灣的優先要務,我們致力與區域和全球夥伴共同達成這個目標。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "安全",
+                "和平",
+                "達成",
+                "夥伴"
+            ],
+            "datetime": "2022-06-10 20:48"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "說",
+            "opinion": "維持民主及區域和平安全仍將是臺灣的優先要務,我們致力與區域和全球夥伴共同達成這個目標。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "安全",
+                "和平",
+                "達成",
+                "夥伴"
+            ],
+            "datetime": "2022-06-10 21:26"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "說",
+            "opinion": "維持民主及區域和平安全仍將是臺灣的優先要務,我們致力與區域和全球夥伴共同達成這個目標。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "安全",
+                "和平",
+                "達成",
+                "夥伴"
+            ],
+            "datetime": "2022-06-10 20:42"
+        },
+        {
+            "person": "烏克蘭",
+            "verb": "指出",
+            "opinion": "根據美國智庫「傳統基金會」的政策分析師埃諾思(OliviaEnos)描述,中國代表團在澤倫斯基演講中途離開會場。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 09:30"
+        }
+    ]
+}

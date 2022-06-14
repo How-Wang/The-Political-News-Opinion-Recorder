@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳星宏.png",
+    "opinions": [
+        {
+            "person": "陳星宏",
+            "verb": "表示",
+            "opinion": "關於相關契約問題,消保會有責成內政部營建署,趕快將住宅裝修或裝潢的定型化契約範本,提升到法規位階。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-06-02 14:03"
+        },
+        {
+            "person": "陳星宏",
+            "verb": "回應",
+            "opinion": "根據《消費者保護法》規定,如果真的有坑殺無辜消費者情況,不管是中央或地方政府,都有可以處理的手段,必要時也可以公告業者名稱,消保會有責成內政部營建署,趕快將住宅裝修或裝潢的定型化契約範本,提升到法規位階。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "必要",
+                "保護",
+                "提升"
+            ],
+            "datetime": "2022-06-02 18:45"
+        },
+        {
+            "person": "陳星宏",
+            "verb": "說",
+            "opinion": "根據消費者保護法規定,若真的有坑殺無辜消費者情況,不管是地方或中央,都有可以處理的手段,必要時也可以公告業者名稱。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "必要",
+                "保護"
+            ],
+            "datetime": "2022-06-02 15:29"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/日台交流協會.png",
+    "opinions": [
+        {
+            "person": "日台交流協會",
+            "verb": "表示",
+            "opinion": "當時收到了無數台灣朋友滿滿的心意,門內外都是花海,那令人感動的情景猶如昨夢,歷歷在目,沒想到一年後竟然還有人還記得這個日子,並在即將屆滿第一批疫苗抵達台灣的一週年時送來陣陣芬芳的鮮花。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒想",
+                "沒想到",
+                "竟然"
+            ],
+            "positive_list": [
+                "芬芳",
+                "芬芳的",
+                "感動",
+                "感動"
+            ],
+            "datetime": "2022-06-02 18:39"
+        }
+    ]
+}

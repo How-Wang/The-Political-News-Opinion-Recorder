@@ -1,0 +1,36 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳唐山",
+            "verb": "認為",
+            "opinion": "時間到了,應該從民間裡面發起這個(安倍晉三之友會)。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 21:05"
+        },
+        {
+            "person": "陳唐山",
+            "verb": "說",
+            "opinion": "「在福島發生事情的時候,台灣有很多人自動的捐款,台灣打疫苗不夠的話,日本就送給我們疫苗,所以兩邊互動是非常非常好,這就是建構一個兩邊,未來發展良好的基礎,現在這個牛兩邊也是這樣,所以我認為將來我是看好。」",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "不夠",
+                "不夠的"
+            ],
+            "positive_list": [
+                "自動",
+                "自動的",
+                "良好",
+                "良好的",
+                "很多",
+                "發展",
+                "良好"
+            ],
+            "datetime": "2022-06-01 17:49"
+        }
+    ]
+}

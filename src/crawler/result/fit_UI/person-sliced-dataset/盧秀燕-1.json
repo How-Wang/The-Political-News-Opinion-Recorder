@@ -1,0 +1,602 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "平地民眾購買快篩都不太容易,何況偏遠地區的民眾,如果快篩陽性後才能做PCR,PCR篩檢後才能給藥,路途遙遠令人折騰。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "才能",
+                "容易"
+            ],
+            "datetime": "2022-05-21 15:28"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "部分家庭購買快篩試劑是一筆額外負擔,市府即日起推出台中市低收入戶快篩試劑補助金措施,提供2萬戶每戶500元,直接匯入戶頭,盼減輕家庭負擔。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [
+                "減輕"
+            ],
+            "datetime": "2022-05-21 15:28"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "「光為防疫這項8400億元即使一人發三劑,6900萬劑也不過是70億元左右,所以我覺得國家應該要做這件事情。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 18:12"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "全國各縣市大多決定高中以下學校這周停課,停課目的是避開疫情高峰、減少群聚,由於學校線上教學需提前整備,市府都會提前預告。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "減少",
+                "避開"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-25 13:10"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "「台中市防疫是全民總動員,不只是台中市政府團隊,我們市民素質很好、很配合,如果說我們本市的防疫跟外縣市有一點點不一樣的地方,我們有很多新措施是全國首創。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "一點點"
+            ],
+            "positive_list": [
+                "很多",
+                "很好"
+            ],
+            "datetime": "2022-05-25 12:54"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "下週5月30日至6月2日實際遠距教學只有4天,家長可視狀況幫孩子安排,5月30日至6月2日如有照顧需求的學生同樣可到校,校方會提供到校學生的午餐,如果在家遠距學習需要設備的學生可以向學校借用,學生的評量採多元方式。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "實際",
+                "學習"
+            ],
+            "datetime": "2022-05-26 09:25"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說明",
+            "opinion": "最新防疫政策,包含快篩試劑發送對象、遠距教學日期、快篩陽經診斷即確診配套措施。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 09:25"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "嘴,那個時候立委是寬寬捏,你們要不要橋好再來」、「台中市長呢?完全打自己臉,這種議員,有種不要換圖啊」、「跳躍時空的少女鴻薇」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不要",
+                "有種"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 17:13"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "話,顏寬恒都沒說話,只有一個台北議員在我們救水災同時,還要從台北見獵心喜的拼命吐政治口水」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "拼命"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:53"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "「一個城市最重要,你看它的暴力犯罪它的刑案,我們不是最低,要不然就是倒數第二低,可是市民觀感有落差,我們還要再努力。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "犯罪",
+                "最低",
+                "暴力",
+                "不是",
+                "暴力"
+            ],
+            "positive_list": [
+                "努力",
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-05-28 17:25"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "有鑑於幼童疫苗覆蓋率不高,5歲以下幼童更無法打疫苗,市府將發放2歲至12歲孩童每人2劑快篩。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不高",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 16:16"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "市府將分幾個管道來發放,居托中心、托嬰中心,由中心轉交家長;幼兒園、國小,由園方、校方通知家長,有需要可前去領取,或等恢復實體課程時再領;自己照顧孩子,則由民政局各里辦公室通知家長領取;和平區居民,已由民政局、區公所等進行相關作業。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "和平",
+                "通知",
+                "進行"
+            ],
+            "datetime": "2022-05-28 16:16"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "2至12歲的兒童每人會發放2劑快篩試劑,不過已經過了2天依然沒有分發名冊,眼看距離5月30發放日剩下一天,可能面臨開天窗危機,里長也不禁抱怨到底要怎麼發。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "危機",
+                "沒有",
+                "抱怨",
+                "危機",
+                "沒有",
+                "抱怨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 19:51"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "教育局統計,學生完成2劑疫苗施打有13萬6238人,施打完2劑並有意願接種第3劑的學生有11萬7253人,比例是86.06%。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-05-29 17:54"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "台中市將推出「紓困振興e79計畫」,其中7代表7大紓困、共45項措施,9代表9大振興、規劃20項方案,e79代表市府陪你「一起走」,邁向經濟復甦之路。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 17:54"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "的:「爸爸家用給不夠,結果罵媽媽算帳!」非常貼切,請中央趕緊調整分配數量,讓孩子與家長不用再受苦。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:09"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "提到",
+            "opinion": "「六都大概也只有我講樂觀其成,那第二件事情我們會給予協助。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "給予",
+                "樂觀",
+                "樂觀"
+            ],
+            "datetime": "2022-05-31 13:57"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "這是台灣整體問題,總統府有450名員額,有140人確診,而台中市政府有4萬多名員工,有1078人確診,台灣疫情高漲,不應該過度苛責確診者,有誰願意確診,應該有同理心。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "過度",
+                "不應該",
+                "問題"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-01 18:03"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "宣布",
+            "opinion": "台中市國中、國小、高中遠距教學時間由6月6日至6月10日。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:28"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "指出",
+            "opinion": "總統府有450名人員、140人確診,占1/3。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:54"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "強調",
+            "opinion": "市議員質詢請多以同理心理解,中央地方行政機關同舟一命,共同面臨疫情挑戰,沒有任何機關需要因為確診而被責難,共同的敵人是疫情,不是彼此。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "挑戰",
+                "責難",
+                "敵人",
+                "不是",
+                "沒有",
+                "責難"
+            ],
+            "positive_list": [
+                "理解"
+            ],
+            "datetime": "2022-06-02 10:54"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "回應",
+            "opinion": "。台中市長盧秀燕說,「我看到一個新聞,總統府450名員額有140人確診占1/3,本府有4萬多的員工,現在有1078人是占1/40,不應該過度苛責。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "過度",
+                "不應該"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:13"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "這是台灣整體問題,總統府有450名員額,有140人確診,而台中市政府有4萬多名員工,有1078人確診。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:39"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "這是台灣整體問題,總統府有450名員額,有140人確診,而台中市政府有4萬多名員工,有1078人確診,台灣疫情高漲,不應該過度苛責確診者,有誰願意確診,應該有同理心。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "過度",
+                "不應該",
+                "問題"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-02 09:45"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "回應",
+            "opinion": "。台中市長盧秀燕說,「我們是樂觀其成,反正這個物資或是準備,或是提供的資源越多,當然對市民越好,因為這個站由中央來設,那是額外外加的我們是多多益善,我們是表示歡迎的,另外我們也跟中央一條心。」",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "準備",
+                "當然",
+                "資源",
+                "樂觀",
+                "歡迎",
+                "歡迎的",
+                "樂觀",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 18:23"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "宣布",
+            "opinion": "贈送的快篩劑,竟要求第一線人員先貼上印有「盧秀燕」名字的貼紙再發放,怒批「把人民公帑運用到最極致!」市府表示,其他縣市也有類似措施,代表市府與市長對市民的問候與關懷。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-06-05 09:27"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "疫情仍然嚴峻,不遵守防疫規定,又對同仁暴力相向,絕不姑息,針對未配戴口罩的情節,依法開罰,施暴恐嚇部分,也會請市府的法制同仁研議由機關提吿。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "姑息",
+                "施暴",
+                "恐嚇",
+                "暴力",
+                "嚴峻",
+                "恐嚇",
+                "絕不",
+                "暴力"
+            ],
+            "positive_list": [
+                "遵守"
+            ],
+            "datetime": "2022-06-05 19:38"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "台中攤商高水準的表現,相信市民有目共睹,暴力事件僅是單一事件。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "暴力",
+                "暴力"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-06-05 19:38"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "宣布",
+            "opinion": "競選連任,黨中央定調現以防疫為重,相關時程尊重地方首長決定;國民黨預計9月3日舉辦全代會,為所有縣市長參選人造勢。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-05 12:15"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "「台中市根據統計,大概有兩萬7千名左右的外送員,他們每天冒著風險,幫市民朋友送餐飲送物資,也因此我們需要保護他們的安全,雖然我們的篩劑非常有限,但是我們優先市府挺外送,每個人送兩劑。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "保護"
+            ],
+            "datetime": "2022-06-06 13:32"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "確診死者遺體火化若無時間限制,有些因儀式需要而要擺放半個月、1個月,而確診者遺體封袋前,家屬是否可以看、可以靠多近看、距離多遠才符合規定,中央應盡快訂定全國指引,不要讓大家無所適從。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死者",
+                "限制",
+                "不要"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-07 20:28"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "指出",
+            "opinion": "建議訂定全國一致性喪葬指引,以慰死者之靈,也讓家屬、殯葬業者有所遵循。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死者"
+            ],
+            "positive_list": [
+                "一致"
+            ],
+            "datetime": "2022-06-07 20:28"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "表示",
+            "opinion": "「以陳適柏惟適安院長的個性,他是個非常客氣、感恩的人,又溫文儒的人」、「他不會講這個話!」台中榮總院長陳適安給台中市長盧秀燕的訊息,於前立委陳柏惟臉書上批露。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "客氣",
+                "溫文",
+                "感恩",
+                "溫文"
+            ],
+            "datetime": "2022-06-07 12:31"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "陳適安出書她也親自參加,他領導團隊非常守護、愛護這個城市。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-06-07 12:31"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "「這兩天陳適安柏惟院長有跟我聯絡,因為他們同時接了科博館的施打站,又要維持中央公園的篩檢量能,他覺得他們的人力很吃緊,我們完全能體諒,所以他說希望能夠結束中央公園篩檢站,我們也說ok。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "體諒",
+                "希望"
+            ],
+            "datetime": "2022-06-07 12:26"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "謊否認,「我的立場就是貼貼紙叫公務員加班很落伍啦,誰都一樣」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "否認",
+                "落伍",
+                "落伍"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:36"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "說",
+            "opinion": "會尊重兩人認為最適當時間,來做相關提名工作。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "尊重",
+                "適當",
+                "尊重"
+            ],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "回應",
+            "opinion": "其他縣市也有類似措施,這代表「市府與市長對市民的問候與關懷!」前立委陳柏惟7日也在臉書說,中市府約聘領2萬5千多元的司機,原本扣除開車時間,就是讓司機休息,以確保行車安全。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "休息",
+                "安全",
+                "關懷"
+            ],
+            "datetime": "2022-06-09 15:54"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "提到",
+            "opinion": "關於7至18歲的學生確診曲線圖時間是從5月1日開始到6月6日為止,其中,台中市高中以下暫停實體課程,改採線上教學是從5月23日開始,7至18歲的確診人數佔比曲線,呈現往下走的趨勢。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-06-09 09:49"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "宣布",
+            "opinion": "停止實體課程一周,到6月17日。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 12:27"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "宣布",
+            "opinion": "高中以下學校,公立幼兒園,再度停止,實體課程一週,到6月17日,考量的因素,就是台中市疫情,正處高原期。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 12:27"
+        },
+        {
+            "person": "盧秀燕",
+            "verb": "宣布",
+            "opinion": "高中以下學校及公立幼兒園,持續暫停實體課程至6月17日。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暫停"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 10:20"
+        }
+    ]
+}

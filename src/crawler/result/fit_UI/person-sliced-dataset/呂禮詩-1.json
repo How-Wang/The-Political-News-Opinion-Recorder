@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/呂禮詩.png",
+    "opinions": [
+        {
+            "person": "呂禮詩",
+            "verb": "指出",
+            "opinion": "3月時有國民黨立委質詢提到韓國技工在高雄餐廳大聊潛艦國造,有可能被韓駐台武官回報,或者遭中國掌握,透過外交管道施壓,讓此事浮上檯面。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "掌握"
+            ],
+            "datetime": "2022-06-08 18:10"
+        },
+        {
+            "person": "呂禮詩",
+            "verb": "說",
+            "opinion": "「電池固定方式固定架,看起來好像也沒有技術層次,油水分離器,錦江級就有,錦江級就是台船做的,可是對潛艦而言要求會更高,韓國也有幫印尼做潛艦,可能覺得這應該不是管制機密,是不是官方默許的,這件事還需要看後續發展觀察。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "分離",
+                "沒有",
+                "要求",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "固定",
+                "發展"
+            ],
+            "datetime": "2022-06-08 18:10"
+        }
+    ]
+}

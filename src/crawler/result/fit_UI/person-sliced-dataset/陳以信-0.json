@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳以信.png",
+    "opinions": [
+        {
+            "person": "陳以信",
+            "verb": "解釋",
+            "opinion": "對方對國民黨很有興趣,才順道轉交邀請函。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "興趣"
+            ],
+            "datetime": "2022-06-07 13:23"
+        },
+        {
+            "person": "陳以信",
+            "verb": "指出",
+            "opinion": "陳以信此行是以台美國會議員聯誼會副會長身分,前往美國華府國會山莊訪問,外交部依慣例安排他與國會人士會面,因正值休會期間,參眾議員都不在華府,故只安排數場國會幕僚會面。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:28"
+        },
+        {
+            "person": "陳以信",
+            "verb": "表示",
+            "opinion": "陳以信在第一場餐會時因會談內容提及,在餐會結束起身離席後轉交邀請函以示禮貌。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "禮貌"
+            ],
+            "datetime": "2022-06-07 16:28"
+        }
+    ]
+}

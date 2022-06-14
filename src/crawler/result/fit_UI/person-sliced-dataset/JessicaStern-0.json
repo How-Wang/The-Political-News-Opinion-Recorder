@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "JessicaStern",
+            "verb": "說",
+            "opinion": "提倡促進LGBTQI+(同性戀、雙性戀、跨性別、酷兒、雙性人)等多元性別者的人權。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "促進"
+            ],
+            "datetime": "2022-05-24 20:06"
+        }
+    ]
+}

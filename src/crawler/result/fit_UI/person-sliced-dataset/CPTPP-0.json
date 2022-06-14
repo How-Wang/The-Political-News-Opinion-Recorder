@@ -1,0 +1,24 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "CPTPP",
+            "verb": "表示",
+            "opinion": "前陣子外界關注印太經濟架構(IPEF)及21世紀台美貿易倡議,對CPTPP的關注度減低,但兩者並非競合關係,兩個機制創造的效果跟處理的問題屬於不同層面,無法互相取代。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "減低",
+                "無法",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [
+                "創造",
+                "創造的"
+            ],
+            "datetime": "2022-06-10 19:07"
+        }
+    ]
+}

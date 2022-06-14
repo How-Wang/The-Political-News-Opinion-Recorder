@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/瑞典國會.png",
+    "opinions": [
+        {
+            "person": "瑞典國會",
+            "verb": "表示",
+            "opinion": "他們的訪問向中國傳達強烈訊息,即是歐洲將支持台灣捍衛自由和民主的努力。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "強烈"
+            ],
+            "positive_list": [
+                "自由",
+                "努力",
+                "自由"
+            ],
+            "datetime": "2022-06-01 18:13"
+        }
+    ]
+}

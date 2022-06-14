@@ -1,0 +1,407 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "「議員你對我自己本人的我必須要回答,主席主席。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:15"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "表示",
+            "opinion": "今早沒聽到有任何塞車狀況,社區篩檢站回報也都是一切順利。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "順利"
+            ],
+            "datetime": "2022-05-26 15:18"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "新北市有33家醫院提供視訊門診,每周提供843診次,其中有23家醫院會提供快篩陽確定的診療;另外,有976家診所提供視訊門診,其中391家診所提供快篩陽確定的診療;至於29家衛生所也會提供視訊門診及快篩陽確定的診療。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "確定",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 15:18"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "表示",
+            "opinion": "今早沒聽到有任何塞車狀況,社區篩檢站也都回報都是一切順利。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "順利"
+            ],
+            "datetime": "2022-05-26 15:46"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "回應",
+            "opinion": "新北市有33家醫院提供視訊門診,每周共提供843診次,其中有23家會提供快篩陽確定的診療;另外有976家診所提供視訊門診,其中391家提供快篩陽確定的診療;至於29家衛生所也會提供視訊門診,以及快篩陽確定的診療。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "確定",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 15:46"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "回應",
+            "opinion": "中、小型醫院因沒有專責病房,不是抗病毒配送醫院,中央主要將藥物派給醫院、衛生局,由衛生局來配付,醫院若有需求,可以向區內醫院、衛生局申請,或將處方籤釋出,由指定要局送藥,目前藥物都還有庫存。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-28 16:19"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "恩恩家屬需要的任何資料,他們都會提供,原本約了今天上午要見面,但經過幾個小時後,家屬可能有另外考量就取消了,會再跟家屬另外約時間,一定會帶著完整的報告向家屬說明,「我們會依法提供全力協助」。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "全力",
+                "完整",
+                "完整的",
+                "協助",
+                "說明"
+            ],
+            "datetime": "2022-06-01 18:40"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "「約在今天早上見面,那不過呢經過了幾個小時,本來已經是約好了,那經過了幾個小時後,可能家屬有另外的考量,所以呢就暫時的取消,我們還會繼續的聯絡。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 13:11"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "這次恩恩爸爸提出需求後,市長就指定他與消防局長黃德清準備完整資料與恩恩爸爸約今早見面,本來約好了,但經過幾個小時後,家屬有另外考量就暫時取消,新北還會繼續聯絡。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "完整",
+                "準備"
+            ],
+            "datetime": "2022-06-01 10:39"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "表示",
+            "opinion": "恩恩爸確實希望先看到資料再進行討論,市府2日上午已用雙掛號將資料寄出,有任何問題,都可以當面說明清楚。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "進行",
+                "說明",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-02 15:45"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "表示",
+            "opinion": "恩恩爸確實希望先看到資料再進行討論,市府2日上午已用雙掛號將資料寄出,有任何問題,都可以當面說明清楚。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "進行",
+                "說明",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-02 15:15"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "表示",
+            "opinion": "恩恩爸確實希望先看到資料再進行討論,市府2日上午已用雙掛號將資料寄出,有任何問題,都可以當面說明清楚。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "進行",
+                "說明",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-02 12:12"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "恩恩爸確實希望先看到資料再進行討論,市府今上午已用雙掛號將資料寄出,有任何問題,都可以當面說明清楚。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "進行",
+                "說明",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-02 10:33"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "「資料我們在今天(2日)早上,分別由衛生局跟消防局,用雙掛號寄出,我想應該很快可以收到。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 19:04"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "「恩恩爸爸他有其他的考量,他希望能先看到資料,所以這個資料我們在今天早上,分別由衛生局跟消防局,用雙掛號寄出,我想應該很快可以收到。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 14:22"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "表示",
+            "opinion": "恩恩爸爸跟衛生局申請資料,市府已經準備好了,原本她與黃德清要一起到新竹遞交資料並說明,不過恩恩爸爸希望先看到資料,所以今天早上分別由衛生局跟消防局用雙掛號寄出,應該很快會收到。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "準備",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 10:23"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "希望中央能夠提出精確時間,才能讓地方能夠有所依循。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "希望",
+                "精確",
+                "希望"
+            ],
+            "datetime": "2022-06-04 16:22"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "這2年各地方主管機關,都一直在問中央此問題,中央的回覆都是「盡速」,因無清楚時間,大家都還是比照辦理。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-04 16:22"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說明",
+            "opinion": "會表示,新冠肺炎被列入法定的傳染病第五類,跟伊波拉病毒屬同類,均須在24小時內通報,並要盡速入殮火化,因此許多殯葬業者都比照辦理。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [
+                "法定",
+                "法定的"
+            ],
+            "datetime": "2022-06-04 16:22"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "「入校施打計劃,本來就是到6月10日,現在一切都還在進行中。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-05 16:12"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "新北市的入校施打計畫是到6月10日,一切仍在進行中。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-05 17:32"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "強調",
+            "opinion": "同仁接到電話,第一時間就會回覆家屬,再與醫院聯絡,而在醫院花時間的原因是,如果是確診個案必須安排專責病房,且要了解病況。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-06 16:30"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說",
+            "opinion": "當天確診者新北360人,但居隔有1萬多人,因為指揮中心當時還是要對確診者、居隔者進行疫調,並要擴大匡列。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-06 16:30"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "解釋",
+            "opinion": "4月20日指揮中心公布修改放寬緊急就醫交通方式,最主要就是有緊急狀況以119救護車為原則,改成可輔助自行前往,也可由同住親友接送。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "緊急",
+                "緊急狀況"
+            ],
+            "positive_list": [
+                "輔助"
+            ],
+            "datetime": "2022-06-10 16:09"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "為了照顧這些長者,衛生局特別推出預約系統,新北市開了14個接種站、406家醫療院所,預約網址將在6月17日至28日,開放給所有65歲以上、原住民55歲以上的長者預約。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "開放",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 15:41"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "說明",
+            "opinion": "對於有資訊落差的長者,衛生局會提供鄰里協助,幫助長者事前或到現場進行預約。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "差的"
+            ],
+            "positive_list": [
+                "助長",
+                "協助",
+                "進行",
+                "衛生",
+                "幫助",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 16:03"
+        },
+        {
+            "person": "陳潤秋",
+            "verb": "指出",
+            "opinion": "新北市預計開設14個接種站、406家醫療院所,提供65歲以上、原住民則是55歲以上的長者施打第四劑疫苗。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:03"
+        }
+    ]
+}

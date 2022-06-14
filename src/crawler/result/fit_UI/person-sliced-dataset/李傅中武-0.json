@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李傅中武.png",
+    "opinions": [
+        {
+            "person": "李傅中武",
+            "verb": "說",
+            "opinion": "「你們內部已經討論好就是妳了是不是?好!」,對黃珊珊表示針對生育率問題,要當市長總要有市政白皮書,選舉競選各方面要說服大家。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "生育",
+                "說服"
+            ],
+            "datetime": "2022-06-07 16:27"
+        }
+    ]
+}

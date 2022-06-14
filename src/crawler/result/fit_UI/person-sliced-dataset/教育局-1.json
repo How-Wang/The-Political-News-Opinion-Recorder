@@ -1,0 +1,149 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "教育局",
+            "verb": "強調",
+            "opinion": "停課期間公私立幼兒園對於家長仍有工作需求而須送托之幼兒,應視家長需求提供到園基本照顧服務;此外,為兼顧對私立幼兒園的運營關懷及維持托育量能,教育局針對停課一週需返還家長之午餐費、點心費等,本市特別補助每生每週上限1000元之紓困金,由園所檢具退費證明申請補助。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "關懷"
+            ],
+            "datetime": "2022-05-21 14:51"
+        },
+        {
+            "person": "教育局",
+            "verb": "宣布",
+            "opinion": "自今(23)日起,公私立幼兒園停止5天實體課程。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 15:25"
+        },
+        {
+            "person": "教育局",
+            "verb": "說明",
+            "opinion": "透過校長、教師、家長會,專家學者及教育局充分討論,不論是採線上教學、實體教學或分流教學,都會做好完善配套。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "充分",
+                "專家"
+            ],
+            "datetime": "2022-05-27 14:45"
+        },
+        {
+            "person": "教育局",
+            "verb": "指出",
+            "opinion": "各校因地制宜評估風險,視需求暫停實體課程,學校須考量學校規模、確診學生分布年班、傳播鏈數目、感染源是否明確、影響學生數與班級數、擴散速度及課務安排,得調整班級或全校的授課模式。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "感染",
+                "暫停"
+            ],
+            "positive_list": [
+                "明確"
+            ],
+            "datetime": "2022-05-27 14:53"
+        },
+        {
+            "person": "教育局",
+            "verb": "表示",
+            "opinion": "統計市內共270所高中以下公私立學校自30日起至6月2日全校停止到校,居家實施線上學習,占全市學校的7成9;國小及幼兒園,仍可提供基本照顧。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [
+                "學習"
+            ],
+            "datetime": "2022-05-27 14:53"
+        },
+        {
+            "person": "教育局",
+            "verb": "指出",
+            "opinion": "新北每週召開全巿教育防疫會議,以學校為本位,由教育局提供最新疫情資訊,校園防疫體系採取高風險、低風險判斷,6月底前彈性授權各校因地制宜,經校內防疫會議通過,即可實施全校居家線上教學。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-02 14:18"
+        },
+        {
+            "person": "教育局",
+            "verb": "提到",
+            "opinion": "家長有防疫需求,可幫學生申請自主防疫假,不列入出缺勤紀錄。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-06-02 14:18"
+        },
+        {
+            "person": "教育局",
+            "verb": "表示",
+            "opinion": "醫護人員真的是辛苦了,昨視察有學校有把動線弄好分內外,給醫護人員與孩子好的接種環境。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:58"
+        },
+        {
+            "person": "教育局",
+            "verb": "指出",
+            "opinion": "新北每週召開全巿教育防疫會議,以學校為本位,由教育局提供最新疫情資訊,校園防疫體系採取高風險、低風險判斷,6月底前彈性授權各校因地制宜,經校內防疫會議通過,即可實施全校居家線上教學。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-02 15:03"
+        },
+        {
+            "person": "教育局",
+            "verb": "提到",
+            "opinion": "家長有防疫需求,可幫學生申請自主防疫假,不列入出缺勤紀錄。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-06-02 15:03"
+        },
+        {
+            "person": "教育局",
+            "verb": "指出",
+            "opinion": "部分國高中下週規劃疫苗施打,考量疫苗施打後進行2日線上教學,同時避免施打前學生確診造成無法施打,因此仍決議下週全校居家線上教學。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "無法",
+                "避免",
+                "無法"
+            ],
+            "positive_list": [
+                "進行",
+                "避免"
+            ],
+            "datetime": "2022-06-10 15:56"
+        }
+    ]
+}

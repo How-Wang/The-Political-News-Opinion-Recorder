@@ -1,0 +1,2237 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡英文",
+            "verb": "質疑",
+            "opinion": "侯友宜市長苦口婆心反映,中央置之不理卻只想抬槓,如今拖到520才公布,究竟是在搞防疫,還是在搞慶祝?陳偉杰批評,防疫措施慢好幾拍,受苦的只能是民眾。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "批評",
+                "苦的",
+                "不理",
+                "批評",
+                "置之不理"
+            ],
+            "positive_list": [
+                "慶祝",
+                "慶祝"
+            ],
+            "datetime": "2022-05-21 11:35"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "21日三總將在松山機場增加大型篩檢站,引發台北市長柯文哲不滿砲轟,他事先知道而且反對,不要為了設而設,批評不要瞎指揮;對此,行政院長蘇貞昌上午受訪說,感謝指揮中心、醫護辛苦投入,喊話設篩檢站是為了減少民眾負擔,「希望中央、地方一起合作」,打贏防疫最後一站。",
+            "negative_score": 9,
+            "positive_score": 8,
+            "negative_list": [
+                "不滿",
+                "反對",
+                "批評",
+                "辛苦",
+                "負擔",
+                "減少",
+                "不要",
+                "不滿",
+                "批評"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "知道",
+                "感謝",
+                "增加",
+                "合作",
+                "希望",
+                "感謝"
+            ],
+            "datetime": "2022-05-21 11:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總會在松山機場的大客車停車場增加一個大型篩檢站。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-21 17:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總會在松山機場的大客車停車場增加一個大型篩檢站,這個消息讓台北市長柯文哲今天直言,「不要瞎指揮,造成地方困擾。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-21 14:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總會在松山機場的大客車停車場增加一個大型篩檢站,台北市長柯文哲今天直言,「我事先知道,而且反對」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "知道",
+                "增加"
+            ],
+            "datetime": "2022-05-21 11:27"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總會在松山機場的大客車停車場增加一個大型篩檢站,這個消息讓台北市長柯文哲今天直言,「我事先知道,而且反對。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "知道",
+                "增加"
+            ],
+            "datetime": "2022-05-21 10:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "在執政團隊的協調之下,現在北北基桃已經成立8個大型篩檢站,最快在今(21日)三總也會在松山機場的大客車停車場新設篩檢站,提供篩檢、看診、領藥的服務,未來也會視疫情發展持續增加三合一篩檢站。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "發展",
+                "增加"
+            ],
+            "datetime": "2022-05-21 11:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "在執政團隊的協調之下,現在北北基桃已經成立8個大型篩檢站,最快在21日,三總也會在松山機場的大客車停車場新設篩檢站,提供篩檢、看診、領藥的服務,未來也會視疫情發展持續增加三合一篩檢站。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "發展",
+                "增加"
+            ],
+            "datetime": "2022-05-21 10:33"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總於21日起將在松山機場增設1座3合1大型篩檢站。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "台灣近期防疫亂象叢生、生育率低迷、將水利會收歸國有等等,認為蔡英文政績,大概就只是個「美麗的錯誤」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "錯誤",
+                "低迷"
+            ],
+            "positive_list": [
+                "生育",
+                "美麗",
+                "美麗的"
+            ],
+            "datetime": "2022-05-21 18:35"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總會在松山機場的大客車停車場增加一個大型篩檢站,這個消息讓台北市長柯文哲今天直言,「不要瞎指揮,造成地方困擾。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "不要",
+                "困擾"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-23 11:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "這段時間中央地方合作,北北基桃設立大型篩檢站,台北市有自由廣場、台大醫院體育館、松山機場篩檢站,這些對緩解民眾PCR需求發揮相當效益,她要感謝北市府及中央的團隊,攜手共同合作。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "自由",
+                "感謝",
+                "合作",
+                "自由",
+                "感謝"
+            ],
+            "datetime": "2022-05-24 19:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "政院正全力投入,要讓法傳系統更好用,紓困問題行政院也在討論,看能否從其他地方找出預算支援。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "支援",
+                "全力"
+            ],
+            "datetime": "2022-05-24 19:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "快篩陽性開藥是專業問題,總統沒有辦法裁示,她可以理解,很多人染疫後,心情非常焦急,希望能夠拿到藥物。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "焦急",
+                "沒有",
+                "問題",
+                "焦急"
+            ],
+            "positive_list": [
+                "希望",
+                "很多",
+                "理解",
+                "希望"
+            ],
+            "datetime": "2022-05-24 19:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "「我們的期待也是,中央跟地方合作,好好照顧人民,如果還有任何,需要協助的地方,我相信中央和指揮中心,跟台北市政府,都可以積極來聯繫,此時此刻我們要團結一致。」",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "合作",
+                "協助",
+                "相信",
+                "期待",
+                "積極",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-05-24 22:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我發現院長近來白頭髮,是不是多很多,頭髮白了沒關係,可以染不要變少了。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不是",
+                "不要",
+                "沒關係"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-24 22:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "到,期待李鴻鈞能展現建築工程上的專業,並善用其豐富的問政歷練,善盡憲法所賦予的職責,增益監察院的運作,並盡心為人民服務,落實公平正義、人權上的實現。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "公平",
+                "正義",
+                "期待",
+                "職責",
+                "豐富",
+                "豐富的",
+                "公平",
+                "期待",
+                "實現"
+            ],
+            "datetime": "2022-05-24 22:19"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "宣布",
+            "opinion": "三總會在松山機場的大客車停車場增加一個大型篩檢站,不過遭柯文哲批是「瞎指揮」,造成地方困擾。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "困擾"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-24 15:58"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "中央的期待也是像黃珊珊一樣,中央跟地方合作好好照顧人民,「如果還有任何需要協助的地方,我相信中央跟指揮中心還有台北市政府,都會積極地來聯繫解決問題。」",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "協助",
+                "相信",
+                "期待",
+                "解決",
+                "積極",
+                "合作",
+                "期待",
+                "解決"
+            ],
+            "datetime": "2022-05-24 18:08"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "她知道黃珊珊與負責大型篩檢站業務的衛福部「醫福會」執行長王必勝工作關係非常的好,而且是有密切的溝通,這個是防疫上非常重要的夥伴關係,所以她非常高興。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "負責",
+                "重要",
+                "重要的",
+                "高興",
+                "夥伴",
+                "高興"
+            ],
+            "datetime": "2022-05-24 18:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「快篩陽性開藥的問題,就是專業的問題,總統是沒資格裁示的!」不過她也強調,不是政府捨不得花錢,「再多的錢我們都願意花,只要是值得的,而且是需要的。」",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "問題",
+                "不是",
+                "不得",
+                "問題"
+            ],
+            "positive_list": [
+                "值得",
+                "值得的",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-24 18:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "很可惜在現場的不是柯文哲,因為他染疫了,同時,她也協請總統府秘書長李大維問候了柯文哲,並關心他的健康狀況,「我在電視上看到...嗯,沒有像平常那麼瀟灑。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "可惜",
+                "沒有",
+                "不是",
+                "可惜",
+                "沒有"
+            ],
+            "positive_list": [
+                "健康",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 17:53"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "中央的期待也是像黃珊珊一樣,中央跟地方合作好好照顧人民,「如果還有任何需要協助的地方,我相信中央跟指揮中心還有台北市政府,都會積極地來聯繫解決問題。」",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "協助",
+                "相信",
+                "期待",
+                "解決",
+                "積極",
+                "合作",
+                "期待",
+                "解決"
+            ],
+            "datetime": "2022-05-24 17:53"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "因為系統錯誤造成醫護單位無法立即開立居隔書,造成民眾請假、保險無法及時處理,也造成基層醫護和公務人員非常大的壓力,這點地方政府必須如實反映,因為系統問題,造成地方政府要花不少時間處理,她希望將來第一線同仁能好好照顧確診者,而非一直做一些很繁瑣的行政作業。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "無法",
+                "錯誤",
+                "壓力",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-24 17:25"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "從電視中看見柯文哲狀態不像平常一樣瀟灑,已請總統府秘書長李大維致電關心柯文哲健康狀況,盼早日康復。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不像",
+                "不像"
+            ],
+            "positive_list": [
+                "健康",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 21:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "誠如黃珊珊所說,台北市與中央想法一致,希望雙方能夠合作。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "合作",
+                "希望",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-05-24 21:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "去年同樣時間,台灣面臨疫情嚴峻挑戰,感謝當時民眾團結防疫,政府民間共同努力,才能挺過難關。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "挑戰",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "才能",
+                "努力",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-25 17:07"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "在這波防疫最後的關鍵時刻,中央與地方政府必須共同合作,伴隨著防疫措施的調整,更加需要基層醫療診所的一同投入,互相補位將防疫工作做得更好。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-25 17:07"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "呼籲",
+            "opinion": "民眾,務必配合防疫指引與接種疫苗,提升台灣整體的疫苗覆蓋率。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-05-25 17:07"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「今天很可惜,不在現場的就是我們柯文哲市長,因為他染疫確診,我已經請我們總統府李大維秘書長問候了柯文哲市長,我在電視上看到,沒有像平常看起來那麼瀟灑。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "可惜",
+                "沒有",
+                "可惜",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 18:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "到,已設置兒童就醫的綠色通道,加開兒童專責病房,同時強化轉診協調,讓重症兒童可以在最短的時間,獲得更妥善的醫療照顧。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "獲得"
+            ],
+            "datetime": "2022-05-25 18:36"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "在這波防疫最後的關鍵時刻,中央與地方政府必須共同合作,伴隨著防疫措施的調整,更加需要基層醫療診所的一同投入,互相補位將防疫工作做得更好,她要感謝基層診所的醫師投入居家照護、遠距問診等各項醫療工作。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "感謝",
+                "合作",
+                "感謝"
+            ],
+            "datetime": "2022-05-25 18:36"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "呼籲",
+            "opinion": "請務必配合防疫指引與接種疫苗,提升台灣整體的疫苗覆蓋率,「中央和地方齊心防疫,相互配合,我們一定能度過這波疫情的考驗」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-05-25 18:36"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "到,去年同樣時間,台灣面臨疫情的嚴峻挑戰,感謝當時全體國人同胞團結防疫,政府民間共同努力,才能挺過難關,「我要再次感謝所有第一線的防疫工作夥伴,謝謝你們無私的奉獻與付出」。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "挑戰",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "才能",
+                "努力",
+                "感謝",
+                "夥伴",
+                "奉獻",
+                "感謝",
+                "謝謝"
+            ],
+            "datetime": "2022-05-25 18:36"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "過去幾年,台灣與歐洲商會有許多有意義的對話,台歐盟在貿易、經濟、文化、學術與科技交流、供應鏈夥伴關係、人權諮商和民主團結等方面有積極充分的討論。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "充分",
+                "有意義",
+                "有意義的",
+                "夥伴",
+                "積極"
+            ],
+            "datetime": "2022-05-27 09:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣願與歐盟一起合作協助國際社會經濟復甦,並防止民主倒退。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "防止",
+                "協助",
+                "合作"
+            ],
+            "datetime": "2022-05-27 09:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "為回應歐盟的「全球門戶」計畫,台灣提出「強化歐洲鏈結計畫」,此計畫涉及政府部會間的合作,例如國發會成立的中東歐投資基金。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-27 09:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "「指揮中心已經協調各縣市衛生局,將原本預留在學校施打的部分疫苗先釋出、分配到各醫療院所」,將盡全力滿足家長們的需求。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "協調",
+                "滿足",
+                "衛生",
+                "滿足",
+                "衛生"
+            ],
+            "datetime": "2022-05-27 15:23"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "隨著國際社會陸續鬆綁防疫邊境限制,臺灣將逐步檢視及評估邊境管制等國內相關措施,讓國際旅行更便利。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "限制"
+            ],
+            "positive_list": [
+                "便利"
+            ],
+            "datetime": "2022-05-27 09:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "法,就是「不能承認蔡英文政府執政失敗」,因此當時必須支持蔡英文參加初選,如同現在支持陳時中參選,「不能承認我們(指民進黨政府)防疫失敗」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "失敗",
+                "失敗"
+            ],
+            "positive_list": [
+                "承認",
+                "參加"
+            ],
+            "datetime": "2022-05-28 21:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "政府持續強化兒童防疫量能,輝瑞兒童疫苗今天已經到貨33.12萬劑,累積到目前為止,一共有110.88萬劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 19:55"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "她知道家長都很擔心家裡的小孩有染疫的狀況,為了和家長共同守護孩子的健康,政府持續強化兒童防疫量能。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "知道",
+                "健康"
+            ],
+            "datetime": "2022-05-30 19:55"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "為了加快兒童接種的速度,指揮中心也即將協助地方政府,設置大型的兒童接種站。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-30 19:55"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "0歲至6歲的小小孩,目前還沒有疫苗可以施打,也更需要格外的關注和照顧,所以從6月1日開始,0至6歲兒童可以免費領每人5劑的實名制快篩試劑。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "格外",
+                "格外的",
+                "沒有"
+            ],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-05-30 22:18"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "為了加快兒童接種的速度,指揮中心也即將協助地方政府,設置大型的兒童接種站。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-30 22:18"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "政府持續強化兒童防疫量能,輝瑞兒童疫苗今(30)日已經到貨33.12萬劑,累積到目前為止共有110.88萬劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 22:18"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "自己的習慣就是不管是什麼禮物都會發文致謝。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "習慣"
+            ],
+            "datetime": "2022-05-30 11:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說明",
+            "opinion": "輝瑞兒童疫苗再度到貨,台灣目前疫苗數量相當充足,卻引發網友在留言區怒轟,「我們的孩子在對抗病毒,你們全黨忙著拯救貪腐!海角七億感謝你。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "充足",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-30 21:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "為了加快兒童接種的速度,中央流行疫情指揮中心也即將協助地方政府,設置大型的兒童接種站,政府也會視接種情形,額外增加疫苗配送,希望盡快讓更多小朋友都能得到疫苗的保護。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "協助",
+                "保護",
+                "流行",
+                "得到",
+                "增加",
+                "希望"
+            ],
+            "datetime": "2022-05-30 21:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "感謝所有家長共同努力,在疫情關鍵的時刻,政府會繼續強化各項防疫措施,和大家一起守護孩子的健康。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "健康",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-30 21:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "患者是否收住院是依專家指引,並尊重醫生臨床判斷,「我不會、也不能、更沒有下令」。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "不會",
+                "沒有",
+                "患者",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "專家",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-31 18:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "網路謠傳「孩童燒到41度才准收治」等言論,完全是捏造的假訊息,有心人士藉機對疫情造謠,試圖造成社會對立,她強烈譴責。",
+            "negative_score": 9,
+            "positive_score": 0,
+            "negative_list": [
+                "捏造",
+                "強烈",
+                "造謠",
+                "對立",
+                "謠傳",
+                "譴責",
+                "捏造",
+                "造謠",
+                "對立"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 18:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "美國「全國公共廣播電台」(NPR)刊出一篇專訪外交部長吳釗燮的內容,吳釗燮以外交部長身份向美國社會宣布,為避戰,台灣不尋求獨立。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "獨立"
+            ],
+            "datetime": "2022-05-31 17:09"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "認為",
+            "opinion": "蔡英文路線已經正式浮上檯面,這個路線揮別李登輝「明統暗獨」和陳水扁「一邊一國」路線,放棄台灣獨立的理想與價值,要追求屬於自己的歷史時空。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "放棄"
+            ],
+            "positive_list": [
+                "正式",
+                "理想",
+                "獨立"
+            ],
+            "datetime": "2022-05-31 17:09"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "「我們了解家長都很擔心孩童染疫,包括醫護、政府單位都持續努力強化醫療量能,保護孩童,有心人士卻藉機對疫情造謠,試圖造成社會對立,破壞大家的努力,我要給予強烈譴責」。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "破壞",
+                "強烈",
+                "造謠",
+                "對立",
+                "擔心",
+                "譴責",
+                "破壞",
+                "造謠",
+                "對立",
+                "擔心"
+            ],
+            "positive_list": [
+                "了解",
+                "努力",
+                "保護",
+                "給予"
+            ],
+            "datetime": "2022-05-31 17:59"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "回應",
+            "opinion": "表示深感哀慟不捨,並已指示國防部,徹底釐清事故原因,並全力協助飛官家屬處理後續事宜。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "事故"
+            ],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-05-31 10:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台海及印太區域的和平穩定,是國際社會安全繁榮不可或缺的一環,更是區域內各成員的共同責任,會持續與理念相近國家,共同捍衛民主自由的價值,並維護區域的和平穩定與繁榮發展。",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "自由",
+                "自由的",
+                "和平",
+                "發展",
+                "繁榮",
+                "穩定",
+                "自由"
+            ],
+            "datetime": "2022-06-01 15:29"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "台灣位處印太地區的戰略前緣,民主自由的重要前線,會持續展現自我防衛的決心,厚植國防和經貿的實力,成為民主自由陣線最堅實的一環。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "成為",
+                "自由",
+                "自由的",
+                "決心",
+                "重要",
+                "自由"
+            ],
+            "datetime": "2022-06-01 15:29"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣位處印太地區的戰略前緣,民主自由的重要前線,我們也會持續展現自我防衛的決心,厚植國防和經貿的實力,成為民主自由陣線最堅實的一環。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "成為",
+                "自由",
+                "自由的",
+                "決心",
+                "重要",
+                "自由"
+            ],
+            "datetime": "2022-06-01 15:55"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台海及印太區域的和平穩定,是國際社會安全繁榮不可或缺的一環,更是區域內各成員的共同責任。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "和平",
+                "繁榮",
+                "穩定"
+            ],
+            "datetime": "2022-06-01 15:55"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "面對全球經貿的劇烈變化,政府除了維持對外經貿關係的穩定發展,台美雙方更積極進行經貿上的溝通對話,深化多項合作議題上的具體策略及路徑,讓台灣在參與區域經貿的整合上更具有動力。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "劇烈"
+            ],
+            "positive_list": [
+                "合作",
+                "發展",
+                "進行",
+                "積極",
+                "穩定",
+                "合作"
+            ],
+            "datetime": "2022-06-01 15:43"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "呼籲",
+            "opinion": "議員不要一直給台中扣帽子。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 13:44"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說明",
+            "opinion": "了解當時民眾對於購買快篩試劑,感到不方便,政府會持續增加快篩試劑的供貨量,「在這個月(5月),我們預計取得1億劑左右的快篩試劑,供應將會越來越穩定。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "方便",
+                "增加",
+                "穩定"
+            ],
+            "datetime": "2022-06-01 12:12"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "有心人士藉機對疫情造謠,試圖造成社會對立,破壞大家的努力,她要給予強烈譴責。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "破壞",
+                "強烈",
+                "造謠",
+                "對立",
+                "譴責",
+                "破壞",
+                "造謠",
+                "對立"
+            ],
+            "positive_list": [
+                "努力",
+                "給予"
+            ],
+            "datetime": "2022-06-01 11:05"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "兒童疫苗絕對足夠,請大家放心。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "足夠",
+                "放心"
+            ],
+            "datetime": "2022-06-01 12:52"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "2022年底的九合一選舉,台灣即將誕生新的地方縣市領導人,後疫情時代國際城市的觀光經濟發展是重點,台北是台灣首都,未來將跟國際競爭,也是台灣城市的領頭羊;台北需要一位有治理經驗、懂產業需求、重文化發展、會防疫部署,有國際格局的首長。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "發展",
+                "經驗"
+            ],
+            "datetime": "2022-06-02 12:02"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「這21公斤,已經有女兵操作過了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:14"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "這是這次「烏俄戰爭」中,烏克蘭軍隊成功對抗俄軍裝甲部隊的重要裝備;同時,陸戰隊官兵也介紹了國造T108輕型狙擊槍,蔡英文同樣一一詢問操作方式,並親自操作體驗。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "對抗",
+                "戰爭"
+            ],
+            "positive_list": [
+                "成功",
+                "重要"
+            ],
+            "datetime": "2022-06-02 10:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我就是在試它的重量,也滿好操作的,所以在400公尺之內,都可以作戰。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:14"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「這個女生也可以操作。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:46"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "呼籲",
+            "opinion": "徵召林佳龍參選台北市長,信中從「觀光」、「治理」、「產業與國際視野」、「防疫」4面向細數林佳龍的經歷,大讚他是最接地氣的交通部長,並說林佳龍在台中十年磨一劍的故事,「已是台灣政壇的典範」,台北需要一位懂產業、懂趨勢、知國際的治理人才,相信林佳龍具備這樣的條件與格局。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-06-02 11:30"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "不覺得重,「蠻好操作的」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不覺"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:27"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "日前駕駛AT-3教練機實施單飛訓練失事的少尉徐大鈞表示,此刻堅守崗位、保護國家,守護心愛的家園。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "失事",
+                "失事"
+            ],
+            "positive_list": [
+                "心愛",
+                "心愛的",
+                "保護",
+                "訓練",
+                "心愛"
+            ],
+            "datetime": "2022-06-02 12:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "這兩年多來,預醫所也結合了中研院、國衛院、衛福部等產官學多方合作,在自動化核酸檢測,以及抗原快篩的研發上,有許多卓越的成效。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "自動",
+                "卓越",
+                "卓越的",
+                "合作"
+            ],
+            "datetime": "2022-06-02 12:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「這21公斤ㄟ(發射筒加飛彈總重量),這裡已經有一個女生(操作女兵)拿了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "日前發生的AT-3教練機失事事件,她說在前天的飛行訓練中,我們失去一位優秀的飛官,大家都非常不捨,但在此刻,我們更要打起精神,堅守崗位、保護國家,守護心愛的家園,相信這也是紀念他最好的方式。",
+            "negative_score": 4,
+            "positive_score": 10,
+            "negative_list": [
+                "失去",
+                "失事",
+                "失去",
+                "失事"
+            ],
+            "positive_list": [
+                "心愛",
+                "心愛的",
+                "保護",
+                "相信",
+                "紀念",
+                "訓練",
+                "最好",
+                "優秀",
+                "優秀的",
+                "心愛"
+            ],
+            "datetime": "2022-06-02 14:19"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "預醫所成立50年來,負責許多重大疫病檢驗,更是疫苗研發的重要單位;像疫情發生第一時間,預醫所就成為疾管署指定的檢驗機構之一,肩負協助國軍的檢疫和教育訓練工作。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "協助",
+                "負責",
+                "重大",
+                "重要",
+                "訓練"
+            ],
+            "datetime": "2022-06-02 14:19"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "林佳龍在台中十年磨一劍的故事,是台灣政壇的典範,論能力、經歷、視野都是適合的首都市長人選。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "能力",
+                "適合",
+                "適合的"
+            ],
+            "datetime": "2022-06-02 12:25"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "質疑",
+            "opinion": "「1億劑快篩到貨是假消息嗎?」不過,衛福部公布,截至5月31日,進口已到貨1.68億劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:15"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「我們的預醫所成立50年來,負責許多重大疫病的檢驗,也是疫苗研發的重要單位,大家都辛苦了。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "辛苦",
+                "病的"
+            ],
+            "positive_list": [
+                "負責",
+                "重大",
+                "重要"
+            ],
+            "datetime": "2022-06-02 19:37"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "質疑",
+            "opinion": "國民黨立委林奕華更在蔡英文澄清文下留言,「一億劑快篩會到貨呢?也是假訊息嗎」?而衛福部昨日用數據澄清,「光進口快篩試劑已到貨1.68億劑」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-02 18:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "所宣示的「四個堅持」,片面的為人民做決定。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "堅持"
+            ],
+            "datetime": "2022-06-02 10:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "「希望明年蔡英文其昌副院長換個角色來參加興大畢業典禮」,暗示希望蔡其昌當選台中市長,很明顯這就過了界。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "暗示"
+            ],
+            "positive_list": [
+                "希望",
+                "明顯",
+                "參加",
+                "希望"
+            ],
+            "datetime": "2022-06-02 05:30"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "已到貨的輝瑞兒童疫苗,累計共有110.88萬劑,現在台灣5到11歲的小朋友,有99萬符合接種資格的對象,所以目前疫苗接種數量充足,中央政府也和地方政府合作設置接種站,來加速提升兒童疫苗接種率。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "充足",
+                "合作",
+                "符合",
+                "提升",
+                "合作"
+            ],
+            "datetime": "2022-06-03 11:16"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "「不會感覺重,很方便操作,機動性也非常強。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "方便"
+            ],
+            "datetime": "2022-06-03 15:07"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "謝謝大家為台灣防疫所做的努力、付出。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "謝謝"
+            ],
+            "datetime": "2022-06-03 10:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "大家疫情2年多都很辛苦甚至有些疲累,但在這個關鍵時刻,我們繼續拚一下,一定可以度過疫情的挑戰。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦",
+                "挑戰",
+                "疲累"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 10:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "呼籲",
+            "opinion": "國人踴躍接種疫苗,「過端午、打疫苗,顧健康、保台灣」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-06-03 10:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "中央政府也和地方政府合作,設置接種站,加速提升兒童疫苗接種率,從6月1日開始,在六都一共有7個大型兒童接種站,已經開始正式上路,我知道有許多家長計畫利用連假,帶家裡的小朋友去打疫苗,我要感謝家長們的配合,一起提升兒童疫苗接種率,增加學童集體的保護力。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "正式",
+                "合作",
+                "知道",
+                "保護",
+                "提升",
+                "感謝",
+                "增加",
+                "合作",
+                "感謝"
+            ],
+            "datetime": "2022-06-03 10:39"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "中央政府也和地方政府合作設置接種站,加速提升兒童疫苗接種率,從6月1日開始,在6都一共有7個大型兒童接種站,已經開始正式上路,許多家長計畫利用連假帶家裡的小朋友去打疫苗,她感謝家長們的配合,一起提升兒童疫苗接種率,來增加學童集體的保護力。",
+            "negative_score": 1,
+            "positive_score": 8,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "正式",
+                "合作",
+                "保護",
+                "提升",
+                "感謝",
+                "增加",
+                "合作",
+                "感謝"
+            ],
+            "datetime": "2022-06-03 10:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "到現在為止,已經到貨的輝瑞兒童疫苗,累計共有110.88萬劑,現在台灣5到11歲的小朋友,有99萬是符合接種資格的對象,所以目前的疫苗數量相當的充足。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "充足",
+                "符合"
+            ],
+            "datetime": "2022-06-03 10:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "在端午連假期間,她要祝福全體國人平安健康。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "健康"
+            ],
+            "datetime": "2022-06-03 10:34"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "剛剛是哪位不要香菜的?」像是在要求網友們吃香菜;還有人搭上近日徐巧芯違停的話題,寫下「前面違停的車要不要開走?」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "今天是端午假期第2天,來到中台灣,是因為隨著疫情發展的走向。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-04 18:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "對彰化、南投、雲林、嘉義的民眾來說,彰基醫療服務的重要性。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要性"
+            ],
+            "datetime": "2022-06-04 18:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "彰基是全國兒童醫療重症會診醫院。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 18:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "但是我們彰基排除萬難,首創24小時視訊問診、24小時給藥的服務。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 18:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "最讓人感到非常「感心」的一件事情,就是3天前,有一位確診媽媽懷了雙胞胎寶寶,懷孕29週在我們彰基緊急剖腹生產,媽媽和寶寶都很健康平安。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "平安",
+                "生產",
+                "健康"
+            ],
+            "datetime": "2022-06-04 18:22"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "「透過施打疫苗提升孩子的保護力,也是非常重要的一環,疫情期間爸爸媽媽、阿公阿嬤最擔心的,就是我們小朋友防疫的問題,守護全體小朋友的健康上面,我們更要全力以赴。」",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "擔心",
+                "問題",
+                "擔心"
+            ],
+            "positive_list": [
+                "全力",
+                "保護",
+                "重要",
+                "重要的",
+                "健康",
+                "提升"
+            ],
+            "datetime": "2022-06-04 12:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "彰化以南、北以及南投這一帶有彰化基督教醫院的協助,讓民眾在疫情下能夠更安心,她也表示將持續擴大重症兒童專責病床數,預計擴大到750床,同時也持續提升疫苗覆蓋率,盼中央和地方政府一起努力,守護民眾的健康。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "協助",
+                "健康",
+                "提升",
+                "安心"
+            ],
+            "datetime": "2022-06-04 10:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "在疫情這段時間,尤其是手術室中的挑戰是非常高的,因為風險更高,看到大家的士氣很高昂,感到非常高興,大家真的辛苦了,這段時間在彰化基督教醫院長的帶領下,醫護人員仍士氣很高,感謝大家的付出才能讓病人都得到很好的照顧。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "辛苦",
+                "挑戰",
+                "病人"
+            ],
+            "positive_list": [
+                "才能",
+                "很好",
+                "很好的",
+                "高興",
+                "得到",
+                "感謝",
+                "高興",
+                "感謝"
+            ],
+            "datetime": "2022-06-04 10:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "這次來到中台灣,是因為隨著疫情走向,指揮中心告訴她中台灣的確診人數正在攀升,「近期可能會達到高峰」,也因此,醫護人員工作會更繁重,她特地要向第一線防疫人員表示「大家真的辛苦了。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "的確",
+                "達到"
+            ],
+            "datetime": "2022-06-04 17:38"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "醫護人員端午假期都沒有休息,工作同仁神采奕奕,也看得出來他們都投入現在的工作,看得出來他們很有使命感。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "休息"
+            ],
+            "datetime": "2022-06-04 17:38"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "政府除強化兒童照護量能,也會持續提升兒童疫苗覆蓋率,中央會與地方政府及第一線的醫護夥伴密切合作,一起照顧好孩子、守護民眾的健康。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "健康",
+                "提升",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-04 14:17"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "台灣中部確診人數逐漸攀升,可能在近期達到高峰,彰化基督教醫院及所有中部醫護人員防疫工作將會更加繁重,感謝醫護人員的辛勞。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "達到",
+                "感謝"
+            ],
+            "datetime": "2022-06-04 18:55"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "幫孩子施打疫苗也是COVID-19防疫工作重要一環,兒童疫苗數量充足,政府會持續努力提升疫苗覆蓋率。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "充足",
+                "努力",
+                "重要",
+                "提升"
+            ],
+            "datetime": "2022-06-04 13:25"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "隨著疫情發展走向,疫情發生比較早的北台灣,現在有逐漸下降趨勢,但指揮中心提醒,中台灣確診人數正在攀升,近期可能達到高峰,包括彰基醫院在內的中台灣醫院,醫護人員工作可能因此加重,今天來到彰基醫院除了關心醫護人員外,也要向大家說一聲「辛苦了」。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "下降",
+                "加重",
+                "辛苦"
+            ],
+            "positive_list": [
+                "發展",
+                "達到",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-04 13:25"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "回應",
+            "opinion": "發言人發言代表市府,他相信陳智菡指控有證據,要她自己來答詢。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "指控",
+                "指控"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-06-06 17:13"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "目前5歲至11歲兒童疫苗涵蓋率74.2%,且持續上升中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 20:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "今天許多學校恢復實體上課,她知道家長們都很關心孩子的防疫。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-06 20:57"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "目前5歲至11歲兒童疫苗涵蓋率74.2%,且持續上升中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 19:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "今天許多學校恢復實體上課,她知道家長們都很關心孩子的防疫。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-06 19:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "對徐大鈞不幸殉職深感不捨,也希望家屬務必保重身體。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不幸",
+                "不幸"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-06 14:27"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "兒童疫苗覆蓋率高達74.2%,但這個是加上確診兒童數後的涵蓋率,被外界質疑。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 11:31"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "政府確實是有計畫地希望每一年都能夠調高基本工資,受疫情衝擊較大的中小型企業,如果調高基本工資有困難,政府也會提供協助;她強調,政府一定會排除萬難,務必讓最低工資能夠持續往上調升。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "有困難",
+                "困難",
+                "排除",
+                "最低",
+                "衝擊",
+                "困難"
+            ],
+            "positive_list": [
+                "希望",
+                "協助",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-07 16:00"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "這幾年台灣跟斯洛伐克的雙邊關係越來越好,台灣捐贈口罩,斯洛伐克也捐贈疫苗給台灣,展現善的循環。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈"
+            ],
+            "datetime": "2022-06-07 11:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "期待台灣跟斯洛伐克在全球關注議題上建立更緊密的夥伴關係,如同面對俄羅斯入侵烏克蘭,台灣跟斯洛伐克攜手合作援助烏克蘭,相信跟斯洛伐克可以一起加強合作,為世界做出更多貢獻。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "相信",
+                "期待",
+                "夥伴",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-06-07 11:28"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "這是「來台灣絕對不能錯過的小吃!」也歡迎訪團來到台灣這個「美食天堂」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "絕對",
+                "錯過"
+            ],
+            "positive_list": [
+                "天堂",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-07 11:01"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "兒童疫苗覆蓋率高達74.2%,但該數據是加上確診兒童數後的涵蓋率,引來外界質疑。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 10:48"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "政府確實是有計畫地希望每一年都能夠調高基本工資,受疫情衝擊較大的中小型企業,如果調高基本工資有困難,政府也會提供協助;她強調,政府一定會排除萬難,務必讓最低工資能夠持續往上調升。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "有困難",
+                "困難",
+                "排除",
+                "最低",
+                "衝擊",
+                "困難"
+            ],
+            "positive_list": [
+                "希望",
+                "協助",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-07 09:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "批評",
+            "opinion": "是選前的政治動作,蔡英文總統也說基本工資3萬是她的夢想,這個目標有可能達成嗎?蘇貞昌表示,蔡英文總統最關心勞工的經濟生活,從她上任以來,年年都調高基本工資時薪,政府已經連續6年調高,這跟選舉、選前、選後無關,是看我們大家努力的成果,勞工也勞苦功高,所以政府會視整個經濟能力,會為勞工做最優先的考慮。",
+            "negative_score": 1,
+            "positive_score": 8,
+            "negative_list": [
+                "無關"
+            ],
+            "positive_list": [
+                "考慮",
+                "努力",
+                "努力的",
+                "能力",
+                "達成",
+                "關心",
+                "夢想",
+                "關心"
+            ],
+            "datetime": "2022-06-07 09:42"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「就如同面對,俄羅斯入侵烏克蘭,台灣和斯洛伐克攜手合作,援助烏克蘭,我相信未來台灣和斯洛伐克,也能夠跟理念相近的國家,一起加強合作,打造具有韌性的民主陣線。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "相信",
+                "合作"
+            ],
+            "datetime": "2022-06-07 19:01"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "「就如同面對俄羅斯入侵烏克蘭,台灣和斯洛伐克攜手合作,援助烏克蘭,也幫助安置在斯洛伐克的烏克蘭難民,我相信未來台灣和斯洛伐克,也能夠跟理念相近的國家,一起加強合作,打造具有韌性的民主陣線,為台灣為世界做出更多的貢獻。」",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "難民"
+            ],
+            "positive_list": [
+                "合作",
+                "相信",
+                "幫助",
+                "合作"
+            ],
+            "datetime": "2022-06-07 13:07"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "去年國發會主委龔明鑫率團訪問斯洛伐克後,斯國經濟部次長也率團回訪,並舉辦第一屆台斯經濟諮商會議,這些互動中簽署了16條貿易備忘錄,相信未來會持續提升雙方產業合作關係。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "相信",
+                "提升",
+                "合作"
+            ],
+            "datetime": "2022-06-07 13:03"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "政府確實是有計畫地希望每一年都能夠調高基本工資,受疫情衝擊較大的中小型企業,如果調高基本工資有困難,政府也會提供協助;她強調,政府一定會排除萬難,務必讓最低工資能夠持續往上調升。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "有困難",
+                "困難",
+                "排除",
+                "最低",
+                "衝擊",
+                "困難"
+            ],
+            "positive_list": [
+                "希望",
+                "協助",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-06-07 14:56"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "目前5至11歲兒童疫苗涵蓋率74.2%,且持續上升中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 11:44"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "期待台灣與斯洛伐克在全球關注的議題上持續相互合作,建立更緊密的夥伴合作關係,於未來一起與理念相近的國家加強合作,打造具有韌性的民主陣線,為台灣、世界做出更多貢獻。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "期待",
+                "夥伴",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-06-07 11:14"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "謝謝家長們的配合,以及所有支援兒童疫苗接種站的醫護夥伴,共同提升兒童疫苗覆蓋率。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "支援",
+                "提升",
+                "夥伴",
+                "謝謝"
+            ],
+            "datetime": "2022-06-07 15:07"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "質疑",
+            "opinion": "把監察院當作安養院、酬庸院,要求開放監察院,讓全民一起來監督。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-06-08 17:54"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "黃石城在擔任中選會主委任內,悉力省長民選事宜,協成北高市長選舉,潛心總統副總統選舉,督策依法嚴辦選務,安度國內政治風暴,完善首次政黨輪替。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "風暴"
+            ],
+            "positive_list": [
+                "潛心"
+            ],
+            "datetime": "2022-06-10 15:51"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "COVID-19(2019冠狀病毒疾病)疫情後的新生活將從基隆開始,基隆用城市博覽會療癒民心。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "疾病"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:36"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "很久沒上來(到賴清德辦公室),所以來找他聊天。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 12:34"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "蔡英文有事,就會直接到我辦公室討論,賴清德回憶,有次蔡英文說自己有一段時間沒上來,所以來找我聊天,近期我們也談論到出訪宏都拉斯,蔡英文提供他不少事情的分析。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 10:43"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "強調",
+            "opinion": "基隆的進步,代表了台灣的建設發展,沒有因為疫情停下腳步。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "建設",
+                "發展",
+                "進步"
+            ],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "提到",
+            "opinion": "尤其是面對這一波Omicron疫情挑戰,基隆首當其衝。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "過去幾年她常來基隆,不論是去看和平島的考古遺址、正濱漁港的色彩屋,或是潮境公園,每次來到基隆,每一次都不一樣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "和平"
+            ],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "她很認同林右昌市長說的,疫情後的新生活,將從基隆開始,基隆用城市博覽會,來療癒我們的民心。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "今天很高興來到基隆,和大家一起參加「2022城市博覽會」開幕典禮。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "參加",
+                "高興"
+            ],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "指出",
+            "opinion": "這幾年來,除了剛提到的國門廣場,和平營區二營舍也啟用了,在舞台右方的城際轉運站,也在加緊施工中。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "和平"
+            ],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "這段期間基隆就是一個大展場,透過市府規劃的4大展區,每一區都很精彩,希望從台灣頭出發帶動國家發展,山海城串聯計畫、大基隆歷史場景跟基隆捷運等,都在逐步進行中,基隆軍港西遷更是台灣走向世界的重要工程,基隆的進步也代表台灣的發展不會因為疫情停下腳步,只要中央跟地方團結合作,一定能夠克服挑戰、度過難關。",
+            "negative_score": 3,
+            "positive_score": 9,
+            "negative_list": [
+                "不會",
+                "挑戰",
+                "不會"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "重要",
+                "發展",
+                "進行",
+                "進步",
+                "合作",
+                "克服",
+                "希望"
+            ],
+            "datetime": "2022-06-10 20:18"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "說",
+            "opinion": "中絕口不提「九二共識」,時間一晃6年,定海神針不見了,台海和平穩定依舊,沒有地動山搖。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不見",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "穩定"
+            ],
+            "datetime": "2022-06-10 15:32"
+        },
+        {
+            "person": "蔡英文",
+            "verb": "表示",
+            "opinion": "基隆的疫情,走過了5月18號的最高峰,在過去20幾天,已經逐漸下降趨緩,並且持續收斂當中,更強調「疫情後的新生活,將從基隆開始。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-06-11 11:20"
+        }
+    ]
+}

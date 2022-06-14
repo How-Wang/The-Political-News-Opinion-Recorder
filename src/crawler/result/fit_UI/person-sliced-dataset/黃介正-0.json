@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃介正.png",
+    "opinions": [
+        {
+            "person": "黃介正",
+            "verb": "說",
+            "opinion": "裴洛西訪台「對台灣國防安全都沒有直接且實質幫助」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "安全",
+                "幫助"
+            ],
+            "datetime": "2022-06-01 16:06"
+        },
+        {
+            "person": "黃介正",
+            "verb": "說",
+            "opinion": "裴洛西訪台「對台灣國防安全都沒有直接且實質幫助」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "安全",
+                "幫助"
+            ],
+            "datetime": "2022-06-01 15:25"
+        }
+    ]
+}

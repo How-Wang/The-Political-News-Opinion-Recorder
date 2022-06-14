@@ -1,0 +1,47 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "賴瑞隆",
+            "verb": "說",
+            "opinion": "「12歲以下國中國小跟幼兒園,年輕父母應該給他們薪資補貼。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 13:26"
+        },
+        {
+            "person": "賴瑞隆",
+            "verb": "強調",
+            "opinion": "曾銘宗的發言並不好,特別是這樣的公開喊話更是不好的立法示範,好像所有立法討論的背後都有政治及選舉目的,呼籲回歸法案本身。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "公開",
+                "特別"
+            ],
+            "datetime": "2022-05-25 13:05"
+        },
+        {
+            "person": "賴瑞隆",
+            "verb": "說",
+            "opinion": "「政治上面當然擔心有解讀,但是不論總統做任何行為,都一定會被做政治解讀,但也不能因為這樣就不做。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-25 18:56"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蕭銘彬.png",
+    "opinions": [
+        {
+            "person": "蕭銘彬",
+            "verb": "說",
+            "opinion": "蕭銘彬當時相關採購案均由施國隆核定,造成高達1400萬元的公帑損失。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "損失"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 21:24"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國教署長.png",
+    "opinions": [
+        {
+            "person": "國教署長",
+            "verb": "提出",
+            "opinion": "專案措施,說明如何維繫團膳與教育部間的伙伴關係,讓孩子能夠在下學期,一樣能夠吃得到高CP值的營養午餐。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "得到",
+                "說明",
+                "營養"
+            ],
+            "datetime": "2022-06-07 14:57"
+        }
+    ]
+}

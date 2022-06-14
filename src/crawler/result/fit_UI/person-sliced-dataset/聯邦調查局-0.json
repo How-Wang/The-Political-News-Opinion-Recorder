@@ -1,0 +1,34 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "聯邦調查局",
+            "verb": "強調",
+            "opinion": "查維安工作,積極維護關島台灣僑胞的安全與自由。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "自由",
+                "積極",
+                "自由"
+            ],
+            "datetime": "2022-05-22 15:26"
+        },
+        {
+            "person": "聯邦調查局",
+            "verb": "說",
+            "opinion": "法,他指出郭彥均在25日凌晨2時34分發文,「徐芳麗」則在25日下午1時02分推文,明顯不是「源頭」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-31 14:22"
+        }
+    ]
+}

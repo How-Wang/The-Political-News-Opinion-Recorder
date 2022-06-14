@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/古德曼.png",
+    "opinions": [
+        {
+            "person": "古德曼",
+            "verb": "表示",
+            "opinion": "雖然美國官員不太可能公開強調,「但我覺得合理的結論是-沒錯,拜登政府視這項美台倡議為一條並行途徑,好最終讓台灣參與IPEF本身。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "公開",
+                "合理",
+                "合理的"
+            ],
+            "datetime": "2022-06-02 10:52"
+        },
+        {
+            "person": "古德曼",
+            "verb": "表示",
+            "opinion": "雖然美國官員不太可能公開強調,「但我覺得合理的結論是-沒錯,拜登政府視這項美台倡議為一條並行途徑,好最終讓台灣參與IPEF本身。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "公開",
+                "合理",
+                "合理的"
+            ],
+            "datetime": "2022-06-02 11:33"
+        }
+    ]
+}

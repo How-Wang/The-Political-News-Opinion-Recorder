@@ -1,0 +1,217 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "指揮中心先前就評估與地方合作,在北北基桃新設9處大型篩檢站,但原先評估的台北市市立體育場並未設立,考量台北市東區與北松山居民可能需要篩檢站,因此由中央協調三軍總醫院,改在松山機場第二航廈前新設大型篩檢站。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "協調",
+                "合作"
+            ],
+            "datetime": "2022-05-21 11:57"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "自己這次決定不尋求連任基隆市議員,目標就是放在競選黨部主委,當選後,會盡全力協助民進黨在基隆市年底選舉推出的市長和議員參選人順利當選,及2024年總統和立委選舉,讓民進黨能延續執政。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "決定",
+                "協助",
+                "順利"
+            ],
+            "datetime": "2022-05-22 21:31"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "如果黨有需要、市民有需要,他會全力以赴,隨時上場。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-05-23 17:16"
+        },
+        {
+            "person": "中央社",
+            "verb": "指出",
+            "opinion": "截至下午1時30分,記者試圖聯繫郭彥均,但暫時無法取得回應。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 14:31"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "高雄市長人選提名權在中央,但近期有許多人選,包括已正式表態,或向市黨部表達意願、地方人士推薦、有基層動作的人,市黨部都有彙整名單,並報給黨中央參考,由黨中央進一步徵詢或決定。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "決定",
+                "推薦"
+            ],
+            "datetime": "2022-05-29 16:22"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "謝謝民進黨團總召柯建銘、民進黨團委員的推動、堅持及努力,及在過程中所有關心鼓勵、加油打氣的好友。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "堅持",
+                "鼓勵",
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-30 12:20"
+        },
+        {
+            "person": "中央社",
+            "verb": "認為",
+            "opinion": "面臨經驗、機務、環境、應變及少子化等5大風險。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-05-31 15:14"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "數位部掛牌時間預計在7、8月之間,相關人事底定後會對外說明,辦公地點則主要考量聯繫方便。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "方便",
+                "說明"
+            ],
+            "datetime": "2022-06-03 11:23"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "新部會成立初期,確實會有許多跨部會的事項需要討論,因此地點考量一是要相鄰各部會,考量二則是初期數位部要分2處辦公,為溝通聯繫緣故,兩者距離也不宜太遠。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-03 11:23"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "新部會成立初期,確實會有許多跨部會的事項需要討論,因此地點考量一是要相鄰各部會,考量二則是初期數位部要分2處辦公,為溝通聯繫緣故,兩者距離也不宜太遠。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-03 19:42"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "新部會成立初期,確實會有許多跨部會的事項需要討論,因此地點考量一是要相鄰各部會,考量二則是初期數位部要分2處辦公,為溝通聯繫緣故,兩者距離也不宜太遠。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-03 11:45"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "她將以預錄方式,舉辦線上追思音樂會,6日晚間8時在她的臉書(Facebook)粉專播放。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "音樂",
+                "音樂"
+            ],
+            "datetime": "2022-06-05 17:03"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "除桃園之外,其餘的年底縣市首長提名將採個案處理方式,保留比較大的彈性,沒有一定要提名、或是有既定時程,目前都未有任何決定。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-05 12:15"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "黃健庭明天上午將到高雄與黨籍議員開會座談,聽取基層意見,也會與一些地方領袖會面、討論;同時也希望加強中央、地方溝通,讓地方知道中央為提名人選所做的努力。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "知道",
+                "希望"
+            ],
+            "datetime": "2022-06-06 17:21"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "目前身體狀況有些許不適,但平安,雖然行程取消,但縣政工作和會議仍會居家辦公,透過視訊隨時關心。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不適",
+                "取消"
+            ],
+            "positive_list": [
+                "平安",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-07 15:16"
+        }
+    ]
+}

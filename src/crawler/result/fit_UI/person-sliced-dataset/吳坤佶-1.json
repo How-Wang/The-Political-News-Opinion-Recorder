@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳坤佶.png",
+    "opinions": [
+        {
+            "person": "吳坤佶",
+            "verb": "表示",
+            "opinion": "距離選舉日僅剩不到半年,目前是防疫優先,民主選舉也要向前走,各黨推舉人才進而討論市政,兩者可以並行不悖。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:39"
+        }
+    ]
+}

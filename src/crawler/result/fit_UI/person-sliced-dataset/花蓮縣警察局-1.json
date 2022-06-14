@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/花蓮縣警察局.png",
+    "opinions": [
+        {
+            "person": "花蓮縣警察局",
+            "verb": "說明",
+            "opinion": "以下重點:●自111年6月1日起,「與性或性別有關」之跟蹤騷擾行為就是「犯罪行為」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "犯罪",
+                "罪行",
+                "騷擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 17:56"
+        }
+    ]
+}

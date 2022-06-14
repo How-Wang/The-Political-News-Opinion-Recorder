@@ -1,0 +1,61 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳鳳馨.png",
+    "opinions": [
+        {
+            "person": "陳鳳馨",
+            "verb": "指出",
+            "opinion": "此舉將減少市場流通資金,讓投資和個人消費的成本提高而造成縮減。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "減少",
+                "縮減"
+            ],
+            "positive_list": [
+                "提高"
+            ],
+            "datetime": "2022-05-29 08:10"
+        },
+        {
+            "person": "陳鳳馨",
+            "verb": "提到",
+            "opinion": "美國聯準會仍強調,對金融市場傷害最深的是通貨膨脹,必須不惜一切代價,就業市場的問題、經融問題等等都可以等通膨維基解出後再處理。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "代價",
+                "問題",
+                "通貨膨脹",
+                "傷害",
+                "問題",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:10"
+        },
+        {
+            "person": "陳鳳馨",
+            "verb": "說明",
+            "opinion": "其成員任期可達14年,跨越不同總統任期;各地方有12個聯邦準備銀行;理事會,包含主席、副主席,12家聯準銀行輪流任職。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-29 08:10"
+        },
+        {
+            "person": "陳鳳馨",
+            "verb": "表示",
+            "opinion": "2021年美國聯準會(Fed)誤將通貨膨脹判斷為暫時性的現象,因此未能及時出手,導致後續的升息又快又猛。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "通貨膨脹"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:10"
+        }
+    ]
+}

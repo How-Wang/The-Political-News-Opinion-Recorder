@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃金城.png",
+    "opinions": [
+        {
+            "person": "黃金城",
+            "verb": "說",
+            "opinion": "為了台灣的養豬產業,不得不採取一些措施,阻斷非洲豬瘟的傳播途徑,而家庭廚餘是最大的可能來源。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:36"
+        },
+        {
+            "person": "黃金城",
+            "verb": "指出",
+            "opinion": "農委會的立場,不是要禁止廚餘養豬,而是家庭廚餘不要進入養豬場蒸煮,必須在養豬場外找一個地方蒸煮,再送進場內給豬吃。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "禁止",
+                "不是",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:36"
+        }
+    ]
+}

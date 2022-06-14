@@ -1,0 +1,76 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭朝方.png",
+    "opinions": [
+        {
+            "person": "鄭朝方",
+            "verb": "強調",
+            "opinion": "竹北不只是新竹縣的縣轄市,更是文化、經濟、人才匯聚的城市,最大的特色就是因高鐵、縣治特區、生醫園區、鄰近新竹科學園區等重大經濟、建設的磁吸,讓許多新興住民移入,使這座城市更具活力與蓬勃發展。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "建設",
+                "重大",
+                "特色",
+                "發展",
+                "活力",
+                "蓬勃"
+            ],
+            "datetime": "2022-06-07 17:02"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "宣布",
+            "opinion": "參選竹北市長,將對決日前在國民黨初選中勝出的立委林為洲。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:02"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "表示",
+            "opinion": "他已深蹲地方超過5年,在沒有選舉期間仍然穿梭在13鄉鎮之中,沒有一刻停留,盡全力傾聽民瘼從不間斷。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "超過",
+                "沒有"
+            ],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-06-07 17:02"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "說",
+            "opinion": "新竹縣的問題不是政黨,而是世代,這次讓子彈飛,讓新世代來努力,選新的人才能帶來改變。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "子彈",
+                "問題",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "才能",
+                "努力"
+            ],
+            "datetime": "2022-06-07 17:02"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "認為",
+            "opinion": "可能由前縣長林光華屬意的民進黨現任發言人周江杰出戰。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 20:42"
+        }
+    ]
+}

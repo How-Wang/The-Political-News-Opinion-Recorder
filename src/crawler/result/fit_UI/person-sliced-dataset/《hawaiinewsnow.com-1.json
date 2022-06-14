@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/《hawaiinewsnow.com.png",
+    "opinions": [
+        {
+            "person": "《hawaiinewsnow.com",
+            "verb": "指出",
+            "opinion": "今(7日)上午一架我國空軍部署在美國亞利桑那州路克空軍基地(LukeAFB)的F-16A戰鬥機,預計飛返台灣進行升級工程,在降落夏威夷檀香山時,發現鼻輪故障無法放下。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "故障",
+                "無法",
+                "戰鬥",
+                "無法"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-07 11:59"
+        }
+    ]
+}

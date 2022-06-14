@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐功凡.png",
+    "opinions": [
+        {
+            "person": "徐功凡",
+            "verb": "認為",
+            "opinion": "「用民主的機制,民進黨行為什麼國民黨不行,苗栗縣的基層選舉結構在改變中,那你說國民黨有沒有危機,我個人認為是有的。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "危機",
+                "沒有",
+                "危機",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 20:02"
+        }
+    ]
+}

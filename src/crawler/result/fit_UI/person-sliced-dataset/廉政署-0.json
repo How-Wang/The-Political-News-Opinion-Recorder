@@ -1,0 +1,22 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "廉政署",
+            "verb": "說",
+            "opinion": "筆者多慮,憂心古代東廠及黨錮之禍,更毋庸談《最高檢察署特偵組復辟?》請問何人不戒慎恐懼?請靜心觀察、細心分析,應可察微及見謀。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "恐懼",
+                "恐懼",
+                "憂心"
+            ],
+            "positive_list": [
+                "細心",
+                "最高"
+            ],
+            "datetime": "2022-05-22 06:40"
+        }
+    ]
+}

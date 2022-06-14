@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李依芩.png",
+    "opinions": [
+        {
+            "person": "李依芩",
+            "verb": "表示",
+            "opinion": "活動宣傳有待加強,實際透過Google搜尋,很難找到城市博覽會官網。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-06 16:49"
+        }
+    ]
+}

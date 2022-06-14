@@ -1,0 +1,148 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張延廷.png",
+    "opinions": [
+        {
+            "person": "張延廷",
+            "verb": "指出",
+            "opinion": "因為外型跟塗料跟飛機蒙皮技術尚未到位,無法全匿蹤相當可惜。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "可惜",
+                "尚未",
+                "無法",
+                "可惜",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:56"
+        },
+        {
+            "person": "張延廷",
+            "verb": "認為",
+            "opinion": "教官的角色相對重要,據他了解,退伍後回聘的飛行教官鐘點費長年未調整,致使部分退役者會選擇到民航發展,由於這些教官須帶飛最資淺學官,並教導各項動態飛行課目,壓力大且體能消耗快速,因此盼國軍合理調整飛行教官的鐘點費,讓經驗得以傳承。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "致使",
+                "消耗",
+                "退役",
+                "壓力"
+            ],
+            "positive_list": [
+                "了解",
+                "合理",
+                "重要",
+                "發展",
+                "經驗"
+            ],
+            "datetime": "2022-05-31 15:14"
+        },
+        {
+            "person": "張延廷",
+            "verb": "說",
+            "opinion": "「AT-3也比較老舊了用了將近40年,那麼老舊的飛機,多多少少會有一些這方面,機械上的這種問題,這樣子造成飛機的故障,他(飛官)處置的時間非常的短暫,而且他還要高度那麼低,時間那麼匆忙的狀況之下做處置,所以我倒認為對他來講,是一個很高難度的。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "匆忙",
+                "故障",
+                "問題",
+                "處置",
+                "短暫",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 18:32"
+        },
+        {
+            "person": "張延廷",
+            "verb": "說",
+            "opinion": "天候因素、機齡老舊、飛官經驗較資淺等,都可能是發生意外的原因。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "意外",
+                "意外的"
+            ],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-05-31 11:38"
+        },
+        {
+            "person": "張延廷",
+            "verb": "說",
+            "opinion": "梅雨季剛過,天氣不穩定,以為水平能見度不錯,其實垂直能見度不見得理想,都可能影響判斷。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不見",
+                "不穩",
+                "不穩定"
+            ],
+            "positive_list": [
+                "理想",
+                "穩定"
+            ],
+            "datetime": "2022-05-31 11:38"
+        },
+        {
+            "person": "張延廷",
+            "verb": "強調",
+            "opinion": "日本把駐台武官換成現役官員的重要性,在日本社會引起了廣泛的迴響。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要性"
+            ],
+            "datetime": "2022-06-05 09:51"
+        },
+        {
+            "person": "張延廷",
+            "verb": "指出",
+            "opinion": "這次故障是輕度,維修費用不會太高,美方有足夠零件處理。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "故障",
+                "不會"
+            ],
+            "positive_list": [
+                "足夠"
+            ],
+            "datetime": "2022-06-07 18:43"
+        },
+        {
+            "person": "張延廷",
+            "verb": "表示",
+            "opinion": "「鼻輪放不出來,卡在裡面,只能鼻輪收上落地,那鼻輪收上落地,要把油耗光,這時候飛機最輕,進場速度跟落地速度最小,對機鼻也就是雷達部分,在跑道上的磨耗會產生最小損傷。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "損傷",
+                "不出"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:43"
+        },
+        {
+            "person": "張延廷",
+            "verb": "認為",
+            "opinion": "台美軍事交流行之有年,這次意外曝光並非壞事,反而具有一定的政治上象徵意義。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "意外",
+                "壞事"
+            ],
+            "positive_list": [
+                "流行"
+            ],
+            "datetime": "2022-06-07 18:43"
+        }
+    ]
+}

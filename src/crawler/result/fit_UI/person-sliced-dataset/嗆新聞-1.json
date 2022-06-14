@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/嗆新聞.png",
+    "opinions": [
+        {
+            "person": "嗆新聞",
+            "verb": "表示",
+            "opinion": "李四川對當地而言就是一顆很亮眼的星,因為李四川除了有在地經驗、行政歷練,還有公務背景,最重要是「人和」,大家對李四川都是服氣的,不需要排解地方勢力和拉扯,自然而然就是大家想力拱的人選。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自然",
+                "重要",
+                "最重要",
+                "經驗"
+            ],
+            "datetime": "2022-06-04 10:11"
+        }
+    ]
+}

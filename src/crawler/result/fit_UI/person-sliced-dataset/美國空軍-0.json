@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/美國空軍.png",
+    "opinions": [
+        {
+            "person": "美國空軍",
+            "verb": "說",
+            "opinion": "每一千個跳傘的士兵中會有一個因為降落傘不合格而喪命。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合格"
+            ],
+            "positive_list": [
+                "合格"
+            ],
+            "datetime": "2022-06-04 06:30"
+        }
+    ]
+}

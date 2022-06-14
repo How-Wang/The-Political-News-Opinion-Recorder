@@ -1,0 +1,56 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉繼蔚.png",
+    "opinions": [
+        {
+            "person": "劉繼蔚",
+            "verb": "提出",
+            "opinion": "抗告,台灣高等法院今(7)日撤銷新北地院裁定,認定律師享有閱卷權,可抄錄、重製、攝影卷證。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "撤銷"
+            ],
+            "positive_list": [
+                "享有"
+            ],
+            "datetime": "2022-06-07 15:39"
+        },
+        {
+            "person": "劉繼蔚",
+            "verb": "解釋",
+            "opinion": "認為基於被告辯護權的實質保護,該號解釋確立被告得在自由不受干預的環境下與辯護人溝通,避免國家機關透過被告與律師接見時談論的內容,當成對被告定罪的依據,違反「不自證己罪」原則。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "定罪",
+                "被告",
+                "罪的",
+                "違反",
+                "避免",
+                "不受",
+                "違反"
+            ],
+            "positive_list": [
+                "自由",
+                "保護",
+                "避免",
+                "自由"
+            ],
+            "datetime": "2022-06-07 13:54"
+        },
+        {
+            "person": "劉繼蔚",
+            "verb": "發現",
+            "opinion": "不可檢閱的卷證非常多,幾乎是可檢閱卷宗的數倍,因此聲請檢閱全部的證據,但新北地院審理後,裁定不准劉繼蔚拷貝全部的卷宗、證據。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "不准",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:54"
+        }
+    ]
+}

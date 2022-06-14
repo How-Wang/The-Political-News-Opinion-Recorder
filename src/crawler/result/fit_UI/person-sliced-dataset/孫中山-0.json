@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/孫中山.png",
+    "opinions": [
+        {
+            "person": "孫中山",
+            "verb": "表示",
+            "opinion": "政府承認孫山中是我們國家的國父。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-05-26 06:20"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/強泥戴普.png",
+    "opinions": [
+        {
+            "person": "強泥戴普",
+            "verb": "表示",
+            "opinion": "自己最近告贏了前妻安柏,獲賠3億多台幣,特別來台灣考察,因為聽說台灣政府也很愛告人民,所以來學習。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "學習"
+            ],
+            "datetime": "2022-06-04 16:20"
+        }
+    ]
+}

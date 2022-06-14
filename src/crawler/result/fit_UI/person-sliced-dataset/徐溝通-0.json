@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐溝通.png",
+    "opinions": [
+        {
+            "person": "徐溝通",
+            "verb": "說",
+            "opinion": "徵召未完成、還在程序當中,這段時間持續與徐溝通,希望徐志榮最後能接受黨的徵召,為黨承擔責任。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "未完成"
+            ],
+            "positive_list": [
+                "完成",
+                "希望",
+                "接受",
+                "希望"
+            ],
+            "datetime": "2022-06-07 12:43"
+        }
+    ]
+}

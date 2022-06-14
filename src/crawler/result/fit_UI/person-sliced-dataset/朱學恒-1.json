@@ -1,0 +1,117 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/朱學恒.png",
+    "opinions": [
+        {
+            "person": "朱學恒",
+            "verb": "說",
+            "opinion": "人話,不為君王唱讚歌」,最近兒童染疫死亡的事情吵得沸沸揚揚,但總統卻只關心藝人生小孩的事情,「醒醒吧,那死掉的十個孩子沒名沒姓,是收不到蔡英文英文一滴淚的,而你敢說死十個孩子算多,蘇貞昌就要立馬偵辦你呢。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不到",
+                "不為",
+                "死亡",
+                "不到",
+                "死掉"
+            ],
+            "positive_list": [
+                "揚揚",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-29 18:24"
+        },
+        {
+            "person": "朱學恒",
+            "verb": "表示",
+            "opinion": "「只為蒼生說人話,不為君王唱讚歌;十孩不見一滴淚,一寶立見總統卡」,還有其他的酸民也跟風洗版黃子佼的臉書。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不見",
+                "不為"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:39"
+        },
+        {
+            "person": "朱學恒",
+            "verb": "說",
+            "opinion": "他應該要捐出至少82萬台幣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 06:23"
+        },
+        {
+            "person": "朱學恒",
+            "verb": "強調",
+            "opinion": "他並不差這些錢,但要那些網軍、側翼看好了,「我做好事沒有在客氣的」,而他也會將YouTube官方抽走的30%斗內收益金額給補齊。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "好事",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "好事",
+                "客氣",
+                "客氣的",
+                "好事"
+            ],
+            "datetime": "2022-05-31 02:43"
+        },
+        {
+            "person": "朱學恒",
+            "verb": "提到",
+            "opinion": "法源明確規定是要由中央主管機關公告,但衛福部在過去2年時間,從來沒有發過任何函文、說明給各大醫院。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "明確",
+                "說明"
+            ],
+            "datetime": "2022-06-03 17:52"
+        },
+        {
+            "person": "朱學恒",
+            "verb": "表示",
+            "opinion": "依據《傳染病防治法》,第五類傳染病火化期限是由中央主管機關公告,但衛福部自疫情爆發2年來都沒有明確說明。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "傳染",
+                "傳染病",
+                "爆發",
+                "沒有"
+            ],
+            "positive_list": [
+                "明確",
+                "說明"
+            ],
+            "datetime": "2022-06-03 17:52"
+        },
+        {
+            "person": "朱學恒",
+            "verb": "痛批",
+            "opinion": "蔡英文在進行認知作戰,整個國家都在玩弄數字。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰",
+                "玩弄"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-07 17:16"
+        }
+    ]
+}

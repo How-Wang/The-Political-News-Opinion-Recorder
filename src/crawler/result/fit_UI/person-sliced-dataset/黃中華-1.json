@@ -1,0 +1,90 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃中華",
+            "verb": "表示",
+            "opinion": "台北市警局調查並非聚焦雙方是否認識,而是該員警沒有據實陳述事實。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "否認",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:41"
+        },
+        {
+            "person": "黃中華",
+            "verb": "指出",
+            "opinion": "因該員警在調查中未據實陳述。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:41"
+        },
+        {
+            "person": "黃中華",
+            "verb": "表示",
+            "opinion": "台北市警局調查並非聚焦雙方是否認識,而是該員警沒有據實陳述事實。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "否認",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:47"
+        },
+        {
+            "person": "黃中華",
+            "verb": "指出",
+            "opinion": "因該員警在調查中未據實陳述。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:47"
+        },
+        {
+            "person": "黃中華",
+            "verb": "說",
+            "opinion": "會深入調查,追究疏失人員責任,並要求所有幹部引以為戒。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:15"
+        },
+        {
+            "person": "黃中華",
+            "verb": "強調",
+            "opinion": "這是個案,是黃家琦個人行為。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:59"
+        },
+        {
+            "person": "黃中華",
+            "verb": "表示",
+            "opinion": "新竹縣警局辦理此車禍案件,過程一切依法辦理,沒有員警涉及不法或關說,另雲林縣警察局長李謀旺沒有涉入,這是黃家琦個人行為,一定會追究相關疏失人員責任,依據事實嚴懲。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "嚴懲",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:13"
+        }
+    ]
+}

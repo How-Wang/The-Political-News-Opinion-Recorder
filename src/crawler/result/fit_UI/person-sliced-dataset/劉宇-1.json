@@ -1,0 +1,145 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "劉宇",
+            "verb": "指出",
+            "opinion": "朱學恒發表該言論後在YouTube頻道開直播,拿到2萬3974元斗內,讓「萬老師」郭昱晴也爆氣罵「真是夠了」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "真是夠了",
+                "夠了"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 01:31"
+        },
+        {
+            "person": "劉宇",
+            "verb": "指出",
+            "opinion": "同一個IP發文抨擊政府者,竟是柯文哲的隨行攝影,被點名的隨行攝影急發文澄清,並表示如果是自己就會離職,他認為自己必須道歉的是在上班上PTT,這是自己錯誤的地方。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "抨擊",
+                "錯誤",
+                "錯誤的",
+                "抨擊",
+                "道歉"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-02 21:31"
+        },
+        {
+            "person": "劉宇",
+            "verb": "指出",
+            "opinion": "同一個IP發文抨擊政府者,竟是柯文哲的隨行攝影。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "抨擊",
+                "抨擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 20:21"
+        },
+        {
+            "person": "劉宇",
+            "verb": "表示",
+            "opinion": "2年前北市府也疑似有名觀光傳播局的員工在上班時間玩PTT、發表攻擊執政黨言論,還要求要有KPI結算與執行成果,但因北市府從未承認,大概不了了之。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "攻擊",
+                "要求",
+                "不了",
+                "攻擊"
+            ],
+            "positive_list": [
+                "有名",
+                "承認"
+            ],
+            "datetime": "2022-06-04 22:32"
+        },
+        {
+            "person": "劉宇",
+            "verb": "表示",
+            "opinion": "2年前北市府也疑似有名觀光傳播局的員工在上班時間玩PTT、發表攻擊執政黨言論,還要求要有KPI結算與執行成果,但因北市府從未承認,大概不了了之。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "攻擊",
+                "要求",
+                "不了",
+                "攻擊"
+            ],
+            "positive_list": [
+                "有名",
+                "承認"
+            ],
+            "datetime": "2022-06-04 22:49"
+        },
+        {
+            "person": "劉宇",
+            "verb": "質疑",
+            "opinion": "有北市府員工上班玩PTT發文介紹市政,同時還有許多攻擊民進黨的推文內容。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:39"
+        },
+        {
+            "person": "劉宇",
+            "verb": "質疑",
+            "opinion": "有北市府員工上班玩PTT發文介紹市政,同時還有許多攻擊民進黨的推文內容。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:45"
+        },
+        {
+            "person": "劉宇",
+            "verb": "批評",
+            "opinion": "兩頁半的報告四頁半的舊新聞稿讓他傻眼,「去看四叉貓臉書就好啦,還更詳細呢」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "詳細"
+            ],
+            "datetime": "2022-06-09 19:38"
+        },
+        {
+            "person": "劉宇",
+            "verb": "批評",
+            "opinion": "兩頁半的報告四頁半的舊新聞稿讓他傻眼,「去看四叉貓臉書就好啦,還更詳細呢」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "詳細"
+            ],
+            "datetime": "2022-06-09 12:18"
+        },
+        {
+            "person": "劉宇",
+            "verb": "說",
+            "opinion": "他壞話,結果一查發現是三重地政事務所戴姓員工,而此人因公務時間發文而移請考績會處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 11:39"
+        }
+    ]
+}

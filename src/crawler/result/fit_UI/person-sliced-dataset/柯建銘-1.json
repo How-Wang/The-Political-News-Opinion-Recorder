@@ -1,0 +1,283 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯建銘.png",
+    "opinions": [
+        {
+            "person": "柯建銘",
+            "verb": "表示",
+            "opinion": "其中,會處理台鐵公司化條例草案,有6條保留條文,將在院會表決處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 20:32"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "指出",
+            "opinion": "明天要三讀的案子,包括嚴重特殊傳染性肺炎防治及紓困振興特別條例及特別預算施行期間,延長至民國112年6月30日,這將列為第一案。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "傳染",
+                "傳染性",
+                "嚴重"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-26 20:32"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "表示",
+            "opinion": "其中,會處理台鐵公司化條例草案,有6條保留條文,將在院會表決處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 23:44"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "指出",
+            "opinion": "明天要三讀的案子,包括嚴重特殊傳染性肺炎防治及紓困振興特別條例及特別預算施行期間,延長至民國112年6月30日,這將列為第一案。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "傳染",
+                "傳染性",
+                "嚴重"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-26 23:44"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "表示",
+            "opinion": "關於大學法修法,他知道有一些學生在立法院大門口,而各方對於大學法修正有不同看法,也討論很久,這個會期來不及處理。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-27 11:46"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "說",
+            "opinion": "外界對於修法有不同看法,這會期來不及處理,下會期一定會處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 11:46"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "說",
+            "opinion": "2003年2月24日,台鐵工會動員2千多名會員,在台北車站抗爭陳情,要求時任台鐵局長黃德治必須在工會同意下,才能交付台鐵月台及股道供高鐵施工,否則辭職下台。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "辭職"
+            ],
+            "positive_list": [
+                "才能",
+                "同意"
+            ],
+            "datetime": "2022-05-28 21:31"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "表示",
+            "opinion": "從1887年由清朝台灣巡撫劉銘傳成立的「全台鐵路商務總局」開始,到日治時期的「台灣總督府交通局鐵道部」,再到中華民國政府時期的「交通部台灣鐵路管理局」,台鐵已經陪伴台灣135年。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "管理"
+            ],
+            "datetime": "2022-05-28 21:31"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "指出",
+            "opinion": "照程序處理,該表決就表決。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 20:30"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "指出",
+            "opinion": "照程序處理,該表決就表決。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 23:04"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "指出",
+            "opinion": "國務機要費跟特別費都是歷史共業,都是轉型正義的一環,在預算書的會計科目上,完全都一樣,考量法律公平性原則及憲法平等權狀況下,哪有特別費除罪,國務機要費不除罪。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "公平",
+                "平等",
+                "正義",
+                "正義的",
+                "法律",
+                "特別",
+                "公平"
+            ],
+            "datetime": "2022-05-30 14:02"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "說",
+            "opinion": "國民黨立委用杯水砸破國父遺像,國父遺像何罪之有,過去立法院在怎麼衝突,也不至於發生這樣的事情,他對國民黨立委非理性的行為,表示高度遺憾與譴責。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "衝突",
+                "遺憾",
+                "譴責",
+                "衝突",
+                "遺憾"
+            ],
+            "positive_list": [
+                "理性",
+                "理性的"
+            ],
+            "datetime": "2022-05-30 14:02"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "強調",
+            "opinion": "國務機要費跟馬政府任內已修法除罪的首長特別費一樣,除罪應該一視同仁,陳水扁則感嘆,蓬萊島案平反等了38年,國務機要費案除罪等了16年,公道自在人心,是非功過交由歷史評斷或許是最好方式。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "罪的",
+                "感嘆"
+            ],
+            "positive_list": [
+                "自在",
+                "特別",
+                "最好",
+                "自在"
+            ],
+            "datetime": "2022-05-30 18:55"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "表示",
+            "opinion": "國務機要費就是特別費,而特別費已除罪化,沒有理由國務機要費不除罪,這是歷史共業,也是轉型正義的一環。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "正義",
+                "正義的",
+                "有理",
+                "特別"
+            ],
+            "datetime": "2022-05-30 12:47"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "指出",
+            "opinion": "請國民黨走出過去的思維模式,陳水扁再也不是任何政治提款機,國民黨應該走出「逢扁必反」的時代,這是一個社會的進步,在正當性絕對十足,國民黨不必再用這個消費,也不必像今天早上,如此大費周章的抗爭,這是他們過去維持一貫的思維。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對",
+                "不是"
+            ],
+            "positive_list": [
+                "正當",
+                "進步"
+            ],
+            "datetime": "2022-05-30 12:47"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "回應",
+            "opinion": "「不要亂講好不好」;至於是否會力挺行政院顧問鄭宏輝參選新竹市長,柯建銘則說,「到時候再說」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不要",
+                "好不",
+                "亂講"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:37"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "說",
+            "opinion": "「有傳出說對林智堅不滿嗎,沒有不要亂講。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "沒有",
+                "不要",
+                "不滿",
+                "沒有",
+                "亂講"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:38"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "表示",
+            "opinion": "「不要亂講,好不好」,至於是否會力挺鄭宏輝參選?柯建銘說,「到時候再說」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不要",
+                "好不",
+                "亂講"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 14:17"
+        },
+        {
+            "person": "柯建銘",
+            "verb": "說",
+            "opinion": "「去計較辦公室大小,當然可以討論,但我們並不是很在意這個問題,只要夠用就好,我們比較在意整個團隊專業問題。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "不是",
+                "計較",
+                "問題"
+            ],
+            "positive_list": [
+                "在意",
+                "當然"
+            ],
+            "datetime": "2022-06-09 19:04"
+        }
+    ]
+}

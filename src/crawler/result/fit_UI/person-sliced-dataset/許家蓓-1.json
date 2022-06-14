@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許家蓓.png",
+    "opinions": [
+        {
+            "person": "許家蓓",
+            "verb": "表示",
+            "opinion": "「對方說的都不是事實,並沒有對她們有任何暴力行為」,這件事情已經澄清過很多次,所以真的覺得很無奈。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "暴力",
+                "不是",
+                "沒有",
+                "無奈",
+                "暴力"
+            ],
+            "positive_list": [
+                "很多",
+                "澄清"
+            ],
+            "datetime": "2022-06-03 12:48"
+        }
+    ]
+}

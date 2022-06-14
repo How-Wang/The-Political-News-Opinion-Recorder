@@ -1,0 +1,19 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "呂家愷",
+            "verb": "表示",
+            "opinion": "「今天可以看到新北市很多民進黨特定人士,拿來政治操作,用模糊焦點的方式想獵巫,把責任推給侯友宜市長,呼籲大家應該團結起來。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "模糊"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-10 18:15"
+        }
+    ]
+}

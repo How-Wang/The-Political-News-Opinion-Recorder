@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡賜爵.png",
+    "opinions": [
+        {
+            "person": "蔡賜爵",
+            "verb": "說",
+            "opinion": "「我們反應他們也收到了,有輕重緩急的一個秩序,所以目前它就沒有提出來,大家來探討這個問題。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "秩序"
+            ],
+            "datetime": "2022-06-06 13:25"
+        },
+        {
+            "person": "蔡賜爵",
+            "verb": "強調",
+            "opinion": "後續將本著台灣最大利益,注意此一事件的發展。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "利益",
+                "注意",
+                "發展"
+            ],
+            "datetime": "2022-06-06 11:53"
+        }
+    ]
+}

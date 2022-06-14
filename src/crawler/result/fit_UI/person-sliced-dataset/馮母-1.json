@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/馮母.png",
+    "opinions": [
+        {
+            "person": "馮母",
+            "verb": "指出",
+            "opinion": "個案於去年11月接種BNT疫苗後,後疑引發不良反應,在12月30日過世,但因死因不明無法領到證明,導致遺體躺在台北市殯儀館近4個月,母親相當痛心。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不良",
+                "不明",
+                "無法",
+                "痛心",
+                "不良",
+                "無法",
+                "痛心",
+                "過世"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:04"
+        }
+    ]
+}

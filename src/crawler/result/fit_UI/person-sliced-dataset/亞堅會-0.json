@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞堅會.png",
+    "opinions": [
+        {
+            "person": "亞堅會",
+            "verb": "表示",
+            "opinion": "在本屆WEF年會上,PHSSR舉辦了主題為「共同合作以建立有韌性和可持續的衛生系統」附屬會議,亞堅會作為PHSSR亞太中心,連結亞太在地研究團隊與全球專家網絡,通過個案研究探討亞太各國如何克服疫情的挑戰。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "合作",
+                "專家",
+                "通過",
+                "衛生",
+                "合作",
+                "克服",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 10:18"
+        }
+    ]
+}

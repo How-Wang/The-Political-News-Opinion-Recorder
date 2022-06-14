@@ -1,0 +1,45 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/歐洲議會.png",
+    "opinions": [
+        {
+            "person": "歐洲議會",
+            "verb": "表示",
+            "opinion": "高度歡迎與誠摯感謝,樂見歐洲議會延續國際社會在今年世界衛生大會(WHA)的挺台行動,持續聲援台灣的國際參與。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "誠摯",
+                "衛生",
+                "歡迎",
+                "感謝",
+                "誠摯",
+                "樂見",
+                "衛生",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 09:12"
+        },
+        {
+            "person": "歐洲議會",
+            "verb": "表示",
+            "opinion": "高度歡迎與誠摯感謝,也樂見歐洲議會延續國際社會在本年世界衛生大會(WHA)的挺台行動,持續聲援台灣的國際參與。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "誠摯",
+                "衛生",
+                "歡迎",
+                "感謝",
+                "誠摯",
+                "樂見",
+                "衛生",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 09:14"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "date": "2022-06-02",
+    "news_id": 73,
+    "title": "福吉美驗不出Omicron?薛瑞元未掌握送件資料 羅秉成救援:要再了解",
+    "article": "針對國民黨立法院團2日踢爆「福吉美」說明書無標示可驗出Omicron,衛福部次長薛瑞元指經EUA的快篩試劑,都曾經食藥署測試,所以要看當初福吉美送件的資料;而行政院發言人羅秉成則緊急代答,指薛的意思是要再了解一下,等CDC再做回應。國民黨立法院黨2日踢爆,衛福部核准的韓制唾液快篩試劑「福吉美」,其原廠說明書僅標示可驗出Alpha、Beta、Gamma、Delta等病毒變異株,但無標示Omicron。薛瑞元2日在行政院會後記者會上回應,任何快試劑要取得緊急授權(EUA),都要送到食藥署,食藥署除審查技術資料外,還會做測試,測試通過才會給EUA,所有申請案都一樣。媒體追問,之前就知道無法測出Omicron?薛瑞元說,要看當時它送的資料是什麼。媒體再問,所以當時看到的資料為何?羅秉成直接插話代答,他(薛瑞元)的意思是要再了解一下,「說明書是不是如此,送出的資料是怎樣情形,食藥署再整理清楚,CDC再做回應好了」。",
+    "opinions": "[{'person': '立法院黨團', 'verb': '說明', 'opinion': '書無標示可驗出Omicron,衛福部次長薛瑞元指經EUA的快篩試劑,都曾經食藥署測試,所以要看當初福吉美送件的資料;而行政院發言人羅秉成則緊急代答,指薛的意思是要再了解一下,等CDC再做回應。', 'order': 0, 'negative_score': 1, 'positive_score': 1, 'negative_list': ['緊急'], 'positive_list': ['了解']}, {'person': '衛福部', 'verb': '說明', 'opinion': '書僅標示可驗出Alpha、Beta、Gamma、Delta等病毒變異株,但無標示Omicron。', 'order': 1, 'negative_score': 0, 'positive_score': 0, 'negative_list': [], 'positive_list': []}, {'person': '薛瑞元', 'verb': '說', 'opinion': '要看當時它送的資料是什麼。', 'order': 3, 'negative_score': 0, 'positive_score': 0, 'negative_list': [], 'positive_list': []}, {'person': '薛瑞元', 'verb': '回應', 'opinion': '任何快試劑要取得緊急授權(EUA),都要送到食藥署,食藥署除審查技術資料外,還會做測試,測試通過才會給EUA,所有申請案都一樣。', 'order': 2, 'negative_score': 1, 'positive_score': 1, 'negative_list': ['緊急'], 'positive_list': ['通過']}]",
+    "little_topic": "0"
+}

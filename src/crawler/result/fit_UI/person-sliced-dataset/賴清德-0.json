@@ -1,0 +1,102 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "賴清德",
+            "verb": "強調",
+            "opinion": "不應該用暴力的手段,不管是有疑問,有懷疑,憤怒或仇恨,都不應該用暴力,任何形式的暴力都不應該加之於任何一個人或是團體,「因為我們是生命共同體,我們是同一家人,我們應該為這一塊土地手牽手心連心共同打拼,我們也應該為守護這塊土地共同合作」。",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "不管",
+                "仇恨",
+                "疑問",
+                "憤怒",
+                "暴力",
+                "懷疑",
+                "不應該",
+                "仇恨",
+                "疑問",
+                "憤怒",
+                "暴力",
+                "懷疑"
+            ],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-23 18:24"
+        },
+        {
+            "person": "賴清德",
+            "verb": "表示",
+            "opinion": "昨日懷抱著很不捨的心情來參加鄭達志醫師悼念祈禱會,大家所知道的鄭達志醫師對父母親很孝順,夫妻很恩愛,家庭美滿幸福。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "孝順",
+                "幸福",
+                "知道",
+                "參加",
+                "幸福"
+            ],
+            "datetime": "2022-05-23 18:24"
+        },
+        {
+            "person": "賴清德",
+            "verb": "說",
+            "opinion": "「首先我要代表蔡英文總統,熱烈歡迎來自國際社會21個國家的貴賓,參與這一次的盛會。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "熱烈",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-02 14:07"
+        },
+        {
+            "person": "賴清德",
+            "verb": "提到",
+            "opinion": "在台灣,民主保護了民眾說話的權利、思考的自由。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "保護",
+                "思考",
+                "自由"
+            ],
+            "datetime": "2022-06-04 16:01"
+        },
+        {
+            "person": "賴清德",
+            "verb": "表示",
+            "opinion": "33年前的今天,發生了六四天安門事件。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 16:01"
+        },
+        {
+            "person": "賴清德",
+            "verb": "呼籲",
+            "opinion": "在六四這一天,邀請所有心繫自由民主的人,珍惜言論自由打造的強韌民主,「我們繼續壯大民主的精神,一起用民主凝聚共識、用團結度過疫情等未來挑戰」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "自由",
+                "凝聚",
+                "自由"
+            ],
+            "datetime": "2022-06-04 16:01"
+        }
+    ]
+}

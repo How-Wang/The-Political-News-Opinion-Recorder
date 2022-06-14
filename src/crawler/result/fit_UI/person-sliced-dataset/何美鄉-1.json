@@ -1,0 +1,82 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "何美鄉",
+            "verb": "提到",
+            "opinion": "「施打疫苗後若再加上感染」,將有較強的「綜合保護力」,獲得民進黨主席、總統蔡英文的認同。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "感染"
+            ],
+            "positive_list": [
+                "保護",
+                "獲得",
+                "認同"
+            ],
+            "datetime": "2022-05-21 15:02"
+        },
+        {
+            "person": "何美鄉",
+            "verb": "認為",
+            "opinion": "是正常趨勢,並認為施打疫苗後再加上感染Omicron,「綜合免疫力」不僅效果好、抗體也廣效、持久,是「超級免疫」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "感染"
+            ],
+            "positive_list": [
+                "正常",
+                "持久"
+            ],
+            "datetime": "2022-05-25 06:40"
+        },
+        {
+            "person": "何美鄉",
+            "verb": "說",
+            "opinion": "如果要預防類似的不幸後果,要找的答案還有更多。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "不幸"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:54"
+        },
+        {
+            "person": "何美鄉",
+            "verb": "說",
+            "opinion": "既然至今只有台灣與香港報導兒童腦炎,台灣醫學界有義務,剖析這些致命的案例,以瞭解風險,才能達到預防的效果。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "致命",
+                "致命的"
+            ],
+            "positive_list": [
+                "才能",
+                "義務",
+                "達到",
+                "瞭解"
+            ],
+            "datetime": "2022-06-08 17:54"
+        },
+        {
+            "person": "何美鄉",
+            "verb": "指出",
+            "opinion": "近日媒體報導讓諸多台灣人隨著那父親心急如焚的腳步,尋找那消失的81分鐘。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "消失",
+                "心急",
+                "心急如焚",
+                "消失"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:54"
+        }
+    ]
+}

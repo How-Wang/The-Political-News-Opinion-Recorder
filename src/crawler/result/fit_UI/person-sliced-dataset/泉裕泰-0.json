@@ -1,0 +1,238 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/泉裕泰.png",
+    "opinions": [
+        {
+            "person": "泉裕泰",
+            "verb": "說",
+            "opinion": "因為邱義仁一次又一次繫下的連結,已化作「日台友情」深厚的基礎,這6年來辛苦了,相信日台的友情以及邱義仁和日本間的情感,今後也會持續升溫。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-05-27 19:14"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "指出",
+            "opinion": "邱義仁擔任日台間不可或缺重要橋梁已滿6年,這6年來日台互訪人數、貿易金額皆創新高,日台間也陸續簽署19條備忘錄,但是,對他來說這些數字其實都是次要的。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "次要",
+                "次要的",
+                "不可"
+            ],
+            "positive_list": [
+                "重要",
+                "創新"
+            ],
+            "datetime": "2022-05-27 19:14"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "指出",
+            "opinion": "邱義仁的個性相當低調,因此大家未必知道他在台後默默奮鬥的模樣,「但至少我和許多許多日本朋友們絕不會忘記您無數的付出。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "未必",
+                "忘記",
+                "不會",
+                "絕不",
+                "默默"
+            ],
+            "positive_list": [
+                "知道",
+                "奮鬥",
+                "奮鬥"
+            ],
+            "datetime": "2022-05-27 19:10"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "說",
+            "opinion": "「日台交流歷史悠久,這1、2年又經歷了疫情下的互助與在奧運賽場上的切磋琢磨,讓彼此間的『絆kizuna』更加深化。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "加深"
+            ],
+            "positive_list": [
+                "互助",
+                "互助"
+            ],
+            "datetime": "2022-05-27 20:19"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "表示",
+            "opinion": "「尊敬的邱義仁會長,除了滿滿的感謝之外,還是感謝!您在日台間擔任不可或缺的重要橋梁已滿6年,這6年以來日台的互訪人數、貿易金額皆創新高,日台間也陸續簽署了19條備忘錄。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "重要",
+                "創新",
+                "尊敬",
+                "尊敬的",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-27 20:19"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "指出",
+            "opinion": "邱義仁擔任日台間不可或缺重要橋梁已滿6年,這6年來日台互訪人數、貿易金額皆創新高,日台間也陸續簽署19條備忘錄,但是,對他來說這些數字其實都是次要的。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "次要",
+                "次要的",
+                "不可"
+            ],
+            "positive_list": [
+                "重要",
+                "創新"
+            ],
+            "datetime": "2022-05-27 19:42"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "說",
+            "opinion": "因為邱義仁一次又一次繫下的連結,已化作「日台友情」深厚的基礎,這6年來辛苦了,相信日台的友情以及邱義仁和日本間的情感,今後也會持續升溫。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-05-27 19:42"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "說",
+            "opinion": "「日本國內我們一般比較頂級的,也是這樣的牛肉,台灣朋友能夠吃到好的牛肉,我非常高興。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-01 17:49"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "表示",
+            "opinion": "日本台灣交流協會於1972年12月1日以「交流協會」為名成立;台灣方面則是成立「亞東關係協會」,兩者皆是為維持日台間實務層級之交流關係的窗口機關。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 12:37"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "強調",
+            "opinion": "無論世界如何變化,日台一定攜手並肩向前行。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 18:13"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "指出",
+            "opinion": "該協會在1972年成立時,名稱只是「交流協會」,台灣方叫做「亞東關係協會」,是維持「實務層級」互動的窗口。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 18:13"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "表示",
+            "opinion": "日本與台灣在歷經歡笑與淚水的50個年頭後,如今已發展成罕見的深厚友情及信賴,這種關係正是日台間每一顆自然且堅定的善意所凝聚成的結晶。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "自然",
+                "罕見",
+                "罕見的",
+                "信賴",
+                "堅定",
+                "堅定的",
+                "發展",
+                "善意",
+                "凝聚",
+                "歡笑",
+                "歡笑"
+            ],
+            "datetime": "2022-06-04 14:29"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "指出",
+            "opinion": "交流協會在2017年正式更名為「日本台灣交流協會」,亞東關係協會也更名為「台灣日本關係協會」,為日台關係揭開嶄新篇章。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "嶄新"
+            ],
+            "datetime": "2022-06-04 14:29"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "表示",
+            "opinion": "日本與台灣在歷經歡笑與淚水的50個年頭後,如今已發展成罕見的深厚友情及信賴,這種關係正是日台間每一顆自然且堅定的善意所凝聚成的結晶。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "自然",
+                "罕見",
+                "罕見的",
+                "信賴",
+                "堅定",
+                "堅定的",
+                "發展",
+                "善意",
+                "凝聚",
+                "歡笑",
+                "歡笑"
+            ],
+            "datetime": "2022-06-04 10:42"
+        },
+        {
+            "person": "泉裕泰",
+            "verb": "指出",
+            "opinion": "交流協會在2017年正式更名為「日本台灣交流協會」,亞東關係協會也更名為「台灣日本關係協會」,為日台關係揭開嶄新篇章。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "嶄新"
+            ],
+            "datetime": "2022-06-04 10:42"
+        }
+    ]
+}

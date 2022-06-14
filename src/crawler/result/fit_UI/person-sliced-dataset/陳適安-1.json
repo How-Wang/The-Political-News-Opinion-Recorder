@@ -1,0 +1,64 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳適安.png",
+    "opinions": [
+        {
+            "person": "陳適安",
+            "verb": "說",
+            "opinion": "「如果能夠快速的,在短期間內給確診的病人們,投予抗病毒藥物的話,應該是可以把病患,從輕症轉為中症或重症的比例降低。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "毒藥",
+                "降低",
+                "病人"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 17:57"
+        },
+        {
+            "person": "陳適安",
+            "verb": "說明",
+            "opinion": "「我們是同時啟用12條,同時來做看診還有注射,今天來到這邊的醫護還有行政人員,大概差不多130位。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 12:33"
+        },
+        {
+            "person": "陳適安",
+            "verb": "指出",
+            "opinion": "認識陳適柏惟適安院長很久,他溫文儒雅,他永遠是個客氣、抱持感恩的人,他不會說市府沒有聞問,她(盧秀燕市長)本人也有去中央公園得來速,各個局處也都有指揮官;另以陳適柏惟適安院長的個性,他是個非常客氣、感恩的人,他不會講這個話。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "客氣",
+                "溫文",
+                "溫文儒雅",
+                "儒雅",
+                "感恩",
+                "溫文"
+            ],
+            "datetime": "2022-06-07 12:31"
+        },
+        {
+            "person": "陳適安",
+            "verb": "說",
+            "opinion": "台中榮總的醫療量能在員工確診染疫近9%之下,還要持續派出醫護及其他工作同仁前往陽性確診率達80-90%的場所工作,恕我以「殘忍」兩字來形容內心的感受。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "殘忍",
+                "殘忍"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:31"
+        }
+    ]
+}

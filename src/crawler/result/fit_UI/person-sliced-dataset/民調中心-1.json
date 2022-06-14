@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/民調中心.png",
+    "opinions": [
+        {
+            "person": "民調中心",
+            "verb": "表示",
+            "opinion": "若將張善政分別與民進黨三人及台灣民眾黨賴香伶之對決支持度與年齡交叉分析後也可發現,張善政在50歲以上桃園市民的支持度高於其他競爭者,陳時中則以20-39歲桃園市民的支持度較高,而林智堅則在40-49歲桃園市民中略有優勢。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "競爭",
+                "競爭者"
+            ],
+            "positive_list": [
+                "優勢"
+            ],
+            "datetime": "2022-05-26 12:29"
+        },
+        {
+            "person": "民調中心",
+            "verb": "表示",
+            "opinion": "有高達81.2%民眾表示擔憂自己或家人感染新冠肺炎。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "感染",
+                "擔憂",
+                "擔憂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:25"
+        }
+    ]
+}

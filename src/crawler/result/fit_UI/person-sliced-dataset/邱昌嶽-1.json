@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱昌嶽.png",
+    "opinions": [
+        {
+            "person": "邱昌嶽",
+            "verb": "說",
+            "opinion": "至於既有建築因數量龐大牽涉民眾權益,因此,民間部分以鼓勵為主,採獎補助方式,公有部分則採強制實施;同時研擬強化家電節能措施,並投入建築節能減碳技術及再生能源等的研發與應用工作。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "強制"
+            ],
+            "positive_list": [
+                "鼓勵",
+                "權益"
+            ],
+            "datetime": "2022-06-01 16:35"
+        },
+        {
+            "person": "邱昌嶽",
+            "verb": "表示",
+            "opinion": "我國已於2022年3月公布2050淨零排放路徑,內政部提出淨零建築路徑規劃,預計在2050年達成,全國100%新建建築物及超過85%既有建築物達到近零碳建築的目標。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "達成",
+                "達到"
+            ],
+            "datetime": "2022-06-01 16:35"
+        }
+    ]
+}

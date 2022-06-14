@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高市府.png",
+    "opinions": [
+        {
+            "person": "高市府",
+            "verb": "表示",
+            "opinion": "採購的富樂牌(Flowflex)快篩試劑疑有異常,應該都要出現的品管線(C線)未出現,緊急追回COV2025056批號試劑。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "異常",
+                "疑有",
+                "緊急"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:10"
+        }
+    ]
+}

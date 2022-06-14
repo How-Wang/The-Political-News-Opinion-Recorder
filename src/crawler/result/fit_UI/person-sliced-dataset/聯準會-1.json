@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/聯準會.png",
+    "opinions": [
+        {
+            "person": "聯準會",
+            "verb": "表示",
+            "opinion": "兩人將討論美國和全球經濟形勢。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 06:40"
+        }
+    ]
+}

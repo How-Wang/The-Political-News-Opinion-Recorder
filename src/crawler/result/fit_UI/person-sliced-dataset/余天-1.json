@@ -1,0 +1,96 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "余天",
+            "verb": "宣布",
+            "opinion": "退選,爭取連任的湧言會新北市黨部主委何博文形同同額競選,但黨內暗潮洶湧,開票結果仍相當引起關注。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 19:52"
+        },
+        {
+            "person": "余天",
+            "verb": "宣布",
+            "opinion": "因為家庭因素退出民進黨新北市主委的競選,但由於余天事前已先登記,因此今天主委選票上仍有余天的名字;根據新北市黨部公布資料,爭取連任的湧言會新北市黨部主委何博文最後獲得1萬310票,退選的余天則拿下7744票。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [
+                "獲得"
+            ],
+            "datetime": "2022-05-22 22:02"
+        },
+        {
+            "person": "余天",
+            "verb": "強調",
+            "opinion": "如今,黨職選舉及議員初選都結束了,就是兄弟登山各自努力後的另一階段,他會做好黨部的輔選工作,希望大家共同團結迎向年底選舉的勝利。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "勝利",
+                "希望"
+            ],
+            "datetime": "2022-05-22 21:52"
+        },
+        {
+            "person": "余天",
+            "verb": "宣布",
+            "opinion": "退選,但根據多區開票情形,余天仍拿到不少選票。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 19:23"
+        },
+        {
+            "person": "余天",
+            "verb": "宣布",
+            "opinion": "退選,但他照樣橫掃近8000票,只輸給何博文不到3000票。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 21:14"
+        },
+        {
+            "person": "余天",
+            "verb": "宣布",
+            "opinion": "退選,但選舉結果,何博文得到10310票,不選的余天橫掃7744票,甚至在三重地區還贏何博文,讓何博文這局贏得不好看。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "得到"
+            ],
+            "datetime": "2022-05-23 08:15"
+        },
+        {
+            "person": "余天",
+            "verb": "提出",
+            "opinion": "證券交易法第4條及第165條之2條文修正草案,提案說明中指出,台灣存託憑證(TDR)是新興金融商品,外國發行人募集與發行有價證券處理準則第3條第5款至第7款定義,存託機構、保管機構、台灣存託憑證;但證券交易法,全文未有台灣存託憑證定義,造成司法實務上的模糊空間。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "模糊"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-25 14:48"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "立法院黨團",
+            "verb": "表示",
+            "opinion": "疫情持續延燒,對中小企業、勞工的影響非常大,需要紓困協助,要求行政院立即規劃實施紓困;此外,也呼籲針對家中有國小以下孩童的家長,給予新台幣1萬元的家庭照顧津貼。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "協助",
+                "給予"
+            ],
+            "datetime": "2022-05-21 11:43"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "提出",
+            "opinion": "院會以無記名投票表決,經超過全體立委1/2同意為通過。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "同意",
+                "通過"
+            ],
+            "datetime": "2022-05-24 11:32"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "表示",
+            "opinion": "郭耀煌也推動智慧機械、資安業務等,完成多項重要法案,包含太空發展法、國家太空中心設置條例等,都獲得立院三讀通過,非常感謝郭耀煌1年7個月的努力付出,也尊重其想要返回學校作育英才的心願。",
+            "negative_score": 0,
+            "positive_score": 12,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "完成",
+                "重要",
+                "通過",
+                "尊重",
+                "智慧",
+                "發展",
+                "感謝",
+                "獲得",
+                "尊重",
+                "智慧",
+                "感謝"
+            ],
+            "datetime": "2022-05-26 16:01"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "回應",
+            "opinion": "記者會,鄭運鵬表示,國民黨立法院黨團的幾位幹部,自稱要去刑事警察局自首協助製造恐慌、散佈謠言,還有很多國民黨的議員參選人也配合這波政治操作,很顯然是從國民黨主席朱立倫一聲令下之後,國民黨要發動的政治選舉動作。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "刑事",
+                "自稱",
+                "恐慌",
+                "發動",
+                "謠言",
+                "恐慌"
+            ],
+            "positive_list": [
+                "協助",
+                "很多"
+            ],
+            "datetime": "2022-05-29 12:09"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "表示",
+            "opinion": "苗栗的狀況已溝通、協調努力了1、2個月,徐志榮當然知道黨中央想提名徵召。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "協調",
+                "知道",
+                "當然"
+            ],
+            "datetime": "2022-05-31 13:09"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "宣布",
+            "opinion": "確診的有國民黨的廖國棟、蔣萬安、陳雪生、費鴻泰、陳超明、葉毓蘭,民進黨籍的蔡適應、林靜儀、李昆澤、鍾佳濱、沈發惠、趙天麟、邱議瑩、邱泰源、高嘉瑜、邱志偉,加上今天快篩陽的陳歐珀、吳玉琴、張廖萬堅,另有民眾黨的蔡壁如,無黨籍的林昶佐、黃國書。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "適應"
+            ],
+            "datetime": "2022-05-31 18:28"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "表示",
+            "opinion": "苗栗縣長提名已經過地方溝通努力一兩個月,徐志榮當然知道黨中央希望徵召他,選策會也跟地方溝通之後作出提名建議,先前開會討論認為,徐志榮不但是民意支持度最高、也是各方能夠接受且支持的人,決議徵召他參選縣長。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "知道",
+                "接受",
+                "最高",
+                "當然",
+                "希望"
+            ],
+            "datetime": "2022-06-01 10:25"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "說明",
+            "opinion": "書無標示可驗出Omicron,衛福部次長薛瑞元指經EUA的快篩試劑,都曾經食藥署測試,所以要看當初福吉美送件的資料;而行政院發言人羅秉成則緊急代答,指薛的意思是要再了解一下,等CDC再做回應。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-02 12:42"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "回應",
+            "opinion": "記者會,鄭運鵬受訪時表示,唾液快篩相對鼻咽快篩比較方便,因此包含很多在野黨立委在內,都希望衛福部可以進一步開放緊急使用授權(EUA)。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "方便",
+                "希望",
+                "很多",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-06-02 11:57"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "批評",
+            "opinion": "指揮中心放任染疫黑數擴大,並懷疑政府有蓋牌之虞。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "放任",
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:49"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "回應",
+            "opinion": "記者會,鄭運鵬指出,台灣去年的死亡人數比往年平均多了1萬初頭,「如果是拿去年跟前年來比,的確增加1萬多人」,但是詳細原因還要等衛福部進行比較深入的分析。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "的確",
+                "進行",
+                "詳細",
+                "增加"
+            ],
+            "datetime": "2022-06-06 13:09"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "批評",
+            "opinion": "1922毫無作為,指揮中心不只要檢討,恐涉及行政及法律責任。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "毫無"
+            ],
+            "positive_list": [
+                "法律",
+                "毫無"
+            ],
+            "datetime": "2022-06-09 14:32"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "發現",
+            "opinion": "民進黨團共61席黨籍立委,卻只分到63.2坪面積,國民黨39席黨籍立委,卻有86.2坪,民眾黨團、時代力量分別分得65.5坪。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:04"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "質疑",
+            "opinion": "綠營發動攻擊新北市政府「恩恩案」,請行政院調查「基隆2歲童延誤就醫死亡案」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "攻擊",
+                "延誤",
+                "發動",
+                "攻擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:19"
+        },
+        {
+            "person": "立法院黨團",
+            "verb": "表示",
+            "opinion": "立院新會期將成立調閱小組,還原事實和真相。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 14:36"
+        }
+    ]
+}

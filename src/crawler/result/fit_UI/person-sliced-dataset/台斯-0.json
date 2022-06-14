@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台斯.png",
+    "opinions": [
+        {
+            "person": "台斯",
+            "verb": "表示",
+            "opinion": "台斯1930年至1949年有外交關係,1993年斯國獨立後,雙方未建立正式外交關係,但互設代表機構。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "獨立"
+            ],
+            "datetime": "2022-06-05 11:52"
+        }
+    ]
+}

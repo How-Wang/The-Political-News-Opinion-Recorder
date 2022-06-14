@@ -1,0 +1,2204 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "對提名紛擾致歉,所有的責難,他都會一肩扛起,但桃園一定要贏,盼黨內團結迎向勝利。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [
+                "勝利"
+            ],
+            "datetime": "2022-05-22 10:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "對提名紛擾致歉,所有的責難,他都會一肩扛起,但桃園一定要贏,盼黨內團結迎向勝利。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [
+                "勝利"
+            ],
+            "datetime": "2022-05-22 10:00"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "所有責難一肩扛起,企圖止血,但藍營基層還是覺得根本沒誠意。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 17:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "所有的責難他都會一肩扛起,接下來會用最大的誠意,登門拜訪,向大家再次致歉並懇託。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 08:55"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "將徵召無黨籍的前行政院長張善政,代表藍營參選桃園市長,消息一出引發黨內震撼,不僅佈局已久的國民黨立委呂玉玲公開嗆聲跳過程序「我沒辦法接受」,桃園市議長邱奕勝更氣到直接退出國民黨相關群組,而近期辭去台北市議員、遷戶籍到桃園的羅智強嘆息「錯愕、五味雜陳」,同時公布媒體民調表示自己才是第一名。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "退出",
+                "五味雜陳",
+                "沒辦法",
+                "嗆聲",
+                "嘆息"
+            ],
+            "positive_list": [
+                "公開",
+                "接受"
+            ],
+            "datetime": "2022-05-22 08:20"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "這次訪美,不是為了國民黨,是為了中華民國,為台海的安全,要讓大家看到國民黨是一個負責任的在野黨,「我們堅守目標,大家一起來努力。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "安全",
+                "努力",
+                "負責"
+            ],
+            "datetime": "2022-06-01 17:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "在黨部門口可以看到九個字:「護台灣,保民主,拚未來。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 17:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提出",
+            "opinion": "「四問」,要求他釐清國民黨的反美路線。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:18"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "要告訴美國的政界、僑界,國民黨回來了;這次不是為國民黨,而是為中華民國、為台海安全,讓大家看到國民黨是負責任的在野黨。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "安全",
+                "負責"
+            ],
+            "datetime": "2022-06-01 15:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "此行就是要告訴美國「我們回來了」,將拜訪智庫、學界、僑界,此行不只是為國民黨,而是為了中華民國與台海安全,讓大家看到國民黨是負責任的在野黨,「護台灣、保民主、拚未來」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "負責"
+            ],
+            "datetime": "2022-06-01 15:14"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨的政策目標就是「護台灣、保民主、拚未來」,他要告訴美國的政界、僑界,國民黨回來了,別讓台灣的民主自由被一個黨,或少數的人破壞,國民黨要保障台灣的民主自由,堅持人權,讓台灣民主能夠深化。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "破壞",
+                "破壞"
+            ],
+            "positive_list": [
+                "自由",
+                "堅持",
+                "自由"
+            ],
+            "datetime": "2022-06-01 16:59"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "此行也會拜訪一些老朋友、行政部門、智庫、學界,也跟4大城市的僑界、黨員見面,共同努力團結,希望年底能一起努力勝選。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-02 10:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "跟美方有共識、相互尊重,該見的朋友都會見到,彼此最重要的一件事,是針對印太地區、兩岸之間、台美合作等大家關心的議題,不管是官員、行政部門、各部門或國會都予以尊重,也謝謝美方做了很多安排。",
+            "negative_score": 1,
+            "positive_score": 12,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "合作",
+                "很多",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "尊重",
+                "關心",
+                "合作",
+                "尊重",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-06-02 10:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "這是完全不同心情,他曾經以縣市長身分,或是在縣市長卸任後去華府訪問,這次以黨主席身分訪問,都分別有不同角色,總統候選人又是另一回事情,那是未來國民黨提出候選人或民進黨提出候選人後,與美方的接觸,而這次是政黨外交。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "民進黨長期以來利用一黨聲音、偏頗的意見,在美國製造謠言破壞國民黨的形象,做為民主國家不該如此,國民黨同樣尊重民進黨在美國的一切工作,也請民進黨尊重台灣最大在野黨在美國的工作。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "破壞",
+                "造謠",
+                "謠言",
+                "利用",
+                "破壞",
+                "偏頗",
+                "造謠"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-02 10:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說明",
+            "opinion": "此次的訪美行程,最重的是幫國民黨重返華府,以及重啟代表處,也會和美方行政部門、國會、政界、學界跟智庫還有4大城市僑界的老朋友見面。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 22:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說明",
+            "opinion": "此行最重要的目的,就是國民黨重返華府、重返美國。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-02 11:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "民進黨長期在海外污衊國民黨「反美仇美」,但這次國民黨重返華府,就是要告訴美國和全世界的朋友,國民黨的基本立場,就是一個捍衛中華民國和堅持民主自由的政黨,國民黨會跟全世界民主國家都走在一起,一起拚經濟、拚未來,拚台海的安全。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "污衊"
+            ],
+            "positive_list": [
+                "安全",
+                "自由",
+                "自由的",
+                "堅持",
+                "自由"
+            ],
+            "datetime": "2022-06-02 07:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "沒有想2024,而是以黨主席身分出訪,只是,通關的時候,卻忘了自己的身分,不自覺的往禮遇通道走。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "完全是不同心情,之前曾經以縣市長身分,或在縣市長卸任後訪問華府,這次以黨主席身分訪問,都分別有不同角色。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "此行最主要目的是國民黨重返華府,讓更多美國朋友知道在華府可隨時找到國民黨。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-02 11:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "國民黨親美路線從來沒有改變。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "「民進黨在美國製造謠言破壞國民黨形象,我們很尊重民進黨在美國的工作,希望民進黨同樣尊重別人」,一起來為台灣打拚。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "破壞",
+                "造謠",
+                "謠言",
+                "破壞",
+                "造謠"
+            ],
+            "positive_list": [
+                "希望",
+                "尊重",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-06-02 10:04"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "質疑",
+            "opinion": "民進黨長期以來利用一黨聲音、偏頗的意見,在美國製造謠言破壞國民黨的形象,做為民主國家不該如此,國民黨尊重民進黨在美國的一切工作,但也請民進黨尊重台灣最大在野黨、國民黨在美國的工作。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "破壞",
+                "造謠",
+                "謠言",
+                "利用",
+                "破壞",
+                "偏頗",
+                "造謠"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-02 12:20"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「該見的朋友都會見到」,將就印太戰略、兩岸、台美合作等議題交換意見。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-02 12:20"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "在華府期間將為國民黨駐美代表處揭牌,也將拜訪美國政界、學界與國會,「該見到的朋友都會見」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 22:25"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "我們該見到的朋友都會見。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 22:25"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "感謝僑胞熱情歡迎接待,很高興再度拜訪美國,也高度期待與廣大海外黨員及僑胞們共同相聚、交流意見。",
+            "negative_score": 0,
+            "positive_score": 10,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "期待",
+                "感謝",
+                "熱情",
+                "歡迎",
+                "高興",
+                "期待",
+                "感謝",
+                "熱情",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 11:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨親美的立場沒有改變,但國際局勢不斷在改變,不管從過去熱戰到冷戰,再到開啟交流,或國際上的合作,都不斷在改變;而台海關係也是瞬息萬變,國民黨捍衛中華民國、保衛台灣,這立場絕對不會改變,對於自我國防的要求、保衛台灣力量的增進,這點立場也跟美方想法一致。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "不管",
+                "不斷",
+                "自我",
+                "沒有",
+                "要求",
+                "絕對",
+                "不會",
+                "冷戰",
+                "沒有"
+            ],
+            "positive_list": [
+                "一致",
+                "合作",
+                "增進",
+                "合作"
+            ],
+            "datetime": "2022-06-03 11:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "在當前區域和平最關鍵時刻,國民黨可以扮演促進區域和平,包括台海安全、亞太安全的重要角色,跟美方一起溝通合作。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "安全的",
+                "和平",
+                "促進",
+                "重要",
+                "合作"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "此行訪美最重要目的,就是國民黨在華府的駐美代表處重新開幕。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "拜登政府的兩岸政策,基本上是延續美國長期以來的立場,最重要的,我們還是要靠自己的努力。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨從頭到尾親美立場沒有改變,捍衛中華民國、保衛台灣的立場也不變;至於對自我國防的要求,保衛台灣力量的增進,這點立場跟美方想法應該一致。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "自我",
+                "沒有",
+                "要求",
+                "沒有"
+            ],
+            "positive_list": [
+                "一致",
+                "增進"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說明",
+            "opinion": "台美關係的提升不只是在民進黨政府執政時期,在馬英九執政時也不斷提升,希望未來2024年若國民黨能重返執政,這樣密切合作關係還能不斷提升。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "提升",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "「不會因為北京的立場而有任何退縮」,只要對台灣有利、對全體中華民國國民有利,我們一定堅持到底。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "不會",
+                "退縮"
+            ],
+            "positive_list": [
+                "有利",
+                "堅持"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "國民黨是為了愛台灣,為了協助台灣同胞、台商、台生,不怕民進黨貼標籤。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說明",
+            "opinion": "國民黨重新開設駐美代表處,但單靠代表處同仁是不夠的,僑界與美國政界、學界關係密切,對美很多溝通管道,都要靠僑界朋友的協助合作推動。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不夠",
+                "不夠的"
+            ],
+            "positive_list": [
+                "合作",
+                "協助",
+                "很多",
+                "合作"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨總理孫中山創黨就在美國,中山先生的三民主義,與美國前總統林肯民有、民治、民享的主張一致,國民黨跟美國堅定自由民主的立場一致,從最早的國父革命,到抗戰、保衛台灣、建設台灣,每個過程都跟美國的好朋友站在一起,親美立場從未改變。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "自由",
+                "建設",
+                "革命",
+                "堅定",
+                "自由"
+            ],
+            "datetime": "2022-06-03 17:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「這架構絕對歡迎」,似乎與主席看法不同調。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 15:38"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "所謂台美關係提升,他認為不僅是民進黨執政這幾年,其實前總統馬英九執政時也是不斷提升,希望2024國民黨重返執政,我們還是希望這樣的密切關係還能夠不斷提升。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "希望",
+                "提升",
+                "希望"
+            ],
+            "datetime": "2022-06-03 11:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "這架構我們絕對歡迎,也希望將來落實更多具體合作。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "歡迎",
+                "合作",
+                "希望",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 11:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨親美立場從未改變,也堅定捍衛中華民國、保衛台灣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-06-03 11:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "無論是否國民黨執政,非常歡迎美方提高跟台灣政府更高層級的交流、合作,而國民黨不會因為北京而有任何退縮。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "不會",
+                "退縮"
+            ],
+            "positive_list": [
+                "合作",
+                "提高",
+                "歡迎",
+                "合作",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 11:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "國民黨創黨就是在舊金山,三民主義跟美國已故總統林肯「民有、民治、民享」的理想是一致的,所以國民黨堅定的立場,跟美國民主自由的立場是一致的;從國父革命到抗戰、保衛台灣或建設台灣,每個過程都跟美國站在一起,所以親美立場從未改變。",
+            "negative_score": 0,
+            "positive_score": 10,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "一致的",
+                "自由",
+                "自由的",
+                "建設",
+                "革命",
+                "堅定",
+                "堅定的",
+                "理想",
+                "自由"
+            ],
+            "datetime": "2022-06-03 11:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "但同時國民黨也認為,兩岸間要能保持對話、交流,而不是對抗、交惡,溝通協調比熱戰對抗好很多。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "對抗",
+                "不是"
+            ],
+            "positive_list": [
+                "協調",
+                "很多"
+            ],
+            "datetime": "2022-06-03 11:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨促進兩岸和平交流,親美的立場不會改變,「不會因為中共的立場有任何一點退縮」,他也強調,「國民黨是和平促進者,不是麻煩製造者」。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "麻煩",
+                "不是",
+                "不會",
+                "退縮",
+                "麻煩"
+            ],
+            "positive_list": [
+                "和平",
+                "促進"
+            ],
+            "datetime": "2022-06-03 11:12"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "兩岸保持對話避免衝突,是為了整體台灣的安全。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "衝突",
+                "避免",
+                "衝突"
+            ],
+            "positive_list": [
+                "安全",
+                "避免"
+            ],
+            "datetime": "2022-06-03 11:12"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「告訴美國朋友我們在這裡,我們回來了這是最重要的訊息,從頭到尾一致親美立場,是從未改變,美方跟我們的政府,能有更多的合作,或更高層級的交流,這個都是非常歡迎,不會因為北京立場,或是中共的立場,有任何一點退縮。」",
+            "negative_score": 4,
+            "positive_score": 9,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "不會",
+                "退縮"
+            ],
+            "positive_list": [
+                "一致",
+                "合作",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "歡迎",
+                "合作",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 12:52"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "痛批",
+            "opinion": "民進黨,只會用去中國化,當作政治手段,讓他非常嗤之以鼻。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "嗤之以鼻"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 12:52"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "很高興重返美國,也期待與廣大海外黨員及僑胞們共同相聚、交流意見。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "期待",
+                "高興",
+                "期待"
+            ],
+            "datetime": "2022-06-03 08:19"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "所謂台美關係提升,他認為不僅是民進黨執政這幾年,其實前總統馬英九執政時也是不斷提升,希望2024國民黨重返執政,我們還是希望這樣的密切關係還能夠不斷提升。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "希望",
+                "提升",
+                "希望"
+            ],
+            "datetime": "2022-06-03 12:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「這架構我們絕對歡迎,也希望將來落實更多具體合作。」",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "歡迎",
+                "合作",
+                "希望",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 12:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "很高興重返美國,也期待與廣大海外黨員及僑胞們共同相聚、交流意見。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "期待",
+                "高興",
+                "期待"
+            ],
+            "datetime": "2022-06-03 08:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "自己每年此時都會想起,1989年在北京廣場上的青年學子,對中國民主自由改革的期望。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "改革",
+                "自由",
+                "期望"
+            ],
+            "datetime": "2022-06-04 21:33"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "中國國民黨從創黨就親美,現在是在野黨,不會做也沒有能力與對岸進行政治談判。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有",
+                "沒有能力"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力",
+                "進行"
+            ],
+            "datetime": "2022-06-06 18:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "朱立倫去看歷史建築「洪門」,還特別「括號」標註:177年歷史,這不就是觀光行程嗎?卓冠廷認為,唯一一場比較重要行程只有到布魯克斯智庫演說,而演說的重點就是坦承2008年中國國民黨以為會永久執政,所以就把(國民黨)駐美代表處關掉了,因此他這趟就是要來重新設置代表處。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不就"
+            ],
+            "positive_list": [
+                "重要",
+                "特別"
+            ],
+            "datetime": "2022-06-07 18:11"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "一套、對中共說一套、對外又是另一套。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:49"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "稱,九二共識是「沒有共識的共識」(non-consensusconsensus)。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:49"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識就像美國的一中政策,是「沒有共識的共識」,是雙方創造的模糊,在沒有更好的方案以前,還是用此方式持續交流,並稱國民黨「親美立場」從未改變。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造的"
+            ],
+            "datetime": "2022-06-07 14:59"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "退選,風波看似告一段落。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "風波"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "他在會中提了三項具體主張、捍衛自由的四項任務。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由"
+            ],
+            "datetime": "2022-06-07 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "加強自我防衛與通過對話管控危機,台灣做得到;另外,由於國民黨見證了許多戰爭的殘酷,因此現在致力於和平與穩定,「積極備戰、全力避戰」。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "危機",
+                "自我",
+                "殘酷",
+                "戰爭",
+                "戰爭的",
+                "危機",
+                "殘酷"
+            ],
+            "positive_list": [
+                "全力",
+                "和平",
+                "得到",
+                "通過",
+                "積極",
+                "穩定"
+            ],
+            "datetime": "2022-06-07 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "自從俄羅斯入侵烏克蘭以來,台灣再次成為美國國防和戰略界首要討論的話題。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-07 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "他會因公投與中二補選的敗績而被拉倒,提前跛腳,但他仍意氣風發的混到了現在,甚至一一扳倒桃園在地的強豪。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "意氣風發"
+            ],
+            "datetime": "2022-06-07 09:44"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識是「沒有共識的共識」,是「創造性模糊」,在沒有更好的方案以前,還是用這樣的方式持續交流。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-07 09:37"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "至於如何有效提升台美關係、強化產業鏈安全、促成台灣的國際參與,或在習近平擴展主義下保有台灣的國家安全,這些大家所關心的重大議題,朱立倫則是隻字不提。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "有效",
+                "促成",
+                "重大",
+                "提升",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-07 09:37"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識是兩方的建設性、創造性模糊,是「沒有共識的共識」(Non-ConsensusConsensus)。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "建設",
+                "建設性",
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-07 07:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "強有力的防衛與自由國家聯盟對地區安全不可或缺,但接觸與溝通比衝突與碰撞更為可取。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "不可",
+                "碰撞",
+                "衝突",
+                "不可",
+                "衝突"
+            ],
+            "positive_list": [
+                "可取",
+                "安全",
+                "有力",
+                "有力的",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-07 07:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "智庫演說沒有提及九二共識,是因為今日的演講是談目前台海情勢及美中關係。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 07:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩岸政治與政策或許存在分歧,但人民間的善意始終仍是一條未斷的鎖鏈。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "分歧"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-07 07:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "很高興見到老朋友,雙方從安全、經貿、科技談到能源議題。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-07 05:54"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "美國國務院恭喜國民黨駐美代表處成立,8日的開幕式「也會有朋友來參加」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "恭喜",
+                "參加"
+            ],
+            "datetime": "2022-06-07 05:54"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "「九二共識」時,他自創新解,宣稱就向美國的一中政策一樣,是「沒有共識的共識」,更強調國民黨不是親中,而是親美政黨。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "創新"
+            ],
+            "datetime": "2022-06-07 19:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "一套、對中國說一套、對外又是另一套。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:59"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "九二共識是兩方的建設性、創造性模糊,是「沒有共識的共識」(Non-ConsensusConsensus)。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "建設",
+                "建設性",
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-07 12:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "中他表示,九二共識是「沒有共識的共識」,是「創造性模糊」,在沒有更好的方案以前,還是用這樣的方式持續交流,對此,美媒《美國之音》轉發此新聞貼文,不少網友則酸「朱立倫在國際間打臉馬英九?」、「兩邊都不想得罪,但還是得罪了」、「國民黨這也太阿斗了吧!」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "得罪",
+                "模糊",
+                "沒有",
+                "得罪"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-07 12:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "提到九二共識是「沒有共識的共識」,還說這是「創造性模糊」,這番言論也讓民進黨台北市大安文山區議員參選人趙怡翔直言:「他還沒有準備好。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性",
+                "準備"
+            ],
+            "datetime": "2022-06-07 10:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "如果國民黨重回執政,會不會與北京合作促使台灣加入CPTPP時,但朱立倫卻文不對題答覆,「我比較希望美國邀請我們參加印太經濟架構」,像這種案例只是冰山一角。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "不對",
+                "不會",
+                "不對"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "參加",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-07 14:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識是「沒有共識的共識」,是「創造性模糊」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-07 18:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識是兩方的建設性、創造性模糊,是「沒有共識的共識」(Non-ConsensusConsensus)。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "建設",
+                "建設性",
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-07 06:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "強有力的防衛與自由國家聯盟對地區安全不可或缺,但接觸與溝通比衝突與碰撞更為可取。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "不可",
+                "碰撞",
+                "衝突",
+                "不可",
+                "衝突"
+            ],
+            "positive_list": [
+                "可取",
+                "安全",
+                "有力",
+                "有力的",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-07 06:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "智庫演說沒有提及九二共識,是因為今天的演講是談目前台海情勢及美中關係。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 06:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩岸政治與政策或許存在分歧,但人民間的善意始終仍是一條未斷的鎖鏈。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "分歧"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-07 06:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "很高興見到老朋友,雙方從安全、經貿、科技談到能源議題。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-07 05:12"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "美國國務院恭喜國民黨駐美代表處成立,8日的開幕式「也會有朋友來參加」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "恭喜",
+                "參加"
+            ],
+            "datetime": "2022-06-07 05:12"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "他在美國告訴國際上的朋友,國民黨就是「護台灣,保民主,拚未來」,守護台灣,保衛民主自由,拚一個和平安定繁榮的未來。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "平安",
+                "安定",
+                "自由",
+                "和平",
+                "繁榮",
+                "繁榮的",
+                "安定",
+                "自由"
+            ],
+            "datetime": "2022-06-08 15:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "位於華府的國民黨駐美代表處即將正式揭牌啟動,這是自2008年國民黨駐美代表處關閉後,時隔14年後再度回到華府,受到美方政府、學界及民意代表的歡迎,同時也感謝僑界朋友,希望讓大家知道國民黨是最愛台灣、捍衛中華民國的政黨,也希望跟美方隨時溝通交流。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "希望",
+                "知道",
+                "感謝",
+                "歡迎",
+                "希望",
+                "感謝",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 15:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "國民黨是與美國擁有緊密連結的親美政黨等語,李德維對此表示,其實沒有問題,但的確是有人帶風向,帶成是朱立倫否定國民黨過去對於九二共識的想法和立論,被曲解了,這部分講清楚就好。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "曲解",
+                "否定",
+                "沒有",
+                "問題",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "的確",
+                "清楚",
+                "擁有"
+            ],
+            "datetime": "2022-06-08 14:51"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "眾多研究與政治預測都提及未來5到10年台海可能面臨立即性的衝突,台灣需要立即可以獲得、可以使用的國防武器並改革服役制度與後備部隊訓練,否則將難以抵擋可能的外部威脅。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "威脅",
+                "衝突",
+                "難以",
+                "威脅",
+                "衝突"
+            ],
+            "positive_list": [
+                "改革",
+                "訓練",
+                "獲得"
+            ],
+            "datetime": "2022-06-08 10:17"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "這次來訪沒有黨派之見,共同為台灣拚外交、反映台灣在安全、經貿等議題上與美國合作的需要,並與代表美國立法部門的各個眾議員廣泛交流意見。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "安全",
+                "合作"
+            ],
+            "datetime": "2022-06-08 10:17"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "昨天在布魯金斯研究所(BrookingsInstitution)演講時,即提出3點國防策略改進,希望可以和美國及盟邦擴大訓練交流,加強台灣自我防衛戰力。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "希望",
+                "改進",
+                "訓練",
+                "希望"
+            ],
+            "datetime": "2022-06-08 10:17"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "確實感受得到美方對安全議題的關切。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "得到",
+                "確實"
+            ],
+            "datetime": "2022-06-08 04:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "雙方針對各項議題交換意見,尤其是整體安全議題、國防議題,能源安全也有提到,包括各方關心的兵役、後備制度都有討論。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-08 04:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨希望持續透過溝通交流,讓兩岸能穩定和平,他把這些訊息告訴所有的國際朋友,也用中央黨部門口的9個字,「護台灣、保民主、拚未來」,做最好的總結。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "和平",
+                "最好",
+                "穩定",
+                "希望"
+            ],
+            "datetime": "2022-06-08 16:33"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "這次到美國沒有黨派之見,只為台灣拚外交,並反映台灣在安全、經貿等議題上與美方合作的需要。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "安全",
+                "合作"
+            ],
+            "datetime": "2022-06-08 12:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "日前他在「布魯金斯研究院」演講時就有提出國防策略的3點改進策略,希望可以與美國及盟邦擴大訓練交流,加強台灣自我防衛戰力。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "希望",
+                "改進",
+                "訓練",
+                "希望"
+            ],
+            "datetime": "2022-06-08 12:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「九二共識是沒有共識的共識」,國民黨內部為他緩頰,強調九二共識要不要維持,以後可以一起討論。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:35"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「我們堅定的立場就是親美的立場,讓大家知道,我們是跟民主自由站在一起。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "知道",
+                "堅定",
+                "堅定的",
+                "自由"
+            ],
+            "datetime": "2022-06-08 18:35"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨要讓美方聽到中華民國、台灣真正的聲音,並讓美方知道國民黨是最愛台灣、捍衛中華民國的政黨,也隨時可以與美方人士溝通。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "真正",
+                "真正的"
+            ],
+            "datetime": "2022-06-08 15:44"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "就是要跟國際上說明國民黨一直都和民主自由走在一起,同時希望透過溝通交流帶給兩岸和平。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "希望",
+                "和平",
+                "說明",
+                "自由",
+                "希望"
+            ],
+            "datetime": "2022-06-08 14:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "的討好美國的話,蔡英文都不曾親自說出口,蘇貞昌也不曾親自說出口,但朱立倫為了政治算計,全部都說出,朱立倫為了討好美國,全部都說出。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "討好"
+            ],
+            "positive_list": [
+                "討好"
+            ],
+            "datetime": "2022-06-08 12:14"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "話的片段,酸朱立倫「這個又能代表多少台灣人的立場?自己舔美就行了,代表整個國民黨、台灣人?哈哈哈哈哈哈!一個完全不接地氣的過氣政客,民進黨恭喜你們啦」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "恭喜",
+                "哈哈"
+            ],
+            "datetime": "2022-06-08 11:54"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨是親美、而不是親中的政黨,更稱九二共識是「沒有共識的共識」,是一種「創造性模糊」,被中國《環球時報》前總編胡錫進批「國民黨是百年爛黨」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-08 11:11"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「國民黨是是親中國的政黨,這完全錯誤。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:38"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "確實感受得到美方對安全議題的關切。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "得到",
+                "確實"
+            ],
+            "datetime": "2022-06-08 05:28"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "雙方針對各項議題交換意見,尤其是整體安全議題、國防議題,能源安全也有提到,包括各方關心的兵役、後備制度都有討論。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-08 05:28"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "親美路線,先不談能否改變美方對國民黨看法,是否能影響黨內都是個未知數。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "未知",
+                "未知數"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 19:19"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "僑委會的副委員長代表政府,不是代表民進黨,我們一定是歡迎的。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎的",
+                "歡迎"
+            ],
+            "datetime": "2022-06-11 14:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨相隔14年重新在美國設立駐美代表處,宣示國民黨重返美國、重返華府,藉此告訴全世界,國民黨愛台灣、保衛中華民國及維護自由民主的立場。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-11 13:56"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "質疑",
+            "opinion": "國民黨要求加入IPEF或針對貿易倡議的內容提出意見,就意指國民黨對美方有意見,「當然我們要表達立場」;就像他在國防安全的議題上提出不同的看法,「但我們的出發點都是對台灣有利、對中華民國有利」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "要求",
+                "有意"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "有利",
+                "當然"
+            ],
+            "datetime": "2022-06-11 13:56"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨堅持愛台灣、保衛中華民國,九二共識最重要精神是「求同存異」,對於中方沒有共識的部分相互尊重,各自表述;國民黨捍衛民主自由的立場不能退縮,也不能因為批評就改變,任何想要傷害中華民國,包括台獨、一國兩制,國民黨完全不接受。",
+            "negative_score": 10,
+            "positive_score": 9,
+            "negative_list": [
+                "不能",
+                "批評",
+                "沒有",
+                "退縮",
+                "傷害",
+                "台獨",
+                "批評",
+                "沒有",
+                "退縮",
+                "傷害"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "重要",
+                "堅持",
+                "接受",
+                "最重要",
+                "尊重",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-06-11 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "他每次都是表達強烈不滿跟抗議,兩岸要和平交流,不需要有這樣的軍事干擾,尤其每次共軍擾台或繞台,都造成民眾反感,對兩岸和平沒任何幫助。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "干擾",
+                "不滿",
+                "反感",
+                "抗議",
+                "強烈",
+                "干擾",
+                "不滿",
+                "反感"
+            ],
+            "positive_list": [
+                "和平",
+                "幫助"
+            ],
+            "datetime": "2022-06-11 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "訪美行中與史丹佛大學、哈佛大學、哥倫比亞大學等教授交流,還跟超過10個以上智庫有過會談、研討,也跟不同世代,美國對於兩岸、亞太、國際事務學者專家接觸。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "專家"
+            ],
+            "datetime": "2022-06-11 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "是「沒有共識的共識」,引起中方反感。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "反感",
+                "沒有",
+                "反感",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 11:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「九二共識當時最重要的、基本的精神,叫做求同存異,對於雙方沒有共識的部分,相互尊重各自表述,我們也希望未來兩岸,持續交流持續溝通,對於大家認知不同的,我們繼續努力。」",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "希望",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "尊重",
+                "希望",
+                "尊重"
+            ],
+            "datetime": "2022-06-11 13:04"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨堅持食安立場,美國清楚知道針對萊豬不是美豬,也沒有針對美國貿易,所以不要把國內政黨競爭故意標籤化帶來美國,美國沒有這樣講。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "故意",
+                "競爭",
+                "不是",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道",
+                "堅持",
+                "清楚"
+            ],
+            "datetime": "2022-06-11 10:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨立場都是根據黨章、政綱,過去一路看得非常清楚,捍衛中華民國、守護台灣,希望和平、安全、繁榮台灣,親美就是親民主、親自由,這是國民黨一貫立場,從過去到現在到未來都會如此,這是全代會黨章規定,不會改變。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "安全",
+                "自由",
+                "希望",
+                "和平",
+                "清楚",
+                "繁榮",
+                "自由",
+                "希望"
+            ],
+            "datetime": "2022-06-11 10:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "他們多次強調,台灣每一次遇到同樣問題,都表達強烈不滿跟抗議,認為兩岸要和平、交流,不需要有這樣軍事干擾,尤其每次擾台、繞台都會造成民眾反感,對兩岸之間和平沒有任何幫助。",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "干擾",
+                "不滿",
+                "反感",
+                "抗議",
+                "沒有",
+                "問題",
+                "強烈",
+                "干擾",
+                "不滿",
+                "反感",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "和平",
+                "幫助"
+            ],
+            "datetime": "2022-06-11 10:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "這次目標非常清楚,國民黨是中華民國創國政黨,永遠捍衛中華民國,是維護民主自由政黨,反對台獨,希望能夠守住台灣,兩岸能夠和平交流。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "反對",
+                "台獨"
+            ],
+            "positive_list": [
+                "自由",
+                "希望",
+                "和平",
+                "清楚",
+                "自由",
+                "希望"
+            ],
+            "datetime": "2022-06-11 09:45"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨永遠捍衛中華民國、反台獨,九二共識精神為求同存異,沒有共識部分各自表述。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "台獨",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 09:45"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "批評",
+            "opinion": "共機擾台造成台灣民眾反感,更指出中共不需要對台軍事干擾。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "干擾",
+                "反感",
+                "干擾",
+                "反感"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 17:38"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨堅持食安立場,不是針對美國,不是針對美豬,是針對萊豬,不要讓民進黨給國民黨標籤化。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "堅持"
+            ],
+            "datetime": "2022-06-11 09:15"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "所有國民黨的立場都是按照黨章走,保衛民主自由是目標,「親美就是親民主、親自由」,這是從過去到現在都不會改變,這是按照黨章的明確規定;至於共機繞台,朱立倫認為,兩岸要和平、要交流,不需要軍事的干擾,每一次繞台、擾台,對台灣和平沒有任何幫助。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "干擾",
+                "不會",
+                "沒有",
+                "干擾",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "自由",
+                "和平",
+                "明確",
+                "幫助",
+                "自由"
+            ],
+            "datetime": "2022-06-11 09:15"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "這次首要目標就是國民黨重返美國、華府,正式成立國民黨駐美代表處,從2008年至今已相隔14年。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正式"
+            ],
+            "datetime": "2022-06-11 09:15"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "這次重返華府,就是要讓美方更完整聽見台灣的聲音,更方便接觸國民黨的政策與理念。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "方便",
+                "完整"
+            ],
+            "datetime": "2022-06-11 17:24"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "希望並非是任何政治的因素干擾兩岸正常往來,如果是技術問題,應該要趕快來溝通協商解決,做對兩岸人民福祉有助益的事情。",
+            "negative_score": 4,
+            "positive_score": 9,
+            "negative_list": [
+                "干擾",
+                "問題",
+                "干擾",
+                "問題"
+            ],
+            "positive_list": [
+                "正常",
+                "有助",
+                "有助益",
+                "助益",
+                "希望",
+                "解決",
+                "希望",
+                "解決",
+                "福祉"
+            ],
+            "datetime": "2022-06-11 17:24"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "AIT主席莫健(JamesMoriarty)是他和許多台灣人都非常熟悉的好朋友。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "熟悉",
+                "熟悉的"
+            ],
+            "datetime": "2022-06-11 17:24"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "任何農漁產品,對農漁民生計很重要,中間有任何技術性問題,都是可以解決的,希望趕快透過溝通方式解決,不要傷害漁民。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "傷害",
+                "不要",
+                "問題",
+                "傷害"
+            ],
+            "positive_list": [
+                "希望",
+                "重要",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-06-11 12:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "國民黨堅持食安立場不會受美方影響,國民黨不是針對美方,也不是針對美國貿易,所以不要把國內政黨競爭故意標籤化,「美國人沒有這樣想」。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "故意",
+                "競爭",
+                "不是",
+                "不要",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "堅持"
+            ],
+            "datetime": "2022-06-11 12:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨很希望能加入「印太經濟框架」(IPEC),且要推動台美21世紀經濟倡議(U.S.-TaiwanInitiativeon21st-CenturyTrade),並重視該倡議實質對台灣有利、對台美經貿關係有幫助的內容,包括關稅、市場開放等,不希望只是倡議,卻沒實質內容。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "有利",
+                "有幫助",
+                "有幫助的",
+                "希望",
+                "重視",
+                "開放",
+                "幫助",
+                "希望"
+            ],
+            "datetime": "2022-06-11 12:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "任何農漁產品對於農漁民生計很重要,這中間如果有任何技術性問題這是可以解決的,希望透過溝通方式解決,不要傷害漁民。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "傷害",
+                "不要",
+                "問題",
+                "傷害"
+            ],
+            "positive_list": [
+                "希望",
+                "重要",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-06-11 10:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "任何農漁產品對農漁民的生計很重要,如果只是技術問題可以解決,應該趕快透過溝通方式解決掉,不要傷害漁民權益,國民黨絕不贊成有任何政治目的,希望只是因為農漁產品本身需要檢疫,或有安全性檢查必須克服的困難,透過溝通實質解決技術性問題。",
+            "negative_score": 9,
+            "positive_score": 9,
+            "negative_list": [
+                "不贊成",
+                "困難",
+                "問題",
+                "傷害",
+                "不要",
+                "困難",
+                "問題",
+                "絕不",
+                "傷害"
+            ],
+            "positive_list": [
+                "安全",
+                "希望",
+                "重要",
+                "解決",
+                "贊成",
+                "權益",
+                "克服",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-06-11 09:27"
+        }
+    ]
+}

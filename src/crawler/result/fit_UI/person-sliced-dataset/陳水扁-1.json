@@ -1,0 +1,622 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "「你可以決定不要施捨,但不要看不起乞丐」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "乞丐",
+                "不要",
+                "不起",
+                "看不起"
+            ],
+            "positive_list": [
+                "決定",
+                "施捨"
+            ],
+            "datetime": "2022-05-24 05:40"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "強調",
+            "opinion": "自己「因公支出大於因公收入,沒有不法所得」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 15:33"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "強調",
+            "opinion": "自己「因公支出大於因公收入,沒有不法所得」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:20"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "強調",
+            "opinion": "自己「因公支出大於因公收入,沒有不法所得」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:23"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "國務機要費跟首長特支費性質完全不一樣,一年高達新台幣數千萬元,與首長特支費一年僅幾萬元差很多,於理、於情、於法現在都不應除罪化。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-30 08:34"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "更一審無罪,更二審預計7月15日宣判,高院回應將審酌依法審理,但相關人依法,可望獲的免訴判決。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "判決",
+                "宣判",
+                "可望"
+            ],
+            "positive_list": [
+                "無罪"
+            ],
+            "datetime": "2022-05-30 18:55"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "待修正法律經總統公布生效後,審酌依法審理。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "生效",
+                "法律"
+            ],
+            "datetime": "2022-05-30 13:58"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "強調",
+            "opinion": "「蓬萊島案平反等了38年、國務機要費案除罪16年」,而陳致中也特別感謝民進黨立院黨團總召柯建銘、民進黨團委員的推動、堅持及努力,以及在這個過程當中所有關心鼓勵、加油打氣的先進好友。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "特別",
+                "堅持",
+                "感謝",
+                "鼓勵",
+                "關心",
+                "感謝",
+                "關心"
+            ],
+            "datetime": "2022-05-30 11:56"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說明",
+            "opinion": "國務機要費金流,列出21項國務機要費支出更說明金流走項強調清白。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清白",
+                "說明"
+            ],
+            "datetime": "2022-05-30 10:50"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "「蓬萊島案平反等了38年,國務機要費案除罪16年」共22字。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 14:40"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "強調",
+            "opinion": "自己「因公支出大於因公收入,沒有不法所得」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:16"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "回應",
+            "opinion": "蓬萊島案平反等了38年、國務機要費案除罪16年。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:16"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "強調",
+            "opinion": "自己「因公支出大於因公收入,沒有不法所得」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:00"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "相關的請益拜會行程都會來規劃,有消息會讓大家知道。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-30 11:19"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "他昨晚感到身體不適,原本COVID-19(2019冠狀病毒疾病)快篩陰性,但今天早上快篩轉陽性,經醫師判定確診,居家隔離中。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不適",
+                "疾病",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:46"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "「不小心染疫,對不起啦!請大家多注意自己與家人的身體健康!天佑台灣」。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "小心",
+                "不小心",
+                "不起",
+                "對不起"
+            ],
+            "positive_list": [
+                "小心",
+                "注意",
+                "健康"
+            ],
+            "datetime": "2022-05-31 11:46"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "他昨天晚間突感不適,快篩陰性,但今天早上快篩陽性,經醫師判定確診。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:26"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "他確診,昨篩陰今篩陽,沒發燒,有咳嗽及喉嚨痛,已開始服藥。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "發燒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:25"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "自己確診了,寫下「不小心染疫、對不起」,即日起會在家居隔,幸好只有些微頭痛、喉嚨痛,症狀輕微,家人目前也都是陰性。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "小心",
+                "不小心",
+                "頭痛",
+                "不起",
+                "對不起",
+                "頭痛"
+            ],
+            "positive_list": [
+                "小心"
+            ],
+            "datetime": "2022-05-31 17:07"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "指出",
+            "opinion": "昨天晚間他突感不適,快篩陰性,但今天早上快篩陽性,經醫師判定確診。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:28"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "高雄市長陳其邁曾致電關切,並問他如果是在高雄,自己將啟動的治療計畫。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "治療"
+            ],
+            "datetime": "2022-06-02 09:01"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "5月31日早上9時15分快篩兩條線後,黃偉哲請衛生局安排視訊看診;經醫師判定確診,對方先開治療鎮咳、退燒、過敏、化痰喉片的藥,他再到藥局領Paxlovid。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "過敏"
+            ],
+            "positive_list": [
+                "治療",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 09:01"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "指出",
+            "opinion": "前一天晚間突感不適,快篩陰性,但隔天早上快篩陽性,經醫師判定確診,要居家隔離,還說「不小心染疫,對不起啦!」陳水扁1日晚間在臉書發文表示,黃偉哲請衛生局安排視訊看診,侯世婷小兒科診所侯世婷醫師判定確診。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "小心",
+                "不小心",
+                "不適",
+                "隔離",
+                "不起",
+                "對不起"
+            ],
+            "positive_list": [
+                "小心",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 09:35"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "可以放心的是已經退燒,症狀也有改善,「阿扁由衷謝謝大家的關心與祝福!」。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "由衷",
+                "改善",
+                "放心",
+                "放心的",
+                "關心",
+                "由衷",
+                "改善",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-06-02 09:35"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "他在快篩2條線後,黃偉哲請衛生局安排視訊看診,後續由侯世婷小兒科診所侯世婷醫師判定確診。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 09:11"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說明",
+            "opinion": "他上月31日上午快篩陽性,後由黃偉哲請衛生局安排視訊看診,診所先開鎮咳、退燒、過敏、化痰喉片的藥,而後再領取抗病毒藥PAXLOVID。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "毒藥",
+                "過敏"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 13:43"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "「兩相比較,柯文哲時期真的可說是倒退回上世紀」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "退回"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:54"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "從5月31日至6月3日,「阿扁晉任二條槓的中尉軍官」,而4天後康復轉陰的他也詼諧表示自己被拿掉一條槓,「只幹4天的中尉留下永恆的回憶」,4日轉陰變成「一條槓」少尉的他也說,「為了萬全起見仍關禁閉療養中。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "禁閉"
+            ],
+            "positive_list": [
+                "永恆",
+                "永恆的",
+                "詼諧",
+                "詼諧"
+            ],
+            "datetime": "2022-06-06 16:22"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "陳時中也該到做決定的時候了,楊憲宏作為學弟去勸學長,陳時中能否聽得進去是一回事,但只要陳時中作了決定,相信大家也會支持。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "相信"
+            ],
+            "datetime": "2022-06-06 08:20"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "前一夜突感不適,隔天快篩陽性,經醫師判定確診,要居家隔離,並呼籲大家多注意自己與家人的身體健康。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不適",
+                "隔離"
+            ],
+            "positive_list": [
+                "注意",
+                "健康"
+            ],
+            "datetime": "2022-06-10 22:55"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "1995年老敦南面臨都更,吳清友看重隔鄰的新壽大樓,但業主新壽想租給新光三越,因此他聽取吳清友的請願後,自告奮勇跟吳清友請纓,願意陪他去拜訪新光吳家。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "願意",
+                "自告奮勇",
+                "奮勇",
+                "願意"
+            ],
+            "datetime": "2022-06-10 10:16"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "前年敦南誠品熄燈後,由信義誠品接棒24小時書店,無奈今年又遇上租約問題,如果吳清友在世,也不會麻煩總統打電話,而是直接找市長幫忙。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "問題",
+                "麻煩",
+                "不會",
+                "問題",
+                "麻煩",
+                "無奈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 10:16"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "拜讀媒體人林健煉的大作:《如果誠品信義店續租困境發生在手不釋卷的李總統時代》,李登輝市長或李登輝總統,聞知消息後,一定會立即親自打電話給高清愿來上一門「文化課」或「社會責任課」,最後賣個面子給李登輝先生。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "困境"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 10:16"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "他當時親自懇託請命,「台北市不缺百貨公司,但不能沒有誠品」,感謝新光吳家促成誠品敦南店陪愛書人一起走了25年,也讓誠品敦南店成為全球第一家24小時書店,更是台北市民的共同驕傲。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "驕傲",
+                "沒有",
+                "驕傲"
+            ],
+            "positive_list": [
+                "成為",
+                "促成",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-10 10:16"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "宣布",
+            "opinion": "確診,他的妻子吳淑珍今(10)日PCR陽性,陳水扁兒子、高雄市議員陳致中今晚9時許在臉書發文,表示「媽媽晚上PCR確診,祈求老天保佑平安」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "平安"
+            ],
+            "datetime": "2022-06-10 22:10"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說明",
+            "opinion": "自己的身體狀況,「阿扁染疫確診後,各地熱心朋友推介不少藥物與偏方,其中最夯的是中藥新冠一號。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "熱心",
+                "熱心"
+            ],
+            "datetime": "2022-06-10 22:10"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "自己是當年敦南店的催生者,屬於最不捨的一群人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:39"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "認為",
+            "opinion": "更是台北市民的共同驕傲。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "驕傲",
+                "驕傲"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:39"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "當選市長後要把捷運全部拆掉。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 05:30"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "宣布",
+            "opinion": "確診,他31日在臉書發文指出,突感不適,快篩陽性,經醫師判定確診。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不適"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:22"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "說",
+            "opinion": "「擔心下半身癱瘓的重殘太太,能否繼阿扁之後有效抵抗病毒?」看更多新冠肺炎(COVID-19)疫情最新報導:https://bit.ly/37gsay1★三立新聞網提醒您:防範新冠肺炎,外出時應配戴口罩、勤洗手,並遵循疾管署最新防疫指引。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "抵抗",
+                "擔心",
+                "癱瘓",
+                "擔心"
+            ],
+            "positive_list": [
+                "有效"
+            ],
+            "datetime": "2022-06-12 10:22"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "表示",
+            "opinion": "吳淑珍服用抗病毒藥物,副作用讓虛弱體質更無力,憂心能否抵抗病毒。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "抵抗",
+                "毒藥",
+                "無力",
+                "無力",
+                "虛弱",
+                "憂心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:22"
+        },
+        {
+            "person": "陳水扁",
+            "verb": "宣布",
+            "opinion": "確診,身體已好轉,快篩也呈現陰性。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:22"
+        }
+    ]
+}

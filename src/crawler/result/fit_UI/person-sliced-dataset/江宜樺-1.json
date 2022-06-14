@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/江宜樺.png",
+    "opinions": [
+        {
+            "person": "江宜樺",
+            "verb": "提出",
+            "opinion": "「三不」冷血原則,不立專法、不編特別預算、不設專責機構。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "冷血"
+            ],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-11 12:36"
+        }
+    ]
+}

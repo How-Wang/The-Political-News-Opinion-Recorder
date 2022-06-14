@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃敬雅.png",
+    "opinions": [
+        {
+            "person": "黃敬雅",
+            "verb": "表示",
+            "opinion": "高雄從1月23日起就開始在基層1111家診所佈建免費快篩,高雄市民只要有呼吸道症狀就診就可以拿到。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-06-09 22:54"
+        }
+    ]
+}

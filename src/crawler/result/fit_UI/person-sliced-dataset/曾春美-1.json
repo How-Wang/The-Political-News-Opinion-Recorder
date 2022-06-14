@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾春美.png",
+    "opinions": [
+        {
+            "person": "曾春美",
+            "verb": "說",
+            "opinion": "「中央告訴我們的是說,下星期才要撥給我們。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:12"
+        }
+    ]
+}

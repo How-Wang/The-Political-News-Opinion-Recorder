@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/養網軍.png",
+    "opinions": [
+        {
+            "person": "養網軍",
+            "verb": "指出",
+            "opinion": "其說法錯誤甚多,11組中僅有4組為北市府IP。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:41"
+        },
+        {
+            "person": "養網軍",
+            "verb": "指出",
+            "opinion": "其說法錯誤甚多,11組中僅有4組為北市府IP。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:49"
+        },
+        {
+            "person": "養網軍",
+            "verb": "指出",
+            "opinion": "其說法錯誤甚多,11組中僅有4組為北市府IP。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 09:13"
+        }
+    ]
+}

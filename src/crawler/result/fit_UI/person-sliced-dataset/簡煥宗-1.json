@@ -1,0 +1,23 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "簡煥宗",
+            "verb": "說",
+            "opinion": "「你要代表一個政黨,參選一個重要職位的話,你必須還要幫他想退路的話,我覺得完全就是違反了民主政治的發展,完全就是某一方面的利益輸送。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "違反",
+                "利益輸送",
+                "違反"
+            ],
+            "positive_list": [
+                "利益",
+                "重要",
+                "發展"
+            ],
+            "datetime": "2022-06-10 18:22"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/龔明鑫.png",
+    "opinions": [
+        {
+            "person": "龔明鑫",
+            "verb": "表示",
+            "opinion": "台灣絕對夠資格,如果台灣可以加入相信會有很大幫助。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "相信",
+                "幫助"
+            ],
+            "datetime": "2022-05-30 19:32"
+        },
+        {
+            "person": "龔明鑫",
+            "verb": "表示",
+            "opinion": "就全球經貿發展角度來看,去除關稅還是相當重要,但這只是其中一部分,供應鏈重組、數位轉型、淨零排放等領域的商機及市場機會也非常大,台灣會持續努力,同時在供應鏈進行分散式布局,如降低中國生產比重,轉往東南亞、北美、中東歐等地發展,提升供應鏈韌性。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "去除",
+                "降低"
+            ],
+            "positive_list": [
+                "去除",
+                "生產",
+                "努力",
+                "重要",
+                "提升",
+                "發展",
+                "進行",
+                "機會"
+            ],
+            "datetime": "2022-05-30 19:32"
+        },
+        {
+            "person": "龔明鑫",
+            "verb": "提到",
+            "opinion": "雖然IPEF細節後續才會陸續推出,但IPEF已清楚表達美國重返亞洲、布局印太戰略的意圖,讓印太地區的國家理解美國已經踏出第一步,在這個區域有實際行動且正在落實。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "意圖"
+            ],
+            "positive_list": [
+                "清楚",
+                "理解",
+                "實際"
+            ],
+            "datetime": "2022-05-30 19:32"
+        },
+        {
+            "person": "龔明鑫",
+            "verb": "表示",
+            "opinion": "從美中貿易戰、COVID-19疫情過後,全球持續進行供應鏈重組,台灣與台商因為韌性表現最好,在重組過程中是最大獲益者,也因此,這段期間台灣的經濟成長表現非常亮眼。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成長",
+                "最好",
+                "進行"
+            ],
+            "datetime": "2022-05-30 19:32"
+        }
+    ]
+}

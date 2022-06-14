@@ -1,0 +1,42 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/朱蕙蓉.png",
+    "opinions": [
+        {
+            "person": "朱蕙蓉",
+            "verb": "表示",
+            "opinion": "陳佩琪跟她提到小孩的狀況,讓她「聽完後原本在笑的嘴瞬間凝結」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:02"
+        },
+        {
+            "person": "朱蕙蓉",
+            "verb": "表示",
+            "opinion": "「請給自己留一點口德」、「別再在柯家人的病痛上故意做文章」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "故意"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:02"
+        },
+        {
+            "person": "朱蕙蓉",
+            "verb": "指出",
+            "opinion": "陳佩琪向她透露,兒子在家昏倒數次、起直挺挺往後倒,後更失去意識,自己是醫師都嚇哭了。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "失去",
+                "昏倒",
+                "透露",
+                "失去"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:53"
+        }
+    ]
+}

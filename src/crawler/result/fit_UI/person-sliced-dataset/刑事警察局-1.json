@@ -1,0 +1,92 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/刑事警察局.png",
+    "opinions": [
+        {
+            "person": "刑事警察局",
+            "verb": "表示",
+            "opinion": "將主動追查「很多孩子走了」相關網路貼文涉及假訊息部分,不排除近期約談貼文者包含藝人郭彥均等到案說明。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "主動",
+                "均等",
+                "很多",
+                "說明"
+            ],
+            "datetime": "2022-05-28 15:48"
+        },
+        {
+            "person": "刑事警察局",
+            "verb": "表示",
+            "opinion": "將主動追查「很多孩子走了」相關網路貼文涉及假訊息部分,不排除近期約談貼文者包含藝人郭彥均等到案說明。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "主動",
+                "均等",
+                "很多",
+                "說明"
+            ],
+            "datetime": "2022-05-28 14:31"
+        },
+        {
+            "person": "刑事警察局",
+            "verb": "表示",
+            "opinion": "對於所謂約談郭彥均目前並無此規劃,也尚未有任何偵查動作。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "尚未"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 17:17"
+        },
+        {
+            "person": "刑事警察局",
+            "verb": "表示",
+            "opinion": "「已經有十位孩子走了」,政府不保護民眾、保護兒童,卻動用網軍、國家機器出征、法辦會說真話的人。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-05-29 12:42"
+        },
+        {
+            "person": "刑事警察局",
+            "verb": "表示",
+            "opinion": "目前還在蒐集輿情偵辦方向是針對內容農場幕後者。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:23"
+        },
+        {
+            "person": "刑事警察局",
+            "verb": "表示",
+            "opinion": "將會主動追查相關網路貼文涉及假訊息部分,雖說暫不約談貼文者包含郭彥均等說明,卻也呼應蘇貞昌院長的「究責查辦」,流行疫情指揮中心指揮官陳時中也公開嗆可開罰「三百萬元」或「三年以下」有期徒刑;如此動用龐大行政資源粉飾太平,說穿不過就是要求「訓化人民」。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "公開",
+                "主動",
+                "均等",
+                "流行",
+                "資源",
+                "說明"
+            ],
+            "datetime": "2022-06-09 06:10"
+        }
+    ]
+}

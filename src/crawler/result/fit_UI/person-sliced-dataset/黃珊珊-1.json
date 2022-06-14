@@ -1,0 +1,2636 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "現在疫情這麼緊張,總是要先打完(疫情)才有辦法出去選舉,「不過她很認真,瘦太多、不要太拚,拚成這樣子,黃珊珊副市長還是很認真在做防疫工作」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "緊張",
+                "不要",
+                "緊張"
+            ],
+            "positive_list": [
+                "認真"
+            ],
+            "datetime": "2022-05-21 14:56"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "雖然已經痊癒,但仍會有乾咳、體力下滑等明顯症狀,也會擔心將病毒傳染給家人或朋友「身體與心理都是不小的考驗」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "乾咳",
+                "傳染",
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-21 13:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "所以所有的醫療量能應該回防醫院端,讓中重症可以得到妥善照顧,因應這一兩週的洪峰,希望可以守住醫療第一線:​首先,台北市專責病房2500間,每天仍有八百多間空床,每日出院數大於住院數,還算安全。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "希望",
+                "得到",
+                "希望"
+            ],
+            "datetime": "2022-05-21 13:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "這幾天碰到很多確診過的朋友,大家打招呼都會先開玩笑「歡迎加入確診俱樂部」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "玩笑",
+                "開玩笑"
+            ],
+            "positive_list": [
+                "很多",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-05-21 13:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "第四是防疫急門診,讓快篩陽性不要擠爆醫院急診室,在急門診可以看診、拿藥(一般藥物與抗病毒藥物)、採檢;最後是車來速,快速採檢、看診、拿藥(非抗病毒藥物)。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "毒藥",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 13:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "​這幾天,確診累積已經破百萬,向預估人口百分之十到二十邁進,所以,之前大家都預估大概會到400-460萬人,「現在只到1/4而已,比賽,真的還沒開始」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 13:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "王必勝有詢問開設站的意見,「我說如果是你們中央要設,當然交通我們一定會幫忙,他們要設我們也沒有辦法阻止」,我跟他們說你需要交通維護我們一定會幫忙。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "阻止",
+                "沒有"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-21 11:29"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "王必勝的確有詢問,只要中央設站「交通我們會幫忙」,因為中央要設站「我們也無法阻止」,但是昨天才知道松山機場篩檢站「不是車來速」。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "阻止",
+                "無法",
+                "不是",
+                "無法"
+            ],
+            "positive_list": [
+                "天才",
+                "的確",
+                "知道"
+            ],
+            "datetime": "2022-05-21 10:56"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "是柯黑粉專的管理員,現在老師也當網軍了嗎?」柯文哲回應指出,這種東西調查清楚再講,不用捕風捉影,他的態度就是給每個人公平機會,等調查清楚再講。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "東西"
+            ],
+            "positive_list": [
+                "公平",
+                "清楚",
+                "管理",
+                "機會",
+                "公平"
+            ],
+            "datetime": "2022-05-21 12:26"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "之前王必勝問她說台北市要開篩檢站意見,她向王必勝反映說先看北市現有量能能不能擴充,如果可以的話實驗室量能可以增加,比如萬芳可以做到晚上,台大希望從400擴充到800或1000,應該以現有的量能為主。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "希望",
+                "增加",
+                "希望"
+            ],
+            "datetime": "2022-05-21 11:24"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「如果中央要設沒有辦法阻止。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "阻止",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:24"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "稱,她沒接到總統電話,台灣是同島一命,都是生命共同體,總統開很多會議,也希望總統有機會可以來關心第一線基層。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "很多",
+                "機會",
+                "關心",
+                "希望",
+                "關心"
+            ],
+            "datetime": "2022-05-23 17:09"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "稱,台灣是同島一命,都是生命共同體,應該不要再分彼此。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:09"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "目前北市會因應中央「快篩陽視同確診」的用藥程序,在五大院區試行綠色通道,65歲以上會有專門通道,「今早上跟中央通過電話,應該是預計禮拜四」,這幾天北市會先作演練,協調各大醫院進行急門診轉型,現在最主要目標是看診用藥,由於抗病毒藥物需要問診,查藥物交互作用,因此,這部分還要精進如何讓效率更快。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [
+                "協調",
+                "效率",
+                "專門",
+                "通過",
+                "進行"
+            ],
+            "datetime": "2022-05-23 17:00"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "目前中央要求開設25%-30%專責病房,現在大概2500多床,還有800多床,的確有些同仁確診,人力上叫緊繃,才會召集專責防疫天使,北市有200多位報名,今天現場有50人,如果還有缺額,這些人力都是非常珍貴資產。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "天使",
+                "的確",
+                "珍貴"
+            ],
+            "datetime": "2022-05-23 17:00"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "市長昨天有些發燒,今天早上開會聽起來鼻音比較重,咳嗽也有,也建議柯文哲要做視訊診療、取得藥品;PCR部分,她堅稱,「在制度還沒改之前還是必須PCR,我想市長絕對是守法的。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "發燒",
+                "絕對"
+            ],
+            "positive_list": [
+                "守法",
+                "守法的"
+            ],
+            "datetime": "2022-05-23 16:21"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "台灣同島一命,大家都是生命共同體,應該不要再分彼此,總統有召開很多會議,其中也有關心到台北的部分,她希望總統有機會能夠到第一線基層關心,「當然中央到地方大家一起合作,不希望分彼此,公平就好。」",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "公平",
+                "合作",
+                "希望",
+                "很多",
+                "當然",
+                "機會",
+                "關心",
+                "公平",
+                "合作",
+                "希望",
+                "關心"
+            ],
+            "datetime": "2022-05-23 17:30"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "強調",
+            "opinion": "防疫急門診未來採檢並非最重要的目標,以看診用藥為主,但因為抗病毒藥物還需要問診、調查藥物交互作用,所以還在精進如何讓速度效率更快,柯文哲也已指示聯合醫院在網站預約上,就先讓民眾自行填寫曾吃過哪些藥物、疾病,加速開藥過程,目前先做院內演練,之後就會跟各大醫院做配合。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "毒藥",
+                "疾病"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "效率",
+                "最重要",
+                "最重要的",
+                "聯合"
+            ],
+            "datetime": "2022-05-23 17:09"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "台灣現在疫情已經擴散,並不是個別哪個單位的問題。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 16:48"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "環保局的確有些同仁確診,但排班會以不影響民眾權益為主,會進行分流,人力也會互相調度,目前為止沒有影響到正常業務。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "正常",
+                "的確",
+                "進行",
+                "權益"
+            ],
+            "datetime": "2022-05-23 16:48"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "早上開會時,柯文哲的聲音聽起來的確鼻音比較重,還有咳嗽的狀況,也有建議柯文哲去視訊診療、取得藥品。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-23 16:29"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "「這兩天的確診數據有點詭異」,至於下周台北是否繼續停止實體到校,黃珊珊則說「週五前會決定」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "停止",
+                "詭異"
+            ],
+            "positive_list": [
+                "決定",
+                "的確"
+            ],
+            "datetime": "2022-05-23 07:05"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "上述三個單位確診多的原因,主要是他們人數相對比較多,且也大多是接觸民眾的第一線。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 07:05"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "「有這麼多的人,投入這麼多的力量,我想這也是到第一線,才能看到的事情,我覺得對總統來關心,我覺得我們大家,都是非常高興,這就是鼓舞士氣,我覺得這件事情非常重要。」",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "重要",
+                "高興",
+                "鼓舞",
+                "關心",
+                "高興",
+                "鼓舞",
+                "關心"
+            ],
+            "datetime": "2022-05-24 22:31"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "災害準備金還在整理,因為有部分是提出匡列,目前打算提第2次追加預算。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "災害"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-24 16:18"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "北市府包括衛生局,甚至自己本人,都跟中央其實有很多溝通,中央若有新的政策也都會事先通知,讓地方政府先做演練,這幾天都在討論,明、後天新的政策上路後,北市府的規劃,她坦言,防疫很多時候大家都想把事情做好,當然有一些意見不同的地方,但目標是一致的。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "一致的",
+                "很多",
+                "通知",
+                "當然",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 18:18"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "第二,感謝中央有聽進地方政府反映,關於快篩陽性是否就等同確診認定的問題,26日也即將上線,但可能會碰到65歲以上民眾,希望篩檢站也能開藥,這點希望中央能幫地方做陳述,否則屆時可能在各大篩檢站都會碰到一樣的問題,會有民眾質疑,中央都開放給藥了,為什麼篩檢站不開放給藥?這點是必須向中央反映的。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "質疑",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "開放",
+                "感謝",
+                "希望",
+                "感謝"
+            ],
+            "datetime": "2022-05-24 17:25"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "今天全台本土病例82363例,台北市則是8566例。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:07"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "中南部的疫情開始升溫了,台灣是一日生活圈,南來北往頻繁,星星之火仍可燎原。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "頻繁"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:07"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "快篩陽經醫師認定即等同確診即將上路,未來各大篩檢站恐怕面臨不符領藥資格的民眾,會跑來說要拿藥,質疑「為什麼中央開放全民領藥,但醫院卻沒有開藥」,希望希望中央先行向民眾宣導,替第一線人員說清楚領藥規則。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不符",
+                "沒有",
+                "恐怕",
+                "質疑",
+                "沒有",
+                "恐怕"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-05-24 21:27"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "台北市將於24日開始啟動紓困計畫。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 21:27"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "雖然台北市長柯文哲無法到場,但特別交代要對蔡英文表達感謝,黃珊珊也向台北榮總致謝。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "特別",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-24 21:27"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "非常感謝蔡英文在國務繁忙之際,替台北市第一線醫護人員加油打氣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-24 21:22"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「我是代表市長還有台北市民,一起到這邊去接待總統,防疫是沒有顏色的,而且為民謀福利,我想任何人都可以合作。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "合作",
+                "福利",
+                "合作"
+            ],
+            "datetime": "2022-05-25 18:56"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「把市民照顧好是我的工作也是責任,台北有22萬確診個案,每天還有8、9千人,我們每天從早到晚,關心的是疫情不是選情。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-25 18:48"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "這個地方得天獨厚,因為這裡剛好有很多停車位,可以變成診間,將來就可以直接變成停車、看診、拿藥的地方,也請醫院開始做這個規劃。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-25 14:59"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "這要看空間分車道方法,雖然北科、中正紀念堂有比較大空間,但是沒有辦法完全遮風避雨,因此還要再調整動線,目前還在跟榮總、新光醫院討論,預計這2天會有下禮拜以後的規劃。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-05-25 14:59"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "自己也是今天才聽到這件事,她跟沈慧虹會相識,是因為對方以前也在市政府服務,她大讚,沈慧虹是一個非常優秀的政務官,「好的人才,希望大家都能夠有機會一展所長。」",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "天才",
+                "希望",
+                "機會",
+                "優秀",
+                "優秀的",
+                "希望"
+            ],
+            "datetime": "2022-05-25 17:32"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "自己昨天是代表市長跟台北市民去接待總統,也趁這個機會向總統反映地方的問題,雙方是一起去給第一線醫護人員加油打氣,這是應該做的工作,她強調,防疫是沒有顏色的,「而且為民謀福利,我想任何人都可以合作,只要為台北市民好的,都可以合作。」",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "福利",
+                "機會",
+                "合作"
+            ],
+            "datetime": "2022-05-25 17:20"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "要視空間和分車道方法決定,木柵機廠是剛好有很多停車位,可以變成像醫院的門診間,一間一間看診,但北士科跟中正紀念堂屬於比較大空間型的,可能沒有這麼好遮風避雨的地方,要再思考一下調整方式跟動線,會跟榮總及新光醫院討論,她也透露,這兩天會有下周以後的一些規劃。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "透露",
+                "沒有"
+            ],
+            "positive_list": [
+                "決定",
+                "很多",
+                "思考",
+                "紀念"
+            ],
+            "datetime": "2022-05-25 15:15"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "對於鼓舞士氣非常重要。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "鼓舞",
+                "鼓舞"
+            ],
+            "datetime": "2022-05-25 10:24"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "今天開始快篩陽確認的方式有幾種,第一,希望大家能夠用視訊診療的方式,跟基層的診所、醫院做電話視訊診療,親友也可以攜帶快篩陽者的檢體到診所或是醫院去;快篩陽的本人,希望到醫院的急門診去,也就是說盡量到醫院,不要到診所。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-26 18:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說明",
+            "opinion": "北市有259家診所、23家醫院提供快篩陽民眾確診評估及後續關懷服務,相關名單則可到北市府網站「Covid-19防疫專區」的「快篩陽後有哪些院所可以確診判定?」連結找到。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-05-26 18:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "即可研判為確診個案後說明,為了擴大服務,北市府與醫師公會協商,協調更多的醫療院所服務市民朋友,儘早獲得需要的醫療照護。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "說明",
+                "獲得"
+            ],
+            "datetime": "2022-05-26 18:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說明",
+            "opinion": "銘傳國小原本有135人要打莫德納,但有114人抽單,棄打率高達84%,的確有棄打潮狀況,但這是家長的選擇,也是很正常的事情,不過今日仍有學生來接種莫德納。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "正常的",
+                "的確"
+            ],
+            "datetime": "2022-05-26 10:32"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "宣布",
+            "opinion": "北市中小學、公幼下週遠距教學、疫苗接種計畫等議題。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:01"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "宣布",
+            "opinion": "北市中小學、公幼下週遠距教學、疫苗接種計畫等議題。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:15"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "上午9時會與台北市長柯文哲報告,北市教育局已於25日討論過,但仍要等柯文哲的決策,並且於今天下午記者會對外說明。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-26 10:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "上午9時會與台北市長柯文哲報告,北市教育局已於25日討論過,但仍要等柯文哲的決策,並且於今天下午記者會對外說明。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-26 09:28"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "上午9時會與柯文哲開會報告,北市教育局已於昨(25)日討論過,但仍要等柯文哲決策,今天下午會在記者會統一對外說明。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-26 09:46"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "但部分媒體、民意代表利用這個事件上節目,並把公務員當作上節目的工具,她認為,這樣的行為很不妥當,站在北市府的立場,會保護自己的公務員。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不妥當",
+                "利用"
+            ],
+            "positive_list": [
+                "妥當",
+                "保護"
+            ],
+            "datetime": "2022-05-26 17:37"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "由於今起因應快篩陽經醫師評估視為確診可以用藥的狀況,車來速做了轉型;明起車來速除保留PCR檢測,也會開始提供抗病毒藥物,因此跑一趟車來速可以進行快篩陽直接卻認為確診,同時可以拿藥,有需要可以提供抗病毒藥物。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-27 16:10"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "會規畫出一個單獨的動線,因為領取抗病毒藥物需要問診,所以會有專用的動線,視情況北市也會增加看診的醫師。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-27 16:10"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "會規畫出一個單獨的動線領抗病毒藥物,因為領取此藥需要問診,所以會有專用的動線,並與領一般藥物及做PCR的人分流,視情況北市也會增加看診醫師,提高車來速的服務速度。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [
+                "提高",
+                "增加"
+            ],
+            "datetime": "2022-05-27 16:49"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "因為診所還有其他病患,台北市府希望快篩陽的朋友不要直接到診所或醫院,避免交叉感染,請大家第一優先是「視訊診療」,其次是請親友帶著檢體到診所給醫師判斷;若快篩陽本人真的要親自看診,建議到台北市的防疫急門診以及車來速。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "感染",
+                "避免",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "避免",
+                "希望"
+            ],
+            "datetime": "2022-05-27 16:49"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "目前沒有接獲通報;至於意願調查部分,幼兒園總體是3萬2千人,目前同意的是1萬5千人,大概46%,其實還有5成多家長沒有同意來施打,我們是盡量鼓勵,目前是尊重自由意願,還是鼓勵他們施打。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "同意",
+                "自由",
+                "尊重",
+                "鼓勵",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 13:49"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "疫苗量足夠,選擇哪一種都可以,沒有輸跟贏,若已預約者想改到幼兒園施打,平台的名額取消再到園所登記也沒有問題。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "取消",
+                "問題",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "足夠"
+            ],
+            "datetime": "2022-05-28 13:49"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "會開這麼多元的管道,是因為有些人不願意集體施打,因此當然要開放一些在平台上;如果想要回園區的話,要把平台的取消再園所登記也沒有問題。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "不願意",
+                "沒有",
+                "取消",
+                "問題",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "開放",
+                "當然",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 13:49"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "批評",
+            "opinion": "選市長的人,應該對市政多發表看法。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 18:29"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "強調",
+            "opinion": "她只談疫情,不談選情,蔣萬安卻是批評中央防疫慢半拍,綠營議員直呼,這2人不是在選衛福部長,想選市長應該對市政提出更多看法。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "不是",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 18:29"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「台北市身為中華民國首都,我們有自信跟全世界各城市交流,雙城論壇是保留對話管道,當然會繼續辦。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自信",
+                "當然",
+                "自信"
+            ],
+            "datetime": "2022-05-28 18:29"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "北市有25萬人確診,她想疫情不想選情。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:33"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "「防疫不分顏色也不分政黨,大家就努力防疫就好了。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-05-28 17:37"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "強調",
+            "opinion": "不管是非對錯都有一定價值,不管喜不喜歡都存在,讓中正紀念堂造福市民才是最大貢獻。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不喜歡",
+                "不管",
+                "不喜歡"
+            ],
+            "positive_list": [
+                "紀念",
+                "喜歡",
+                "喜歡"
+            ],
+            "datetime": "2022-05-28 13:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "現在台北市有25萬人確診,每天有9000多人確診,「我們只想疫情不想選情」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:57"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "重點違停部分跟相關違規部分,尊重第一線警員現場依法執行,這件事情當事人願意就按照當事人意願,沒有特別干涉,從頭到尾都是市警局在處理的。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "干涉",
+                "沒有",
+                "沒有",
+                "違規"
+            ],
+            "positive_list": [
+                "特別",
+                "尊重",
+                "願意",
+                "尊重",
+                "願意"
+            ],
+            "datetime": "2022-05-28 13:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "徐巧芯認為已經有炒作或政治效應,因此希望公布,這件事全由市警局處理。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 13:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "由於徐巧芯認為有政治效應,且本人同意公布就公布,這件事全由市警局處理。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "同意"
+            ],
+            "datetime": "2022-05-28 11:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "解釋",
+            "opinion": "之前沒公佈是因為當事人不同意,而且違停沒有爭議,既然本人願意公布,市警局就公布,可受公評。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不同意",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "同意",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 11:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "有互相較勁的意味,黃珊珊則說,這是地方公益的事情,廟方活動只有3天,而第一天為平日,28日她則有其他活動,所以與廟方約29日,「這是很早以前就約好的,此活動非常有意義,對地方來說很重要,沒有人在比賽。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有",
+                "較勁"
+            ],
+            "positive_list": [
+                "有意義",
+                "重要"
+            ],
+            "datetime": "2022-05-29 10:53"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "地方事情沒有分顏色、黨派。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:53"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「若黨中央徵招加入民眾黨,我覺得還是一句話,現在我的工作還是非常重要,也就是說疫情還是最重要的事情,基層傳妳加入民調對他們較好,我覺得就是大家一樣,台灣要走出政黨對立,不要去想這些事情,我先把自己該做的事情做好。」",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "對立",
+                "不要",
+                "對立"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "較好"
+            ],
+            "datetime": "2022-05-29 12:44"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "很早就跟廟方約好了,這活動很有意義是地方公益的事情,「沒有人在比賽」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "有意義"
+            ],
+            "datetime": "2022-05-29 10:54"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "強調",
+            "opinion": "這是公益活動,霞海大家都會來,跟廟方本來就是朋友,也是地方信仰中心,長期做公益,他們去年捐了市府很多防疫物資,來這邊接受好幾次物資,「地方事情沒有分顏色,防疫沒有黨派之分」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多",
+                "接受"
+            ],
+            "datetime": "2022-05-29 10:54"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "還是一句話,「現在我的工作還是非常重要,疫情還是最重要的事,選舉的事情我現在還沒考慮在內」。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "考慮",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-29 10:37"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "台灣要走出政黨的對立、藩籬,首先台北市不要去想這些事情,先把自己該做的事做好。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "對立",
+                "不要",
+                "對立"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:37"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "這活動很有意義,對地方很重要,沒有人在比賽。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "有意義",
+                "重要"
+            ],
+            "datetime": "2022-05-29 11:15"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "這是地方公益的事情,因為廟方活動總共有3天,第一天是自己的上班日,昨天因為有其他行程,所以跟廟方約好是今天來,她解釋,兩邊很早就約好了,並強調,這活動很有意義、對地方也很重要,沒有人在比賽。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "有意義",
+                "重要"
+            ],
+            "datetime": "2022-05-29 11:15"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "對於每個數字來說,就是一個家長的全部,且行政院長應該很忙,質疑有無需要用「大砲打小鳥」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "疑有",
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:21"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "「我也有個孩子,而我只有一個孩子,一個孩子對我來說都是很多。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 10:21"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "「有沒有相關的施壓這件事情,公開以後可受公評,我想巧芯議員她也都已經澄清也都道歉了,這件事情就應該是就事論事,違規了就是不應該,也不用說太多。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不應該",
+                "沒有",
+                "道歉",
+                "違規"
+            ],
+            "positive_list": [
+                "公開",
+                "澄清"
+            ],
+            "datetime": "2022-05-29 18:24"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "「有沒有需要用所謂的大砲打小鳥,這件事情應該是要提醒,這是一個存在的事實,那我們應該是怎麼去,重視孩子的高死亡率。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "重視"
+            ],
+            "datetime": "2022-05-29 18:18"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "台灣兒童死亡率現在的確是每天新聞內容,必須引起政府重視,每個家長都很緊張,不然不會這麼多家長急著打疫苗,「行政院長應該很忙,有沒有必要用所謂的大砲打小鳥?」黃珊珊強調,這件事要提醒這是存在事實,要怎麼去重視孩子的高死亡率,才是應該重視的事情,很多事很重要,怎麼會用這樣的方法對待一件個案。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "死亡",
+                "沒有",
+                "緊張",
+                "不會",
+                "沒有",
+                "緊張"
+            ],
+            "positive_list": [
+                "必要",
+                "的確",
+                "很多",
+                "重要",
+                "重視"
+            ],
+            "datetime": "2022-05-29 09:58"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "她僅表示,疫情才是最重要的事情,選舉的事情沒有考慮在內。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有考慮",
+                "沒有"
+            ],
+            "positive_list": [
+                "考慮",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-05-29 10:55"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "台灣兒童死亡率的確是政府應重視的事,「我覺得行政院長應該很忙,怎麼會需要大砲打小鳥?」針對郭彥均事件持續發酵,黃珊珊表示,自己只有一個孩子,所以一個孩子對她來說就是很多,「我不知道10個孩子算不算多,但是每一個數字,都是一個家長的全部,這件事情才是重點。」",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "死亡",
+                "不知"
+            ],
+            "positive_list": [
+                "的確",
+                "知道",
+                "很多",
+                "重視"
+            ],
+            "datetime": "2022-05-29 10:10"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "她就喜歡親民黨、又重感情,所以大家都離開親民黨的時候她留下來,不會去想要怎樣才能飛黃騰達。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "離開",
+                "不會",
+                "怎樣"
+            ],
+            "positive_list": [
+                "才能",
+                "飛黃騰達",
+                "喜歡",
+                "喜歡"
+            ],
+            "datetime": "2022-05-30 20:34"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "等疫情趨緩後要振興商圈,最合適時候應該是8、9月,正在規劃第二次追加預算並爭取先墊付,下半年的振興活動有望9或10月啟動。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合適",
+                "適時"
+            ],
+            "datetime": "2022-05-30 20:34"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "不管政治環境如何改變,只要紮實做好自己的工作「不管是藍是綠都會給你肯定」,而柯文哲執政的台北市沒有分過政黨,只要有道理的事情市政府都會去做。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不管",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "肯定",
+                "道理"
+            ],
+            "datetime": "2022-05-30 20:34"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "自己重感情、喜歡親民黨,而台北市多元、能包容不同聲音,不因黨派分崩離析。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "分崩離析"
+            ],
+            "positive_list": [
+                "喜歡",
+                "喜歡"
+            ],
+            "datetime": "2022-05-30 20:34"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "宣布",
+            "opinion": "參選或請辭,黃珊珊表示,現在疫情嚴峻、真的沒心思想選舉,如果疫情控制得宜、工作告一段落,「那當然OK」,疫情現在還是高原期,不知道要多久,而她如果真的要請辭,一定會把工作安排妥當。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "嚴峻",
+                "不知"
+            ],
+            "positive_list": [
+                "妥當",
+                "知道",
+                "當然"
+            ],
+            "datetime": "2022-05-30 18:42"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "重點不是黨籍,而是要爭取最多市民的認同。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-05-30 16:10"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "這八年來,北市府並沒有因為政治壓力而草草了事,更沒有因為意氣用事,而讓市民付出更多成本及代價,從一堅持用最務實的態度面對問題,改善每一項安全措施,從容留人數、防火區劃到安全梯的增設,都讓大巨蛋更加安全,也更符合市民的期待。",
+            "negative_score": 6,
+            "positive_score": 9,
+            "negative_list": [
+                "代價",
+                "沒有",
+                "問題",
+                "壓力",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "安全",
+                "改善",
+                "務實",
+                "堅持",
+                "從容",
+                "符合",
+                "期待",
+                "改善",
+                "期待"
+            ],
+            "datetime": "2022-05-30 19:26"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "這顆蛋,從31年前大雨滂沱的台北市立棒球場開始,孵了非常久,「我要很誠懇的告訴市民朋友,以及全台灣的棒球迷,這份堅持,這份等待,絕對是值得的。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "大雨",
+                "絕對"
+            ],
+            "positive_list": [
+                "值得",
+                "值得的",
+                "堅持",
+                "誠懇",
+                "誠懇的",
+                "誠懇"
+            ],
+            "datetime": "2022-05-30 19:26"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "在北市府的共同努力之下,與遠雄確立了營收分潤,前朝將價值140億元的土地,以0元權利金讓利的不平等條約就此宣告終結,「我們為台北市民拿回應得的權益,守護住應有的公平正義。」",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "不平"
+            ],
+            "positive_list": [
+                "公平",
+                "平等",
+                "正義",
+                "努力",
+                "權益",
+                "公平"
+            ],
+            "datetime": "2022-05-30 19:26"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "這波疫情包括服務業、餐飲業也都會受到影響,北市因此先針對公有部分進行降租,解決場域問題,並同時要求須回饋給第一線的承租人,「現在不論砸多少錢都不會有業績,因此要先做的是止血,後續的輸血會像去年的熊好券一樣,等這波疫情趨緩後,再以振興的方式處理。」",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "要求",
+                "問題",
+                "不會",
+                "問題"
+            ],
+            "positive_list": [
+                "進行",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-30 16:52"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "只要疫苗打在小孩子身上,對於方式他們都尊重,「但我們自己會做好安排。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-30 16:13"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "了算,「民主政治還是由市民投票決定。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-30 15:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "時先是老話一句「大家很關心...目前會做我該做的事情」,特別是現在疫情嚴峻,沒有心思在想選舉。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "嚴峻",
+                "沒有"
+            ],
+            "positive_list": [
+                "特別",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-30 16:45"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "許多飯店業者沒有生意,因此採取延租、延稅的方式,這樣對業者的幫助會比較大。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "幫助"
+            ],
+            "datetime": "2022-05-30 17:41"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "若是疫情趨緩、入境規定鬆綁,可以考慮配合振興方案,採取的策略可能會和去年熊好券相同。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "考慮"
+            ],
+            "datetime": "2022-05-30 17:41"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "只要疫苗打在小孩子身上,方式都會尊重,「但我們自己會做好安排。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-30 17:05"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "宣布",
+            "opinion": "選台北市長的時間點?柯文哲表示,目前疫情還沒穩定,黃珊珊有自己的主體性,「這不用她跟我講,什麼時候宣布她自己決定。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "穩定"
+            ],
+            "datetime": "2022-05-30 16:11"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "下一步,就是讓大巨蛋的營運正式步上軌道,這座場館,將會用1場場經典的賽事,和職棒球員與台灣球迷們續寫歷史。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正式"
+            ],
+            "datetime": "2022-05-30 23:16"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "這8年來,北市府並沒有因為政治壓力而草草了事,更沒有因為意氣用事,而讓市民付出更多成本及代價,從一堅持用最務實的態度面對問題,改善每一項安全措施,從容留人數、防火區劃到安全梯的增設,都讓大巨蛋更加安全,也更符合市民的期待。",
+            "negative_score": 6,
+            "positive_score": 9,
+            "negative_list": [
+                "代價",
+                "沒有",
+                "問題",
+                "壓力",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "安全",
+                "改善",
+                "務實",
+                "堅持",
+                "從容",
+                "符合",
+                "期待",
+                "改善",
+                "期待"
+            ],
+            "datetime": "2022-05-30 23:16"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "宣布",
+            "opinion": "由黃珊珊代表民眾黨參選,柯文哲表示,黃珊珊不會代表民眾黨,目前黃珊珊都還是無黨籍,而且黃珊珊要選市長,是黃珊珊要自己出來講,「怎麼會是我代替她宣布?這邏輯很奇怪。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "奇怪",
+                "不會"
+            ],
+            "positive_list": [
+                "邏輯"
+            ],
+            "datetime": "2022-05-30 21:21"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "如果接種地點安排在自由廣場,應該是由台北榮總負責,中央可能會直接與榮總處理,這部分還要再做了解,不過重點是北市府已經安排這2周在學校內接種,她不知道中央的方向是什麼,但只要疫苗打在兒童身上,相關方式北市府都尊重,北市府也會自己做好安排,不過自由廣場有很多快篩陽性的民眾,「我們不太建議。」",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "不太",
+                "不知",
+                "不知道",
+                "不知"
+            ],
+            "positive_list": [
+                "了解",
+                "自由",
+                "知道",
+                "很多",
+                "負責",
+                "尊重",
+                "自由",
+                "尊重"
+            ],
+            "datetime": "2022-05-30 18:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "今天是從政以來最欣慰的一天。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 15:57"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "自己從頭到尾只有一個念頭,就是為台北市民取回應有的權益,「前朝做不到的,我們做到了,0權利金的不平等條約,就此終結。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "不到",
+                "不平",
+                "不到"
+            ],
+            "positive_list": [
+                "平等",
+                "權益"
+            ],
+            "datetime": "2022-05-31 15:57"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "不管黃珊珊接下來用什麼黨籍參選,「我的價值理念,是不會背棄一路栽培我的政黨」,不論這政黨現在有多艱困,聲勢高或低。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不管",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 14:35"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「以遠雄大巨蛋賺了1000元為例,台北市民可以拿到6元」的言論,楊舜欽強調,營收不等於獲利,營收增加也可能會有實質虧損,巨蛋公司承擔成本風險,同意分潤予台北市政府,而非外界所述「遠雄賺1000元,北市府拿6元」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "同意",
+                "增加",
+                "獲利"
+            ],
+            "datetime": "2022-05-31 11:42"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "該邀約已經很久,本來4月要去,但因自己確診隔離延到近期,且照片是要用在臉書。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:08"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "政黨不是只有對立,也可以合作,要爭取最多市民認同,既然希望市民不要成為被綁架的對象,自己就不要這樣。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "綁架",
+                "對立",
+                "不是",
+                "不要",
+                "對立"
+            ],
+            "positive_list": [
+                "合作",
+                "成為",
+                "希望",
+                "合作",
+                "希望",
+                "認同"
+            ],
+            "datetime": "2022-05-31 17:08"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "合約的部分要看保費已經扣款、拿現金,有些是用信用卡、還沒扣款,類似的情況就是現在的爭議所在。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "信用",
+                "信用"
+            ],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "公務員薪水的發放都有相關規範,中央希望全國公務員之薪資發放標準統一,若有額外獎勵需報中央人事總處,因此後續會再向中央申請。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "規範",
+                "獎勵",
+                "希望",
+                "獎勵"
+            ],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "相關的錯誤都來自日前中央系統之錯植,在中央系統優化後,相關問題都有得到緩解,由於解隔書已可以自行申請下載,因此目前已沒有解隔書漏發放的問題。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "錯誤",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "得到"
+            ],
+            "datetime": "2022-05-31 20:16"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "蔣萬安民調有下滑趨勢,下階段就是拚黃金交叉?蔣萬安回應,民調就是起起伏伏,重要的是怎樣為台北擘畫更好的願景,相信自己的能力可以帶領優秀人才組成台北隊,讓台北重新站上世界頂尖城市。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "怎樣",
+                "是怎樣"
+            ],
+            "positive_list": [
+                "相信",
+                "重要",
+                "重要的",
+                "能力",
+                "優秀",
+                "黃金"
+            ],
+            "datetime": "2022-05-31 14:13"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "非常詭異,但當年的她只能狗吠火車、無力回天,經過兩年與遠雄重啟議約,協商過程中只有一個概念,就是要終結零權利金的不平等合約。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "無力",
+                "不平",
+                "無力",
+                "詭異"
+            ],
+            "positive_list": [
+                "平等"
+            ],
+            "datetime": "2022-05-31 11:22"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "不管政治環境如何改變,只要紮實做好自己的工作「不管是藍是綠都會給你肯定」,而柯文哲執政的台北市沒有分過政黨,只要有道理的事情市政府都會去做。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不管",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "肯定",
+                "道理"
+            ],
+            "datetime": "2022-05-31 09:36"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "強調",
+            "opinion": "北市府並沒有因為政治壓力而草草了事,更沒有因為意氣用事,而讓市民付出更多成本及代價,從一堅持用最務實的態度面對問題,改善每一項安全措施,從容留人數、防火區劃到安全梯的增設,都讓大巨蛋更加安全,也更符合市民的期待。",
+            "negative_score": 6,
+            "positive_score": 9,
+            "negative_list": [
+                "代價",
+                "沒有",
+                "問題",
+                "壓力",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "安全",
+                "改善",
+                "務實",
+                "堅持",
+                "從容",
+                "符合",
+                "期待",
+                "改善",
+                "期待"
+            ],
+            "datetime": "2022-05-31 08:47"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "兩年來議約成果,與建商遠雄達成包底抽成共識,大巨蛋營業收入在預估收入百分之百以下部分,分潤計收比率區間在0.6%至1.2%間;大巨蛋只要開始營運有營收1000元,北市府就會分得6元回饋市民。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "達成"
+            ],
+            "datetime": "2022-06-02 10:30"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「王必勝說行政院長蘇貞昌在早上10點公布後,就很急著去安排,來不及跟我們說。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:08"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "木柵機廠篩檢站6月3日退場,北士科篩檢站則從原本的三線減少為一線,3天端午連假會先減時,若下週量持續減少,就會慢慢撤除,中正紀念堂篩檢站部分,北市府會再跟榮總商量,下週會做決定。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "退場",
+                "減少"
+            ],
+            "positive_list": [
+                "決定",
+                "紀念"
+            ],
+            "datetime": "2022-06-02 14:39"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "只要是同黨籍,做的一切都是對的,因而黨同伐異、忽視民意,進而將事實扭曲。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "忽視"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 14:45"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "只要是同黨籍,做的一切都是對的,因而黨同伐異、忽視民意,進而將事實扭曲。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "扭曲",
+                "忽視"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:29"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "政治,就是找回良心而已。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-03 10:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "長達多年的馬拉松式談判,公務員的兢兢業業,市府只要證明一件事:「公共安全與市民利益不能被交換」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "安全",
+                "利益"
+            ],
+            "datetime": "2022-06-03 10:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "市府揭露分潤機制的原因是,公開透明就是最好的防腐劑。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "揭露"
+            ],
+            "positive_list": [
+                "公開",
+                "透明",
+                "最好"
+            ],
+            "datetime": "2022-06-03 10:02"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "目前公開表態僅前交通部長林佳龍,台北市長人選仍以考量最有可能勝選的人、找出會贏的人,衛生福利部長陳時中目前以處理疫情為主。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "福利",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-05 12:14"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "根據《傳染病防治法》無規定24小時內火化「確診死亡者」,但衛生福利部第十六點指引中,確診死亡後裝入屍袋不可打開,且因《傳染病防治法》規定,要求必須儘速火化、報請地方機關深埋,減少風險,同時建議醫院入殮封棺儘速,凍存不會超過24小時。",
+            "negative_score": 10,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "不會",
+                "死亡",
+                "要求",
+                "減少",
+                "超過",
+                "傳染",
+                "傳染病",
+                "不可",
+                "不會"
+            ],
+            "positive_list": [
+                "福利",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 17:23"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "因為台北市立第二殯儀館現在已額滿且正在施工,並無專區可暫存遺體,現正研議、盤點有無暫存專區可使用,也將與醫院協商討論,中央也說要與業者及地方政府討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 22:54"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "畢竟是醫院的設備,還是要協商,北市府目前的設備沒有地方可暫存;北市聯合醫院總院長璩大成則表示,會盡快了解,但現在的氛圍,儘管中央沒有明定處理時間,但疫情之下,時間上應該還是沒辦法太長。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "了解",
+                "聯合"
+            ],
+            "datetime": "2022-06-06 16:15"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "這份公文有兩個重點:1.儘速火化。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "公文上規定醫院或接體車上入殮後直送火化,「這難道可以拖超過24小時嗎?希望中央能明訂指引,讓家屬的心靈能得到安慰。」",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "超過",
+                "安慰"
+            ],
+            "positive_list": [
+                "安慰",
+                "希望",
+                "得到",
+                "安慰",
+                "希望"
+            ],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "過去兩年三個月,各縣市按照中央發布的指引,將因Covid-19逝世的遺體盡速火化。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "防疫當前,公務員與家屬都遵從指引,卻換來一句「誤會一場」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "誤會"
+            ],
+            "positive_list": [
+                "遵從"
+            ],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說明",
+            "opinion": "北市府會去盤點,但也得詢問醫院願不願意暫存,「有些醫院可能不願意。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不願意"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-06 17:10"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "北市府正在研擬居住正義3.0,讓年輕人在台北市生養,包括解決租屋市場不健全,租屋市場公開透明,她透露,北市不僅蓋社宅,也研擬蓋未來宅,讓年輕人租屋20年,就有機會取得所有權,另外,也規劃讓更多老人可以住到電梯大樓,老人的舊公寓是否釋出讓年輕人住,讓年輕人可以在台北市生養孩子。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不健全",
+                "透露"
+            ],
+            "positive_list": [
+                "公開",
+                "正義",
+                "有權",
+                "健全",
+                "透明",
+                "解決",
+                "機會",
+                "解決"
+            ],
+            "datetime": "2022-06-07 17:27"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「因為這個衛生局法規是衛生局主管,您提出舉發,我們就依法處理。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-07 14:43"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "提到",
+            "opinion": "22處醫院戶外急門診將繼續服務,市府還會提供公費快篩劑,讓有症狀的民眾可以至現場篩檢,儘早確認是否確診,提早給藥休養。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 15:56"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "北市疫情邁入高原期,儘管每天仍有數千人確診,但醫療量能充裕,加上快篩陽由醫師臨床判斷後認定確診,讓診所醫師加入防疫第一線,大幅減少醫院負擔;也讓院外急門診與車來速人數大幅下降,因此,北市防疫措施自本周起將大幅調整。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "下降",
+                "負擔",
+                "減少"
+            ],
+            "positive_list": [
+                "充裕"
+            ],
+            "datetime": "2022-06-08 15:56"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "指出",
+            "opinion": "台北市已經公布9大紓困措施,目前已開始滾動式修正各項紓困方式,幫助企業止血。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "幫助"
+            ],
+            "datetime": "2022-06-08 15:56"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說明",
+            "opinion": "這次紓困加碼9大類對象,包括工作受疫情影響生活陷困市民、托嬰機構、居家托育人員(保母)、身障學生交通車委外廠商、庇護工場、中小企業、創業青年、藝文單位或組織,以及公有零售市(商)場攤商及市場處轄管場域具安置性質的承租人,包含上次公布的9大紓困方案,總金額近30億元。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "庇護"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:28"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說明",
+            "opinion": "「中央未強制24小時內火化。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "強制"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 06:30"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "提到",
+            "opinion": "將提高簡易貸額度,其中中小企業貸款80萬元提高至300萬元,而青年創業貸款50萬元提高至120萬元。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提高",
+                "簡易"
+            ],
+            "datetime": "2022-06-08 17:52"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "宣布",
+            "opinion": "加碼對象擴大「9大類」,包括受疫情影響的托嬰機構、居家托育人員(保母)等。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:09"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "提到",
+            "opinion": "將提高簡易貸額度,其中中小企業貸款80萬元提高至300萬元,而青年創業貸款50萬元提高至120萬元。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提高",
+                "簡易"
+            ],
+            "datetime": "2022-06-08 16:09"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "國民黨有個理論,要在最後棄保黃珊珊,看能否用藍營的板塊贏下,但在這段防疫期間,蔣萬安在立委的工作好像消失了,「我實在沒看到他」,也讓蔣無法證明其能力。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "消失",
+                "無法",
+                "消失",
+                "無法"
+            ],
+            "positive_list": [
+                "能力",
+                "實在"
+            ],
+            "datetime": "2022-06-09 10:42"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「我感情上,百分百支持黃珊珊」,引發熱議。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "發熱"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 21:45"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "「感謝柯黑跟柯P的共同支持,我好像電燈泡。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-09 20:42"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "感謝柯黑跟柯P的共同支持,「我好像電燈泡,感謝堅定支持。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "堅定",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-09 23:15"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "去年就有發現問題,因此在預算裡有編列,很多餐飲業、商圈,會在這波振興活動裡協助所有企業度過難關。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "協助",
+                "很多"
+            ],
+            "datetime": "2022-06-10 19:21"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "今年台北市也有一波疫情,目前已經進入高原期,但大家還是可以正常參加活動、正常生活。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "參加"
+            ],
+            "datetime": "2022-06-10 19:21"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「我覺得王世堅應該理智上支持我才對,我有跟他說稍微罵一下,你不能每天稱讚我,他就說可是我罵不出來。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "不出"
+            ],
+            "positive_list": [
+                "稱讚",
+                "稱讚"
+            ],
+            "datetime": "2022-06-10 12:32"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "但理智往往戰勝感情,雙方一來一往鬥嘴,讓全場捧腹大笑。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "戰勝",
+                "大笑",
+                "戰勝"
+            ],
+            "datetime": "2022-06-10 09:38"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "台北市長柯文哲用無黨籍參選的時候,也都是沒有政黨的人支持,大家不要狹隘只想著政黨利益,應把民眾利益放在前面,就像黨意不要凌駕於民意,黨意也不要凌駕於良心。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "沒有",
+                "狹隘"
+            ],
+            "positive_list": [
+                "利益",
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-11 15:47"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "她與民眾黨的大家都是好朋友,政黨不是只有競爭也有合作,而且彼此理念相近,大家合力把餅做到最大,而不是在餅裡面分位置。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "競爭",
+                "不是"
+            ],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-11 15:47"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "認為",
+            "opinion": "台灣已經被政黨操作成這樣非常可惜,其實可以不同顏色一起手牽手往前走,而不是互相拉扯往後退。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "可惜",
+                "後退",
+                "不是",
+                "可惜"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 15:47"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「我感情上百分百支持黃珊珊」,但理智往往戰勝感情等說法;而台北市副市長黃珊珊也罕見在臉書PO出3篇與王世堅有關的文章。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "罕見",
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-12 16:05"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "自己跟王世堅感情還不錯,其中一部影片是2年前在議會最後一天時,兩個人一起直播的畫面,當時王世堅給予她很多鼓勵,「我覺得20幾年同事感情都非常好,大家都很重感情。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "給予",
+                "鼓勵"
+            ],
+            "datetime": "2022-06-12 16:05"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "自己與王世堅在議會相處20年,常常一起審預算、法案等,自己不屬於藍綠兩大黨,要得到議會同事幫忙才能完成提案。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "完成",
+                "得到"
+            ],
+            "datetime": "2022-06-12 16:05"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "1280月票必須要計算成本,這不只有擴及的問題,目前台北市正在擴充敬老卡納入台鐵中,而這個非常複雜,1280月票擴及到大基隆是可以的,但「問題是成本、費用要算清楚。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "複雜",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-12 15:38"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "自己跟王世堅的感情還不錯,那個影片是兩年多年在議會最後一天的時候,她與王世堅一起吃過(午餐),那次王世堅給她很多鼓勵,因為研究室是王世堅給她的,她就想說離開的最後一天,把研究室交還給他,雖然最後交還給別人,但是20幾年的同事感情都非常好,大家都很重感情,不用想太多。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [
+                "很多",
+                "鼓勵"
+            ],
+            "datetime": "2022-06-12 15:41"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "兩人是20幾年的同事,感情都非常好,「友情是不分黨派的」,要外界不用想太多。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 15:41"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "回應",
+            "opinion": "大家不要想太多,這件事情她自己會有自己的步調。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 15:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「謝謝」,隨即離開現場不願再談。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [
+                "謝謝"
+            ],
+            "datetime": "2022-06-12 15:17"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "現在每天幾萬人確診,是很容易中的,「所以部長也辛苦了啦,所以祝他早日康復」,因為真的很不舒服,這幾天真的要好好休息,因為「的確也太累了」。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不舒服",
+                "辛苦"
+            ],
+            "positive_list": [
+                "天真",
+                "天真的",
+                "休息",
+                "的確",
+                "容易",
+                "舒服"
+            ],
+            "datetime": "2022-06-12 15:01"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "部長辛苦了,祝他早日康復。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 15:01"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "表示",
+            "opinion": "過去擔任議員時,她跟王世堅感情就不錯,她臉書放上的影片是兩年多前到議會,那是她(擔任北市議員)最後一天的時候,和王世堅一起直播,她也說王世堅給了很多鼓勵,「那個研究室是他給我的,所以我就想說,我離開的最後一天把研究室交還給他。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [
+                "很多",
+                "鼓勵"
+            ],
+            "datetime": "2022-06-12 15:30"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "「我跟他說他其實是逢賭必輸,常常罵的對象都...我覺得就是好玩嘛,我們在議會常常會鬥嘴,這很正常,就是好朋友的感覺,不用想得太複雜。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "複雜"
+            ],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-06-12 15:30"
+        },
+        {
+            "person": "黃珊珊",
+            "verb": "說",
+            "opinion": "先把自己保護好,其實確診後也不見得有保障,像是台北市議員侯漢廷也二度確診,還是要保持安全社交距離。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不見"
+            ],
+            "positive_list": [
+                "安全",
+                "保護"
+            ],
+            "datetime": "2022-06-12 14:58"
+        }
+    ]
+}

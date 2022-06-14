@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃昆輝.png",
+    "opinions": [
+        {
+            "person": "黃昆輝",
+            "verb": "說",
+            "opinion": "「我離開母校畢業母校,到現在已經68年了,「所以儘管我離開68年了,到今天我還是覺得,身為中師校友為榮,台中師範是非常了不起,台中教育大學,是名聞遐邇。」",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "離開",
+                "不起",
+                "管我"
+            ],
+            "positive_list": [
+                "了不起",
+                "為榮",
+                "了不起",
+                "為榮"
+            ],
+            "datetime": "2022-06-09 17:17"
+        }
+    ]
+}

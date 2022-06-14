@@ -1,0 +1,37 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "許智善",
+            "verb": "表示",
+            "opinion": "感謝黨員支持,允諾履任後會走訪基層並聽取建言,凝聚基層團結力量,全力投入年底輔選支持市長陳其邁高票連任、議員及里長提名人全數當選。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "允諾",
+                "全力",
+                "感謝",
+                "凝聚",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 19:40"
+        },
+        {
+            "person": "許智善",
+            "verb": "說",
+            "opinion": "「初選前當然大家都會很競爭,初選過後我相信大家都會回歸,大家打拼認真,共同團結。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "相信",
+                "當然",
+                "認真"
+            ],
+            "datetime": "2022-05-22 18:38"
+        }
+    ]
+}

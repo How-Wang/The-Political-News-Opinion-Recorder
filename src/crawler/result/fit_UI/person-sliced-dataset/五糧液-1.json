@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/五糧液.png",
+    "opinions": [
+        {
+            "person": "五糧液",
+            "verb": "說",
+            "opinion": "五糧液的銷售價格已漲至1399元人民幣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 06:00"
+        }
+    ]
+}

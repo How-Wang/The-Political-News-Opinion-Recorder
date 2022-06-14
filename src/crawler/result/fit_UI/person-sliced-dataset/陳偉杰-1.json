@@ -1,0 +1,95 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳偉杰",
+            "verb": "指出",
+            "opinion": "台灣防疫沒有超前部署如今已是國內外皆知,每次實施新措施不但拖拖拉拉,而且都還沒有配套,這次的「居隔單之亂」已經持續一個多月,中央卻選在520蔡英文就職六周年之際公布。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:35"
+        },
+        {
+            "person": "陳偉杰",
+            "verb": "表示",
+            "opinion": "如今新系統既然已建置完成,希望真如唐鳳所述能解決「居隔單之亂」。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "希望",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-21 11:35"
+        },
+        {
+            "person": "陳偉杰",
+            "verb": "說",
+            "opinion": "「拿去年的一個通話內容,來說這個市長說,不需要任何的幫助,我想這個確實,他做為新北市的一個立委,真的是有點失職啦。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "確實",
+                "幫助"
+            ],
+            "datetime": "2022-05-25 18:34"
+        },
+        {
+            "person": "陳偉杰",
+            "verb": "強調",
+            "opinion": "1922明明就是一個可以派車、聯繫醫院、安排防疫旅館及隔離所的疫情專線,就連民進黨執政的桃園119都請隔離者打給1922。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 21:25"
+        },
+        {
+            "person": "陳偉杰",
+            "verb": "批評",
+            "opinion": "從未見過綠營地方民代在疫情中為民眾向中央喉舌,只見他們頻頻協助中央來扯地方後腿,胳膊往外彎何其可惡!陳偉杰表示,自去年疫情爆發缺疫苗開始,到日前「#快篩陽就確診」措施的拖延,中央一連串的落後部署導致延誤疫情就從未向民眾道歉過。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "可惡",
+                "延誤",
+                "拖延",
+                "落後",
+                "爆發",
+                "可惡",
+                "道歉"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-10 21:25"
+        },
+        {
+            "person": "陳偉杰",
+            "verb": "說",
+            "opinion": "中央一再以1922為優先,養成民眾撥打1922的習慣,現在說它只是諮詢服務中心,根本就是不想負責。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "一再",
+                "根本就"
+            ],
+            "positive_list": [
+                "負責",
+                "習慣"
+            ],
+            "datetime": "2022-06-10 21:25"
+        }
+    ]
+}

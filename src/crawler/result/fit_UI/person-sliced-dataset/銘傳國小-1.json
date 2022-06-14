@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/銘傳國小.png",
+    "opinions": [
+        {
+            "person": "銘傳國小",
+            "verb": "表示",
+            "opinion": "就等台北市長柯文哲拍板,下午記者會將會一併公布。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 09:46"
+        }
+    ]
+}

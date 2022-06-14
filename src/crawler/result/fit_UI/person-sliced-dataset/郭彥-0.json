@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/郭彥.png",
+    "opinions": [
+        {
+            "person": "郭彥",
+            "verb": "呼籲",
+            "opinion": "大家善待醫護,其中一句「看到這(麼)多孩子就這樣走(了)」引發外界爭議。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:13"
+        }
+    ]
+}

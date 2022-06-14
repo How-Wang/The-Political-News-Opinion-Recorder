@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李兆立.png",
+    "opinions": [
+        {
+            "person": "李兆立",
+            "verb": "呼籲",
+            "opinion": "政府盡快將商務入境比照0+7。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:51"
+        },
+        {
+            "person": "李兆立",
+            "verb": "表示",
+            "opinion": "沒有人願意染疫,但出國洽公真的是不得已而為之,政府把商務返國視為確診者隔離檢疫,簡直是對企業的侮辱。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "不得已",
+                "沒有",
+                "侮辱",
+                "隔離",
+                "不得",
+                "不得已",
+                "沒有",
+                "侮辱"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-02 12:51"
+        }
+    ]
+}

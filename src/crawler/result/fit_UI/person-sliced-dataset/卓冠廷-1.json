@@ -1,0 +1,156 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "卓冠廷",
+            "verb": "表示",
+            "opinion": "比起侯友宜市長在意的「蔡總統打幾通電話」,他更加關注新北市府基層同仁忙翻天,市民苦等的居家隔離單,卻還是不能順暢領到,應該參考其他縣市做法儘速調整。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "隔離"
+            ],
+            "positive_list": [
+                "在意"
+            ],
+            "datetime": "2022-05-24 15:25"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "說",
+            "opinion": "「我們這些小雞們,努力的監督新北市政府,侯友宜市長他就是不理你,他們覺得有恃無恐,認為侯友宜市長絕對當選啊,我幹嘛理你,所以我們的監督力道就會變弱。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對",
+                "變弱",
+                "不理"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的"
+            ],
+            "datetime": "2022-05-26 17:58"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "指出",
+            "opinion": "「我前陣子被他告『侵犯智慧財產權』直接不起訴」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "侵犯",
+                "起訴",
+                "不起"
+            ],
+            "positive_list": [
+                "財產",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-05-31 11:05"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "說",
+            "opinion": "此時,通話譯文的準備應有8通,是事發當天恩恩媽媽與消防局來往的完整對話。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完整",
+                "準備"
+            ],
+            "datetime": "2022-06-07 21:51"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "指出",
+            "opinion": "台積電不僅為當地創造工作機會,亞利桑納州州長也把它視為重要政績來宣傳,這位州長過去擔任過知名冰淇淋連鎖店「酷聖石」(ColdStone)執行長,為了拉近台灣的關係,還透露當初為了台北的首家門市開幕,跑了台灣好幾次,「這也代表台積電去美國設廠,對他們而言有多重要與指標性。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "透露"
+            ],
+            "positive_list": [
+                "重要",
+                "創造",
+                "機會"
+            ],
+            "datetime": "2022-06-07 16:49"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "說",
+            "opinion": "這些紀錄,包含勤務中心所通的電話。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 09:58"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "認為",
+            "opinion": "新北市府高層打定主意不給恩恩爸錄音檔之後,態度就是卯足全力擦脂抹粉。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-06-09 09:58"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "痛批",
+            "opinion": "新北市府「你們批評別人,對你們的監督都是政治意圖,那我拜託你們,收起你們自己的政治意圖,好好面對一個追求真相的家屬,好好回應一個新北市民的請求!不要為了自己,逼基層配合演出,又糟蹋一個家庭」。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "批評",
+                "意圖",
+                "不要",
+                "批評",
+                "批評別人",
+                "拜託"
+            ],
+            "positive_list": [
+                "請求"
+            ],
+            "datetime": "2022-06-10 14:30"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "說",
+            "opinion": "「控告張姓前消防員,那他想利用這個官司呢,把所有的這些包括通聯,還有錄音全部提供給司法單位,藉此就可以講說偵查不公開,拒絕回應社會大眾的需求。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "拒絕",
+                "控告",
+                "不公",
+                "利用"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-10 14:05"
+        },
+        {
+            "person": "卓冠廷",
+            "verb": "說",
+            "opinion": "中央從來都沒硬性規定,一定要經過衛生局同意派車。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "同意",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-11 11:33"
+        }
+    ]
+}

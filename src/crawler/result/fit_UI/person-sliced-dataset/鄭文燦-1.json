@@ -1,0 +1,765 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "現在疫情比選情重要,會按照既有時間表,6月提出人選,相信民進黨選舉對策委員會會做充分討論,不會提早也不會延後,會按照既有時間表往前走。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "充分",
+                "相信",
+                "重要"
+            ],
+            "datetime": "2022-05-25 10:21"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "強調",
+            "opinion": "現在疫情比選情重要,黨中央會按照既有時間表,在6月提出人選,相信民進黨選舉對策委員會會做好充分討論,不會提早也不會延後,會按照既有時間表往前走。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "充分",
+                "相信",
+                "重要"
+            ],
+            "datetime": "2022-05-25 16:42"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "強調",
+            "opinion": "沒人問過他,但他也特別澄清,去年說林智堅不在桃園政治版圖,不是排除他的意思,還大讚林智堅是「非常棒」的市長。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "排除",
+                "不是"
+            ],
+            "positive_list": [
+                "特別",
+                "澄清"
+            ],
+            "datetime": "2022-05-25 13:02"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "「沒有人問過我,我們會按照既有的時間表,6月份會提出人選。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:02"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "市府主要是媒合醫療院所提供學校服務,不過也可由家長自行帶孩子到醫院診所接種,5至11歲主要是國小生,但有些5歲童還在讀幼兒園,如果這部分人數多,市府也會用媒合的方式,若人數少就由家長直接帶到診所施打。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 09:53"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "桃園獲得的BNT/輝瑞兒童疫苗有7萬多劑是足夠的,不夠還會跟中央爭取,而莫德納兒童疫苗也在施打。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [
+                "足夠",
+                "足夠的",
+                "獲得"
+            ],
+            "datetime": "2022-05-25 09:53"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "目前疫情比選情重要,按照既定的時間表,將會在6月份推出桃園市長的人選,相信選對會會做充分的討論,不會提早也不會延後,會照著時間表進行,至於是否和林智堅討論過人選問題,鄭文燦也回應:「沒有人問過我」。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "問題",
+                "不會",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "充分",
+                "相信",
+                "重要",
+                "進行"
+            ],
+            "datetime": "2022-05-25 12:28"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "現在是疫情比選情重要,按照既有的時間表,6月份會提出人選,「我相信選對會會做充分的討論,不會提早也不會延後,會按照既有時間表往前走。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "充分",
+                "相信",
+                "重要"
+            ],
+            "datetime": "2022-05-25 09:42"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "指出",
+            "opinion": "參選人廣泛地拜訪各方,本來就是基本工作。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:47"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "民主進步黨選舉對策委員會預計在6月宣布黨籍桃園市長提名參選人,相信一定是推出最好、最強、最適合的人選。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "最好",
+                "進步",
+                "適合",
+                "適合的"
+            ],
+            "datetime": "2022-05-26 12:47"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "現在COVID-19(2019冠狀病毒疾病)防疫及市政是他心中唯一的工作,目前都在想這個,沒想到別的。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "疾病",
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:47"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "依照規劃,民進黨選對會將在6月討論人選,一定會推出最好最強的候選人。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-05-26 20:02"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "滿意,37.0%表示不滿意。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不滿",
+                "不滿意",
+                "不滿"
+            ],
+            "positive_list": [
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-26 12:05"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "滿意(非常滿意18.1%、還算滿意39.7%);另有37.0%桃園市民表示不滿意(非常不滿意14.3%、不太滿意22.7%)。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不太",
+                "不滿",
+                "不滿意",
+                "不滿"
+            ],
+            "positive_list": [
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-26 12:56"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "目前已請所有工程單位巡檢確保安全,民眾防災準備也會多做宣導,若遇到急降雨,易淹水地區就會啟動水旱防災社區準備,加強區域排水系統。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "準備"
+            ],
+            "datetime": "2022-05-26 09:37"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說明",
+            "opinion": "這段防汛道路崩塌大概一百公尺,昨天晚上已進行搶救封閉,也把掉落車輛移走,由農水署石門管理處負責,市府也會協助農水署搶救災損,確保水路安全。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "協助",
+                "負責",
+                "進行",
+                "管理"
+            ],
+            "datetime": "2022-05-26 09:37"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "有媒體報導新竹市長林智堅要到桃園參選是完全錯誤的報導,桃園市長的參選人依照規劃時程表會在6月底前決定,民進黨會等疫情過後再決定。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "錯誤",
+                "錯誤的"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-29 12:03"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "他跟林智堅及立法院民進黨團幹事長鄭運鵬有多年共事經驗,互信、互動很好,可以說大家都有著相同的理想、正派執政,這是3人共同的價值,所以不用擔心,「我們3個人應該是最好的夥伴」。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "正派",
+                "很好",
+                "理想",
+                "最好",
+                "經驗",
+                "夥伴"
+            ],
+            "datetime": "2022-05-29 12:03"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "林智堅市長擔任8年市長,造就新竹市的躍升成長,他的城市治理經驗及政治成熟度,已經是五星級市長的代名詞,都可以讓大家信賴。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成長",
+                "成熟",
+                "信賴",
+                "經驗"
+            ],
+            "datetime": "2022-05-29 14:36"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "指出",
+            "opinion": "林智堅、鄭運鵬與他都有多年共事的經驗,有良好的互信基礎,三方互動也都十分融洽。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "良好",
+                "良好的",
+                "經驗",
+                "良好"
+            ],
+            "datetime": "2022-05-29 16:28"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "人選,會在疫情趨緩後決定,依照黨部規劃的時程,預計落在在六月底,不快也不慢。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不快",
+                "不快"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-29 16:28"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "強調",
+            "opinion": "他認為這個時間點各自都有工作要做,他與林智堅現階段是防疫優先,而鄭運鵬也有立法院與地方的任務,「我們也都會在各自的位置上把工作做好,三個人的互信與互動,堅若磐石,會一起迎接未來的種種挑戰。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 16:28"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "他沒有預設人選,也不會排斥任何人選,會持開放態度把最好、最強、最適合的人找出來,讓城市的治理能夠在他8年的基礎之上發展的更好。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "排斥",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "最好",
+                "發展",
+                "開放",
+                "適合",
+                "適合的"
+            ],
+            "datetime": "2022-05-29 12:19"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "這是錯誤報導,他沒有預設人選也不會排斥任何人選。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "排斥",
+                "錯誤",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:19"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "「官邸的會議大部分都是討論這個防疫,目前選對會還沒有針對桃園市的市長人選來開會,那我們表定的行程,應該是會在六月底。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:43"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "目前選對會還沒對於桃園市長人選開會,行程應該是會在6月底,不會提早也不會延後。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:06"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "官邸會議是以防疫為主,林智堅也對此事未鬆口。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:06"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "不論從事什麼工作都會關心桃園、支持桃園,在未擔任特定職務時,身為桃園市民,他也會持續關心桃園。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-02 01:01"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "發現",
+            "opinion": "自己執政不如潘孟安、防疫不如陳其邁、聲量不如柯文哲、能量不如侯友宜。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不如",
+                "不如"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 05:30"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "如果朱立倫不信任在地型政治人物,要形象、打好牌,就要分析什麼是好牌,如果拿紙上履歷競選,不是民主時代原則,「我覺得他陷入這個迷思」,就算一般公司徵人也不會只看紙上履歷。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不信",
+                "不信任",
+                "不會",
+                "陷入",
+                "不是",
+                "不會"
+            ],
+            "positive_list": [
+                "信任"
+            ],
+            "datetime": "2022-06-08 18:48"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "林智堅不是只做幾個月就離開,沒這種情形,很多新竹計畫,相信下個新竹市長也會繼續。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "離開",
+                "不是"
+            ],
+            "positive_list": [
+                "很多",
+                "相信"
+            ],
+            "datetime": "2022-06-08 18:48"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "在這標準下,林智堅是好人選,但林智堅須先完成新竹市長提名相關事宜;一般而言林智堅的執政表現很好,是五星級市長。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "很好"
+            ],
+            "datetime": "2022-06-08 18:48"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "他不會低估任何人,但也不需高估對桃園連結不深的張善政。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:48"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "民進黨會做很好的安排,也會推出很好的人選,大家照時間表完成就可以了。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成就",
+                "完成",
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-08 16:37"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "選對會會做很好的安排。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-08 16:37"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "今天並沒有討論,但民進黨會做很好的安排、也會推出很好的人選;另有媒體追問,提名的時間是會落在6月底還是8月?鄭文燦僅重申,「選對會將會做很好的安排」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-08 16:36"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "「沒有會做很好的安排,也會推出很好的人選,大家照時間表完成就可以了,今天沒有討論。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "成就",
+                "完成",
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-08 18:38"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "「選對會會做很好的安排」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-06-08 15:32"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說明",
+            "opinion": "桃捷沿線的四大購物中心消費都有抽獎,青埔也會聯合行銷,市民卡也會推出官方LINE振興功能,旅遊節慶活動都會擴大行銷。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-06-08 17:26"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "宣布",
+            "opinion": "市政會議通過「桃園市百工百業紓困振興計畫」,紓困共有9大措施、37方案,振興則有5大措施24方案,共投入約13億元。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-08 17:26"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "指出",
+            "opinion": "中央7月15日推出旅遊補助前,桃園從現在到7月14日推出「相聚在桃園2.0」跟旅行業者合作,每人遊程補助1000元,6條旅遊路線跟旅行社合作每人補助500元,台灣好行桃園路線半價優惠,風景區也有優惠票價,藝文展演在桃園演出一律50%由市府補助票價。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-08 17:26"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "電動機車easy購最高補助2.4萬,原訂6月結束將延長到今年年底,名額大幅擴大,農會有機蔬菜箱等也提供優惠訂購計畫,加起來有將近13億多的投入,方案會一個一個推出。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "機車"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-06-08 17:11"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說明",
+            "opinion": "紓困方案第一是租金減免,5到7月公有零售市場、市有不動產租金、藝文場館租金權利金減少50%,七大藝文展館場地使用費免費;第二地方稅減稅紓困,旅館、餐飲房屋稅在停業歇業期間由營業稅率3%降為非營業用的2%,尚未申請復業的業者可以停徵娛樂稅,服務稅、地價稅、使用牌照稅都可以展延12個月或分36期。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "尚未",
+                "停業",
+                "減少"
+            ],
+            "positive_list": [
+                "免費",
+                "娛樂"
+            ],
+            "datetime": "2022-06-08 17:11"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說明",
+            "opinion": "桃園8039例略有上升,不過整體疫情往收斂方向,盛行率14.8%,疫情收斂同時針對5到7月紓困興,市政會議通過桃園市百工百業紓困振興計畫,紓困一共9大措施37個方案,總經費超過11億9200萬元,振興也有5大措施24方案,第一期投入1.63億。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-06-08 17:11"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說明",
+            "opinion": "桃捷沿線的四大購物中心消費都有抽獎,青埔也會聯合行銷,市民卡也會推出官方LINE振興功能,旅遊節慶活動都會擴大行銷。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-06-08 17:11"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "因為蔣萬安沒有那麼強,蔣萬安沒有辦法邊緣化黃珊珊。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 10:42"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "若是三腳督,民進黨勝率超過6成。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 10:42"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "「換政」難度高,但地方上有很多國民黨幹部提出,且認為朱立倫應該會從善如流來「換政」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-09 10:00"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "指出",
+            "opinion": "選民對政治人物也要考慮到其形象、能力、操守、過去的表現,各種的條件。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "考慮",
+                "能力"
+            ],
+            "datetime": "2022-06-09 10:00"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "國民黨這局也打了一個小小的死結,當然解鈴還須繫鈴人,這些規則都是朱立倫講的。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-06-09 10:00"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "表示",
+            "opinion": "朱立倫前後講的標準不太一樣,但這牽涉政治人物的領導風格,領導者仍須有一定的信賴度。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [
+                "信賴"
+            ],
+            "datetime": "2022-06-09 10:00"
+        },
+        {
+            "person": "鄭文燦",
+            "verb": "說",
+            "opinion": "朱立倫陷入這個迷思,好像「紙上履歷」寫得比較好看,就用這個人,但就算是一般公司徵人也不會只看紙上履歷。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "陷入",
+                "不會"
+            ],
+            "positive_list": [
+                "比較好",
+                "較好"
+            ],
+            "datetime": "2022-06-09 10:00"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/夏波.png",
+    "opinions": [
+        {
+            "person": "夏波",
+            "verb": "表示",
+            "opinion": "他不分黨派支持台灣,非常歡迎朱立倫來訪。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 10:17"
+        },
+        {
+            "person": "夏波",
+            "verb": "表示",
+            "opinion": "他不分黨派支持台灣,也非常歡迎朱立倫來訪。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 12:41"
+        }
+    ]
+}

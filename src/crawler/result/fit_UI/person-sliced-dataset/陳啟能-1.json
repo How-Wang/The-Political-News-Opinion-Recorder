@@ -1,0 +1,93 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳啟能",
+            "verb": "說",
+            "opinion": "「可不可以把這些需要關懷的東西,盡速盡快給這些確診者使用,並不是他已經要解匡了才給他。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可",
+                "不是",
+                "東西"
+            ],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-05-24 18:30"
+        },
+        {
+            "person": "陳啟能",
+            "verb": "說",
+            "opinion": "「可不可以把這些需要關懷的東西,儘速儘快給這些確診者使用。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可",
+                "東西"
+            ],
+            "positive_list": [
+                "關懷"
+            ],
+            "datetime": "2022-05-24 13:21"
+        },
+        {
+            "person": "陳啟能",
+            "verb": "說",
+            "opinion": "「你是否已經涉及包庇,違法的一些證據,我想這個都是很多市民,心中的一個納悶。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "違法",
+                "違法的",
+                "包庇"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "陳啟能",
+            "verb": "說",
+            "opinion": "「那既然新北市政府,用那種傲慢的態度,來對待恩恩爸爸的事件,我相信國人都看的很清楚。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "傲慢",
+                "傲慢的",
+                "慢的",
+                "傲慢"
+            ],
+            "positive_list": [
+                "相信",
+                "清楚"
+            ],
+            "datetime": "2022-06-12 18:12"
+        },
+        {
+            "person": "陳啟能",
+            "verb": "質疑",
+            "opinion": "市府是不是想以偵查不公開來轉移焦點,從恩恩爸追真相,希望拿到通聯錄音檔,市府以隱私權回絕,加上消防局的現場「模擬」,啟人疑竇,綠營議員要求市府,說清楚、講明白。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "回絕",
+                "要求",
+                "不公",
+                "不是"
+            ],
+            "positive_list": [
+                "公開",
+                "希望",
+                "明白",
+                "清楚",
+                "希望"
+            ],
+            "datetime": "2022-06-12 18:12"
+        }
+    ]
+}

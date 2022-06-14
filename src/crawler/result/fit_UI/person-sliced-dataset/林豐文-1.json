@@ -1,0 +1,31 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林豐文",
+            "verb": "說明",
+            "opinion": "台灣存託憑證是不是有價證券。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 14:48"
+        },
+        {
+            "person": "林豐文",
+            "verb": "提出",
+            "opinion": "這項修法草案的余天則表示,為了法律的明確性,他還是建議應修法。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "明確",
+                "法律",
+                "法律的"
+            ],
+            "datetime": "2022-05-25 14:48"
+        }
+    ]
+}

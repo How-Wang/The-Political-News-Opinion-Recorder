@@ -1,0 +1,67 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "趙天麟",
+            "verb": "說",
+            "opinion": "自己一早便出發為兩年一次的黨職選舉投票,這一次各個投開票所都按照生日月份分流投票,也遵守量測體溫、手部消毒及全程配戴口罩等防疫規定,希望黨員放心,出門投票,共同延續民主的價值。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "放心",
+                "遵守",
+                "希望"
+            ],
+            "datetime": "2022-05-22 12:14"
+        },
+        {
+            "person": "趙天麟",
+            "verb": "表示",
+            "opinion": "蔡英文上台後,一直積極消除台美貿易障礙,算是模範生,如果美國在其主導的印太經濟架構,仍不能納入台灣,這有點說不過去,希望政府可以積極爭取。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "障礙"
+            ],
+            "positive_list": [
+                "希望",
+                "消除",
+                "積極",
+                "希望"
+            ],
+            "datetime": "2022-05-25 12:08"
+        },
+        {
+            "person": "趙天麟",
+            "verb": "提到",
+            "opinion": "中華人民共和國成為試圖片面改變現狀的區域強權,美國對中政策戰略上維持一致,但態度與戰術上日趨清晰及強硬。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "成為",
+                "清晰"
+            ],
+            "datetime": "2022-05-27 11:55"
+        },
+        {
+            "person": "趙天麟",
+            "verb": "說",
+            "opinion": "「川普時代的國務卿龐培歐,以及在歐巴馬時代的,國務卿希拉蕊,都不約而同講出共同的看法,認為中國是威脅,代表現在抗中保台已經成為,主流世界共同的共識。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-12 17:40"
+        }
+    ]
+}

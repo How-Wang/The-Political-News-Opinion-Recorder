@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北書展基金會.png",
+    "opinions": [
+        {
+            "person": "台北書展基金會",
+            "verb": "提到",
+            "opinion": "2022台北國際書展的參觀總數為25萬人次,與停辦前兩年2019相較,約為當時近6成的參觀人次,在疫情下表現亮眼。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 19:17"
+        }
+    ]
+}

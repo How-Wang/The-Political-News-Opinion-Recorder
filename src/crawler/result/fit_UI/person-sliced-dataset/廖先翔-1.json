@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/廖先翔.png",
+    "opinions": [
+        {
+            "person": "廖先翔",
+            "verb": "說",
+            "opinion": "「我覺得把事情講清楚,一定比直接給一份資料,能夠讓恩恩的家屬,更清楚整個事情的來龍去脈,我想這應該是想要表達的更清楚,怎麼會是一個摸頭的想法,我不曉得他的邏輯是怎麼樣。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "邏輯"
+            ],
+            "datetime": "2022-06-01 19:08"
+        }
+    ]
+}

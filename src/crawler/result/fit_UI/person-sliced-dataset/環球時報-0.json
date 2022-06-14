@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/環球時報.png",
+    "opinions": [
+        {
+            "person": "環球時報",
+            "verb": "批評",
+            "opinion": "日本在台灣問題上日益挑釁,「要來參一腳,我們就打斷他們的腿」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "打斷",
+                "挑釁",
+                "問題",
+                "挑釁",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:13"
+        }
+    ]
+}

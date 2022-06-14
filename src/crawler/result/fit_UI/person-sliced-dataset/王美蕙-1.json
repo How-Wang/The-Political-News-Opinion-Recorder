@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王美蕙.png",
+    "opinions": [
+        {
+            "person": "王美蕙",
+            "verb": "提到",
+            "opinion": "柬埔寨台商協會2020年由原本的台灣商會更名成功,獲柬埔寨內政部核准立案。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成功"
+            ],
+            "datetime": "2022-05-30 10:11"
+        }
+    ]
+}

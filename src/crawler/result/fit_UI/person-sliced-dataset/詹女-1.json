@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/詹女.png",
+    "opinions": [
+        {
+            "person": "詹女",
+            "verb": "提出",
+            "opinion": "抗告,目前由台北地院合議庭法官進行二審審理,日前開庭時,僅有詹女出庭,富商已經回義大利委由律師出庭應訊。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-27 15:39"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊文科.png",
+    "opinions": [
+        {
+            "person": "楊文科",
+            "verb": "宣布",
+            "opinion": "自己確診的消息,他表示,因同住家人在6月4日確診,這4天也有隨時注意自己的身體狀況,不料7日上午10時進行快篩,發現呈現陽性反應,緊急取消後面所有行程。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "取消",
+                "緊急"
+            ],
+            "positive_list": [
+                "注意",
+                "進行"
+            ],
+            "datetime": "2022-06-07 15:22"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張經緯.png",
+    "opinions": [
+        {
+            "person": "張經緯",
+            "verb": "回應",
+            "opinion": "黑豬產業是台灣具有潛力且在積極輔導的產業,每年相關技轉、研究的經費也持續增加,並未有打壓黑豬的狀況。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [
+                "增加",
+                "積極"
+            ],
+            "datetime": "2022-05-27 12:53"
+        }
+    ]
+}

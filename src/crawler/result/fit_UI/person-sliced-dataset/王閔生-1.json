@@ -1,0 +1,245 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王閔生.png",
+    "opinions": [
+        {
+            "person": "王閔生",
+            "verb": "質疑",
+            "opinion": "該帳號說謊成性,還回應網友說「我就是來監督你們的」,結果後來被抓包相同IP帳號包括「going90」、「going70」、「a45806722」等,且IP位在台北市政府,發文時間都是上班時間,甚至貼過台北市衛生局健康管理科的徵才廣告。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "說謊",
+                "說謊"
+            ],
+            "positive_list": [
+                "健康",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 23:15"
+        },
+        {
+            "person": "王閔生",
+            "verb": "質疑",
+            "opinion": "該帳號說謊成性,還回應網友說「我就是來監督你們的」,結果後來被抓包相同IP帳號包括「going90」、「going70」、「a45806722」等,且IP位在台北市政府,發文時間都是上班時間,甚至貼過台北市衛生局健康管理科的徵才廣告。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "說謊",
+                "說謊"
+            ],
+            "positive_list": [
+                "健康",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 17:46"
+        },
+        {
+            "person": "王閔生",
+            "verb": "說",
+            "opinion": "這些帳號的IP,被發現在台北市政府內,還有用這個IP的帳號曾貼過台北市衛生局健康管理科的徵才廣告,發文時間點還是上班時間,代表市府內有網軍,要怎麼處理。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "有用",
+                "健康",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 18:41"
+        },
+        {
+            "person": "王閔生",
+            "verb": "指出",
+            "opinion": "「LoveError」曾在1月發文說過年要到女友家玩,5月卻發文說老婆重症住院,還有3個小孩,分別是3歲、6歲、8歲,都燒到40度,從沒得到幫助。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "沒得"
+            ],
+            "positive_list": [
+                "得到",
+                "幫助"
+            ],
+            "datetime": "2022-06-02 18:41"
+        },
+        {
+            "person": "王閔生",
+            "verb": "指出",
+            "opinion": "PTT網軍「LoveError」、「going70」、「sinju1204」等帳號都曾用台北市政府的IP發文,市長柯文哲應徹查。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 18:41"
+        },
+        {
+            "person": "王閔生",
+            "verb": "指出",
+            "opinion": "PTT帳號LoveError發表多篇文章,身分與內容被網友抓包不合理後還稱是幻想文,IP位置在北市府。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合理",
+                "幻想"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-05 22:39"
+        },
+        {
+            "person": "王閔生",
+            "verb": "指出",
+            "opinion": "PTT帳號LoveError發表多篇文章,身分與內容被網友抓包不合理後還稱是幻想文,IP位置在北市府。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合理",
+                "幻想"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-05 22:45"
+        },
+        {
+            "person": "王閔生",
+            "verb": "說",
+            "opinion": "5個帳號還共同使用一個特殊IP「117.56.71.56」在上班時間發政治文,當然有言論自由可罵政黨,但網友跟社會大眾已感受到在帶風向,而林育生姓員工也承認擁有3個帳號,一般正常人會這樣嗎?是否構成柯文哲定義的網軍?他質疑,北市府領人民納稅錢,民眾黨如果養網軍他沒意見,但不要用北市府的預算。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "質疑",
+                "不要"
+            ],
+            "positive_list": [
+                "正常",
+                "自由",
+                "承認",
+                "當然",
+                "擁有",
+                "自由"
+            ],
+            "datetime": "2022-06-06 14:41"
+        },
+        {
+            "person": "王閔生",
+            "verb": "提出",
+            "opinion": "Paterloo、Tapqou等帳號都用過市府的IP,在上班時間發文幫民眾黨、台北市長柯文哲講好話,讓外界質疑民眾黨用市府的錢養網軍。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 20:19"
+        },
+        {
+            "person": "王閔生",
+            "verb": "表示",
+            "opinion": "上週就有發現PTT帳號「LovError」掛北市府IP發文造謠,後來查出帳號主人是財團法人台北市會展產業發展基金會林姓員工,對方在上班時間發幻想文,等於是在造謠,是否要受到懲處?柯文哲強調,非常確信台北市政府沒有網軍,「(林姓員工)上班時間太閒了,才可以上PTT。」",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "幻想",
+                "沒有",
+                "造謠",
+                "太閒",
+                "沒有",
+                "造謠"
+            ],
+            "positive_list": [
+                "發展",
+                "確信"
+            ],
+            "datetime": "2022-06-06 16:52"
+        },
+        {
+            "person": "王閔生",
+            "verb": "強調",
+            "opinion": "北市府可以查,但IP確實是國發會發下來的,剛剛呂新科局長已有清楚說明,一個閘道出去都會算在台北市政府的IP。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "說明",
+                "確實"
+            ],
+            "datetime": "2022-06-06 16:52"
+        },
+        {
+            "person": "王閔生",
+            "verb": "表示",
+            "opinion": "要的是徹查後結果,解除社會大眾的疑慮,他更質疑,「大家覺得北市府養網軍,這樣好嗎?」柯文哲則回應,「這個王閔生議員,這就是認知作戰了。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰",
+                "疑慮",
+                "質疑",
+                "疑慮"
+            ],
+            "positive_list": [
+                "解除"
+            ],
+            "datetime": "2022-06-06 16:52"
+        },
+        {
+            "person": "王閔生",
+            "verb": "質疑",
+            "opinion": "北市府查是可以查,但IP確實是國發會發下來的,剛剛呂新科已有清楚說明,一個閘道出去都會算在台北市政府的IP。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "說明",
+                "確實"
+            ],
+            "datetime": "2022-06-06 15:23"
+        },
+        {
+            "person": "王閔生",
+            "verb": "質疑",
+            "opinion": "「LovError」是否造謠與受到懲處,而發展基金會回應,林育生姓員工確實全家一口確診,但有承認自己說謊,願接受懲處。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "造謠",
+                "說謊",
+                "造謠",
+                "說謊"
+            ],
+            "positive_list": [
+                "承認",
+                "接受",
+                "發展",
+                "確實"
+            ],
+            "datetime": "2022-06-06 15:23"
+        },
+        {
+            "person": "王閔生",
+            "verb": "質疑",
+            "opinion": "整體調查報告還沒出來,北市府就急著重懲員工,試圖止血,「北市府這樣做是否能真正化解外界質疑?一切留給社會評斷。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [
+                "真正"
+            ],
+            "datetime": "2022-06-08 12:43"
+        }
+    ]
+}

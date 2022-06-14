@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中時新聞網.png",
+    "opinions": [
+        {
+            "person": "中時新聞網",
+            "verb": "指出",
+            "opinion": "嚴献宗表示,民進黨中央將於7月17日召開全代會,屆時中執委、中常委和中評委改選。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 09:13"
+        }
+    ]
+}

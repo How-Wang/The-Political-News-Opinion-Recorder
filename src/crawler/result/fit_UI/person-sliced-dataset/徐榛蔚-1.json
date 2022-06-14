@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐榛蔚.png",
+    "opinions": [
+        {
+            "person": "徐榛蔚",
+            "verb": "說",
+            "opinion": "「我們立足東台灣放眼國際,所以面向東大門,幸福滿花蓮,這是我們的職志。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "幸福",
+                "幸福"
+            ],
+            "datetime": "2022-06-06 17:40"
+        }
+    ]
+}

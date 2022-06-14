@@ -1,0 +1,30 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/保訓會.png",
+    "opinions": [
+        {
+            "person": "保訓會",
+            "verb": "表示",
+            "opinion": "這次修法是為呼應司法院釋字第785號解釋,就加班補償制度建立合理框架性規範,未來行政院依法訂定加班補償評價換算基準級距及下限等框架後,有賴各機關落實修法精神,依該框架訂定加班補償評價換算基準,以達成公務人員權益保障及機關業務運作順遂的雙贏目標。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合理",
+                "規範",
+                "達成",
+                "權益"
+            ],
+            "datetime": "2022-05-30 17:30"
+        },
+        {
+            "person": "保訓會",
+            "verb": "指出",
+            "opinion": "考量輪班、輪休人員特殊業務性質,本次修法明定得依加班性質、強度、密度等不同因素,考量予以不同評價,明定補休假以休畢為原則,例外結算計發加班費。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:20"
+        }
+    ]
+}

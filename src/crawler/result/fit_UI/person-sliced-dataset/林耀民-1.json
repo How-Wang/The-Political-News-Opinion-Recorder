@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林耀民.png",
+    "opinions": [
+        {
+            "person": "林耀民",
+            "verb": "表示",
+            "opinion": "隨著日本宣布6月10日開放,不只台灣,世界各地的旅客都蠢蠢欲動了起來,就因為疫情前日本是全球最熱門的旅遊目的地之一。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-05-29 10:38"
+        }
+    ]
+}

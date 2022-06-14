@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/馬聖安.png",
+    "opinions": [
+        {
+            "person": "馬聖安",
+            "verb": "表示",
+            "opinion": "作為一名父親,他認為台灣是很適合養育小孩的地方,這次兒童遊樂區設計多元,將有大型充氣遊樂設施、曲棍球、趣味遊戲、臉部彩繪、貼紙式刺青等,力求寓教於樂,讓孩童在遊戲中學習認識綠能與環保。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "趣味",
+                "適合",
+                "學習"
+            ],
+            "datetime": "2022-06-06 19:53"
+        }
+    ]
+}

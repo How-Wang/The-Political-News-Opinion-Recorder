@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/可口可樂.png",
+    "opinions": [
+        {
+            "person": "可口可樂",
+            "verb": "強調",
+            "opinion": "賢能政治(PoliticalMeritocracy),北京清華大學政治與公共管理學教授貝淡寧提到,有別於西方「一人一票」的民主模式,賢能政治模式更加適合中國大陸的國情,提供了一個有效的大國治理模式。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "有效",
+                "有效的",
+                "管理",
+                "適合"
+            ],
+            "datetime": "2022-06-12 06:10"
+        }
+    ]
+}

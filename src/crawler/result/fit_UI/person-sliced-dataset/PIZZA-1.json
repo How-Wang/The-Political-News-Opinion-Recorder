@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/PIZZA.png",
+    "opinions": [
+        {
+            "person": "PIZZA",
+            "verb": "說",
+            "opinion": "在平壤的披薩專賣店品嚐一份披薩,約在5美元至8美元(約新台幣147至235元)之間,對於平壤市民(月薪約新台幣2654元)而言,算是很高級的享受。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "享受",
+                "高級",
+                "高級的"
+            ],
+            "datetime": "2022-05-26 17:29"
+        }
+    ]
+}

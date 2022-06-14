@@ -1,0 +1,56 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "清冠",
+            "verb": "說",
+            "opinion": "未來家裡有長輩或朋友中了,第一時間可以趕快把藥分享出去,在此跟大家分享染疫後的流程。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:45"
+        },
+        {
+            "person": "清冠",
+            "verb": "指出",
+            "opinion": "雖NAC的RCT(隨機對照試驗)無法證明能治療新冠感染,但至少NAC是呼吸道疾病常用藥。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "疾病",
+                "無法",
+                "感染",
+                "無法"
+            ],
+            "positive_list": [
+                "治療"
+            ],
+            "datetime": "2022-05-26 11:31"
+        },
+        {
+            "person": "清冠",
+            "verb": "說",
+            "opinion": "NAC的RCT(隨機對照試驗)確實無法證明能治療新冠感染,但至少NAC是呼吸道疾病常用藥,副作用、不良反應(毒性很低)比率和交互作用很明確,但清冠一號卻缺乏相關數據,「連RCT都沒有做過。」",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "不良",
+                "沒有",
+                "疾病",
+                "缺乏",
+                "無法",
+                "感染",
+                "不良",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [
+                "明確",
+                "治療",
+                "確實"
+            ],
+            "datetime": "2022-05-26 12:06"
+        }
+    ]
+}

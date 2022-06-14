@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/OCA.png",
+    "opinions": [
+        {
+            "person": "OCA",
+            "verb": "提出",
+            "opinion": "希望運動手冊可以針對體育競技方面多做著墨,「至於其他問題不必再無謂描述,這跟體育本質和技術手冊沒有直接關係」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "動手",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-06 11:53"
+        }
+    ]
+}

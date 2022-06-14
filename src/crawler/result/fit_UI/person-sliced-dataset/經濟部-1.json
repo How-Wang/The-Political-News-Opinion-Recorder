@@ -1,0 +1,128 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "經濟部",
+            "verb": "指出",
+            "opinion": "經濟部與中華美食交流協會、台灣連鎖暨加盟協會、台灣連鎖加盟促進協會等討論後,規劃辦理餐飲業者行銷補助,希望增加民眾餐飲消費誘因,朝向與疫情穩健共存方向,促進餐飲業者體質更強化,並協助餐飲業吸引來客及增加營收,以振興餐飲商機。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "吸引",
+                "希望",
+                "協助",
+                "促進",
+                "增加",
+                "穩健",
+                "希望"
+            ],
+            "datetime": "2022-05-23 10:40"
+        },
+        {
+            "person": "經濟部",
+            "verb": "發現",
+            "opinion": "屏科大依據教育部及教師借調處理規定,同意屏科大教授林秋豐自民國105年7月4日起借調金屬中心擔任執行長職務,但林秋豐106年6月29日因金屬中心指派,擔任大強鋼鐵公司董事長至今,已違反教育人員任用條例及教師兼職處理原則「教師不得經營商業或投資營利事業」的規定。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "違反",
+                "不得",
+                "違反"
+            ],
+            "positive_list": [
+                "同意",
+                "經營"
+            ],
+            "datetime": "2022-05-26 20:28"
+        },
+        {
+            "person": "經濟部",
+            "verb": "說明",
+            "opinion": "指揮中心已請屏東衛生局主動了解地區醫院庫存及需求,同時醫院如有長期需求,經濟部亦可協助媒合向國內廠商洽購。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "主動",
+                "協助",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 22:28"
+        },
+        {
+            "person": "經濟部",
+            "verb": "指出",
+            "opinion": "據指揮中心調查,目前屏東地區醫院整體N95口罩庫存,高於其安全儲備量;惟為求慎重,將請屏東縣衛生局主動檢視轄區醫院N95口罩庫存情形,如有低於安全儲備量,應主動撥補。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "主動",
+                "安全",
+                "慎重",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 22:28"
+        },
+        {
+            "person": "經濟部",
+            "verb": "表示",
+            "opinion": "目前中央、衛生局及醫院N95口罩庫存均相當充足,足以因應此波新冠肺炎疫情之防治需求。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "充足",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 22:28"
+        },
+        {
+            "person": "經濟部",
+            "verb": "回應",
+            "opinion": "夏月電價制度並非電價「調漲」,每年循往例在6月至9月起實施,至今已超過30年,由於夏月電價較高、非夏月較低,全年平均電價並沒有改變。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "超過",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:34"
+        },
+        {
+            "person": "經濟部",
+            "verb": "表示",
+            "opinion": "實施夏月電價的原因之一,除了反映不同季節間供電成本差別,經濟部補充,希望用價格引導民眾節約用電。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "差別"
+            ],
+            "positive_list": [
+                "希望",
+                "節約",
+                "希望"
+            ],
+            "datetime": "2022-06-03 15:34"
+        },
+        {
+            "person": "經濟部",
+            "verb": "提出",
+            "opinion": "振興方案,協助企業度過難關。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-06-10 19:21"
+        }
+    ]
+}

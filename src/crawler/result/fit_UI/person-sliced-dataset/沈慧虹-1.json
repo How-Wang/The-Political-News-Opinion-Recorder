@@ -1,0 +1,428 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "沈慧虹",
+            "verb": "說",
+            "opinion": "沈慧虹過去8年比誰都更投入、熟悉推動市政,但最終要尊重民進黨選舉對策委員會決定。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "尊重",
+                "熟悉",
+                "尊重"
+            ],
+            "datetime": "2022-05-25 14:10"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "說",
+            "opinion": "她的工作日常,其實就是一般上班族的日常,「市政工作,從來不缺乏挑戰,有事情來就解決,有問題就找方案,尤其最近疫情的緊張,民眾各項問題的需要,措施的簡化,都希望要照顧好市民也照顧好自己。」",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "挑戰",
+                "缺乏",
+                "問題",
+                "緊張",
+                "有問題",
+                "問題",
+                "緊張"
+            ],
+            "positive_list": [
+                "希望",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-25 21:29"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "先前沒有任何預兆,沒有任何約詢,跟市長的日常,就是市政的交集與討論,「工作來了我們就做,有問題我們就解決」,現在的心意如此,未來還是不會有改變。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "問題",
+                "不會",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-25 21:29"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "指出",
+            "opinion": "她進入竹市府團隊8年,當初先是擔任交通處長,完成了新竹轉運站、前後站地下道整修等公共工程。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-05-25 22:54"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "昨天看到新聞時感到訝異,因為先前沒有任何預兆,沒有任何約詢,與林智堅都是在市政的交集與討論。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "訝異"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 22:54"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "說",
+            "opinion": "平常與林智堅的交流就是市政的討論,自己向來是「工作來了我們就做,有問題我們就解決。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-25 18:48"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "目前沒時間多想,市政及COVID-19(2019冠狀病毒疾病)防疫優先,最重要先做好工作、解決問題。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "疾病",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "重要",
+                "最重要",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-27 12:34"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "幼兒園專案隨到隨打,提供家長便利性,市府也提供校園施打與診所預約多元選擇,提醒家長可分齡、分流施打。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "便利"
+            ],
+            "datetime": "2022-05-27 12:34"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "說",
+            "opinion": "就像今天早上的超大雨勢,人還沒進辦公室,就已在提醒所有人注意市民的交通、積淹水問題,另外像爸爸媽媽擔心孩子健康,市府就開設專案施打站,有問題就解決、有工作就做好。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "大雨",
+                "問題",
+                "擔心",
+                "有問題",
+                "問題",
+                "擔心"
+            ],
+            "positive_list": [
+                "注意",
+                "健康",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-27 12:02"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "回應",
+            "opinion": "自己沒有時間多想,兩人也沒做下一步討論。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:02"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "回應",
+            "opinion": "說實在沒想這麼多、也沒做下一步的討論,「對我來說,就是工作把他做好、問題解決好,比什麼都重要。」",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "問題",
+                "沒想",
+                "問題"
+            ],
+            "positive_list": [
+                "重要",
+                "解決",
+                "實在",
+                "解決"
+            ],
+            "datetime": "2022-05-27 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "指出",
+            "opinion": "就像今日早上的超大雨勢,人還沒進辦公室,就已在提醒所有人注意市民的交通、積淹水問題,另外像爸爸媽媽擔心孩子健康,市府就開設專案施打站,「有問題就解決、有工作就做好。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "大雨",
+                "問題",
+                "擔心",
+                "有問題",
+                "問題",
+                "擔心"
+            ],
+            "positive_list": [
+                "注意",
+                "健康",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-27 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "指出",
+            "opinion": "沈慧虹並無民進黨籍,且在地有民調領先的鄭宏輝,若是徵召沈慧虹參選,這種「不提名黨員、不提名民調領先者」的風氣,恐破壞民進黨行之有年的提名機制。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "破壞",
+                "破壞"
+            ],
+            "positive_list": [
+                "領先"
+            ],
+            "datetime": "2022-05-29 18:00"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "「我也非常難過的被迫要說明,我2019年財產的增加,是因為當年初母親過世,而有相關財產的處分,為人子女,連自己母親過世,都要被迫出來做澄清,我真的非常難過也遺憾,更感覺到對不起媽媽及家人」。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "遺憾",
+                "難過",
+                "不起",
+                "過世",
+                "對不起",
+                "遺憾",
+                "難過"
+            ],
+            "positive_list": [
+                "財產",
+                "說明",
+                "增加",
+                "澄清"
+            ],
+            "datetime": "2022-06-10 18:53"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "高拒答率顯示支持者意見分裂,林智堅提出屬意人選,一定程度影響鄭宏輝民調,不過該份民調顯示鄭宏輝依舊保持高度競爭力,與國民黨人選維持在伯仲之間。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "分裂",
+                "競爭",
+                "分裂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 04:00"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "質疑",
+            "opinion": "財產申報不實,她今天開記者會澄清,一生奉公守法,並無申報不實,將進行提告,遏止抹黑文化。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "遏止",
+                "不實",
+                "抹黑",
+                "遏止"
+            ],
+            "positive_list": [
+                "守法",
+                "財產",
+                "進行",
+                "澄清"
+            ],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "指出",
+            "opinion": "這部分是她與前夫非常大的鴻溝,也因為前夫債務問題,造成兩人溝通、感情遭受阻礙。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "受阻",
+                "阻礙",
+                "問題",
+                "債務",
+                "遭受",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "指出",
+            "opinion": "沈慧虹在107年時,債務為新台幣851萬元,存款106萬元,108年的債務就變成555萬元,存款163萬元。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "債務"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "監察院財產申報資料在網路上均可查看,但實際上的財產變化情形,未經查證,不應妄自評價揣測。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "未經"
+            ],
+            "positive_list": [
+                "財產",
+                "實際"
+            ],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "強調",
+            "opinion": "為人子女,連自己母親過世,都要被迫出來作澄清,讓她真的非常難過也遺憾,更感覺到對不起媽媽及家人。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "遺憾",
+                "難過",
+                "不起",
+                "過世",
+                "對不起",
+                "遺憾",
+                "難過"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "表示",
+            "opinion": "108年財產增加是因當年初母親過世,而有相關財產的處分,她的2名弟弟認為母親留下來的現金與存款,因都有共同照顧母親,禮讓給她媽媽過世後的一些存款分配。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "過世"
+            ],
+            "positive_list": [
+                "財產",
+                "增加"
+            ],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "指出",
+            "opinion": "為了遏止惡質文化,將會提告。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "遏止",
+                "惡質",
+                "遏止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:41"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "質疑",
+            "opinion": "財產申報不實,因為她2019年增加的存款,加上還債達350萬,遠超她薪俸,她解釋是因為保險公司把她跟前夫的保單借款主約、副約都上傳,後來有修正,存款增加則是來自母親遺產。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "財產",
+                "增加"
+            ],
+            "datetime": "2022-06-11 17:23"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "說",
+            "opinion": "「我第一次感覺,對不起我的媽媽跟家人。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不起",
+                "對不起"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 17:23"
+        },
+        {
+            "person": "沈慧虹",
+            "verb": "解釋",
+            "opinion": "自己一生奉公守法、清廉,外界對她部分財產爭議,是她過世母親留給她的;另外債務部分,她也解釋是因為離婚前和前夫共同持有財產,她對所有爭議一一澄清,並揚言不排除對抹黑人士提告。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "排除",
+                "債務",
+                "離婚",
+                "抹黑",
+                "過世"
+            ],
+            "positive_list": [
+                "守法",
+                "有財產",
+                "財產",
+                "澄清"
+            ],
+            "datetime": "2022-06-11 13:08"
+        }
+    ]
+}

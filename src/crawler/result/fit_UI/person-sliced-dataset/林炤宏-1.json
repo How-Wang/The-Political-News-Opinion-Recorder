@@ -1,0 +1,50 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林炤宏.png",
+    "opinions": [
+        {
+            "person": "林炤宏",
+            "verb": "說",
+            "opinion": "「政風的好壞,其實不能完全靠政風單獨⋯」但柯文哲立刻批評林炤宏,「不然你政風撤掉算了。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "批評",
+                "批評",
+                "算了"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:06"
+        },
+        {
+            "person": "林炤宏",
+            "verb": "說",
+            "opinion": "「政風的好壞,其實不能完全靠政風單獨⋯」但柯文哲立刻批評林炤宏,「不然你政風撤掉算了。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "批評",
+                "批評",
+                "算了"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:37"
+        },
+        {
+            "person": "林炤宏",
+            "verb": "表示",
+            "opinion": "最好將殯葬處的政風室人員「全部一起處理」,不然你會很麻煩。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "麻煩",
+                "麻煩"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-09 23:14"
+        }
+    ]
+}

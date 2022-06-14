@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李宗霖.png",
+    "opinions": [
+        {
+            "person": "李宗霖",
+            "verb": "說",
+            "opinion": "黃智賢整天在說清冠是抄中國官方藥方,早就被打臉是國家中醫藥研究所在2020年研發的,他忍不住大酸,中國的中藥應該有放「迷魂藥」,迷的智賢神魂顛倒。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不住",
+                "顛倒",
+                "被打"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:28"
+        }
+    ]
+}

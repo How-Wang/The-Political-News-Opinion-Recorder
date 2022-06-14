@@ -1,0 +1,53 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台中榮總.png",
+    "opinions": [
+        {
+            "person": "台中榮總",
+            "verb": "提到",
+            "opinion": "中台灣正要進入疫情高峰期,大家不能鬆懈,要齊心協力,成功守護中台灣民眾健康。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "成功",
+                "協力",
+                "健康"
+            ],
+            "datetime": "2022-05-29 18:37"
+        },
+        {
+            "person": "台中榮總",
+            "verb": "指出",
+            "opinion": "中台灣正要進入高峰期,他也勉勵大家不能鬆懈,一定要齊心協力,大家共同努力,成功守護中台灣民眾的健康。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "成功",
+                "努力",
+                "協力",
+                "健康"
+            ],
+            "datetime": "2022-05-29 19:12"
+        },
+        {
+            "person": "台中榮總",
+            "verb": "表示",
+            "opinion": "根據中央疫情指揮中心規範「專責病房不需負壓隔離病房」,中榮專責病房的設施及動線規劃,均經過感染管制中心縝密評估而設立。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "感染",
+                "隔離"
+            ],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-06-06 23:43"
+        }
+    ]
+}

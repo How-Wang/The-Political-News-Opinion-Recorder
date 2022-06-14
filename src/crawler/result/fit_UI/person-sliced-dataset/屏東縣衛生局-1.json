@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/屏東縣衛生局.png",
+    "opinions": [
+        {
+            "person": "屏東縣衛生局",
+            "verb": "表示",
+            "opinion": "縣府分階段推出圖卡,除告知綠色通道簡圖之外,也推出各家醫院服務時段圖卡,希望家長能更明確了解,各家醫院服務時間即時讓兒童就醫。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "希望",
+                "明確",
+                "希望"
+            ],
+            "datetime": "2022-06-07 17:03"
+        }
+    ]
+}

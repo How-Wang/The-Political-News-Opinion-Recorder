@@ -1,0 +1,222 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳致中.png",
+    "opinions": [
+        {
+            "person": "陳致中",
+            "verb": "說",
+            "opinion": "由衷盼望扁案所造成台灣社會這16年來的風風雨雨可以真正告一段落,還給大家一個寧靜的空間,公道自在人心,是非功過交由歷史評斷,或許是最好的方式。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "由衷",
+                "自在",
+                "盼望",
+                "真正",
+                "最好",
+                "寧靜",
+                "寧靜的",
+                "由衷",
+                "自在"
+            ],
+            "datetime": "2022-05-30 12:20"
+        },
+        {
+            "person": "陳致中",
+            "verb": "說",
+            "opinion": "總統的國務機要費就是特別費,跟全國數千名行政首長特別費的性質一樣,這是歷史共業的問題,當年前總統馬英九政府時代立法院修法除罪,唯一排除國務機要費,在法理上其實不公平也沒有道理。",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "不公平",
+                "沒有",
+                "問題",
+                "排除",
+                "不公",
+                "不公平",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "公平",
+                "特別",
+                "道理",
+                "公平"
+            ],
+            "datetime": "2022-05-30 12:20"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "總統的國務機要費就是特別費,跟全國數千位行政首長特別費的性質一樣,這是歷史共業的問題,當年馬政府時代立院修法除罪,唯一排除國務機要費,在法理上其實不公平也沒有道理。",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "不公平",
+                "沒有",
+                "問題",
+                "排除",
+                "不公",
+                "不公平",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "公平",
+                "特別",
+                "道理",
+                "公平"
+            ],
+            "datetime": "2022-05-30 11:56"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "父親陳水扁上午打給他說確診,昨篩陰性、今篩陽性,沒發燒,但有咳嗽及喉嚨痛,已經開始服藥,「祝爸爸早日康復,謝謝各位朋友的關心,我們互相加油,一起度過疫情的挑戰」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰",
+                "發燒"
+            ],
+            "positive_list": [
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-31 11:46"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "祝爸爸早日康復,謝謝各位朋友的關心,我們互相加油一起度過疫情的挑戰。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-31 11:25"
+        },
+        {
+            "person": "陳致中",
+            "verb": "說",
+            "opinion": "家中經常有客人來拜訪,這幾天爸爸開始感覺喉嚨痛,也不確定何時被感染,但既然確診了,就會乖乖遵守隔離規定。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不確",
+                "不確定",
+                "感染",
+                "隔離"
+            ],
+            "positive_list": [
+                "確定",
+                "遵守"
+            ],
+            "datetime": "2022-05-31 17:07"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "爸爸早上打給他說他確診,「昨篩陰今篩陽」,沒發燒,有咳嗽及喉嚨痛,已開始服藥!他祝爸爸早日康復,也感謝各位朋友的關心,互相加油一起度過疫情的挑戰。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "挑戰",
+                "發燒"
+            ],
+            "positive_list": [
+                "感謝",
+                "關心",
+                "感謝",
+                "關心"
+            ],
+            "datetime": "2022-05-31 11:26"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "父親陳水扁昨天篩陰、今天篩陽,不過沒發燒,媽媽吳淑珍目前仍是陰性,家人密切觀察健康情形中,感謝各界關心。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "發燒"
+            ],
+            "positive_list": [
+                "健康",
+                "感謝",
+                "關心",
+                "感謝",
+                "關心"
+            ],
+            "datetime": "2022-05-31 11:28"
+        },
+        {
+            "person": "陳致中",
+            "verb": "說",
+            "opinion": "自己只是人頭,全案完全是被支配、被指示的立場,黃睿靚則說,自己也是看到報紙報導之後才知道的,聽從婆婆吳淑珍指示在檔案上簽字,自己也糊裏糊塗。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "支配",
+                "糊塗"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-08 05:40"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "母親吳淑珍晚間PCR確診,出現發燒、喉嚨痛症狀,已服藥治療,但由於是脊髓損傷患者,讓他不禁感到擔心,「祈求老天保佑平安」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "患者",
+                "發燒",
+                "損傷",
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [
+                "平安",
+                "治療"
+            ],
+            "datetime": "2022-06-10 21:53"
+        },
+        {
+            "person": "陳致中",
+            "verb": "表示",
+            "opinion": "「媽媽晚上PCR確診,祈求老天保佑平安」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "平安"
+            ],
+            "datetime": "2022-06-12 10:22"
+        },
+        {
+            "person": "陳致中",
+            "verb": "說",
+            "opinion": "吳淑珍是脊髓損傷病患,抵抗力差,甚為憂心,祈求上蒼保佑平安。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "抵抗",
+                "損傷",
+                "憂心"
+            ],
+            "positive_list": [
+                "平安"
+            ],
+            "datetime": "2022-06-12 10:22"
+        }
+    ]
+}

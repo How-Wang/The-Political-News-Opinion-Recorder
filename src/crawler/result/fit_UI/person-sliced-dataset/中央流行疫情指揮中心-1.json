@@ -1,0 +1,1070 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "家用快篩試劑販售實名制自4月28日上路,希望讓更多有需要的民眾買得到平價的實名制家用快篩試劑,平抑市售家用快篩試劑售價,以利控制疫情,並維護民眾健康的權益。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "健康",
+                "健康的",
+                "得到",
+                "權益",
+                "希望"
+            ],
+            "datetime": "2022-05-21 10:38"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "新增了84587例本土個案及52例境外移入,確診個案中新增59例病歿。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:09"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "為因應社區廣泛流行,兼顧風險管控及維持公衛防疫量能,自5月17日起調整COVID-19確診個案同住家人密切接觸者居家隔離政策,針對完成3劑疫苗接種者免除居家隔離,改為進行7天自主防疫。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "自主",
+                "免除",
+                "完成",
+                "流行",
+                "進行"
+            ],
+            "datetime": "2022-05-21 06:40"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "指出",
+            "opinion": "目前家用快篩試劑之國內徵用及國外採購共計約3億5千萬劑,截至本月19日已到貨量約有1億107萬劑,有關地方政府公衛體系需求部分,已撥發7次共計1,037餘萬劑免費提供地方政府公費需求,本週將再撥發近405萬劑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-05-23 11:49"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "23日新增6萬6247例本土、173例中重症以及40例死亡個案;一直以來屬於疫情重災區的台北市,23日新增7185例,比高雄的7266例少了81例,疫情出現了南北的黃金交叉。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "黃金"
+            ],
+            "datetime": "2022-05-23 16:06"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "推動滿5-11歲兒童及12-17歲青少年族群之Pfizer-BioNTechCOVID-19疫苗接種,北市衛生局與教育局合作,於5月25日起陸續媒合醫療院所入校接種。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "衛生",
+                "合作",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 15:57"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "指出",
+            "opinion": "目前家用快篩試劑之國內徵用及國外採購共計約3億5千萬劑,截至本月19日已到貨量約有1億107萬劑,有關地方政府公衛體系需求部分,已撥發7次共計1,037餘萬劑免費提供地方政府公費需求,本週將再撥發近405萬劑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-05-23 11:34"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "指出",
+            "opinion": "目前家用快篩試劑之國內徵用及國外採購共計約3億5000萬劑,截至本月19日已到貨量約有1億107萬劑,有關地方政府公衛體系需求部分,已撥發7次共計1,037餘萬劑免費提供地方政府公費需求,本周將再撥發近405萬劑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-05-23 12:56"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "醫院專責病房護病比從原先1:5,放寬到1:9,引爆基層護理師憤怒反彈,因為人力不足,有傳出確診護理師還得提前回來照顧病患,根本無法負荷。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不足",
+                "負荷",
+                "無法",
+                "憤怒",
+                "不足",
+                "反彈",
+                "無法",
+                "憤怒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 23:10"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "自明日起全面開放快篩陽視同確診。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "開放"
+            ],
+            "datetime": "2022-05-25 16:23"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "明(26)日開始,快篩陽性經醫師診斷後確診,陳其邁再次呼籲,若為輕症病患,以住家鄰近診所優先選擇,將醫學中心留給重症病患,診所將會評估病患為低風險或高風險,風險就給症狀藥物,高風險幾乎會每天打電話問候。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 16:04"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "早就已經以電子郵件或電話通知各縣市衛生局,對於6月底前施打疫苗的65歲及55歲以上原住民長輩,可免費獲得中央所配發的兩劑單劑型快篩試劑,包括新北市政府在內。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "免費",
+                "通知",
+                "衛生",
+                "獲得",
+                "衛生"
+            ],
+            "datetime": "2022-05-25 15:35"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "25日新增8萬9352例新冠肺炎本土個案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 17:50"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "新增8萬1852例本土個案及55例境外移入,確診個案中新增104例死亡。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:10"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "新增9萬4808起本土病例,其中台北市9503例。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:51"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "進入健身房,須出示3劑疫苗接種證明,引發健身房業者、許多民眾反彈。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:58"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "指出",
+            "opinion": "今日新增126例本土病例死亡個案,為77例男性、49例女性,年齡介於10多歲至90歲以上,皆屬重度感染個案、113例具慢性病史、52例無疫苗接種。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "感染",
+                "慢性"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 14:23"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日至30日期間,0歲到6歲孩童的家長可持健保卡,免費至快篩實名制據點領取5劑家用快篩,即便買過第一輪實名制也可領,但未滿2歲孩童不得使用。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不得"
+            ],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-05-28 15:20"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "自30日0時起,在「數位新冠病毒健康證明」系統中,將新增「確診者指定處所隔離通知書補發」功能。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "健康",
+                "通知"
+            ],
+            "datetime": "2022-05-29 18:55"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "為配合新增功能,數位證明系統預計於今天晚上6時至明天0時暫時停止服務,進行版本更新。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-29 18:55"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "說明",
+            "opinion": "符合「今年5/1至5/26確診,但仍未取得電子隔離通知書者」以及「5/27起確診,未於3日內取得電子隔離通知書者」二條件的民眾就可申請。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "符合",
+                "通知"
+            ],
+            "datetime": "2022-05-29 18:02"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "回應",
+            "opinion": "兒童疫苗是在室內接種,而診斷、篩檢是在戶外自由廣場,兩地相距約500公尺,疫苗接種的民眾會從大忠門的方向進入室內,而篩檢是從大孝門開車到廣場上的車道,故人流並不會重疊。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-30 20:32"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "將在六都加設兒童疫苗大型接種站,台北市地點在自由廣場,台北市長柯文哲則批評,「這是很白痴的命令!」,對此,政治評論員黃士修竟表示,六都日染疫數,台北市已經降到第五名,高雄市第二,台中市第三。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "批評",
+                "命令",
+                "白痴",
+                "批評"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-30 20:32"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日將在六都設立大型兒童接種站,而這個消息讓台北市長柯文哲今天搖頭,直言「這是很白痴的命令」,因為不可能把北市全部小學生安排到自由廣場接種,這對防疫完全沒有幫助。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不可",
+                "沒有",
+                "命令",
+                "不可",
+                "白痴",
+                "沒有"
+            ],
+            "positive_list": [
+                "有幫助",
+                "自由",
+                "幫助",
+                "自由"
+            ],
+            "datetime": "2022-05-30 16:15"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "國內新增6萬42例本土個案,以及61例境外移入;另確診個案中新增109例死亡。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:37"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日起將協助6都設置兒童大型接種站,對此,台北市長柯文哲直批「這很白癡的命令」、「5到11歲大家在學校就都打完了」,沒有必要多開站點,中央不要亂下命令。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "白癡",
+                "白癡的",
+                "沒有",
+                "命令",
+                "不要",
+                "白癡",
+                "完了",
+                "沒有"
+            ],
+            "positive_list": [
+                "必要",
+                "協助"
+            ],
+            "datetime": "2022-05-30 18:48"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "國內新增6萬42例本土個案,以及61例境外移入;另確診個案中新增109例死亡,未來關於政府的防疫措施是否鬆綁,引發各界關注。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:41"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "全球疫情略降,鄰近國家/地區因有社區感染病例,需關注對我國之影響;目前國內疫情上升幅度雖稍趨平緩,惟仍處於疫情高原期。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 13:01"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日起將在六都加設兒童新冠肺炎疫苗大型接種站,台北市將設於自由廣場。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-30 18:02"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "回應",
+            "opinion": "卻是冷冰冰的數字:國外染疫孩童重症率約萬分之3到7,實際上國內兒童重症率並未高於國際。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "冷冰冰"
+            ],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-05-30 07:10"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "說明",
+            "opinion": "目前各縣市亦積極推動兒童疫苗接種作業,安排合約醫療院所或校園集中提供接種,對於滿5至11歲兒童,家長及兒童可依意願選擇接種,若於大型接種站或合約醫療院所接種,請家長(監護人或關係人)陪同前往接種,於現場簽署接種評估及意願書,對於該政策,大部分縣市也表示樂觀其成。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "樂觀",
+                "積極",
+                "樂觀"
+            ],
+            "datetime": "2022-05-31 18:06"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "要在六都設立5-11歲兒童疫苗大型接種站,提供5至11歲兒童施打輝瑞兒童疫苗。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:43"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "將在六都加設兒童疫苗大型接種站,台北市的地點選在自由廣場,卻遭台北市長柯文哲批評,「這是很白痴的命令」;副市長黃珊珊也說,自由廣場有很多快篩陽性的民眾,不建議兒童到這裡打疫苗。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "批評",
+                "命令",
+                "白痴",
+                "批評"
+            ],
+            "positive_list": [
+                "自由",
+                "很多",
+                "自由"
+            ],
+            "datetime": "2022-05-31 10:40"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日起將在六都設立大型兒童接種站,台北市將在自由廣場設置,由台北榮總主責。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-31 16:29"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "在六都開設大型兒童疫苗接種站,不過,台北市長柯文哲竟批評,「這是很白痴的命令」,對此,心臟血管外科醫師吳欣岱分享,各縣市5-11歲兒童第一劑疫苗接種率,台北市排名為六都中最低。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "命令",
+                "最低",
+                "白痴",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:54"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "協助地方政府於6月1日起設置5至11歲兒童疫苗大型接種站,雙北的地點位於自由廣場以及板橋車站。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "協助",
+                "自由"
+            ],
+            "datetime": "2022-05-31 16:03"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "協助地方政府於6月1日起設置5至11歲兒童疫苗大型接種站,雙北的地點位於自由廣場以及板橋車站。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "協助",
+                "自由"
+            ],
+            "datetime": "2022-05-31 11:01"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "將在六都加設兒童疫苗大型接種站,北市地點設在自由廣場,台北市長柯文哲批「這是很白痴的命令」,對此,行政院長蘇貞昌今(31)日表示,在中正紀念堂的疫苗施打站是在室內,篩檢站是在隔500、600公尺的室外,動線完全不同,有隔離,請放心。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "命令",
+                "隔離",
+                "白痴"
+            ],
+            "positive_list": [
+                "自由",
+                "放心",
+                "紀念",
+                "自由"
+            ],
+            "datetime": "2022-05-31 10:48"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日起將協助6都設置兒童大型接種站,台北市長柯文哲直批「這很白癡的命令」、「5到11歲大家在學校就都打完了」,沒有必要多開站點,中央不要亂下命令。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "白癡",
+                "白癡的",
+                "沒有",
+                "命令",
+                "不要",
+                "白癡",
+                "完了",
+                "沒有"
+            ],
+            "positive_list": [
+                "必要",
+                "協助"
+            ],
+            "datetime": "2022-05-31 10:00"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "在六都設立大型兒童接種站,這個消息讓台北市長柯文哲直言「這是很白痴的命令」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 14:39"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "今起將在六都設立大型兒童接種站,這個消息讓台北市長柯文哲直言「這是很白痴的命令」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:06"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "將於今(1)日在六都設立兒童疫苗大型接種站,不過,台北市長柯文哲怒嗆這是「白痴命令」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "白痴"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:01"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "認為",
+            "opinion": "在家隔離已身心俱疲,卻不斷接獲通知說他離開居家範圍,讓該民眾不勝其擾。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不斷",
+                "隔離",
+                "離開"
+            ],
+            "positive_list": [
+                "通知"
+            ],
+            "datetime": "2022-06-02 18:24"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "6月1日起於六都加設5至11歲的兒童疫苗大型接種站,讓台北市長柯文哲批評「白痴政策」,引來各界關注。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "白痴",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:31"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "說明",
+            "opinion": "今日新增47例境外移入個案中,為22例男性、25例女性;年齡介於未滿10歲至70多歲,分別自美國(2例)、法國、西班牙及印尼(各1例)移入,另42例感染國家調查中。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 14:17"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "呼籲",
+            "opinion": "放寬「商務入境」,盼比照「0+7」規定。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 09:39"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "的死亡人數為127;其中因這一波omicron疫情導致的幼童死亡數累積達10人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 05:30"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "今天國內新增6萬2110例新冠肺炎病例,分別為6萬2080例本土個案、30例境外移入,新增中重症252例,其中死亡124人,本土病例以高雄市9232例為最多,新北市佔9026例居次。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 14:50"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "家用快篩實名制第一輪自5月28日至本月5日止計39日,累計販售996萬5689份(4982萬8445劑),實名制第二輪自今日開始實施,每家藥局之販售份數由原78份調增為117份;超商零售通路專案自5月9日起推動,截至本月5日共計販售408萬6168劑,庫存量尚有69萬餘劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:30"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "全球疫情持平,但各國因檢測量縮減,可能低估病例數,國際傳播風險仍大;目前國內疫情仍屬廣泛社區流行,近一週新增逾51萬例,仍屬疫情高原期;雙北、桃園及基隆市等北部縣市新增病例數下降,中南部縣市病例增加,未來一週可能逐漸接近高峰,端午連假是否對國內疫情造成影響,仍尚待觀察。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "縮減"
+            ],
+            "positive_list": [
+                "流行",
+                "增加"
+            ],
+            "datetime": "2022-06-06 13:30"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "國內新增5萬2992例本土個案及31例境外移入;另確診個案中新增151例死亡;此外,總統府發言人張惇涵表示,自6月3日至今日,總統府新增6名確診案例。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 19:23"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "全球疫情持平,惟各國因檢測量縮減,可能低估病例數,國際傳播風險仍大;目前國內疫情仍屬廣泛社區流行,近一週新增逾51萬例,仍屬疫情高原期;雙北、桃園及基隆市等北部縣市新增病例數下降,中南部縣市病例增加,未來一週可能逐漸接近高峰,端午連假是否對國內疫情造成影響,仍尚待觀察。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "縮減"
+            ],
+            "positive_list": [
+                "流行",
+                "增加"
+            ],
+            "datetime": "2022-06-06 13:26"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "有關快篩試劑配送及發放部分,指揮中心自前(4)月12日迄今,已依地方政府公衛體系需求,共配送2,290萬3,698劑,並以各縣市人口總數之15%作為地方安全儲備量。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-06 13:26"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "第一輪自5月28日至本月5日止計39日,累計販售996萬5,689份(4,982萬8,445劑),實名制第二輪自今日開始實施,每家藥局之販售份數由原78份調增為117份;超商零售通路專案自5月9日起推動,截至本月5日共計販售408萬6,168劑,庫存量尚有69萬餘劑。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "指出",
+            "opinion": "110學年度在學的高中、國中、小學及五專前三年的學生,將自今日起,於學校每人免費發放4劑快篩試劑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "雙北、桃園及基隆市等北部縣市新增病例數下降,中南部縣市病例增加,未來一週可能逐漸接近高峰,端午連假是否對國內疫情造成影響,仍尚待觀察。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "已發文要求各縣市衛生局務必落實500床以上醫院開設20%專責病房、其他200床以上醫院開設10%專責病房,其中南區共增加215床專責病房。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "增加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "強調",
+            "opinion": "以上免費提供快篩試劑是額外提供的份數,不會影響實名制的購買資格,若曾經購買過實名制快篩的,仍可再免費領取快篩試劑。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "說",
+            "opinion": "一些讓人聽得懂的記者會新聞說明。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-06 11:11"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "說明",
+            "opinion": "全台5至11歲幼童疫苗施接種率為60.5%,但若再加上已確診兒童人數,社區涵蓋率則達74.2%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:07"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "國內新增8萬195例本土個案及28例境外移入;另確診個案中新增159例死亡。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 20:04"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "回應",
+            "opinion": "「1922專線無調度119權限」;指揮官陳時中昨天表示,將檢討SOP來因應緊急狀況,1922也許可通報或緊急調配。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "緊急",
+                "緊急狀況"
+            ],
+            "positive_list": [
+                "許可"
+            ],
+            "datetime": "2022-06-09 14:32"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "回應",
+            "opinion": "沒有調度119的權限,但國民黨再度質疑1922延誤就醫難辭其咎。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "延誤",
+                "質疑",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:51"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "回應",
+            "opinion": "沒有調度119的權限。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 21:43"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "長新冠門診收案者約逾百例,但以上百萬的個案數來說,比例算是低。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:08"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "解釋",
+            "opinion": "1922專線之業務涵蓋防疫管制、檢疫、預防注射、隔離、篩檢、疫情通報與傳染病諮詢等服務,無調度119或防疫計程車等權限,只要是1922專線有紀錄的部分,指揮中心皆會儘快提供,包括錄音檔與相關通聯紀錄;指揮中心指揮官陳時中昨日也說明,1922是委外,委託民間經營,「不具有公權力」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "傳染",
+                "傳染病",
+                "隔離"
+            ],
+            "positive_list": [
+                "經營",
+                "說明"
+            ],
+            "datetime": "2022-06-10 15:13"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "指揮官陳時中上午自覺有症狀,使用家用快篩試劑檢驗,結果為陽性,由副指揮官陳宗彥暫代指揮官,指揮中心相關接觸者完成快篩,結果均為陰性。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-12 15:00"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "指揮官陳時中上午自覺有症狀,使用家用快篩試劑檢驗,結果為陽性,由副指揮官陳宗彥暫代指揮官,指揮中心相關接觸者完成快篩,結果均為陰性。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-12 13:13"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "說明",
+            "opinion": "指揮官陳時中上午自覺有症狀,使用家用快篩試劑檢驗,結果為陽性,由副指揮官陳宗彥暫代指揮官,指揮中心相關接觸者完成快篩,結果均為陰性。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-12 18:59"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "指揮官陳時中上午自覺有相關症狀,使用家用快篩試劑檢驗,結果為陽性,已透過通訊診療判定為確診,將進行居家照護,目前身體狀況良好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "良好",
+                "進行",
+                "良好"
+            ],
+            "datetime": "2022-06-12 17:09"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "指出",
+            "opinion": "陳時中居家照護期間,指揮中心持續進行防疫工作,指揮中心指揮官相關業務將由副指揮官陳宗彥暫代,陳時中也會透過電話及視訊方式,掌握各項防疫工作進度。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "掌握",
+                "進行"
+            ],
+            "datetime": "2022-06-12 15:23"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "指揮官陳時中上午自覺有相關症狀,使用家用快篩試劑檢驗,結果為陽性,已透過通訊診療判定為確診,將進行居家照護,目前身體狀況良好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "良好",
+                "進行",
+                "良好"
+            ],
+            "datetime": "2022-06-12 15:17"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "本月15日起邊境檢疫從「7+7」改為「3+4」,全部人都適用。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:50"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "從6/15起,入境居檢將縮短為3+4,而他正好和新政策擦身而過,得多關4天。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 08:34"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "陳時中指揮官上午自覺有相關症狀,使用家用快篩試劑檢驗,結果為陽性,已透過通訊診療判定為確診,將進行居家照護,目前身體狀況良好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "良好",
+                "進行",
+                "良好"
+            ],
+            "datetime": "2022-06-12 12:42"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "自15日起,所有入境旅客居家檢疫改為「3+4」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:46"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "從15日零時起(依照航班表定抵台時間)鬆綁商務旅客的入境檢疫措施,由現行的7+7縮短為3+4天,是否代表民眾離出國已經不遠了?行政院長蘇貞昌今(12)日表示,隨著疫情狀況量力量能,我們會逐步開放,希望台灣能夠早日完全正常生活,還可以出國,做最後階段努力。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "努力",
+                "希望",
+                "開放",
+                "希望"
+            ],
+            "datetime": "2022-06-12 10:18"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "入境檢疫將由現行的「7+7」放寬為「3+4」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 16:10"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/紀惠容.png",
+    "opinions": [
+        {
+            "person": "紀惠容",
+            "verb": "表示",
+            "opinion": "「遲早要來的事,終於來陽的,好個端午節,應該沒事的」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 22:09"
+        },
+        {
+            "person": "紀惠容",
+            "verb": "表示",
+            "opinion": "「遲早要來的事,終於來陽的,好個端午節,應該沒事的」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 14:09"
+        },
+        {
+            "person": "紀惠容",
+            "verb": "指出",
+            "opinion": "共4名監委在端午連假期間確診,但因確診發生在端午連假期間,已降低院內接觸機率,也不影響陳菊與李鴻鈞公務運作。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "降低"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:05"
+        },
+        {
+            "person": "紀惠容",
+            "verb": "指出",
+            "opinion": "共4名監委在端午連假期間確診,但因確診發生在端午連假期間,已降低院內接觸機率,也不影響陳菊與李鴻鈞公務運作。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "降低"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 14:09"
+        }
+    ]
+}

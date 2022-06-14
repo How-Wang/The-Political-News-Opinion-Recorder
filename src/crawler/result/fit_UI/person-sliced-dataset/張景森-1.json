@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張景森.png",
+    "opinions": [
+        {
+            "person": "張景森",
+            "verb": "說",
+            "opinion": "今天議會都在這裡,請把柯文哲當北市長以後,把富邦獨董列出來,裡面有多少是民進黨的?」柯文哲不滿反擊簡舒培。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "不滿"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:00"
+        }
+    ]
+}

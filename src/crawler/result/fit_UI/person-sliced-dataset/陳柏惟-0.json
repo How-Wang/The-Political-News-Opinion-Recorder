@@ -1,0 +1,69 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳柏惟.png",
+    "opinions": [
+        {
+            "person": "陳柏惟",
+            "verb": "指出",
+            "opinion": "因為有整體的布局考量,台灣基進不會在大烏龍地區提名議員。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:20"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "痛批",
+            "opinion": "台中市府拼命轉移焦點、台中市衛生局奉命護航等等,完全無視圖卡上的不實資訊所造成傷害,坐視假訊息散播用以追求自身政治利益。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "全無",
+                "拼命",
+                "傷害",
+                "不實",
+                "傷害"
+            ],
+            "positive_list": [
+                "利益",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-07 05:30"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "表示",
+            "opinion": "看一個人是看他長期的工作,長期的行為、文化模式,過去朱立倫「換柱」現在「換羅智強」,表示這個人搖擺不定,找不到中心思想,這樣子的人帶領一個政黨,會加速這個政黨的失敗。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "不定",
+                "失敗",
+                "搖擺",
+                "不到",
+                "不定",
+                "失敗"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:11"
+        },
+        {
+            "person": "陳柏惟",
+            "verb": "痛批",
+            "opinion": "台中市長盧秀燕,於送給外送員等7大類疫情高風險人員的快篩試劑盒子,貼上「盧秀燕市長」貼紙太Oldschool,質問六都是否有人到處貼?台北市前市議員羅智強新聞發言人何元楷7日表示,除了盧秀燕市長外,六都中,陳其邁、鄭文燦也在快篩盒上貼上署名貼紙。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "質問",
+                "質問"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:20"
+        }
+    ]
+}

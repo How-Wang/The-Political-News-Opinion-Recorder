@@ -1,0 +1,97 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃偉哲",
+            "verb": "發現",
+            "opinion": "有36.3%認為新北市長侯友宜防疫表現較好,依序為台北市長柯文哲27.5%,高雄市長陳其邁26.9%,只落後柯文哲0.6%些微差距,台中市長盧秀燕16.1%,桃園市長鄭文燦9.6%,台南市長黃偉哲7.2%,另外,5%都不好,7.2%都很好,15.7%不知道。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "不知",
+                "不知道",
+                "落後",
+                "不好",
+                "不知"
+            ],
+            "positive_list": [
+                "知道",
+                "很好",
+                "較好"
+            ],
+            "datetime": "2022-05-24 10:03"
+        },
+        {
+            "person": "黃偉哲",
+            "verb": "說",
+            "opinion": "「這學期應該上的課把它上完,孩子在暑假還可以同時複習,這樣的話對於他們的學習進度,比較好掌握。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "比較好",
+                "掌握",
+                "較好",
+                "學習"
+            ],
+            "datetime": "2022-05-26 17:32"
+        },
+        {
+            "person": "黃偉哲",
+            "verb": "表示",
+            "opinion": "《遠見》的評比行之有年,有一定的公信力,謝謝市民朋友們對於我們市政、市府團隊的肯定,我個人及市府團隊還是有需要努力加強,好還要更好。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "肯定",
+                "遠見",
+                "謝謝"
+            ],
+            "datetime": "2022-05-26 17:08"
+        },
+        {
+            "person": "黃偉哲",
+            "verb": "強調",
+            "opinion": "公務員的操守最重要,絕對會主動調查釐清。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "主動",
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-06-07 16:16"
+        },
+        {
+            "person": "黃偉哲",
+            "verb": "說",
+            "opinion": "「我們很多事情都會公正來辦理。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "公正",
+                "很多"
+            ],
+            "datetime": "2022-06-07 16:16"
+        },
+        {
+            "person": "黃偉哲",
+            "verb": "說",
+            "opinion": "「向議員報告我可以回答嗎,根據現在揭露的資訊來說,他有幾件只有一件是在,進到市府後發生,其他都在進入市府前。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "揭露"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:16"
+        }
+    ]
+}

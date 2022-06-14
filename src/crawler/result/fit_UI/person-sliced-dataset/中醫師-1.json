@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中醫師.png",
+    "opinions": [
+        {
+            "person": "中醫師",
+            "verb": "說",
+            "opinion": "停用PAXLOVID後可吃了,但阿扁從第5天起就快篩陰性了,特別是症狀都沒了。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-10 22:10"
+        },
+        {
+            "person": "中醫師",
+            "verb": "說",
+            "opinion": "停用PAXLOVID後可吃了,但阿扁從第5天起就快篩陰性了,特別是症狀都沒了。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-06-12 10:22"
+        }
+    ]
+}

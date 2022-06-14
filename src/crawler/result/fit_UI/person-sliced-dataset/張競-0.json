@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張競.png",
+    "opinions": [
+        {
+            "person": "張競",
+            "verb": "表示",
+            "opinion": "軍備轉移不會只有1次交易,後續還有很多服務要提供,因此,這是政府對政府的外交行為,全程必須公開透明。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "公開",
+                "很多",
+                "透明"
+            ],
+            "datetime": "2022-06-09 08:20"
+        },
+        {
+            "person": "張競",
+            "verb": "表示",
+            "opinion": "國際軍備管制體系由國際公約及所有參與該項國際公約各個會員國,各自在國內立法所共同支持而成。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自在",
+                "自在"
+            ],
+            "datetime": "2022-06-09 08:20"
+        }
+    ]
+}

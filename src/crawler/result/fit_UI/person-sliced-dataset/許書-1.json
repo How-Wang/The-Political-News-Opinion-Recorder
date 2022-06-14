@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許書.png",
+    "opinions": [
+        {
+            "person": "許書",
+            "verb": "回應",
+            "opinion": "從資料看,路殺確實是全時段在發生的,希望公路單位在進行工程的時候,應採納專家的意見。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "專家",
+                "進行",
+                "確實",
+                "希望"
+            ],
+            "datetime": "2022-05-26 11:45"
+        }
+    ]
+}

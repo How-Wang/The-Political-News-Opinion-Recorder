@@ -1,0 +1,609 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "柯文哲症狀已緩解不少,也吃了普拿疼來讓燒退下來一點。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 12:08"
+        },
+        {
+            "person": "北市府",
+            "verb": "說",
+            "opinion": "很可惜台北市長柯文哲今天不在現場,柯文哲染疫確診,已請總統府秘書長李大維問候柯文哲,在電視上看到柯文哲,「沒有像平常看起來那麼瀟灑」,祝福柯文哲早日恢復健康。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "可惜",
+                "沒有",
+                "可惜",
+                "沒有"
+            ],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-24 19:10"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "因梅雨鋒面影響,17時30分本市時雨量樹林區40mm、五股區40.5mm,本市災害應變中心立即開設,水利局、消防局等單位應變小組派員進駐,並請八里、新莊、樹林、五股、新店區公所成立災害應變中心,掌握各地災情,直至20時雨勢已趨緩,本市災害應變中心回歸常時三級開設。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "災害"
+            ],
+            "positive_list": [
+                "掌握"
+            ],
+            "datetime": "2022-05-25 19:44"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "因豪雨及抽水站抽水,二重疏洪道已積淹水,為顧及民眾安全,市府已派員進行疏洪十路以北區域路段(及越堤道)管制,請民眾提早配合改道。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "進行"
+            ],
+            "datetime": "2022-05-25 19:44"
+        },
+        {
+            "person": "北市府",
+            "verb": "批評",
+            "opinion": "侯友宜,議員依法執行監督職權,市長應該誠實回應,今天公然於議場欺騙監督者,根本就是藐視議員,侯友宜顛倒是非的欺瞞行為,應該於議場公開道歉。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "欺瞞",
+                "欺騙",
+                "藐視",
+                "顛倒",
+                "根本就",
+                "欺瞞",
+                "欺騙",
+                "道歉",
+                "顛倒是非"
+            ],
+            "positive_list": [
+                "公開",
+                "誠實"
+            ],
+            "datetime": "2022-05-25 15:35"
+        },
+        {
+            "person": "北市府",
+            "verb": "指出",
+            "opinion": "許多民眾都已經解隔恢復正常生活了,但卻等不到一封隔離書,當中許多確診者明明有上傳接觸者資料,系統上卻查無匡列者的資料,以至於根本無法開立居隔書。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "無法",
+                "隔離",
+                "不到",
+                "無法"
+            ],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-05-26 14:35"
+        },
+        {
+            "person": "北市府",
+            "verb": "宣布",
+            "opinion": "市內三大車來速防疫急門診將於28日轉型,提供問診、拿藥(一般和口服抗病毒藥)、採檢三合一的服務。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:10"
+        },
+        {
+            "person": "北市府",
+            "verb": "認為",
+            "opinion": "不管來源為何,就是就事論事。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:36"
+        },
+        {
+            "person": "北市府",
+            "verb": "宣布",
+            "opinion": "大巨蛋營收分潤的計算方式,前朝將價值248億元的土地以0元權利金讓利的不平等條約就此宣告終結,北市府為市民拿回應得的權益,守護住應有的公平正義,下一步就是讓大巨蛋的營運正式步上軌道。",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "不平",
+                "不平等",
+                "不平"
+            ],
+            "positive_list": [
+                "公平",
+                "平等",
+                "正式",
+                "正義",
+                "權益",
+                "公平"
+            ],
+            "datetime": "2022-05-30 23:16"
+        },
+        {
+            "person": "北市府",
+            "verb": "提到",
+            "opinion": "他想拿到音檔也是因為他需要時間消化整理,「這是我跟太太最關心的部分」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-02 17:04"
+        },
+        {
+            "person": "北市府",
+            "verb": "指出",
+            "opinion": "經比對來源確認為財團法人台北市會展產業發展基金會林姓員工,並表示將會依將依規範懲處。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "規範",
+                "發展"
+            ],
+            "datetime": "2022-06-02 22:51"
+        },
+        {
+            "person": "北市府",
+            "verb": "說",
+            "opinion": "到,另一tXXXXXXXXXg,為衛生局健康管理科同仁所有,係於PTT發布徵才資訊,屬於公務使用,並無違反本府規定;另一名同仁,則因上班時間上網修改PTT出版文章,因網路架構關係,使用同一組IP,三人並無相關。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "違反",
+                "違反"
+            ],
+            "positive_list": [
+                "健康",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 22:51"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "大巨蛋營收分潤的計算方式。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:30"
+        },
+        {
+            "person": "北市府",
+            "verb": "說",
+            "opinion": "都可以提供錄音檔案給恩恩爸爸聽,但恩恩爸爸說,他並不知道這件事情,是你們問了我才知道,他從昨天到現在都沒有接到2局長或市府的電話。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "沒有",
+                "不知",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-03 12:47"
+        },
+        {
+            "person": "北市府",
+            "verb": "指出",
+            "opinion": "針對今日議員於議場質詢,有疑似公務員上班時間於PTT發文,並遭投訴疑似造謠事件,資訊局即刻啟動調查。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "投訴",
+                "造謠",
+                "造謠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 10:52"
+        },
+        {
+            "person": "北市府",
+            "verb": "指出",
+            "opinion": "針對今日議員於議場質詢,有疑似公務員上班時間於PTT發文,並遭投訴疑似造謠事件,資訊局即刻啟動調查。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "投訴",
+                "造謠",
+                "造謠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 09:34"
+        },
+        {
+            "person": "北市府",
+            "verb": "批評",
+            "opinion": "大巨蛋案無法完工,是市長柯文哲的政治操作,副市長黃珊珊發文回擊,大巨蛋是因為前前任市長馬英九以0元權利金,將200多億的土地拱手交給遠雄,前任市長郝龍斌又放任遠雄不按圖施工長達8年,造就這個爛攤子,更暗酸蔣萬安黨同伐異、忽視民意,黃珊珊強調,如果堅持公平正義是政治操作,那她會硬幹到底。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "忽視",
+                "放任",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "公平",
+                "正義",
+                "堅持",
+                "公平"
+            ],
+            "datetime": "2022-06-03 18:25"
+        },
+        {
+            "person": "北市府",
+            "verb": "質疑",
+            "opinion": "共用IP可能是有組織網軍行為。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:39"
+        },
+        {
+            "person": "北市府",
+            "verb": "回應",
+            "opinion": "北市府同IP的帳號群事件,「用影射方式及薄弱證據硬要把不同的事互相連結、抹黑北市府養網軍,如果有市府養網軍的證據,歡迎檢舉」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "薄弱",
+                "抹黑"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-05 09:01"
+        },
+        {
+            "person": "北市府",
+            "verb": "指出",
+            "opinion": "其說法錯誤甚多,11組中僅有4組為北市府IP。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:19"
+        },
+        {
+            "person": "北市府",
+            "verb": "質疑",
+            "opinion": "共用IP可能是有組織網軍行為。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 22:45"
+        },
+        {
+            "person": "北市府",
+            "verb": "說",
+            "opinion": "法更為明顯錯誤訊息,國發會僅提供幾組完整IP給北市府使用,並非提供一整個網段。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [
+                "完整",
+                "明顯"
+            ],
+            "datetime": "2022-06-05 15:54"
+        },
+        {
+            "person": "北市府",
+            "verb": "認為",
+            "opinion": "北市府在養網軍,柯文哲回應,「議員這樣講就是認知作戰」;資訊局說明,公務網路的一個閘道出去就都會是同個IP,會儘速查清楚。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-06-06 14:41"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "。台北市副市長黃珊珊指出,北市府已在研議、盤點有無暫存專區可以使用。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 22:54"
+        },
+        {
+            "person": "北市府",
+            "verb": "解釋",
+            "opinion": "解除社會大眾的疑慮,「大家覺得北市府養網軍,這樣好嗎?」此時,柯文哲聽聞後則馬上回應,「這個王閔生議員,這就是認知作戰了。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰",
+                "疑慮",
+                "疑慮"
+            ],
+            "positive_list": [
+                "解除"
+            ],
+            "datetime": "2022-06-06 15:23"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "侯友宜選擇保護基層公務員,自己來扛起恩恩案的政治責任,這個選擇並不容易。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "保護",
+                "容易"
+            ],
+            "datetime": "2022-06-07 05:30"
+        },
+        {
+            "person": "北市府",
+            "verb": "批評",
+            "opinion": "執政黨的帳號,亦引來許多民眾黨及國民黨支持者不滿,紛紛反酸其不敢抓綠網軍,諷刺其為「塔綠班」,未料,有一帳號頻繁推文,卻反被抓到竟是新北市府員工。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "諷刺",
+                "頻繁",
+                "不滿",
+                "諷刺"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:05"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "早就要求公務員上班時間按照規定,三重地政事務所則回應,已將該員依規定移送考紀委員會處理。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:05"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "早就要求公務員上班時間按照規定,三重地政事務所則回應,已將該員依規定移送考紀委員會處理。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:41"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "」,但台北市議員苗博雅不買單,痛批調查結果只是輿情彙整,甚至還有錯誤資訊,針對外界質疑,台北市政府副發言人魏文元今(9)日回應表示,北市府資訊局不是柯南,若有市府員工留言涉及違法,或有任何受人指揮的證據,將請司法單位調查,希望不要無限上綱。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "違法",
+                "質疑",
+                "錯誤",
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-09 10:58"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "報告,針對12個帳號進行調查,共7個局處有帳號。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 16:45"
+        },
+        {
+            "person": "北市府",
+            "verb": "回應",
+            "opinion": "不以為然,「自己查自己是能查出什麼出來」、「還有許多市政公務要處理,例如發個廢文,不會找人」、「人力及資源要有效運用,所以一邊上班一邊上PTT」、「啊平常公務繁忙,怎麼還有時間上PTT」、「原來上PTT造謠是更重要的公務,是人力資源的有效應用」。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "造謠",
+                "不以",
+                "不以為然",
+                "不會",
+                "造謠"
+            ],
+            "positive_list": [
+                "有效",
+                "重要",
+                "重要的",
+                "資源"
+            ],
+            "datetime": "2022-06-09 16:45"
+        },
+        {
+            "person": "北市府",
+            "verb": "質疑",
+            "opinion": "消防局事發當晚有打給中和區公所,轉接分機315、318。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "中和"
+            ],
+            "datetime": "2022-06-09 16:14"
+        },
+        {
+            "person": "北市府",
+            "verb": "質疑",
+            "opinion": "養網軍,北市府資訊局針對12個帳號進行調查,北市會展產業發展基金會、公共運輸處、衛生局、觀傳局、交通局、秘書處、新工處皆有員工有帳號。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "發展",
+                "進行",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-09 12:18"
+        },
+        {
+            "person": "北市府",
+            "verb": "說明",
+            "opinion": "報告,針對12個帳號進行調查,共7個局處有帳號。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 12:18"
+        },
+        {
+            "person": "北市府",
+            "verb": "認為",
+            "opinion": "「市府團隊今天的發言,深深覺得這團隊已經背離人民,他們完全忽視恩恩爸要真相以及人民有知的權利,眼見苗頭不對,居然利用勤務中心主任提告張姓前消防員妨礙名譽的天賜良機,把恩恩案相關的錄音檔資料全都移交檢調」,利用司法程序偵查不公開為由,回絕人民依照政府資訊公開法提出的資料請求。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "不對",
+                "回絕",
+                "妨礙",
+                "忽視",
+                "背離",
+                "不公",
+                "不對",
+                "利用",
+                "居然"
+            ],
+            "positive_list": [
+                "公開",
+                "名譽",
+                "請求"
+            ],
+            "datetime": "2022-06-10 14:30"
+        },
+        {
+            "person": "北市府",
+            "verb": "表示",
+            "opinion": "已經把相關資料,全部交給檢調,進入司法調查程序,讓公正的第三方,儘早查明真相!最重要的是,讓事情回到本質,而不是政黨利用很多的操作,來模糊焦點,特別是為了選舉炒作。",
+            "negative_score": 3,
+            "positive_score": 9,
+            "negative_list": [
+                "模糊",
+                "不是",
+                "利用"
+            ],
+            "positive_list": [
+                "公正",
+                "公正的",
+                "很多",
+                "很多的",
+                "重要",
+                "重要的",
+                "特別",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-11 11:33"
+        },
+        {
+            "person": "北市府",
+            "verb": "強調",
+            "opinion": "一切交由檢調處理,希望不要泛政治化!至於,之前出面爆料的新北市前消防員,被提告加重誹謗後,再度發文反擊。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "加重",
+                "誹謗",
+                "不要",
+                "誹謗"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-12 18:12"
+        },
+        {
+            "person": "北市府",
+            "verb": "說",
+            "opinion": "消防局更被踢爆「偽造報案、演戲」給恩恩爸看。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "偽造",
+                "偽造"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:50"
+        },
+        {
+            "person": "北市府",
+            "verb": "說",
+            "opinion": "謊,從配發疫苗事件扯謊到總統府防疫會議,好像一天不說謊全身不對勁。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不對",
+                "說謊",
+                "不對",
+                "不對勁",
+                "說謊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:26"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "鄧元翰",
+            "verb": "指出",
+            "opinion": "盼尋求更好的解決方案,消除性別暴力。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "暴力",
+                "暴力"
+            ],
+            "positive_list": [
+                "消除",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-25 22:26"
+        }
+    ]
+}

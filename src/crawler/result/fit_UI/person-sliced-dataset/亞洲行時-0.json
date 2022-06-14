@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞洲行時.png",
+    "opinions": [
+        {
+            "person": "亞洲行時",
+            "verb": "表示",
+            "opinion": "若北京犯台,美將動用軍事力量保衛台灣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 17:21"
+        }
+    ]
+}

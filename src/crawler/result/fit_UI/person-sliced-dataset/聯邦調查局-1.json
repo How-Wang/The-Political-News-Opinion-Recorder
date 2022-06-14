@@ -1,0 +1,87 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "聯邦調查局",
+            "verb": "發現",
+            "opinion": "這些公司為了規避追查,竟然找台灣人當跳板,隱匿資金來源,民進黨立委憂心,半導體產業遭滲透,提出《營業秘密法》修法的構想。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "秘密",
+                "滲透",
+                "規避",
+                "竟然",
+                "憂心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 18:58"
+        },
+        {
+            "person": "聯邦調查局",
+            "verb": "表示",
+            "opinion": "目前資安工作站已溯源追查中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "聯邦調查局",
+            "verb": "說",
+            "opinion": "到,郭彥均彥姓人士所述「看到這麼多孩子就這樣走了」訊息,與目前COVID-19事實有所出入,不無觸犯相關法令之虞,將衡諸主觀犯意、客觀事實予以釐清。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "觸犯",
+                "觸犯"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "聯邦調查局",
+            "verb": "發現",
+            "opinion": "境外勢力透過柬埔寨人士,大量經營粉絲專頁,利用假帳號散布農場文,有沒有協力者共同造假,藉機操作議題,調查局已經介入釐清。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "利用",
+                "沒有",
+                "造假"
+            ],
+            "positive_list": [
+                "協力",
+                "經營"
+            ],
+            "datetime": "2022-05-30 12:31"
+        },
+        {
+            "person": "聯邦調查局",
+            "verb": "發現",
+            "opinion": "自2021年底至今多起疫情不實訊息來源,絕大多數來自中國、柬埔寨等400多個境外勢力得掌控的臉書、推特帳號,以及內容農場。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 12:10"
+        },
+        {
+            "person": "聯邦調查局",
+            "verb": "認為",
+            "opinion": "全案查無刑事不法,日前簽結。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不法",
+                "刑事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:25"
+        }
+    ]
+}

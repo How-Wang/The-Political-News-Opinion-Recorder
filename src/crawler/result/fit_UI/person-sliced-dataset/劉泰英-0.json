@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉泰英.png",
+    "opinions": [
+        {
+            "person": "劉泰英",
+            "verb": "說",
+            "opinion": "「希望將來台日之間,不管是經貿政治外交,能夠充分的合作,這樣對不管對日本,或對台灣都很有利。」",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "充分",
+                "合作",
+                "有利",
+                "希望",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-01 17:49"
+        }
+    ]
+}

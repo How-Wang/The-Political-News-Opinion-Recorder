@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/福吉美.png",
+    "opinions": [
+        {
+            "person": "福吉美",
+            "verb": "說明",
+            "opinion": "書顯示,可偵測變異株範圍包括Alpha、Beta、Gamma、Delta,但並未包含Omicron。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:59"
+        }
+    ]
+}

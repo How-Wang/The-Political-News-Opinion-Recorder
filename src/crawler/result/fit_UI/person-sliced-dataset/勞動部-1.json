@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/勞動部.png",
+    "opinions": [
+        {
+            "person": "勞動部",
+            "verb": "宣布",
+            "opinion": "過去疫情期間針對減班休息勞工推出的充電再出發訓練、安心就業、安心即時上工3大計畫,以及針對青年就業的獎勵,都延長到明年6月底。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "休息",
+                "訓練",
+                "獎勵",
+                "安心",
+                "獎勵"
+            ],
+            "datetime": "2022-05-26 13:43"
+        },
+        {
+            "person": "勞動部",
+            "verb": "表示",
+            "opinion": "勞動部可以提案,但要由行政院通盤考量,目前這一波並沒有規畫這兩項。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:49"
+        }
+    ]
+}

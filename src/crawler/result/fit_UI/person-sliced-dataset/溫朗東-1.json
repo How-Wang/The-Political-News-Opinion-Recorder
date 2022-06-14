@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/溫朗東.png",
+    "opinions": [
+        {
+            "person": "溫朗東",
+            "verb": "說",
+            "opinion": "「你告訴大家,到底在忙什麼,通聯紀錄怎麼聯繫的,你把它公開出來,事情就結束,結果他說資料都準備好了,準備好這麼久了,結果都不公開,派了兩個局長,親自來跟你講,親自面交資料,搞的好像是說網拍要面交資料一樣。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不公"
+            ],
+            "positive_list": [
+                "公開",
+                "準備"
+            ],
+            "datetime": "2022-06-01 19:08"
+        }
+    ]
+}

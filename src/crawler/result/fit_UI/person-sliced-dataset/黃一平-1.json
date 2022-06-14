@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃一平.png",
+    "opinions": [
+        {
+            "person": "黃一平",
+            "verb": "表示",
+            "opinion": "訂定社宅租金要考量市府可負擔及永續經營等因素,並隨區位及屋齡調整,社宅租金已是第3次調整,並經住宅審議委員會討論。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-06-06 21:34"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/小寶.png",
+    "opinions": [
+        {
+            "person": "小寶",
+            "verb": "說",
+            "opinion": "4月14日當天,全台確診840例,新北360例,跟如今每天8、9萬例相比,疫情規模等級差很多,為什麼當時「小寶」沒辦法得到妥善的醫療後送機制,認為有了真相才有辦法釐清責任。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [
+                "很多",
+                "得到"
+            ],
+            "datetime": "2022-05-30 11:59"
+        }
+    ]
+}

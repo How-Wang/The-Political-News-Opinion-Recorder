@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞太經濟聯盟.png",
+    "opinions": [
+        {
+            "person": "亞太經濟聯盟",
+            "verb": "認為",
+            "opinion": "讓台灣加入IPEF「太具爭議性」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 07:21"
+        },
+        {
+            "person": "亞太經濟聯盟",
+            "verb": "認為",
+            "opinion": "讓台灣加入IPEF「太具爭議性」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 08:09"
+        }
+    ]
+}

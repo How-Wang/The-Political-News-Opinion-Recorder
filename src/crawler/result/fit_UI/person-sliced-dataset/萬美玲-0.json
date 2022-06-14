@@ -1,0 +1,18 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "萬美玲",
+            "verb": "回應",
+            "opinion": "媒體詢問時指出,羅智強的成全,不但成全了地方的和諧,也成全了年底選戰國民黨在桃園市的勝選,更是成全了桃園市最好的未來,從這一步開始起,國民黨會團結打贏年底的選戰。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "和諧",
+                "最好"
+            ],
+            "datetime": "2022-06-07 12:44"
+        }
+    ]
+}

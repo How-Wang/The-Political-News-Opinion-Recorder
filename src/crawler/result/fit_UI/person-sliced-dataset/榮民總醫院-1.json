@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/榮民總醫院.png",
+    "opinions": [
+        {
+            "person": "榮民總醫院",
+            "verb": "提到",
+            "opinion": "台中市政府衛生局推動「疫苗五箭齊發」增加疫苗的覆蓋率。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "增加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-29 18:17"
+        }
+    ]
+}

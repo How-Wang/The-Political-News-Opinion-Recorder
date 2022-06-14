@@ -1,0 +1,58 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "韓國瑜",
+            "verb": "呼籲",
+            "opinion": "用炒聲量的方式來做為從政工具,是對政治工作的一種傷害。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "傷害",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 19:03"
+        },
+        {
+            "person": "韓國瑜",
+            "verb": "說",
+            "opinion": "這裡是台灣,是大家最自豪認為我們是民主國家的台灣,這一切真的太令人痛心、令人遺憾,衷心希望全天下所有孩子都能平安健康長大,所有父母都能不再面臨錐心之痛。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "痛心",
+                "遺憾",
+                "痛心",
+                "遺憾",
+                "錐心"
+            ],
+            "positive_list": [
+                "平安",
+                "自豪",
+                "希望",
+                "衷心",
+                "健康",
+                "希望"
+            ],
+            "datetime": "2022-05-29 00:22"
+        },
+        {
+            "person": "韓國瑜",
+            "verb": "說",
+            "opinion": "當喪子的父母們心痛無比時、當有人跳出來陳述一個正在發生的悲劇,呼籲大家心疼醫護、做好防疫時,要面臨的是網軍獵巫、是被官員喊告、是可能面臨巨額罰款。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "悲劇",
+                "罰款",
+                "心疼",
+                "心痛"
+            ],
+            "positive_list": [
+                "無比"
+            ],
+            "datetime": "2022-05-29 09:14"
+        }
+    ]
+}

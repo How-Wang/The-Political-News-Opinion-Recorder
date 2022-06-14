@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/親美政黨.png",
+    "opinions": [
+        {
+            "person": "親美政黨",
+            "verb": "說",
+            "opinion": "法,前立委「3Q哥」陳柏惟在《94要客訴》節目大聲說,國民黨本是就是「中國的」政黨,朱立倫內心深處知道,這樣只是一個「比較親美」的中國政黨而已,大家不要被他的話術騙。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "大聲",
+                "不要"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-07 18:11"
+        }
+    ]
+}

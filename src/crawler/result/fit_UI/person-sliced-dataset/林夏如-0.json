@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林夏如.png",
+    "opinions": [
+        {
+            "person": "林夏如",
+            "verb": "說",
+            "opinion": "呼籲亞太各國跨界合作,推動良善治理和政策創新。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "創新",
+                "合作",
+                "良善"
+            ],
+            "datetime": "2022-05-26 10:18"
+        }
+    ]
+}

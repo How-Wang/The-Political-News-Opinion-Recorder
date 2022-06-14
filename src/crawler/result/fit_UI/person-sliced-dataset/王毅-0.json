@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王毅.png",
+    "opinions": [
+        {
+            "person": "王毅",
+            "verb": "表示",
+            "opinion": "美國主導的印太戰略是企圖「搞印太版的北約」;5月13日,在拜登訪亞洲前,王毅再一次強調,「中方反對一些勢力以烏克蘭危機為由,鼓吹北約進一步向亞太拓展,試圖打造亞太版北約,只會給地區安全帶來嚴重傷害」。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "危機",
+                "傷害",
+                "嚴重",
+                "危機",
+                "傷害"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-05-28 08:40"
+        }
+    ]
+}

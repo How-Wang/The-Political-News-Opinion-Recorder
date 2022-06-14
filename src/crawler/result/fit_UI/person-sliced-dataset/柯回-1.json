@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯回.png",
+    "opinions": [
+        {
+            "person": "柯回",
+            "verb": "說",
+            "opinion": "自己的工作自己找,卸任後要找甚麼工作,是總統嗎?柯文哲回應「自己的工作自己找」,退休還是要找個工作做,表示要等12月25日回台大醫院,才能決定下一步要怎麼辦。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "決定"
+            ],
+            "datetime": "2022-05-30 16:13"
+        }
+    ]
+}

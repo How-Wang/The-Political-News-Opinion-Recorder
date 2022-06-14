@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台鐵公司.png",
+    "opinions": [
+        {
+            "person": "台鐵公司",
+            "verb": "認為",
+            "opinion": "台鐵公司化最高指導原則是行車安全,盼勞資齊心改革帶來台鐵重生與永續經營。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "改革",
+                "最高",
+                "經營"
+            ],
+            "datetime": "2022-05-27 15:48"
+        }
+    ]
+}

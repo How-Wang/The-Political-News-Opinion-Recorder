@@ -1,0 +1,22 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "坪林國小",
+            "verb": "發現",
+            "opinion": "有人到校看地,才知道學校的司令台,被國有財產署上網標售,民眾以52萬得標後,竟然還要以300萬賣給校方,雙方未能達成共識,地主因此告上法院。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "竟然"
+            ],
+            "positive_list": [
+                "有財產",
+                "知道",
+                "財產",
+                "達成"
+            ],
+            "datetime": "2022-05-25 13:17"
+        }
+    ]
+}

@@ -1,0 +1,2761 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "即將到來的端午連假恐因返鄉群聚,造成確診增加讓疫情出現雙峰甚至多峰的現象,對此政府應盡早因應;兒童施打疫苗有一定保護力,呼籲民眾還是盡量讓兒童施打疫苗增強抵抗力。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "抵抗"
+            ],
+            "positive_list": [
+                "保護",
+                "增加"
+            ],
+            "datetime": "2022-05-21 15:52"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "延長紓困措施,針對觀光、交通、旅宿、餐飲等產業及勞工,加強補貼。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:46"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "疫情到達高峰後,無薪假問題勢必更加嚴重,更恐怕衝擊台灣的整體經濟結構。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "恐怕",
+                "問題",
+                "衝擊",
+                "嚴重",
+                "恐怕",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 12:46"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召前行政院長參選桃園市長,引發黨內譁然,早已表態參選的前台北市議員羅智強與立委呂玉玲更大表錯愕,更傳出超過20名國民黨籍里長揚言退黨。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 20:02"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "這陣子國民黨雖然面臨到許多風雨,但守護中華民國、為台灣打拼一直都是國民黨永久不變的核心價值,「我是張煥霖,我與黨內此次參選的夥伴們合作,一同加入不脫黨參選宣言,堅守國民黨核心價值」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-05-21 17:51"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "對城市治理的概念,來爭取選民的認同。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-05-21 11:45"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "最負責任的人才,更爆料「民進黨陣腳大亂」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "大亂"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-05-23 14:38"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召行政院前院長張善政參選桃園市長,引發藍營部分地方人士反彈,張善政在臉書發文向桃園市議長邱奕勝、立委呂玉玲與台北市前議員羅智強道歉。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 18:29"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "全案在偵查中,一切依法辦理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 21:44"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "聽到國民黨主席朱立倫說,提名張善政選桃園市長,讓民進黨「陣腳大亂」,內心「有點混亂」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "混亂",
+                "大亂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 15:43"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召前行政院長張善政參選桃園市長,引發桃園在地民代不滿,桃園市議會議長邱奕勝還退出黨務群組、收拾黨部的東西。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "退出",
+                "不滿",
+                "東西"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 10:07"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "要做到像朱立倫這樣也不簡單,根本就是「贏贏賭博到輸輸去,好好鳖刣到屎流」,桃園基本盤藍大於綠,加上鄭文燦執政8年會產生鐘擺效應,國民黨原本有很大機會能拿下桃園,現在又被朱立倫搞垮了。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "賭博",
+                "根本就"
+            ],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-05-24 14:36"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "這把火將燒向全台,造成藍營全面崩盤。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-05-24 14:01"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "泛綠支持者比泛藍支持者多21.1個百分點。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 12:04"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "市長候選人本就該爭取更多鄉親支持。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 10:35"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "市長候選人本就該爭取更多鄉親支持。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 09:47"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "最負責任的人才,更爆料「民進黨陣腳大亂」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "大亂"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-05-24 08:57"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召行政院前院長張善政參選桃園市長,引發部分國民黨內及地方人士不滿。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "不滿"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 09:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召張善政參選桃園市長,引發地方反彈聲浪。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 20:49"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "國民黨基本盤長期低迷,台北市受民眾黨的影響更大,目前台北市副市長黃珊珊的角色,類似指揮官,聲量話題被重視,蔣萬安在防疫上沒有特殊角色,要怎麼逆轉是很大的課題。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "低迷",
+                "沒有"
+            ],
+            "positive_list": [
+                "重視"
+            ],
+            "datetime": "2022-05-25 17:49"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "艱難挑戰正要開始,這次選舉是對家鄉的承諾及擘畫未來藍圖的起點,會全力以赴贏得選戰,打造宜居城市。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "挑戰",
+                "艱難"
+            ],
+            "positive_list": [
+                "全力",
+                "承諾"
+            ],
+            "datetime": "2022-05-25 16:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召張善政參選桃園市長,引發地方反彈聲浪。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 15:51"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召張善政參選桃園市長,引發地方反彈聲浪。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:41"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "政黨比個人重要,期盼張善政、邱奕勝與呂玉玲等人,之後能演出和諧畫面,但坦言,此事對社會錯誤印象已造成,他建議,黨中央應該讓桃園提名,回到初選機制上,向台灣人證明國民黨是說話算話的政黨。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [
+                "和諧",
+                "重要",
+                "期盼"
+            ],
+            "datetime": "2022-05-25 16:03"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召張善政參選桃園市長,引發地方反彈聲浪。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 21:32"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "話算話的政黨,一再強調不要老認為找一個人就好。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "一再",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 11:10"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "最負責任的人才,更爆料「讓民進黨陣腳大亂」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "大亂"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-05-25 09:10"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "台灣生育率下降是兩岸關係緊張所導致,民進黨晚間表示;政府推出5大育兒措施皆優於國民黨執政時期,請國民黨勿用歪邏輯噴政治口水,應一起成為育兒過程最堅強神隊友。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "下降",
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [
+                "生育",
+                "成為",
+                "堅強",
+                "優於",
+                "邏輯"
+            ],
+            "datetime": "2022-05-26 20:04"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提到",
+            "opinion": "的低薪資,李妍慧說,相較於前總統馬英九執政8年,實質薪資倒退,平均每年實質經常性薪資的成長率為「負」0.26%,綠色執政的2020年實質經常性薪資成長1.72%,創2000年以來最大的漲幅。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成長"
+            ],
+            "datetime": "2022-05-26 20:04"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "總統蔡英文執政以來,面臨兩岸關係緊張和物價暴漲,年輕夫妻對於未來悲觀,出生人數持續墊底;如果少子化問題再不改善,台灣社會將面臨崩盤。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "悲觀",
+                "緊張",
+                "問題",
+                "悲觀",
+                "緊張"
+            ],
+            "positive_list": [
+                "改善",
+                "改善"
+            ],
+            "datetime": "2022-05-26 13:23"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "台灣生育率下降是因為蔡英文政府執政不力、兩岸關係緊張。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "下降",
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [
+                "生育"
+            ],
+            "datetime": "2022-05-26 17:59"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "可行替代方案,確保國內民生用電,協助產業發展。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "可行",
+                "協助",
+                "發展"
+            ],
+            "datetime": "2022-05-26 13:55"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "蔡英文政府無法在疫情下成為民眾後盾造成台灣少子化加劇的基調,進一步點出民進黨執政下出生人數遞減的現象。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "加劇",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-26 12:05"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "讓前立委謝國樑參選基隆市長,民眾黨立委邱臣遠立刻就找來議員參選人開記者會關心基隆防疫,更表達為了故鄉不怯戰的心情,何時能近一步宣布,邱臣遠說要等立法院會期結束。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-26 13:16"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "聲浪,張善政為表達善意,兩次請見邱奕勝未果,今天第三次終於兩人破冰相見,但從兩人互動可以看出邱奕勝仍未釋懷,連桃園市立委黃適卓在《94要客訴》節目分析,朱立倫不尊重當地被藍營內部炮轟,一桃殺五將,一次得罪邱奕勝、羅智強、魯明哲、萬美玲、呂玉玲,這種心結根本無法一下子解開,破鏡難重圓。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "不尊重",
+                "炮轟",
+                "得罪",
+                "無法",
+                "不尊重",
+                "得罪",
+                "無法"
+            ],
+            "positive_list": [
+                "尊重",
+                "善意",
+                "解開",
+                "尊重"
+            ],
+            "datetime": "2022-05-26 17:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "每個縣市都應該歡迎人才,對優秀的人不管要參選市長、立委、議員、是不是民進黨籍,他都舉雙臂歡迎。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不管",
+                "不是"
+            ],
+            "positive_list": [
+                "優秀",
+                "優秀的",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-05-26 10:19"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說明",
+            "opinion": "日前向考選部陳情無果的經過。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:23"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "民進黨應扮演執政團隊與人民之間的橋梁,反映民意訴求,讓執政者做出符合人民需求的決策;若民進黨持續扮演「豬隊友」,讓執政者無法聽到正確民意,只會引爆更大民怨。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "正確",
+                "符合"
+            ],
+            "datetime": "2022-05-27 12:12"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "這波疫情衝擊非常多商家,餐飲服飾業統計到4月,業績已消退3成,呼籲政府「助產業」應該「及時到位」,如同去年紓困4.0,直接補助營業受損商家的店家租金及員工薪資。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "衝擊"
+            ],
+            "positive_list": [
+                "消退"
+            ],
+            "datetime": "2022-05-27 12:12"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "四項主張,包含,補助店家租金、補助員工最低薪資2至3個月、減免相關稅金、協助營運資金的低利貸款。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "最低"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-27 14:16"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "行政院提出「345.6億紓困振興作為」,雖然畫出大餅,但許多業者仍感嘆「看得到、難吃到」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "感嘆"
+            ],
+            "positive_list": [
+                "得到"
+            ],
+            "datetime": "2022-05-27 14:16"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "去年因三級警戒、禁內用等措施,讓商家受創嚴重,但今年疫情蔓延、確診人數較去年更為嚴重,民眾自主性「升三級警戒」,絕非蔡英文政府所謂只是「與疫情共存的陣痛期」,小規模的商家經不起這段疫情海嘯的衝擊,呼籲蔡英文政府應該比照去年的紓困規模,協助業者持續經營、維繫生計,順利渡過這波疫情的難關。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "陣痛",
+                "蔓延",
+                "衝擊",
+                "嚴重",
+                "不起",
+                "經不起"
+            ],
+            "positive_list": [
+                "自主",
+                "協助",
+                "順利",
+                "經營"
+            ],
+            "datetime": "2022-05-27 12:53"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "根據經濟部統計處資料顯示,今年四月份,餐飲業的營業額為620億元,較今年1月份的759億元,衰退了近兩成,較上個月的698億元下滑了逾一成,約11.1%,也較去年同期下跌5.8%。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "下跌",
+                "衰退"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:53"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "四項主張,包含,補助店家租金、補助員工最低薪資2至3個月、減免相關稅金、協助營運資金的低利貸款。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "最低"
+            ],
+            "positive_list": [
+                "協助"
+            ],
+            "datetime": "2022-05-27 12:53"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "現任國民黨苗栗縣黨部主委、縣議會議長鍾東錦,以及前縣長劉政鴻、前農田水利署苗栗管理處長謝福弘都有可能參選。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "管理"
+            ],
+            "datetime": "2022-05-27 07:28"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "政府,疫情海嘯衝擊下,他們需要的不是振興,而是先紓困。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "衝擊",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "自己3月已經通過外語導遊考試的筆試,這週末原本要面試,卻因為確診得隔離。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-05-27 13:20"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "自己三月已經通過外語導遊考試的筆試,這週末原本要面試,卻因為確診得隔離。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-05-27 11:34"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "真話沒有錯」,結果害高山峰也被出征了!高山峰在今日表示「我覺得彥均沒有錯。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 17:52"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "地方支持度還是很高,試圖守住縣民的心。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:34"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "民進黨發言人謝子涵表示,過去兩年政府推出的振興方案,帶動內需回升,零售業更是創下單月新高,因此今年繼續加碼實施,針對餐飲、服務、運輸、觀光等產業,推出總計345.6億元振興案,並減收101.5億租金、吸收31.2億稅金,透過「助產業/護勞工」、「減負擔」、「穩金流」三大面向,提供民眾必要的支持。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-05-27 14:34"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "黨團議員與基層真的強烈希望李四川能代表國民黨參選市長,盼黨主席朱立倫再進一步與李四川深談,「有空看看李副臉書」讓李深談來四川參選贏得聖戰、贏回民心。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "強烈"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-27 12:42"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "第55條之1修正動議,要求增訂兒童、孕婦、老人、年滿55歲之原住民、身心障礙者,應享有優待車票。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "障礙"
+            ],
+            "positive_list": [
+                "享有"
+            ],
+            "datetime": "2022-05-27 12:10"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "第55條之1修正動議,要求增訂兒童、孕婦、老人、年滿55歲之原住民、身心障礙者,應享有優待車票。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "障礙"
+            ],
+            "positive_list": [
+                "享有"
+            ],
+            "datetime": "2022-05-27 12:45"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "第55條之1修正動議,要求增訂兒童、孕婦、老人、年滿55歲之原住民、身心障礙者,應享有優待車票。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "障礙"
+            ],
+            "positive_list": [
+                "享有"
+            ],
+            "datetime": "2022-05-27 13:15"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "修法是為前總統陳水扁脫罪,藍綠爆發肢體衝突,藍委狂撒假鈔、假禮券杯葛議事,民進黨團後以人數優勢將該草案送出委員會。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "衝突",
+                "爆發",
+                "衝突"
+            ],
+            "positive_list": [
+                "優勢"
+            ],
+            "datetime": "2022-05-28 20:00"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "「呂秀蓮至少家族數千人,是道地的桃園人,張善政是中國在台灣的第二代僑民,戶籍在花蓮。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 16:10"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "事權貴參選,連勝文受訪表示,真正的權貴,是掌握權力卻不做事,不管民眾的大官。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "真正",
+                "真正的",
+                "掌握"
+            ],
+            "datetime": "2022-05-28 17:42"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "「皇家軍」,不珍惜羅智強也罷了,還一連得罪所有人?身邊藍營的支持者都看不下去,作為老百姓,只覺得,這樣的安排,非常有失公平公正。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "得罪",
+                "不下",
+                "得罪",
+                "罷了"
+            ],
+            "positive_list": [
+                "公平",
+                "公正",
+                "公平"
+            ],
+            "datetime": "2022-05-28 05:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "在野黨即使不甘願幫助指揮中心,也不要製造恐慌。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "恐慌",
+                "不甘",
+                "不要",
+                "恐慌"
+            ],
+            "positive_list": [
+                "甘願",
+                "幫助",
+                "甘願"
+            ],
+            "datetime": "2022-05-29 11:53"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "自己「散布假消息」,要求刑事局立即製作筆錄,把他們以現行犯移送地檢署偵辦,立委受訪並強調「不接受函送」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "刑事",
+                "要求"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-29 12:42"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "這件事的問題點並不是在「可不可以質疑政府」,或是「質疑政府被公權力打壓」,更不是什麼「網軍治國,壓制民眾真實的心聲」。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "問題",
+                "質疑",
+                "壓制",
+                "不可",
+                "不是",
+                "打壓",
+                "問題",
+                "壓制"
+            ],
+            "positive_list": [
+                "真實",
+                "真實的"
+            ],
+            "datetime": "2022-05-29 10:57"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "打壓言論自由,國民黨團還揪團主動投案。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [
+                "主動",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-29 10:21"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "經審慎評估及研議,決議建議徵召國民黨苗栗縣區域立委徐志榮參選年底苗栗縣長選舉,徐志榮為民調最高,及最能獲得包括現任苗栗縣長徐耀昌、前縣長劉政鴻及現任縣議會議長鍾東錦等地方意見領袖的支持。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "審慎",
+                "獲得"
+            ],
+            "datetime": "2022-05-30 18:33"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "中央選戰策略會報下午開會討論,與會委員就苗栗縣長選舉候選人人選徵詢協調結果廣泛交換意見,經審慎評估及研議,決議建議徵召徐志榮參選。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "審慎"
+            ],
+            "datetime": "2022-05-30 18:33"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "雖然徐志榮委員多次謙讓,但選策會委員考量能促進地方整合及拓展中間選民票源等因素,決議向中央選舉提名委員會提報,建議徵召徐志榮代表國民黨參選苗栗縣縣長,未來並將全力協助徵召同志爭取選民的認同與支持。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "協助",
+                "促進",
+                "認同"
+            ],
+            "datetime": "2022-05-30 18:18"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "雖然徐志榮多次謙讓,但選策會委員考量能促進地方整合及拓展中間選民票源等因素,決議向中央選舉提名委員會提報,建議徵召徐志榮代表本黨參選苗栗縣縣長,未來並將全力協助徵召同志爭取選民的認同與支持。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "協助",
+                "促進",
+                "認同"
+            ],
+            "datetime": "2022-05-30 18:43"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "從民調結果來看,「把郭彥均事件搞成藍綠對決是否聰明?中性選民是否支持國民黨的說法?郭。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "聰明",
+                "聰明"
+            ],
+            "datetime": "2022-05-30 10:50"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "「國民黨連神主牌孫文都砸」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:59"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "法,郭彥均更莫名其妙的被國民黨綁架與利用,成為二次傷害。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "傷害",
+                "綁架",
+                "利用",
+                "莫名",
+                "莫名其妙",
+                "傷害"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-30 10:20"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "雖然徐志榮多次謙讓,但選策會委員考量能促進地方整合及拓展中間選民票源等因素,決議向中央選舉提名委員會提報,建議徵召徐志榮代表國民黨參選苗栗縣縣長,未來並將全力協助徵召同志爭取選民的認同與支持。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "協助",
+                "促進",
+                "認同"
+            ],
+            "datetime": "2022-05-30 22:21"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "「無論任何政治意識形態都不足以成為傷害他人的藉口與理由,對這樣的仇恨暴力,應給予最嚴厲譴責。」",
+            "negative_score": 12,
+            "positive_score": 2,
+            "negative_list": [
+                "不足",
+                "仇恨",
+                "傷害",
+                "暴力",
+                "藉口",
+                "嚴厲",
+                "譴責",
+                "不足",
+                "仇恨",
+                "傷害",
+                "暴力",
+                "藉口"
+            ],
+            "positive_list": [
+                "成為",
+                "給予"
+            ],
+            "datetime": "2022-05-30 07:00"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "現在是疫情高峰,民進黨立法院黨團卻選擇強行通過國務機要費除罪化的條文,只為幫前總統陳水扁的貪污案除罪。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "貪污",
+                "貪污"
+            ],
+            "positive_list": [
+                "通過"
+            ],
+            "datetime": "2022-05-30 14:02"
+        },
+        {
+            "person": "國民黨",
+            "verb": "痛批",
+            "opinion": "是為了前總統陳水扁修法,7點半就來搶佔主席台杯葛。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 18:55"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "這是為陳水扁脫罪杯葛。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:50"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "國民黨既然要杯葛應該是準備水球,而不是丟杯水,因為杯水是硬的,砸到人會受傷。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "受傷",
+                "不是"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-05-30 12:47"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "促轉會已被認證是失敗的機關,嚴正呼籲行政院引以為戒,絕不能讓後續機關再成為下一個東廠。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "失敗",
+                "失敗的",
+                "失敗",
+                "絕不"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-31 17:08"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "行政院未來接手所謂促轉業務後,根本要務應該是修正先前促轉會所犯的錯誤,真正推動社會和解、弭平政治對立,若仍一意孤行,持續藉所謂轉型正義來打壓異己,必將被社會民意所反噬。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "對立",
+                "錯誤",
+                "一意孤行",
+                "打壓",
+                "孤行",
+                "對立"
+            ],
+            "positive_list": [
+                "正義",
+                "真正"
+            ],
+            "datetime": "2022-05-31 17:08"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "依據促轉條例,促轉會應為獨立機關,要推動包括平復司法不法、還原歷史真相、促進社會和解等事務,但促轉會設立4年來的各種作為,卻完全不符獨立機關應有的中立性,更與還原歷史真相、促進社會和解的宗旨背道而馳。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不法",
+                "不符"
+            ],
+            "positive_list": [
+                "促進",
+                "獨立"
+            ],
+            "datetime": "2022-05-31 17:08"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "建議徵召徐志榮參選苗栗縣長,但徐志榮今天表示,他堅持兩個原則,就是不會參選,以及全力支持黨提名的縣長參選人,對辜負黨的厚愛與支持者的抬愛,他表達歉意。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "辜負",
+                "不會"
+            ],
+            "positive_list": [
+                "全力",
+                "堅持"
+            ],
+            "datetime": "2022-05-31 13:09"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "行政院引以為戒,絕不能讓後續機關再成為下一個東廠,行政院未來接手所謂促轉業務後,根本要務應該是修正先前促轉會所犯的錯誤,真正推動社會和解、弭平政治對立,若仍一意孤行,持續藉所謂轉型正義來打壓異己,必將被社會民意所反噬。",
+            "negative_score": 8,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "對立",
+                "錯誤",
+                "一意孤行",
+                "打壓",
+                "孤行",
+                "絕不",
+                "對立"
+            ],
+            "positive_list": [
+                "正義",
+                "成為",
+                "真正"
+            ],
+            "datetime": "2022-05-31 21:01"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "促轉會已被認證是失敗的機關,由於作為失當、不被社會接受最終關門。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "失敗",
+                "失敗的",
+                "失敗"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-31 21:01"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "他對桃園有12年的感情,雖然後來因念書工作等原因離開,但台灣是他的家,桃園也是他的家。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:48"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "政府「很多孩子都走了,誰要負責?」,痛批民進黨沒先把兒童疫苗量能備足,就宣布要與病毒共存,根本是「落後部署」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "落後"
+            ],
+            "positive_list": [
+                "很多",
+                "負責"
+            ],
+            "datetime": "2022-05-31 13:54"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "徐志榮為民調最高及最能獲得地方意見領袖包括現任縣長徐耀昌、前縣長傅學鵬與劉政鴻、鍾東錦議長的支持,尤其是劉政鴻表示願意擔任徐志榮競選總幹事,雖然徐志榮多次謙讓,但選策會委員考量能促進地方整合及拓展中間選民票源等因素,決議向中央選舉提名委員會提報,建議徵召徐志榮代表本黨參選苗栗縣縣長。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "促進",
+                "最高",
+                "獲得",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-31 12:18"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "中央選戰策略會報昨下午開會討論,決議建議徵召現任立委徐志榮參選;豈料,徐志榮今(31)日卻召開記者會,強調不參選,並鞠躬對大家說「對不起」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不起",
+                "對不起"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:45"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "中央選戰策略會報昨下午召開會議討論,與會委員就苗栗縣長選舉候選人人選徵詢協調結果廣泛交換意見,經審慎評估及研議,決議建議徵召現任立委徐志榮參選。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "審慎"
+            ],
+            "datetime": "2022-05-31 11:09"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召徐志榮後,記者致電,但徐志榮都沒有接電話,無法得知他的看法。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "無法",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 08:56"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召現任立法委員徐志榮參選苗栗縣長,不過,徐志榮31日受訪表示「有點錯愕」,他強調目前先把立委工作做好,言下之意就是婉拒徵召。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "婉拒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召立委徐志榮參選,但徐志榮隔天卻出面表示「有點錯愕」,強調目前先把立委工作做好,婉拒參選。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "婉拒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 11:14"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "「建議」徵召現任立委徐志榮參選苗栗縣長,徐志榮迅速發聲明婉拒,今(6月1日)早上還傳出,下午舉行中常會,即使徐志榮不到中常會現場,仍然宣布徵召,雖然最後踩了剎車,仍然讓外界議論紛紛。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不到",
+                "婉拒",
+                "議論",
+                "不到"
+            ],
+            "positive_list": [
+                "迅速",
+                "舉行"
+            ],
+            "datetime": "2022-06-01 19:09"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "有勝選實力的人,而選策會的任務也是這樣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:08"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "國民黨前總理孫文這張破洞的照片,國民黨難道要把它留在立法院的議場裡面,這幾天大家都問她,是否認為國民黨會賴帳,「我都說一定會,因為賴帳是他們的本能科」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "否認",
+                "破洞"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:14"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召立委徐志榮參選苗栗縣長,豈料,徐志榮昨日上午在立法院受訪時表示「錯愕」,表態不參選苗栗縣長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 11:57"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "政府應比照去年暫緩實施夏季電價。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 11:38"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "「電價凍漲」,鄭運鵬狠酸,沒常識也要看電視,夏季電價並非漲價,從民國78年開始就有分夏季電價、冬季電價,不能說到夏季就變成是漲電價,到冬季是降電價,這觀念不對,他也提到,全世界也有很多國家都對夏季用以價制量方式處理,去年凍漲是因為三級警戒,今年逐步開放,政策上不同,政府也有用其他方式協助補貼。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "不對",
+                "不對"
+            ],
+            "positive_list": [
+                "有用",
+                "協助",
+                "很多",
+                "開放"
+            ],
+            "datetime": "2022-06-01 11:38"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召立委徐志榮參選苗栗縣長,豈料,徐志榮昨日上午在立法院受訪時表示「錯愕」,表態不參選苗栗縣長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:25"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "國民黨誤導,將議員與立委質疑的校園施打效率不彰跟其他施打的量混為一談。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "誤導",
+                "質疑",
+                "不彰"
+            ],
+            "positive_list": [
+                "效率"
+            ],
+            "datetime": "2022-06-01 13:44"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "話,從他們說的話便知國民黨有在做民調。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 05:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "福吉美唾液快篩試劑無法驗出Omicron病毒,要求衛福部出面說明。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-02 15:13"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "「不用對美國人卑躬屈膝,讓自己沒尊嚴」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "民進黨台中市長候選人蔡其昌聲稱自己爭取到大型接種站,不但凸顯民進黨為了選舉決策混亂,更顯示出蔡其昌作為候選人,完全缺乏地方治理能力,忽略草率決策將造成惡果。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "忽略",
+                "缺乏",
+                "草率",
+                "混亂",
+                "草率",
+                "惡果"
+            ],
+            "positive_list": [
+                "能力"
+            ],
+            "datetime": "2022-06-02 21:54"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提到",
+            "opinion": "設立兒童疫苗大型接種站,人口最多的新北市政府、台北市均表示「事先完全不知道」;台中市政府事前擔心中央臨時加開快打站,會不會造成臨時抽單、施打混亂的狀況,正在逐漸發生。",
+            "negative_score": 9,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不會",
+                "混亂",
+                "混亂的",
+                "擔心",
+                "不知",
+                "不會",
+                "擔心"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-02 21:54"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "行政院長蘇貞昌倉促設立六都兒童疫苗大型接種站釀成亂象。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:54"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "在疫情高峰緊急核准該款快篩,形同草菅人命,呼籲衛福部應出面說明。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "緊急",
+                "草菅",
+                "草菅人命"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-02 13:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "萬物齊漲但薪水沒漲、疫情之下無薪假人數也創新高,4月的痛苦指數上升至7%,突破歷史新高;要求加強照顧弱勢家庭、上調租金補貼、夏月電價暫緩實施,呼籲政府要真正照顧到民眾。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "痛苦",
+                "痛苦"
+            ],
+            "positive_list": [
+                "真正",
+                "創新"
+            ],
+            "datetime": "2022-06-03 15:34"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "吃萊豬會讓睪丸變小(TesticularAtrophy),相關資訊,透過line群組,四處發送,大家都收到過。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "此舉是「大內宣」,張之豪批評,「大內宣」這個字,是從China的「大外宣」學來的,藍白兩黨都很愛拿來講民進黨政府的政策宣布,叫做「大內宣」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "不用對美國人卑躬屈膝,讓自己沒尊嚴」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-06-03 15:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "雖然人民收入逐年增加,但扣掉通膨,能買的東西反而變少,像是2020年的可支配所得還有41437元,到了去年變成41422元,微幅下滑0.04%,生活品質開倒車,政府應該出手補貼。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "支配",
+                "東西"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-06-03 13:07"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "國民黨不要向國際社會傳達混淆和錯誤的訊息,一方面赴美說親美,二方面對國內又合理化中國打壓台灣作為、質疑台美深化交流。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "混淆",
+                "質疑",
+                "錯誤",
+                "錯誤的",
+                "不要",
+                "打壓",
+                "混淆"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-03 14:50"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "朱立倫弔詭行為,使「黨內團結面臨潰堤」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 05:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "國民黨不要向國際社會傳達混淆和錯誤的訊息,一方面赴美說親美,二方面對國內又合理化中國打壓台灣作為、質疑台美深化交流。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "混淆",
+                "質疑",
+                "錯誤",
+                "錯誤的",
+                "不要",
+                "打壓",
+                "混淆"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-03 14:36"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召立委徐志榮參選苗栗縣長,沒想到,徐志榮偏偏不肯;徐志榮31日上午,在立法院受訪時除了表示「錯愕」,也表態不會參選苗栗縣長;國民黨從桃園的提名之亂,一直到苗栗徵召之亂,讓藍營基層相當憂心。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不肯",
+                "不會",
+                "不會",
+                "沒想",
+                "沒想到",
+                "憂心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 20:02"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "國民黨不要向國際社會傳達混淆和錯誤的訊息,一方面赴美說親美,二方面對國內又合理化中國打壓台灣作為、質疑台美深化交流。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "混淆",
+                "質疑",
+                "錯誤",
+                "錯誤的",
+                "不要",
+                "打壓",
+                "混淆"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-03 14:21"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "「親美立場」,但普遍民眾還是認為國民黨一直以來的言論、行為就是在「反美」,朱立倫解釋,不管從國際政治情況還是國防、經貿要求,台美關係都是最重要的,例如這兩天台美經貿的提升,國民黨歡迎,且希望未來能落實更多具體合作。",
+            "negative_score": 2,
+            "positive_score": 11,
+            "negative_list": [
+                "不管",
+                "要求"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "提升",
+                "歡迎",
+                "合作",
+                "希望",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 11:01"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "蔡英文隱匿防疫資訊,葉元之反諷,大家不要再抹黑蔡英文,因為蔡英文根本不關心防疫,怎麼會有隱匿資訊的問題;他也提到,蔡英文說五月會進一億快篩,到現在都沒到貨,可見對防疫不了解。",
+            "negative_score": 10,
+            "positive_score": 3,
+            "negative_list": [
+                "不關",
+                "不關心",
+                "反諷",
+                "沒到",
+                "問題",
+                "不了",
+                "不要",
+                "反諷",
+                "抹黑",
+                "問題"
+            ],
+            "positive_list": [
+                "了解",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-04 16:20"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "美方的同時,另一頭不斷與中方靠攏,與中國交好,對中國少有批評。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷",
+                "批評",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 19:42"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "是暗示國民黨在年底選舉一個非常重要的警訊。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "暗示"
+            ],
+            "positive_list": [
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-06-04 16:18"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "此波快篩試劑皆為市府購買配發,疫情當前,市民難免感到不安,市長以大家長身分祝福大家身體健康、闔家平安,意在讓市民朋友感到溫暖與支持,其他縣市不分黨派亦有類似措施。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不安",
+                "不安"
+            ],
+            "positive_list": [
+                "平安",
+                "健康",
+                "溫暖",
+                "溫暖"
+            ],
+            "datetime": "2022-06-04 15:59"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "他第一站來到史丹佛大學胡佛研究所,學者們對於地方選舉議題非常感興趣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "興趣"
+            ],
+            "datetime": "2022-06-05 11:43"
+        },
+        {
+            "person": "國民黨",
+            "verb": "痛批",
+            "opinion": "火化之亂,更翻出去年(2021年)6月8日,副指揮官陳宗彥的談話,遺體確認24小時內要火化,質疑哪一個指引才是正確的?立委(國)曾銘宗說,「新冠肺炎確診死亡需在24小時內通報,但是遺體需盡快火化,並未規定在24小時火化,說來輕鬆自如,似乎不清楚這項規定,已經造成家屬受難者,送終的機會都沒有。」",
+            "negative_score": 9,
+            "positive_score": 7,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "死亡",
+                "沒有",
+                "受難",
+                "受難者",
+                "質疑",
+                "不清",
+                "沒有"
+            ],
+            "positive_list": [
+                "正確",
+                "正確的",
+                "清楚",
+                "輕鬆",
+                "機會",
+                "自如",
+                "輕鬆"
+            ],
+            "datetime": "2022-06-05 18:19"
+        },
+        {
+            "person": "國民黨",
+            "verb": "回應",
+            "opinion": "這是國民黨的家務事,國民黨主席要去整合,一個黨各種意見多,如果整合不好,很多提名的策略和程序會讓人覺得一團亂。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-05 12:05"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "退選桃園!」羅智強在初選出局後,在桃園行腳祈福。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 09:06"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "將是張善政參選最致命的「正當性破口」,這正是「程序正義」之所以重要的緣故。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "致命",
+                "致命的",
+                "破口"
+            ],
+            "positive_list": [
+                "正當",
+                "正義",
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-06-05 12:58"
+        },
+        {
+            "person": "國民黨",
+            "verb": "痛批",
+            "opinion": "指揮中心規定不明確,造成第一線混亂。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不明",
+                "不明確",
+                "混亂"
+            ],
+            "positive_list": [
+                "明確"
+            ],
+            "datetime": "2022-06-06 19:17"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "去年死亡人數,比起過去6年的平均多1萬人,指揮中心公布的「因新冠肺炎死亡」的人數卻不到1000,是不是隱匿死亡數。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "死亡",
+                "不到",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 19:17"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "台灣公布死亡人數跟實際有很大落差,質疑有黑數。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "疑有",
+                "質疑"
+            ],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-06 15:29"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "國內冠狀病毒確診黑數多,有「蓋牌」疑慮,對此,民進黨立法院黨團幹事長鄭運鵬表示,染疫或確診死亡的人數都會先經過地方政府,國民黨可以問新北市長侯友宜有沒有隱藏黑數,就可以確認去年的統計數字有無蓋牌。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "沒有",
+                "疑慮",
+                "隱藏",
+                "沒有",
+                "疑慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:12"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "張善政早已經過中常會正式提名,是代表國民黨參選桃園市長的最優秀人選,黨內將全力給予支持,呼籲外界停止以訛傳訛的謠言。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "停止",
+                "謠言",
+                "以訛傳訛"
+            ],
+            "positive_list": [
+                "正式",
+                "全力",
+                "最優秀",
+                "給予",
+                "優秀"
+            ],
+            "datetime": "2022-06-06 16:55"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "外界停止以訛傳訛的謠言。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "停止",
+                "謠言",
+                "以訛傳訛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:55"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "國民黨中常會已於5月18日正式通過徵召提名前行政院長張善政參選年底桃園市長,絕無任何變化;張善政也已展開各項選舉行程,國民黨將全力協助張善政爭取勝選,打造新桃園。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "全力",
+                "協助",
+                "通過",
+                "絕無",
+                "舉行"
+            ],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "外界停止以訛傳訛的謠言。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "停止",
+                "謠言",
+                "以訛傳訛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "朱立倫訪美言行要三思慎言;對此,王世堅表示,朱立倫就是在跟台灣的統派唱雙簧,演給台灣人民看,他痛批,「朱立倫只是要對台灣人民交差了事」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "他聽到一個消息,桃園市議長邱奕勝很頭痛,邱奕勝本來挺呂玉玲,好讓呂玉玲的老公陳萬得退出參選議長,但現在被砸鍋,因此呂玉玲繼續跑可能是在喬東西。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "退出",
+                "頭痛",
+                "東西",
+                "頭痛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "朱立倫一行於美西時間2日上午訪問史丹佛大學「胡佛研究所」(HooverInstitution),與各界學者、專家,包括戴雅門(LarryDiamond)、祁凱立(KharisTempleman)等人就台海安全、兩岸關係及疫情後的世界動態等議題交換意見。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "專家"
+            ],
+            "datetime": "2022-06-06 09:41"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "現場有學者提問,如何描繪國民黨扮演的的角色,朱立倫表示,國民黨無論從歷史價值淵源還是現實當中曾經並肩作戰的記憶,都是與美國擁有緊密連結的親美政黨。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰",
+                "現實",
+                "現實"
+            ],
+            "positive_list": [
+                "擁有"
+            ],
+            "datetime": "2022-06-06 09:41"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "張已經軟性拒絕他的提議,因此不會再提其他2策,沒必要再為難張,他就繼續勤走桃園。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "拒絕",
+                "為難",
+                "不會"
+            ],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-06-06 09:01"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "就遠程角度而言,也是為國民黨未來的總統候選人建立溝通管道,將國民黨親美路線很清楚地告訴美方朋友,沒有任何個人考量,只希望國民黨好,未來的總統候選人能贏得勝選。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "清楚地",
+                "希望"
+            ],
+            "datetime": "2022-06-06 08:47"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "外界停止以訛傳訛的謠言。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "停止",
+                "謠言",
+                "以訛傳訛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:31"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "國民黨中常會已於5月18日正式通過徵召提名張善政參選年底桃園市長,絕無任何變化;張善政也已展開各項選舉行程,國民黨將全力協助張善政爭取勝選,打造新桃園。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "全力",
+                "協助",
+                "通過",
+                "絕無",
+                "舉行"
+            ],
+            "datetime": "2022-06-06 16:31"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "朱立倫一行於美西時間2日上午訪問史丹佛大學「胡佛研究所」(HooverInstitution),與各界學者、專家,包括戴雅門(LarryDiamond)、祁凱立(KharisTempleman)等人就台海安全、兩岸關係及疫情後的世界動態等議題交換意見。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "專家"
+            ],
+            "datetime": "2022-06-06 09:19"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "現場有學者提問,如何描繪國民黨扮演的的角色,朱立倫表示,國民黨無論從歷史價值淵源還是現實當中曾經並肩作戰的記憶,都是與美國擁有緊密連結的親美政黨。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰",
+                "現實",
+                "現實"
+            ],
+            "positive_list": [
+                "擁有"
+            ],
+            "datetime": "2022-06-06 09:19"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "就遠程角度而言,也是為國民黨未來的總統候選人建立溝通管道,將國民黨親美路線很清楚地告訴美方朋友,沒有任何個人考量,只希望國民黨好,未來的總統候選人能贏得勝選。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "清楚",
+                "清楚地",
+                "希望"
+            ],
+            "datetime": "2022-06-06 07:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "中常會已正式通過徵召提名張善政參選桃園市長。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "通過"
+            ],
+            "datetime": "2022-06-06 17:02"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召張善政風波持續延燒,儘管包括朱立倫皆出面道歉並喊話團結,張善政也開始拜會原有意參選的立委呂玉玲、前台北市議員羅智強等人,仍難平反對聲音。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "風波",
+                "有意",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:02"
+        },
+        {
+            "person": "國民黨",
+            "verb": "質疑",
+            "opinion": "台南市長黃偉哲不僅涉及長期縱容易俊宏的不法行為,且事件爆發後,易僅請辭未遭深入調查追究,還發生受害人資料更可能有洩漏給加害人的情事,國民黨要求黃偉哲,應立即追查洩漏之人,不應包庇漠視,給社會大眾清楚的交代。",
+            "negative_score": 13,
+            "positive_score": 3,
+            "negative_list": [
+                "不法",
+                "不法行為",
+                "加害",
+                "受害",
+                "洩漏",
+                "要求",
+                "害人",
+                "漠視",
+                "縱容",
+                "爆發",
+                "包庇",
+                "害人",
+                "漠視"
+            ],
+            "positive_list": [
+                "容易",
+                "清楚",
+                "清楚的"
+            ],
+            "datetime": "2022-06-07 11:32"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "柯文哲在擔任台北市長的八年之中,已經在兩岸議題和諸多價值觀上躲躲閃閃,舉著自己的白色大旗,在特定議題上打模糊仗,而蔣萬安也儼然變成了柯文哲2.0。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "模糊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:40"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "中央趕快訂出火化指引,讓民眾能見感疫死亡家屬最後一面,不過,民進黨反批,國民黨不該讓家屬,配合國民黨的政策操作。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:08"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "指揮中心卸責,給予最嚴厲的譴責,並要求制定相關標準。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "嚴厲",
+                "嚴厲的",
+                "譴責"
+            ],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-06-07 14:14"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "國民黨整合還須經波折,張善政姿態較高,大部分透過國民黨主席朱立倫過去人脈幫忙安排拜訪老一代政治人物,「他們還是迷信拜訪樁腳,選法很傳統,一點都不現代」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "迷信",
+                "迷信"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:48"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "部分監委出席率低,甚至有監委提案數掛蛋,要求公布監委出席狀況。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:18"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "指根據《監察委員自律規範》,不得無故不出席糾彈案件審查會議,其處分包括推請監委依法提案彈劾。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "彈劾",
+                "不出",
+                "不得"
+            ],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-06-08 17:00"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "蔡明忠英文政府防疫一團亂。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 13:55"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "北京應緩解對台軍事、經濟壓力,展現善意,朱立倫說,國民黨立場從來沒改變過,譬如說軍機擾台的事情,都覺得不應該發生,不宜在這個時候干擾民心,造成民眾反感,或是有任何強硬作法。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "干擾",
+                "不宜",
+                "反感",
+                "壓力",
+                "干擾",
+                "不應該",
+                "反感"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "我們在這,我們回來了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 04:07"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "我們在這,我們回來了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 05:16"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "恩恩爸向外界指出,1922專線竟然耗費了143分鐘才將案件送到北區管制中心,導致整個案件延誤處理,未能即時將案件轉到新北市。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤",
+                "耗費",
+                "竟然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:25"
+        },
+        {
+            "person": "國民黨",
+            "verb": "回應",
+            "opinion": "對於這起孩童染疫往生的悲劇,民進黨及行政部門齊聲砲轟新北市,藉此進行政治操作,令人深感遺憾。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "悲劇",
+                "遺憾",
+                "遺憾"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 19:25"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "自疫情發展至今,所有警消同仁每天身處高壓的工作環境之中,除了面對第一線民眾的需要,更要應付中央朝令夕改的防疫政策。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "高壓"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-09 19:25"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "國民黨終將被台灣「泡沫化」淘汰,而《自由亞洲電台》透過推特轉發國民黨駐美代表處揭牌消息,也遭網友暗諷「根本是中共新的地下諜匪情報交換站」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "暗諷"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-09 10:14"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "我們在這,我們回來了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 07:06"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "行政院長蘇貞昌日前才說要打贏防疫選戰,民進黨就持續抹黑新北市的消防局在「演戲」,打擊基層同仁士氣,就是在進行一連串的政治操作。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "打擊",
+                "打擊",
+                "抹黑"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 17:41"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "恩恩爸向外界指出,1922專線竟然耗費了143分鐘才將案件送到北區管制中心,導致整個案件延誤處理,未能即時將案件轉到新北市。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "延誤",
+                "耗費",
+                "竟然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:41"
+        },
+        {
+            "person": "國民黨",
+            "verb": "表示",
+            "opinion": "在疫情發展之初,由於中央遲遲未能建立完善1922系統SOP,使得病例通報竟然延遲了143分鐘才轉送到北區管制中心,如今憾事發生,民進黨政府應更虛心檢討防疫工作,而非繼續栽贓新北消防「演戲」,打擊基層士氣,這不僅對家屬是二次傷害,更無助防疫工作。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "打擊",
+                "延遲",
+                "無助",
+                "傷害",
+                "打擊",
+                "竟然",
+                "傷害"
+            ],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-09 17:41"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "受到中間選民與年輕世代認同的候選人,擴大國民黨的政治基礎,這是作為一個負責任政黨的展現。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "負責",
+                "認同"
+            ],
+            "datetime": "2022-06-10 13:30"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "部分監委彈劾案出席率低。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "彈劾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:23"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "部分監委在彈劾審查會的出席率低,甚至有監委提案數掛蛋,要求公布監委出席狀況。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "彈劾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:23"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召前行政院長張善政參選桃園市長,讓積極備戰、表態參選的立委呂玉玲、前台北市議員羅智強錯愕,地方也出現反彈聲浪;至於在苗栗縣長提名部分,則是在宣布徵召立委徐志榮後,遭徐志榮婉拒,至今尚未擺平。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "尚未",
+                "婉拒",
+                "反彈"
+            ],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-06-10 10:26"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "1922毫無作為,並指指揮中心除要檢討,也恐涉及行政及法律責任。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "毫無"
+            ],
+            "positive_list": [
+                "法律",
+                "毫無"
+            ],
+            "datetime": "2022-06-10 15:31"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "1922毫無作為,並指指揮中心除要檢討,也恐涉及行政及法律責任。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "毫無"
+            ],
+            "positive_list": [
+                "法律",
+                "毫無"
+            ],
+            "datetime": "2022-06-10 09:15"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "不要只看它民調一直落後民進黨,不要只看它在40歲以下的族群失去支持,這些只是現象,問題要看本質。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "失去",
+                "問題",
+                "落後",
+                "不要",
+                "失去",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:07"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "基隆也有2歲童染疫,轉院安排了一個晚上,最後也不治,質疑民進黨把責任都丟給在野黨執政縣市。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 12:50"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "退出桃園市長選舉,旋即決定「關懷疫情」行腳祈福桃園,讓自家黨員看了相當心疼,下一步也備受外界關注。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "退出",
+                "心疼"
+            ],
+            "positive_list": [
+                "決定",
+                "當心",
+                "關懷"
+            ],
+            "datetime": "2022-06-10 11:58"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "徵召前行政院長張善政參選桃園市長,讓積極備戰、表態參選的立委呂玉玲、前台北市議員羅智強錯愕,地方也出現反彈聲浪;至於在苗栗縣長提名部分,則是在宣布徵召立委徐志榮後,遭徐志榮婉拒,至今尚未擺平。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "尚未",
+                "婉拒",
+                "反彈"
+            ],
+            "positive_list": [
+                "積極"
+            ],
+            "datetime": "2022-06-10 11:02"
+        },
+        {
+            "person": "國民黨",
+            "verb": "說",
+            "opinion": "將延續2005年「連胡五項願景」以及前總統馬英九主政期間「親美、友日、和中」的基本方針,在「九二共識、一中各表」基礎上,推動兩岸「求同存異」進一步走向「求同尊異」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 09:13"
+        },
+        {
+            "person": "國民黨",
+            "verb": "指出",
+            "opinion": "自朱立倫上任至今有關兩岸關係的看法,都是在恪守中華民國憲法,遵循黨章、黨綱規定,以及符合人民期待的基礎上發表的,在促進兩岸和平的努力與重要性方面有目共睹,也希望有關各方一同努力,讓兩岸都能更好。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "和平",
+                "和平的",
+                "促進",
+                "重要",
+                "重要性",
+                "符合",
+                "期待",
+                "希望",
+                "期待"
+            ],
+            "datetime": "2022-06-10 09:13"
+        },
+        {
+            "person": "國民黨",
+            "verb": "認為",
+            "opinion": "高雄選戰若打得愈激烈,民進黨就不得不回防,如此一來雙北、桃園的壓力才能減輕。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "激烈",
+                "壓力",
+                "不得"
+            ],
+            "positive_list": [
+                "才能",
+                "減輕"
+            ],
+            "datetime": "2022-06-10 08:20"
+        },
+        {
+            "person": "國民黨",
+            "verb": "呼籲",
+            "opinion": "在國民黨新竹市議會已力挺新竹市議員林耕仁參選的狀況下,黨中央應從善如流,盡快完成提名。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-11 18:55"
+        },
+        {
+            "person": "國民黨",
+            "verb": "批評",
+            "opinion": "指揮中心不只要檢討,恐涉及行政及法律責任。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "法律"
+            ],
+            "datetime": "2022-06-11 11:36"
+        },
+        {
+            "person": "國民黨",
+            "verb": "提出",
+            "opinion": "「衛福部去年宣傳1922新聞稿」、「衛福部宣導影片」、「113婦幼保護專線及1999民眾服務專線」、「國軍支援1922專線」等,證明1922專線具有公權力的性質,陳時中為了撇清責任、破壞人民對1922專線的信任感,應該向國人鄭重道歉。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "破壞",
+                "壞人",
+                "破壞",
+                "道歉"
+            ],
+            "positive_list": [
+                "支援",
+                "信任",
+                "保護"
+            ],
+            "datetime": "2022-06-11 15:05"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "國民黨一向是親美政黨,而非如外界錯誤標籤的親中政黨。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 11:58"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "參選的前議員羅智強以及在地立委嚴重反彈,而民眾黨則早早定調由立委賴香伶參選,賴香伶12日也特地拜會羅智強,並透露民眾黨主席柯文哲想約見羅智強,自己也與羅相約再見。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "透露",
+                "嚴重",
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 22:01"
+        },
+        {
+            "person": "國民黨",
+            "verb": "強調",
+            "opinion": "拜會並不涉及選舉、分裂,反而是經驗傳承,把動能轉化成服務國人更好的機會。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "分裂",
+                "分裂"
+            ],
+            "positive_list": [
+                "經驗",
+                "機會"
+            ],
+            "datetime": "2022-06-12 16:51"
+        },
+        {
+            "person": "國民黨",
+            "verb": "宣布",
+            "opinion": "棄選後,就算張善政未必是最強但也已成定局。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "未必"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 05:30"
+        }
+    ]
+}

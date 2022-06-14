@@ -1,0 +1,30 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/沈富雄.png",
+    "opinions": [
+        {
+            "person": "沈富雄",
+            "verb": "提出",
+            "opinion": "過去陳時中曾給的三個理由,一時間序分別是「帶回新病毒變異株的風險」、「拖累醫療體系」、「國內染疫率6%已經與入境染疫率6%接近」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "拖累",
+                "拖累"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 10:02"
+        },
+        {
+            "person": "沈富雄",
+            "verb": "說",
+            "opinion": "他停留1個月的美國華盛頓州每日確診數是百萬分之700、現行台灣則是百萬分之4000,台美相差5倍。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "相差"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:33"
+        }
+    ]
+}

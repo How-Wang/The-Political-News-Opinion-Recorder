@@ -1,0 +1,43 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳椒華.png",
+    "opinions": [
+        {
+            "person": "陳椒華",
+            "verb": "質疑",
+            "opinion": "政府在道路建設上花很多的經費,但對墾丁陸蟹的保育工作並沒有用心,例如今年發生道路工程嚴重阻礙陸蟹動線等事件,希望未來在施工的設計跟管理上,考慮陸蟹生態。",
+            "negative_score": 5,
+            "positive_score": 8,
+            "negative_list": [
+                "沒有",
+                "阻礙",
+                "嚴重",
+                "沒有",
+                "沒有用"
+            ],
+            "positive_list": [
+                "有用",
+                "考慮",
+                "希望",
+                "建設",
+                "很多",
+                "很多的",
+                "管理",
+                "希望"
+            ],
+            "datetime": "2022-05-26 15:00"
+        },
+        {
+            "person": "陳椒華",
+            "verb": "說",
+            "opinion": "近日她會邀請主管單位與專家學者到場現勘,一起推動陸蟹保育工作,給陸蟹一條安全回家的路。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "專家"
+            ],
+            "datetime": "2022-05-26 15:00"
+        }
+    ]
+}

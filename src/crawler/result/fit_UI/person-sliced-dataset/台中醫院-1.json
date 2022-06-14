@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台中醫院.png",
+    "opinions": [
+        {
+            "person": "台中醫院",
+            "verb": "提到",
+            "opinion": "目前台灣正面臨關鍵戰役,應該要加開「大型兒童疫苗施打站」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "戰役"
+            ],
+            "positive_list": [
+                "正面"
+            ],
+            "datetime": "2022-05-29 17:57"
+        },
+        {
+            "person": "台中醫院",
+            "verb": "宣布",
+            "opinion": "台灣疫情已進入正常生活前的最關鍵戰役,政府在「正常生活、積極防疫、穩健開放」的原則下,放寬、縮短隔離時間,因此確診數勢必會增加,但仍在原先預期的範圍內緩慢增長。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "隔離",
+                "緩慢",
+                "戰役"
+            ],
+            "positive_list": [
+                "正常",
+                "開放",
+                "增加",
+                "積極",
+                "穩健"
+            ],
+            "datetime": "2022-05-29 20:01"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/美國之音.png",
+    "opinions": [
+        {
+            "person": "美國之音",
+            "verb": "提到",
+            "opinion": "歐盟近年一直試圖在印度太平洋地區結交多樣化的戰略合作夥伴,其中就包括台灣。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-09 13:51"
+        }
+    ]
+}

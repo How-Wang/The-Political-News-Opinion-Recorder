@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/駐丹麥大使館.png",
+    "opinions": [
+        {
+            "person": "駐丹麥大使館",
+            "verb": "批評",
+            "opinion": "邀請「台獨」份子在會上大放厥詞,違反一中原則。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "違反",
+                "台獨",
+                "違反"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:25"
+        },
+        {
+            "person": "駐丹麥大使館",
+            "verb": "說",
+            "opinion": "的台獨份子在這裡,多棒的人啊!我們絕對會再邀他來丹麥,下次可能會去國會」,還諷刺的附上親吻的表情符號。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "絕對",
+                "諷刺",
+                "諷刺的",
+                "台獨",
+                "諷刺"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 12:59"
+        }
+    ]
+}

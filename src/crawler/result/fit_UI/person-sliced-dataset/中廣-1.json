@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中廣.png",
+    "opinions": [
+        {
+            "person": "中廣",
+            "verb": "提出",
+            "opinion": "告訴,指出1999年出售的仁愛路土地疑似賤賣,同年用以高價購入松江路和林森路2筆土地,並指出懷疑其中賣地獲利,用高買差額疑有佣金回流到劉台英掌管的台綜院,涉嫌背信罪。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "背信",
+                "高價",
+                "疑有",
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [
+                "獲利"
+            ],
+            "datetime": "2022-06-08 11:55"
+        }
+    ]
+}

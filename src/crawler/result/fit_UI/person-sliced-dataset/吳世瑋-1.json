@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳世瑋.png",
+    "opinions": [
+        {
+            "person": "吳世瑋",
+            "verb": "表示",
+            "opinion": "因物流公司發放防疫關懷包的極限只有8、9千份,他感謝里長願意幫忙,但建議若找人幫忙,最好穿上現職背心,畢竟送關懷包是關心確診的人,不宜用來做競選的東西。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不宜",
+                "東西"
+            ],
+            "positive_list": [
+                "最好",
+                "感謝",
+                "關心",
+                "願意",
+                "感謝",
+                "關心",
+                "關懷",
+                "願意"
+            ],
+            "datetime": "2022-06-09 16:51"
+        }
+    ]
+}

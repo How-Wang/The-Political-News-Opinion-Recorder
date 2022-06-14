@@ -1,0 +1,38 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/守護外木山行動小組.png",
+    "opinions": [
+        {
+            "person": "守護外木山行動小組",
+            "verb": "宣布",
+            "opinion": "發動基隆第一個地方性公投「基隆護海公投」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "發動"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 17:18"
+        },
+        {
+            "person": "守護外木山行動小組",
+            "verb": "表示",
+            "opinion": "行政院與經濟部應懸崖勒馬,要求經濟部即刻停止錯誤選址的第四天然氣接收站設置,讓能源轉型的良善目標,不要犧牲基隆人珍貴的外木山海岸與海洋生態。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "要求",
+                "停止",
+                "錯誤",
+                "不要"
+            ],
+            "positive_list": [
+                "天然",
+                "珍貴",
+                "珍貴的",
+                "良善",
+                "犧牲"
+            ],
+            "datetime": "2022-06-08 14:02"
+        }
+    ]
+}

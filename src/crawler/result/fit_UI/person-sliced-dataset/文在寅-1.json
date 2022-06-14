@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/文在寅.png",
+    "opinions": [
+        {
+            "person": "文在寅",
+            "verb": "認為",
+            "opinion": "朱立倫表面上講這麼好聽的藉口,還說訪美是為了要破除國民黨「親中反美」的既定印象,但根本說不過去,因為國民黨弱化國防、對中共釋出善意等實際作為,「要不是新冠肺炎,國民黨早就飛過去,跟中共搭起友誼橋樑。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "藉口",
+                "不是",
+                "藉口"
+            ],
+            "positive_list": [
+                "友誼",
+                "善意",
+                "實際"
+            ],
+            "datetime": "2022-06-06 11:40"
+        }
+    ]
+}

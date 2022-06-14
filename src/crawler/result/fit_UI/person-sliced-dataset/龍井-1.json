@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/龍井.png",
+    "opinions": [
+        {
+            "person": "龍井",
+            "verb": "說",
+            "opinion": "兩人在年底不想再披藍袍參選,最近兩人沒有登記,也讓是否脫黨傳聞可能性大增。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:08"
+        }
+    ]
+}

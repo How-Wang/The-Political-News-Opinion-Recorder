@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/美國在台協會.png",
+    "opinions": [
+        {
+            "person": "美國在台協會",
+            "verb": "指出",
+            "opinion": "達克沃絲此次訪問是在印太地區訪問的其中一環,將與台灣資深領袖就美台關係、區域安全、貿易與投資、全球供應鏈及其他共同利益等重要議題交換意見。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "利益",
+                "重要"
+            ],
+            "datetime": "2022-05-30 21:08"
+        },
+        {
+            "person": "美國在台協會",
+            "verb": "指出",
+            "opinion": "達克沃絲此次訪問是在印太地區訪問的其中一環,將與台灣資深領袖就美台關係、區域安全、貿易與投資、全球供應鏈及其他共同利益等重要議題交換意見。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "利益",
+                "重要"
+            ],
+            "datetime": "2022-05-30 20:38"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉彥澧.png",
+    "opinions": [
+        {
+            "person": "劉彥澧",
+            "verb": "說",
+            "opinion": "「請」,臨走時還向員警丟下一句話「我們看到就趕快出來開了啊」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 22:31"
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "台灣在去年11月18日設立駐立陶宛台灣代表處後,台立雙邊立即頻繁推動各項領域的交流合作,立陶宛政府也啟動內部修法程序,積極籌備在台灣設處事宜。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "頻繁"
+            ],
+            "positive_list": [
+                "合作",
+                "積極",
+                "合作"
+            ],
+            "datetime": "2022-05-22 20:58"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "希望台灣今年能重返世衛大會,「想要藉著自己的聲音為自己喊出希望、為台灣的家人喊出希望、為我們的母國喊出希望。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-22 08:13"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "台灣在去年11月18日設立駐立陶宛台灣代表處後,台立雙邊立即頻繁推動各項領域的交流合作,立陶宛政府也啟動內部修法程序,積極籌備在台灣設處事宜。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "頻繁"
+            ],
+            "positive_list": [
+                "合作",
+                "積極",
+                "合作"
+            ],
+            "datetime": "2022-05-22 21:59"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "希望台灣今年能重返世衛大會,「想要藉著自己的聲音為自己喊出希望、為台灣的家人喊出希望、為我們的母國喊出希望。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-22 08:50"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "台灣隊由駐教廷大使李世明、參事卓俊雄、卓俊雄10歲的兒子,以及義大利籍女性雇員組成,代表老、中、青世代及不同性別族群,涵蓋運動會中最年長與最年輕的參賽者,被教廷官員稱讚為「最具代表性」的隊伍。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "稱讚",
+                "稱讚"
+            ],
+            "datetime": "2022-05-25 09:27"
+        },
+        {
+            "person": "中央社",
+            "verb": "提到",
+            "opinion": "今年歐盟許多國家都首次明言挺台入世衛,對此李麗芬表示感謝,指出會面的友邦都注意到了這個趨勢,也對有更多國家加入支持台灣的行列感到很高興。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "高興",
+                "感謝",
+                "高興",
+                "感謝"
+            ],
+            "datetime": "2022-05-25 08:55"
+        },
+        {
+            "person": "中央社",
+            "verb": "提到",
+            "opinion": "今年歐盟許多國家都首次明言挺台入世衛,對此李麗芬表示感謝,指出會面的友邦都注意到了這個趨勢,也對有更多國家加入支持台灣的行列感到很高興。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "高興",
+                "感謝",
+                "高興",
+                "感謝"
+            ],
+            "datetime": "2022-05-25 09:14"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "近期美國總統拜登政府說法的「真意」令人摸不著頭緒,例如拜登近日提到「若北京武力犯台,將軍事防衛台灣」等語後,美國務院事後又再澄清,到底是單一個案或是有計畫性的釋出訊息,建議國安及外交部等單位分析對中華民國可能的影響,必要時採取因應措施。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "武力",
+                "不著"
+            ],
+            "positive_list": [
+                "必要",
+                "澄清"
+            ],
+            "datetime": "2022-05-27 11:55"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "鄧振中與戴琪已說定,這段時間讓雙方談判團隊安排、討論,找到加深雙邊貿易關係的方法,並預計在未來幾週內碰面,不限視訊或是實體方式,「找具體辦法來提升關係,說定後雙方就照著做」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "加深"
+            ],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-05-28 10:53"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "索達諾(AngeloSodano)曾因主張教廷駐台使館遷到中國「當晚就可以、不必等明天」的言論,被視為教廷親中派,但這恐怕是外界長期的誤解,索達諾主張遷館的前提是中國必須先有宗教自由。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "恐怕",
+                "誤解",
+                "恐怕"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-31 22:37"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "他與吳釗燮互相邀訪,而他承諾會在戰事趨緩之後訪問台灣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承諾"
+            ],
+            "datetime": "2022-06-03 12:54"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "如同張善政在臉書的發文,「期盼智強兄與所有珍愛桃園的好朋友,我們一起攜手打造新桃園」,言下之意也是在向羅智強喊話,且先前張善政陪同羅智強在桃園行腳時,就曾表示希望能與羅智強攜手合作,一直以來也都對他維持善意。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "希望",
+                "珍愛",
+                "善意",
+                "合作",
+                "希望",
+                "期盼"
+            ],
+            "datetime": "2022-06-07 13:37"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "菲律賓「新興傳染病管理跨部會工作小組」(IATF-MEID)今年3月10日決議接受並承認台灣核發的「數位新冠病毒健康證明」與「國際預防接種證明書」(簡稱黃皮書),該工作小組7日再度致函菲國檢疫局(BureauofQuarantine)重申該決議內容。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [
+                "承認",
+                "健康",
+                "接受",
+                "管理"
+            ],
+            "datetime": "2022-06-09 22:01"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "依據美方事後發布的新聞稿,奧斯汀重申美國持續恪遵基於台灣關係法、美中三公報及六項保證的「一中政策」,強調台海和平穩定的重要性,反對片面改變現狀,並呼籲中方勿對台灣採取進一步的破壞行徑。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "反對",
+                "破壞",
+                "破壞"
+            ],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "保證",
+                "重要",
+                "重要性",
+                "穩定",
+                "穩定的"
+            ],
+            "datetime": "2022-06-10 23:09"
+        },
+        {
+            "person": "中央社",
+            "verb": "說",
+            "opinion": "朱立倫主席這趟行程將近10天非常辛苦,我們也樂見國民黨可以重新在美國設立代表處,這對深化台美關係絕對是有幫助。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "辛苦",
+                "絕對"
+            ],
+            "positive_list": [
+                "有幫助",
+                "幫助",
+                "樂見"
+            ],
+            "datetime": "2022-06-11 14:01"
+        },
+        {
+            "person": "中央社",
+            "verb": "表示",
+            "opinion": "人權及轉型正義處預計6月下旬正式掛牌。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "正義"
+            ],
+            "datetime": "2022-06-11 11:02"
+        }
+    ]
+}

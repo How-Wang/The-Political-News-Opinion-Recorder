@@ -1,0 +1,53 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/孫瑋芒.png",
+    "opinions": [
+        {
+            "person": "孫瑋芒",
+            "verb": "發現",
+            "opinion": "徐巧芯過去的說詞與密錄器明顯不符,認為徐巧芯先前的說詞「有虛構,有誇大,有修飾」,孫偉芒認為,徐巧芯到底有沒有對員警施壓,有不同解讀。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不符",
+                "沒有",
+                "誇大",
+                "沒有"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-05-28 22:31"
+        },
+        {
+            "person": "孫瑋芒",
+            "verb": "提到",
+            "opinion": "徐巧芯面對媒體時稱,「那拿出證件之後呢,因為背面有寫我的名字,所以我就講說,欸,這是我的車,我是徐巧芯。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:25"
+        },
+        {
+            "person": "孫瑋芒",
+            "verb": "指出",
+            "opinion": "根據徐巧芯19日的說法,她當下有說「不好意思,違規停車」,可是密錄器沒有,這句話是虛構的,而影片中,警察請徐巧芯的丈夫劉彥澧出示證件,並無向徐巧芯索取證件,所以徐巧芯受訪時說,「那警察請我出示證件,所以是警察主動說證件拿要出來」,也並非為真。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "沒有",
+                "不好",
+                "不好意思",
+                "沒有",
+                "違規"
+            ],
+            "positive_list": [
+                "主動",
+                "好意",
+                "好意"
+            ],
+            "datetime": "2022-05-29 10:25"
+        }
+    ]
+}

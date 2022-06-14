@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王醒之.png",
+    "opinions": [
+        {
+            "person": "王醒之",
+            "verb": "說",
+            "opinion": "「基隆市政府,應該要在海洋保育,環境保護、觀光發展、漁業管理,以及都市計畫,這幾個地方自治事項,明確的對第四天然氣接收站表示反對。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "天然",
+                "明確",
+                "保護",
+                "發展",
+                "管理"
+            ],
+            "datetime": "2022-06-01 17:18"
+        }
+    ]
+}

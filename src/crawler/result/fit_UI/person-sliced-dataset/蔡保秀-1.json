@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡保秀.png",
+    "opinions": [
+        {
+            "person": "蔡保秀",
+            "verb": "認為",
+            "opinion": "該處淹水在捷運廠商做完水溝工程後就出現,懷疑是廠商施工不周,留下水泥塊造成遇雨淹出的情況,立刻告知市議員何文海。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 09:41"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡詩萍.png",
+    "opinions": [
+        {
+            "person": "蔡詩萍",
+            "verb": "指出",
+            "opinion": "張善政是一張好牌,但「棋路比較險」,需要花比較多時間溝通,但他認為,黨主席朱立倫打這張牌的時候,心裡面其實7、8成也覺得這張牌不錯,大家總要接這張牌,結果而言答案的確是這樣,因為這張牌規格高,張畢竟當過行政院長也擔任過副總統候選人,民進黨出任何一張牌,規格都不可能高過他。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-28 08:40"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "表示",
+            "opinion": "雖然國民黨提名時間很趕,但民進黨的桃園市長人遠至今還沒出牌,民進黨這張牌可能最快也要到6月多才會出。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:40"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "認為",
+            "opinion": "張善政當過行政院長也擔任過副總統候選人,民進黨出任何一張牌,規格都不可能高過他。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:40"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "認為",
+            "opinion": "這可能性非常低,可能是派系故意在整林智堅。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "故意",
+                "派系"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:30"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "指出",
+            "opinion": "如此一來,新竹市的國民黨候選人就可以痛罵林智堅,為了直轄市拋棄新竹,因此林智堅轉戰桃園的可能性非常低,這對林智堅來說也不好,一世英明毀於一旦,畢竟他在新竹市長任內評價很好。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "拋棄",
+                "不好",
+                "拋棄"
+            ],
+            "positive_list": [
+                "很好",
+                "英明"
+            ],
+            "datetime": "2022-05-28 08:30"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "提到",
+            "opinion": "其實民進黨也能考慮前交通部長林佳龍,畢竟國民黨派了一個外地的前行政院長張善政來,那當過台中市長、交通部長的林佳龍未嘗不可?桃園又有很多交通建設,這比林智堅要說得通,不過林佳龍只願意選台北市長。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不可",
+                "不可"
+            ],
+            "positive_list": [
+                "考慮",
+                "建設",
+                "很多",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-28 08:30"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "提到",
+            "opinion": "當年的綠營和台北市長柯文哲合第一次是可能的,因為當時的柯文哲還是墨綠,基本上意識形態不會差太遠,但第二任以後柯文哲就開始調整。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:10"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "認為",
+            "opinion": "如果黃珊珊要綠白合,自身的風險也很大,很可能會讓藍、白支持者都跑光。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:10"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "強調",
+            "opinion": "自己當過台中市長、也做過交通部長,「我在台北生活40、50年的經驗,很清楚台北交通的痛在哪裡。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "經驗"
+            ],
+            "datetime": "2022-06-06 21:58"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "表示",
+            "opinion": "民主選舉最好是有政策跟願景,不能只是等人,「不管是等我還是等別人。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "不管"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-06 21:52"
+        },
+        {
+            "person": "蔡詩萍",
+            "verb": "表示",
+            "opinion": "從某種視角來看,朱立倫很明顯是在拉著國民黨走出陷入好一陣子的思覺失調,走出焦慮,往正常的在野黨方向走,如果國民黨不想讓人覺得前後任黨主席,是在唱雙簧,那麼不怕陣痛的,好好釐清(包括辯論)黨的路線,實在是現階段最迫切的議題了。",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "失調",
+                "迫切",
+                "迫切的",
+                "陣痛",
+                "陷入",
+                "焦慮",
+                "辯論",
+                "焦慮"
+            ],
+            "positive_list": [
+                "正常",
+                "正常的",
+                "明顯",
+                "實在"
+            ],
+            "datetime": "2022-06-10 16:07"
+        }
+    ]
+}

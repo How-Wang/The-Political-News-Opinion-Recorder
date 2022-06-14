@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新竹縣衛生局.png",
+    "opinions": [
+        {
+            "person": "新竹縣衛生局",
+            "verb": "說明",
+            "opinion": "縣長楊文科夫人甘秀美本月4日快篩陽性,經視訊診療確診,執行確診者居家照護7+7措施,同住家人包含縣長在內共3人因打滿3劑疫苗,實施0+7自主防疫措施,其餘3名同住孫子則執行3+4措施。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-06-07 13:23"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林右昌",
+            "verb": "提到",
+            "opinion": "中央將這波疫情死亡率設定在千分之1,中央流行疫情指揮中心指揮官陳時中曾說,希望能壓在千分之1以下,目前基隆死亡率會趨近於千分之1,主要是疫情走得比較前面,所以死亡個案數字也在前面;且雙北和基隆在醫療資源上有很大差異,因此基隆死亡率通常會比雙北高。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "死亡",
+                "差異"
+            ],
+            "positive_list": [
+                "希望",
+                "流行",
+                "資源",
+                "希望"
+            ],
+            "datetime": "2022-05-24 09:50"
+        },
+        {
+            "person": "林右昌",
+            "verb": "說明",
+            "opinion": "新冠肺炎死亡個案統計至22日共43人,其中70歲以上有30人,占70%,最年幼個案則為1名2歲男童;其中有56%未曾接種疫苗,且多數有嚴重慢性疾病,最多的是慢性腎病須洗腎、慢性肺病、心血管疾病、肝病和糖尿病。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "疾病",
+                "慢性",
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 09:50"
+        },
+        {
+            "person": "林右昌",
+            "verb": "說",
+            "opinion": "要用設計力和執行力來改變基隆,「現在,右昌市長做到了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:36"
+        },
+        {
+            "person": "林右昌",
+            "verb": "說",
+            "opinion": "要用設計力和執行力來改變基隆,「現在,右昌市長做到了」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:10"
+        },
+        {
+            "person": "林右昌",
+            "verb": "指出",
+            "opinion": "基隆走在台灣疫情最前線,雖然過程備感艱辛,但最困難的一段已經過去,感希望疫情後的新生活就從基隆國門廣場啟用開始、從城博會來療癒人心。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "困難",
+                "困難的",
+                "困難"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-10 20:18"
+        },
+        {
+            "person": "林右昌",
+            "verb": "說",
+            "opinion": "林佳龍曾擔任交通部長,對北北基桃發展和區域定位非常清楚,簡單來講,大台北都會圈未來應該作為台灣向國際競爭和國際都會競爭重要據點,未來的台北市長應該要有這樣的高度和格局。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [
+                "重要",
+                "清楚",
+                "發展"
+            ],
+            "datetime": "2022-06-12 12:43"
+        },
+        {
+            "person": "林右昌",
+            "verb": "說",
+            "opinion": "「我想大家可以期待」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-12 12:43"
+        },
+        {
+            "person": "林右昌",
+            "verb": "說",
+            "opinion": "「北北基桃應該有,一整套的區域發展構想,佳龍大使也剛好曾經是交通部長,其實他對整個北北基桃,還有區域定位非常清楚。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "發展"
+            ],
+            "datetime": "2022-06-12 13:05"
+        }
+    ]
+}

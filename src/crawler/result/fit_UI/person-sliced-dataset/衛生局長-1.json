@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/衛生局長.png",
+    "opinions": [
+        {
+            "person": "衛生局長",
+            "verb": "表示",
+            "opinion": "「資料已準備好」,但沒有講清楚準備了哪些資料,有沒有錄音檔。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "清楚",
+                "準備"
+            ],
+            "datetime": "2022-06-03 10:54"
+        },
+        {
+            "person": "衛生局長",
+            "verb": "說",
+            "opinion": "話有些許無力,於是會議後,上午10時15分再進行了一次快篩,結果呈現陽性。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無力",
+                "無力"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-07 15:28"
+        }
+    ]
+}

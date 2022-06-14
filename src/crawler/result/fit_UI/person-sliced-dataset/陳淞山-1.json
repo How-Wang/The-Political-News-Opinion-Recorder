@@ -1,0 +1,46 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳淞山.png",
+    "opinions": [
+        {
+            "person": "陳淞山",
+            "verb": "說",
+            "opinion": "陳建仁加入民進黨及縣市長徵召,就是為了將來要跟賴清德攤牌;蔡英文要在內閣改組拉攏合作對象,國安會及總統府也要拉攏更多戰將,以作為和賴決戰的布局。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-11 08:10"
+        },
+        {
+            "person": "陳淞山",
+            "verb": "說",
+            "opinion": "如此發展,新潮流就會開始分裂,會有3分之1力量導向蔡英文,透過桃園市長鄭文燦獲得支持。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "分裂",
+                "分裂"
+            ],
+            "positive_list": [
+                "發展",
+                "獲得"
+            ],
+            "datetime": "2022-06-11 08:10"
+        },
+        {
+            "person": "陳淞山",
+            "verb": "認為",
+            "opinion": "蔡英文要有更多自己人當選,才能鞏固明年的政治實力去圍堵賴清德。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-06-11 08:10"
+        }
+    ]
+}

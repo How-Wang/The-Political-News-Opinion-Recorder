@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李佳翰.png",
+    "opinions": [
+        {
+            "person": "李佳翰",
+            "verb": "表示",
+            "opinion": "原本石木欽這次打算親自出庭,但因為家人染疫後,連帶也讓他確診,所以只好隔離在家,無法出庭應訊;另外廖芳萱律師也隔離在家不能前來出庭。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "無法",
+                "隔離",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:58"
+        }
+    ]
+}

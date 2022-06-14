@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/展區出版社.png",
+    "opinions": [
+        {
+            "person": "展區出版社",
+            "verb": "說",
+            "opinion": "瞭解台灣文學發展歷史、特色文學作家與作品,並不禁讚嘆文學世界多元豐富,可以讓前來書展的民眾徜徉在書香世界中,令人心曠神怡。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "特色",
+                "發展",
+                "瞭解",
+                "豐富",
+                "心曠神怡"
+            ],
+            "datetime": "2022-06-05 17:05"
+        }
+    ]
+}

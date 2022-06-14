@@ -1,0 +1,469 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "過程上確有不盡周延之處,他代表黨中央向桃園市議會議長邱奕勝,國民黨立委呂玉玲、前台北市議員羅智強道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 20:27"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "即使黨的作法是基於全盤考量而必須為之,但對呂玉玲及羅智強兩位有意參選的同志,確實造成了傷害,黨中央會盡最大努力去修補,也請呂玉玲和羅智強接受他最深的歉意。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "傷害",
+                "有意",
+                "傷害"
+            ],
+            "positive_list": [
+                "努力",
+                "接受",
+                "確實"
+            ],
+            "datetime": "2022-05-21 16:34"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "過程上確有不盡周延之處,他代表黨中央向桃園市議會議長邱奕勝,國民黨立委呂玉玲、前台北市議員羅智強道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 16:34"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "徵召張善院長參選桃園市長,過程上確有不盡周延之處,盼黨內同志體諒,隨後張善政也跟進。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "體諒"
+            ],
+            "datetime": "2022-05-21 23:25"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "過程上確有不盡周延之處,他代表黨中央向桃園市議會議長邱奕勝,國民黨立委呂玉玲、前台北市議員羅智強道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 18:18"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "即使黨的作法是基於全盤考量而必須為之,但對呂玉玲及羅智強兩位有意參選的同志,確實造成了傷害,黨中央會盡最大努力去修補,也請呂玉玲和羅智強接受他最深的歉意。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "傷害",
+                "有意",
+                "傷害"
+            ],
+            "positive_list": [
+                "努力",
+                "接受",
+                "確實"
+            ],
+            "datetime": "2022-05-21 18:18"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "在過程上確有不盡周延之處,他代表黨中央向桃園市黨部主委、議長邱奕勝,以及立委呂玉玲和前議員羅智強道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 20:20"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "在過程上確有不盡周延之處,他代表黨中央向桃園市黨部主委、議長邱奕勝,以及立委呂玉玲和前議員羅智強道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 17:37"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "即使黨的做法是基於全盤考量而必須為之,但對呂玉玲及羅智強兩位有意參選的同志,確實造成了傷害,黨中央會盡最大的努力去修補,也請呂玉玲和羅智強接受他最深的歉意。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "傷害",
+                "有意",
+                "傷害"
+            ],
+            "positive_list": [
+                "努力",
+                "接受",
+                "確實"
+            ],
+            "datetime": "2022-05-21 17:37"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "說,黨的做法是基於全盤考量而必須為之,但在過程上確有不盡周延之處,他代表黨中央向桃園市黨部主委邱奕勝以及立委呂玉玲和前議員羅智強道歉。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 06:30"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "過程中有與鍾東錦溝通,鍾東錦表達會支持與接受徐志榮;而謝福弘也說自己不會爭,若黨有需要就會承擔,不論提名誰都會全力支持。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "全力",
+                "接受"
+            ],
+            "datetime": "2022-05-31 13:09"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "有意參選的議長鍾東錦一直以來都有表達如果是徐志榮選,他可接受,也會支持,而另一位有意參選的前農委會農田水利署苗栗管理處退休處長謝福弘,也有說不會去爭,黨提名誰都全力支持。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會",
+                "有意"
+            ],
+            "positive_list": [
+                "全力",
+                "接受",
+                "管理"
+            ],
+            "datetime": "2022-05-31 15:02"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "有意參選的議長鍾東錦一直以來都有表達如果是徐志榮選,他可接受,也會支持,而另一位有意參選的前農委會農田水利署苗栗管理處退休處長謝福弘,也有說不會去爭,黨提名誰都全力支持。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會",
+                "有意"
+            ],
+            "positive_list": [
+                "全力",
+                "接受",
+                "管理"
+            ],
+            "datetime": "2022-05-31 12:33"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "強調",
+            "opinion": "苗栗這局已經到了黨需要清楚表達立場的時候,黨中央的想法,地方其實一直都知道,但是畢竟還沒經過選策會正式決議,開一個會充分討論溝通情況,昨天是把立場說明清楚。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "充分",
+                "正式",
+                "知道",
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-05-31 12:33"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "「我知道他有表達,個人意願不高這個問題,我們會持續再來跟他溝通,我們請大家一起來鼓勵徐志榮委員。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不高",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "知道",
+                "鼓勵"
+            ],
+            "datetime": "2022-05-31 17:45"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "「徐志榮當然知道我們就是希望提名徵召他」,這禮拜三中常會徵召?黃健庭則回,「這是我們的目標,持續跟徐志榮溝通,請大家幫我們鼓勵他!」昨決議前有跟徐志榮說?黃揚明健庭則強調,應該說前一個周末都有持續見面、都有保持密切溝通。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "知道",
+                "當然",
+                "鼓勵",
+                "希望"
+            ],
+            "datetime": "2022-05-31 16:12"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "選策會一個多月來在地方徵詢、協調,得到一個結論「就是徐志榮委員,是各方支持度最高、最有共識,應該代表國民黨參選的人選」昨天選策會做成決議,本來就是提出建議的角色,徐志榮這邊會持續協調溝通,「讓他清楚知道,國民黨就是希望他為黨為苗栗扛起責任」。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "協調",
+                "知道",
+                "得到",
+                "清楚",
+                "最高",
+                "希望"
+            ],
+            "datetime": "2022-05-31 12:45"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "「一開始就知道徐志榮不要選,但會持續跟他溝通」,這週三徵召是目標。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-31 12:45"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "選策會在地方上溝通協調1、2個月,經過這麼長時間各種考量,認為徐志榮的民意支持度最高,且是各方都比較能接受、比較能支持的人選,選策會才會做這樣的決議。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "接受",
+                "最高"
+            ],
+            "datetime": "2022-06-01 11:14"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "指出",
+            "opinion": "有意參選的議長鍾東錦一直以來都有表達如果是徐志榮選,他可接受,也會支持,而另一位有意參選的前農委會農田水利署苗栗管理處退休處長謝福弘,也有說不會去爭,黨提名誰都全力支持。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會",
+                "有意"
+            ],
+            "positive_list": [
+                "全力",
+                "接受",
+                "管理"
+            ],
+            "datetime": "2022-06-01 11:14"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說明",
+            "opinion": "地方上的確有幾位想選的同事,但「支持者呈現高度分歧的狀態」,徐志榮在民調過程中一直都是最高的,目前「決定再給徐志榮一些時間」,希望這段時間中央跟地方都給徐鼓勵;黨主席朱立倫則強調,等更完整成熟後再提報常會。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "分歧"
+            ],
+            "positive_list": [
+                "成熟",
+                "完整",
+                "希望",
+                "決定",
+                "的確",
+                "最高",
+                "最高的",
+                "鼓勵",
+                "希望"
+            ],
+            "datetime": "2022-06-01 15:08"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "不管是議長鍾東錦,或是農委會前農田水利署苗栗管理處長謝福弘,黨中央提名誰都表達全力支持,感謝兩人支持。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "全力",
+                "感謝",
+                "管理",
+                "感謝"
+            ],
+            "datetime": "2022-06-01 10:25"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "國民黨在苗栗縣有優勢,也有決心年底守住苗栗執政權,目前地方上幾位同志有參選意願,但支持者呈現高度分歧的狀態,黃健庭與選策會成員在過去2個月中,不斷在地方徵詢、溝通、協調,直到最近總算慢慢整合出基本共識,5月30日選策會才召開正式會議,並決定建請中央徵召徐志榮。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不斷",
+                "分歧"
+            ],
+            "positive_list": [
+                "正式",
+                "有決心",
+                "決心",
+                "決定",
+                "協調",
+                "優勢"
+            ],
+            "datetime": "2022-06-01 15:59"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "「決定再給徐志榮一些時間」,黨主席朱立倫則稱「等更完整、成熟後再提報常會」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成熟",
+                "完整",
+                "決定"
+            ],
+            "datetime": "2022-06-02 09:07"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "法不一,朱立倫必須給羅智強一個合理解釋。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合理",
+                "理解"
+            ],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "藍軍高雄市長人選不能再拖,不排除辦理參考式民調。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "排除"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:07"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "「從來都沒有所謂的,主席口袋名單這件事情。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:51"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "說",
+            "opinion": "「經過這樣的溝通之後,我們回去也會盡快的評估做好之後,我們很快地來確定這件事情,(有說什麼時候確定嗎),不用壓時間啦,(林耕仁議員成為候選人您怎麼看),林耕仁絕對是我們考量的人選之一。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "成為",
+                "確定"
+            ],
+            "datetime": "2022-06-10 18:51"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "針對年底市長提名,會中都有有共識「一定要團結」,才有機會能夠光復竹市,黨中央會盡快評估確定人選,時間表未定,並強調林耕仁絕對是黨考量的人選之一。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "未定",
+                "絕對"
+            ],
+            "positive_list": [
+                "確定",
+                "機會"
+            ],
+            "datetime": "2022-06-10 14:16"
+        },
+        {
+            "person": "黃健庭",
+            "verb": "表示",
+            "opinion": "自己沒有對林耕仁有任何意見,只希望多方確認林耕仁是否是個會贏的人選;黃健庭希望國民黨推出的人選,能吸引到中間選民的認同,黨中央想再更進一步做確認。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "吸引",
+                "希望",
+                "希望",
+                "認同"
+            ],
+            "datetime": "2022-06-11 18:55"
+        }
+    ]
+}

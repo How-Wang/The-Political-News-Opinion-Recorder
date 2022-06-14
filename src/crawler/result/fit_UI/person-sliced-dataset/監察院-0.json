@@ -1,0 +1,36 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "監察院",
+            "verb": "指出",
+            "opinion": "17日通過浦忠成所提調查報告,並依監察法糾正台北市政府,移送行政院轉飭所屬確實檢討改善。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "改善",
+                "通過",
+                "確實",
+                "改善"
+            ],
+            "datetime": "2022-05-22 13:53"
+        },
+        {
+            "person": "監察院",
+            "verb": "指出",
+            "opinion": "該戰車已完成年度季保養及半年保養,難以判斷事故肇因,與裝備機件老舊或維保作業欠佳有何關聯。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "事故",
+                "難以",
+                "欠佳"
+            ],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-12 11:24"
+        }
+    ]
+}

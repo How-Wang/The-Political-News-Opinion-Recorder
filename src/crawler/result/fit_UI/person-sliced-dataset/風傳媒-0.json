@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/風傳媒.png",
+    "opinions": [
+        {
+            "person": "風傳媒",
+            "verb": "說明",
+            "opinion": "陳玄曄大約在2周以前、5月中下旬就已開好政治獻金帳戶,預計將以無黨籍的身分參選大烏龍地區的議員。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 13:20"
+        }
+    ]
+}

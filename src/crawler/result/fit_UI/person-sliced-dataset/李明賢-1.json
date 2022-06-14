@@ -1,0 +1,54 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李明賢.png",
+    "opinions": [
+        {
+            "person": "李明賢",
+            "verb": "表示",
+            "opinion": "自己會持續追蹤爭取,終於讓柯文哲首肯同意追加兩億元預備金投入路平,「也希望柯市府多聽用路人意見,別在坑洞一堆,害慘機車騎士。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "追蹤",
+                "機車"
+            ],
+            "positive_list": [
+                "同意",
+                "希望",
+                "首肯",
+                "希望"
+            ],
+            "datetime": "2022-06-02 20:19"
+        },
+        {
+            "person": "李明賢",
+            "verb": "指出",
+            "opinion": "10年來機車騎士誤闖忠孝西路被開的罰單超過3萬張,光107年就7000多張,平均每天有20人誤闖,突顯這路段禁行機車的不合理處。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合理",
+                "超過",
+                "機車"
+            ],
+            "positive_list": [
+                "合理"
+            ],
+            "datetime": "2022-06-05 23:05"
+        },
+        {
+            "person": "李明賢",
+            "verb": "表示",
+            "opinion": "台北車站前忠孝西路禁行機車為前總統李登輝任台北市長時所下命令,至今已超過40年,與當前時空環境背景已有不同,但市府仍維持舊制。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "命令",
+                "超過",
+                "機車"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 23:05"
+        }
+    ]
+}

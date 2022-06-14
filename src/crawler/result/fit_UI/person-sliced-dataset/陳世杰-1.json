@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳世杰.png",
+    "opinions": [
+        {
+            "person": "陳世杰",
+            "verb": "說",
+            "opinion": "基層主管加給比國營事業低是不爭的事實,公司化改革過程中應要做適度調整。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "改革",
+                "適度",
+                "不爭"
+            ],
+            "datetime": "2022-06-09 15:29"
+        }
+    ]
+}

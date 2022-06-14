@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/經濟民主連合.png",
+    "opinions": [
+        {
+            "person": "經濟民主連合",
+            "verb": "呼籲",
+            "opinion": "修補相關規定,將中資審查以「重大影響力」來判斷,讓許多躲在僑外資背後的中資原形畢露,關掉中資水龍頭。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重大"
+            ],
+            "datetime": "2022-06-06 13:26"
+        }
+    ]
+}

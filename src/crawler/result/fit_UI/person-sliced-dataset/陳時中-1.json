@@ -1,0 +1,2789 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳時中",
+            "verb": "批評",
+            "opinion": "校方應嚴懲這些假教育工作者,拒絕這些人洗孩子的腦。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "拒絕",
+                "嚴懲"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 13:28"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "台北市府太忙,就不勞煩市府,但民眾有採檢需要,因此中央就直接跟三總合作開設。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不勞"
+            ],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-21 17:22"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "中央現在就是正在做這事情,地方能夠做那當然交由地方來做,因為這本是地方職責之一,但是地方如果太忙,那中央來幫忙,當然還是希望中央地方合作更便民,讓民眾不用排隊、太辛苦得到PCR。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "得到",
+                "當然",
+                "職責",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-05-21 14:42"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "中央基本上是希望降低PCR排隊壓力,因為是很多民眾的需要,而怎樣能夠達到民眾需且得到滿足就是個重點。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "降低",
+                "壓力",
+                "怎樣"
+            ],
+            "positive_list": [
+                "希望",
+                "很多",
+                "得到",
+                "達到",
+                "滿足",
+                "希望",
+                "滿足"
+            ],
+            "datetime": "2022-05-21 14:42"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "原住民族及離島地區居民納入「快篩陽視同確診」,台中市和平區也適用。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "和平"
+            ],
+            "datetime": "2022-05-21 15:28"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "中央增設PCR據點就是要緩解各地方政府壓力,並滿足民眾的需要,目前各地方政府非常忙錄,因此由中央與三總一起合作,開設篩檢站紓解相關量能,因台北市忙,不敢勞煩台北市政府,就由中央開設,以符合民眾需要,「這本來就是地方政府職責,地方若忙,就由中央來幫忙」。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [
+                "合作",
+                "符合",
+                "滿足",
+                "職責",
+                "合作",
+                "滿足"
+            ],
+            "datetime": "2022-05-21 15:06"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "設立初衷就是希望減輕PCR壓力,北市忙不敢勞煩,就由中央開設。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [
+                "希望",
+                "減輕",
+                "希望"
+            ],
+            "datetime": "2022-05-21 15:06"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "譬如說Omicron,大家會講說與病毒共存,用減害的方式把疫情控制下來,但在Delta變異株和原始株的時候,提出「與病毒共存」,這個想法的專家學者,就非常的少。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "專家"
+            ],
+            "datetime": "2022-05-21 15:05"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "新北主張快篩陽就確診,中央最後採行的是快篩陽「經醫師診斷」確診,中間略有不同,但這法制上經過醫師診斷,會更為完備,這也是專家建議。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "專家"
+            ],
+            "datetime": "2022-05-21 11:33"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "「聽電話把耳朵摀住是沒有必要的」,接著花了約5分鐘說明近期與地方政府溝通情況。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "必要",
+                "說明"
+            ],
+            "datetime": "2022-05-21 11:33"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "增設篩檢站是希望滿足民眾所需,「台北市很忙不敢勞煩」,因此直接由中央來設置。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "滿足",
+                "希望",
+                "滿足"
+            ],
+            "datetime": "2022-05-21 17:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "現在還是關注疫情,建議媒體「你們去關心其他人的選情,來這邊關心我的疫情」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-21 17:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "中央政府角度是希望協助地方、給市民方便,像是快篩實名制也一直努力,盼讓國民不排隊,因此PCR採檢也是一樣,在社區多設一些點,這都是希望給市民方便,安定了民心、才能比較好控制疫情。",
+            "negative_score": 0,
+            "positive_score": 10,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "方便",
+                "比較好",
+                "安定",
+                "努力",
+                "希望",
+                "協助",
+                "較好",
+                "安定",
+                "希望"
+            ],
+            "datetime": "2022-05-21 17:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "目前心中無所謂最強母雞,因爲疫情每天都有轉折。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 20:02"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「剛開始的時候當然相關致死率,我們大概是萬分之三到萬分之四,現在應該是萬分之六,那我們希望不要超過千分之一。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "致死",
+                "超過",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "當然",
+                "希望"
+            ],
+            "datetime": "2022-05-23 17:44"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "要來預估那柯市長預估的準確很多,或是他常常在預估,他們發言人可能不是很了解,預估疫情各有數學模型,有一定模式預估,透過疫情監測中心都會做相關預估,然後有區管,區管都是領導或跟地方衛生局合作。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "了解",
+                "合作",
+                "很多",
+                "準確",
+                "衛生",
+                "合作",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 14:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "北市府覺得需要什麼資料就行文來,「我們都會一一提供」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 14:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "最快未來一週開放全民適用家用快篩檢測陽性,就可經醫師診斷後確診,只要對象符合口服抗病毒藥物適應症,都可由醫師直接開立藥物。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [
+                "符合",
+                "開放",
+                "適應"
+            ],
+            "datetime": "2022-05-23 17:09"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "本週有望全面開放全民適用「快篩陽等同確診」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "開放"
+            ],
+            "datetime": "2022-05-23 11:03"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「還是關心疫情,但要提名的事情或接任人選,我到目前一無所悉」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 14:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "民眾自主防疫意識很高,雖然現在沒有防疫管制,但是人流已降到三級警戒的3/4,大家戴口罩幾乎沒有鬆懈,民眾快篩也做得很積極,這些都代表全民都很在意、很重視。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "在意",
+                "自主",
+                "重視",
+                "積極"
+            ],
+            "datetime": "2022-05-24 14:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "疫苗覆蓋率持續增加,與周圍疫情控制嚴格國家相比,在同樣疫情時間點,「我們疫苗也多半打的比他們還多」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "嚴格"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-24 14:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "。據《鏡週刊》報導,若未來陳時中投入選舉,「接班人」一直是外界關注焦點,醫界中被看好的接班人包括不分區立委邱泰源、前衛生署副署長李龍騰、陽明大學校長郭旭崧等,不過執政團隊認為,專家小組召集人張上淳是不錯人選,可能在陳時中參選後接任。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "專家",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 11:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "快篩陽經醫師判定視同確診新冠肺炎,最快於26日起全民適用。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 17:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「『有些』各縣市政府也急著宣布,我們也在這裡跟大家說,就在6月30日前,可以除了500元衛教品之外,再多兩劑的快篩劑。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 18:34"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「不用一直篩啦」,快篩一般來說要有接觸可能和症狀,如果是心理上需要平撫的話就不要常常做,畢竟這都是醫療和防疫器材,浪費也是不好。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "浪費",
+                "不好",
+                "不要",
+                "浪費"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 15:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "「快篩不用天天篩,不用一直篩啦」,有講過有症狀又有接觸史,建議要篩;如果只有接觸史,時間又不長,可能過1、2天再篩;若有症狀沒接觸史,那可以觀察一下,不放心也可以篩一下。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不長",
+                "不長"
+            ],
+            "positive_list": [
+                "放心"
+            ],
+            "datetime": "2022-05-25 15:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "他應該下台;另也有人認為現階段防疫最重要,他不能落跑去選舉。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "重要",
+                "最重要"
+            ],
+            "datetime": "2022-05-25 13:32"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "目前醫療量能沒有崩潰,不缺病床。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "崩潰",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 17:59"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "的目前疫情『控制得宜』」?馬英九說,疫情指揮中心24日公布的42例死亡案例中,有一例為10歲男童,因出現頭暈、嘔吐、發燒到診所就醫,隔天出現幻覺,跟媽媽說「廁所有妖怪、被妖怪附身、覺得電燈在晃動」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "發燒",
+                "嘔吐",
+                "頭暈",
+                "嘔吐"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 11:44"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "陳時中是很好的指揮官,這是很不簡單的領導人物才有的領導風格。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "很好的"
+            ],
+            "datetime": "2022-05-26 11:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "質疑",
+            "opinion": "她虐兒,其實她一毛錢都不要,也希望其他受害家屬站出來。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "受害",
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-26 11:42"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「現在在境外移入的跟在國內的染疫風險,其實已經差不多了,所以大概這個月到下個月,我想陸陸續續有關於邊境放寬的政策都會有一些出來,時間大概就下個月(6月),那方向我還要跟各部會來做一下討論。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 18:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "台灣邊境開放是遲早的事情,目前國內染疫率和境外移入比例差不多。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-05-27 16:27"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "經過邊境檢驗,境外移入染疫率大約剩下4%,普遍來講,現在境外移入跟在國內的風險其實已經差不多,所以到下個月,邊境放寬的政策陸陸續續都會出來,方向還要跟各部會討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:27"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "法是「台北要十二萬五千劑,中央給了七十三萬五百劑;基隆要三萬,中央給十八萬,不會不夠。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠",
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 06:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「不實炒作不應該」,同時藉此事宣導,勿隨意散布不實謠言,否則將依法開罰最高300萬元。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "謠言",
+                "不實",
+                "不應該"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-05-28 15:16"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「周遭可能接著一些,相關人不斷引用,擴張不實的情況,我相信是讓法律來調查會更清楚,未來在這裡面,不需要運用這樣的情況,來讓民心或讓大家過度擔憂,這樣對我們抗疫上面是不好的。」",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "不斷",
+                "過度",
+                "擔憂",
+                "不好",
+                "不實",
+                "擔憂"
+            ],
+            "positive_list": [
+                "法律",
+                "相信",
+                "清楚"
+            ],
+            "datetime": "2022-05-28 18:51"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「每個生命喪失大家都是惋惜,但擴大或做不實炒作是不好也不應該」。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "惋惜",
+                "喪失",
+                "不好",
+                "不實",
+                "不應該",
+                "惋惜"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「網路上有些流傳訊息明顯與實際疫情不符」,會進一步釐清是不是有特定人士團體散布不實訊息,若查明後會依照《嚴重特殊傳染性肺炎防治及紓困振興特別條例》第14條最高可罰300萬元或3年以下有期徒刑、拘役。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不符",
+                "傳染",
+                "傳染性",
+                "嚴重",
+                "不是",
+                "不實"
+            ],
+            "positive_list": [
+                "明顯",
+                "特別",
+                "最高",
+                "實際"
+            ],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "對於小兒染疫,有8位兒童去世,心中都很哀痛,全體一致包括行政單位和醫療界大家都在努力,讓這樣的情形能夠減到最低,「不需要用這樣情況讓民心過大擔憂,這樣對抗疫不好」。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "去世",
+                "哀痛",
+                "最低",
+                "對抗",
+                "擔憂",
+                "不好",
+                "哀痛",
+                "擔憂"
+            ],
+            "positive_list": [
+                "一致",
+                "努力"
+            ],
+            "datetime": "2022-05-28 15:15"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "他相信郭彥均一開始並沒有大太的惡意,相關單位也會調查此事,是否有人利用不實資訊煽動,造成大家的誤解。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "惡意",
+                "煽動",
+                "誤解",
+                "不實",
+                "利用",
+                "沒有"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-05-28 17:37"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「大家都很哀痛,全體包括醫療界、行政單位,大家都在努力,讓這樣的情形能夠減到最低,未來不需要運用這樣的情況讓民心過度擔憂,這樣對抗疫上是不好的。」",
+            "negative_score": 9,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "哀痛",
+                "最低",
+                "過度",
+                "對抗",
+                "擔憂",
+                "不好",
+                "哀痛",
+                "擔憂"
+            ],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-05-28 17:37"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "台灣是言論自由的民主國家,妨害法律需符合「惡、假、害」3條件。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "妨害"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "法律",
+                "符合",
+                "自由"
+            ],
+            "datetime": "2022-05-29 17:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "將會致力與兒科專家共同將相關指引制定完善,也考慮不定時開研討會,有利於即時應變。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不定",
+                "不定"
+            ],
+            "positive_list": [
+                "有利",
+                "考慮",
+                "專家"
+            ],
+            "datetime": "2022-05-29 17:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "該言論涉及假訊息,最高可以開罰300萬元。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-05-29 13:30"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「(郭彥均道歉後)周遭可能接著一些,相關人不斷引用,擴張不實的情況,我相信是讓法律來調查會更清楚,未來在這裡面,不需要運用這樣的情況,來讓民心或讓大家過度擔憂,這樣對我們抗疫上面是不好的。」",
+            "negative_score": 8,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "不斷",
+                "過度",
+                "擔憂",
+                "不好",
+                "不實",
+                "道歉",
+                "擔憂"
+            ],
+            "positive_list": [
+                "法律",
+                "相信",
+                "清楚"
+            ],
+            "datetime": "2022-05-29 08:23"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "台灣是一個言論自由的民主國家,對於言論自由的保護水準非常高,任何新聞、言論要被定義為妨礙到法律,必須符合「惡、假、害」,也就是惡意、假的,以及對社會造成不良的影響。",
+            "negative_score": 6,
+            "positive_score": 6,
+            "negative_list": [
+                "不良",
+                "不良的",
+                "妨礙",
+                "假的",
+                "惡意",
+                "不良"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "法律",
+                "保護",
+                "符合",
+                "自由"
+            ],
+            "datetime": "2022-05-29 16:38"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "言論要被定義為妨害法律的,基本上要符合「惡、假、害」3項要件。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "妨害"
+            ],
+            "positive_list": [
+                "法律",
+                "法律的",
+                "符合"
+            ],
+            "datetime": "2022-05-29 16:38"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "中央政府今年的防疫表現如何?結果顯示,認為比去年進步者11.7%,2年表現一樣好13.4%,2年表現一樣差4.0%,比去年退步64.5%。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "退步"
+            ],
+            "positive_list": [
+                "進步"
+            ],
+            "datetime": "2022-05-29 09:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "目前國內染疫率約6%,已和境外移入染疫率相當,預計6月起陸續公布邊境鬆綁政策。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 10:38"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "開放邊境將考慮醫療量能的承受度狀況,但為了經濟穩定,這部分已跟經濟部積極討論,很快就會宣布。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "承受",
+                "承受"
+            ],
+            "positive_list": [
+                "考慮",
+                "開放",
+                "積極",
+                "穩定"
+            ],
+            "datetime": "2022-05-29 07:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "北部有國門、生活密集區,高雄的部分也因為有機場、港口,在國際疫情起來時,難免成為疫情開始的點,陳其邁過去當副院長時,我就知道他的個性非常的急,所以把疫情壓得很緊,台灣比世界疫情晚,就可以搶時間,把藥物、篩劑、檢驗量能、治療量能準備更齊全,因應疫情就會更有餘裕。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "治療",
+                "知道",
+                "準備"
+            ],
+            "datetime": "2022-05-30 22:03"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "確診數大概是在8、9萬維持了11天左右,目前來看會持續,要再突破性往上走可能性比較小,以前的模型分析是估計到5月底,低推估10萬、中推估15萬、高推估20萬,整體的疫情發展高峰應該會落在10到15萬之間。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-05-30 22:03"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "林佳龍現在也已經做好準備,但對民進黨來說,只要有好的人選都是好事,黨內也會用民調來推出人選,她直言,若黃珊珊能拿15%,民進黨要拿下40%並不困難,也就有機會選上,所以疫情跟黃珊珊的支持度都是關鍵。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "好事",
+                "困難",
+                "困難"
+            ],
+            "positive_list": [
+                "好事",
+                "準備",
+                "機會",
+                "好事"
+            ],
+            "datetime": "2022-05-30 17:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "「會進一步釐清是否有人散播不實的訊息,查明後將依法最高可罰三百萬元,或三年以下有期徒刑或拘役。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-05-30 07:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "整體疫情的發展,北部已經漸漸到疫情滿足點,中南部持續在發展中,台灣是一日生活圈,以這樣流行的疫情不會侷限在單一地方,全國還是會趨於一致,像中南部前一段時間控制相對很好,全國疫情一起起來,那壓力會很大。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "壓力",
+                "不會"
+            ],
+            "positive_list": [
+                "一致",
+                "很好",
+                "流行",
+                "流行的",
+                "發展",
+                "滿足",
+                "滿足"
+            ],
+            "datetime": "2022-05-31 19:22"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "過「你怎麼不早說」的圖片作為回應。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:24"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "地方首長是第一線,當然會很急,比如說快篩即確診這件事,柯文哲4月28日提出來,柯文哲市長當然是看到國外一些相關政策在做所以提出,29日陳其邁也有出來講,說陽性率低、還不能這樣做,柯文哲市長是醫療專業,他也馬上說這樣是對的。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-31 07:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "中央考慮事情的時候必須考慮三點:條件、方法、時機,快篩即確診的目的是早期診斷早期治療,但條件上,必須符合醫學倫理以及法律上對人身的限制自由。",
+            "negative_score": 1,
+            "positive_score": 8,
+            "negative_list": [
+                "限制"
+            ],
+            "positive_list": [
+                "考慮",
+                "自由",
+                "法律",
+                "治療",
+                "倫理",
+                "時機",
+                "符合",
+                "自由"
+            ],
+            "datetime": "2022-05-31 07:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "溝通大部分都蠻順暢,自己跟陳其邁時中(潤秋)局長、璩大成幾乎每天都會通電話,「我沒有通,莊人祥也會通,那大概都沒問題。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 07:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "要做3+4,其實已經溝通一段時間,26日侯市長就行文要做0+7嗎?指揮中心當時也回文說「陽性率還高,不宜。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 07:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "思考的方向已經不是阻絕境外,而是醫療量能是否會太過沈重,要不要增加就有利弊衡量的問題,在醫療量能可以負擔的情況下,政府就考量用在經濟相關的地方,比如說要來簽合約、投資的,「要思考有限的醫療量能用在什麼地方對國家最好,不要因為國門的管制變成經濟發展的門檻。」",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "太過",
+                "沈重",
+                "負擔",
+                "問題",
+                "不是",
+                "不要",
+                "沈重",
+                "問題"
+            ],
+            "positive_list": [
+                "有利",
+                "思考",
+                "最好",
+                "發展",
+                "增加"
+            ],
+            "datetime": "2022-05-31 00:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "邊境開放是遲早的事,由於國內染疫率已達6%,境外移入最高也是6%,當境內、外風險已差不多,邊境嚴管意義不大。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不大"
+            ],
+            "positive_list": [
+                "最高",
+                "開放"
+            ],
+            "datetime": "2022-05-31 00:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "抗疫期間,韌性要高大家心情要好、如果像中國那樣沒考慮韌性、強力管理反彈也大,至少在Omicron的狀況下用那樣的方法不好。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不好",
+                "反彈"
+            ],
+            "positive_list": [
+                "考慮",
+                "管理"
+            ],
+            "datetime": "2022-05-31 00:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "觀光局、外交部、指揮中心都有各自對旅遊的警示,以後要怎麼樣限量、各國互惠這都還要計算,6月初就會啟動觀光邊境旅遊的檢討。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "互惠"
+            ],
+            "datetime": "2022-05-31 00:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "網傳的是不實訊息,用字遣詞相當惡劣,對於民心造成很大影響,提醒檢調要嚴查嚴辦,整體收住院情形是由指揮中心、醫療專業機構人員共同討論,若兒童出現以下症狀時,須尋求醫師診療,可是訊看診或外出就醫,並經醫師判斷後決定是否需要住院。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "惡劣",
+                "不實",
+                "惡劣"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-31 17:59"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "地方首長在第一線有時當然會很急,例如快篩陽視同確診,他記得台北市長柯文哲於4月28日提出來,對方看到國外一些相關政策而拋出此提議,隨後在29日高雄市長陳其邁認為,台灣陽性率低還不能這樣做,柯文哲有醫療專業,也馬上說這樣是對的。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-05-31 09:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "政策思考要多方面考慮,就是希望不要一下子飆上去造成醫療負荷,如果要升很快,那就直接做0+7了。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "負荷",
+                "不要"
+            ],
+            "positive_list": [
+                "考慮",
+                "希望",
+                "思考",
+                "希望"
+            ],
+            "datetime": "2022-05-31 09:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "自己一向認為要合作才會成功,中央負責訂定政策,但執行面在地方,「地方不想做或做得不好,中央都要概括承受,這不是政治責任而是攸關政策良心的問題」,不能因為個人政治因素,讓防疫打折。",
+            "negative_score": 8,
+            "positive_score": 7,
+            "negative_list": [
+                "不好",
+                "不能",
+                "承受",
+                "問題",
+                "不好",
+                "不是",
+                "承受",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "成功",
+                "良心",
+                "良心的",
+                "負責",
+                "合作",
+                "良心"
+            ],
+            "datetime": "2022-05-31 09:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「正規睡大約5、6小時」,不過也笑笑的說自己「很會睡」,搭車的空檔都會把握時間補眠。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正規",
+                "把握",
+                "把握"
+            ],
+            "datetime": "2022-05-31 12:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「問疫情我讓你們問到飽」,強調現在是防疫重要一戰,更吐露8字心聲「成也防疫、敗也防疫」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-31 12:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「大家很辛苦,這是我們關鍵一役,我們大家拚下去」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 12:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "提到",
+            "opinion": "和地方政府間溝通的真實情況,表示自己跟新北市衛生局長陳潤秋和璩大成幾乎每天都會通電話,認為大部分的溝通都滿順暢,「那大概都沒問題。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "真實",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 07:39"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "他一向都秉持著要合作才會成功的想法,並解釋中央訂定政策,若是地方執行上不想做、做得不好,「中央都要概括來承受。」",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不好",
+                "承受",
+                "不好",
+                "承受"
+            ],
+            "positive_list": [
+                "合作",
+                "成功",
+                "成功的",
+                "合作"
+            ],
+            "datetime": "2022-05-31 07:39"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "國內目前死亡發生率是每百萬分之0.2,低於日本和新加坡的0.6,也低於紐西蘭1.4、南韓2.4、香港8.3,與其他國家相比沒有比較高。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:06"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "沒有從縣市分配量調配,地方不夠可隨時發給。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:54"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "不是今天去接種的人少就認為是浪費,沒有,去接種的父母和小孩不會覺得浪費,而是滿足這些人的需要。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "浪費",
+                "不是",
+                "不會",
+                "沒有",
+                "浪費"
+            ],
+            "positive_list": [
+                "滿足",
+                "滿足"
+            ],
+            "datetime": "2022-06-01 15:38"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "有時效問題,是否能接受?侯友宜則說,在防疫這段時間,中央在公布很多狀況,地方很多都是被動被告知,這也不是第一次。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "被告",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "很多",
+                "接受"
+            ],
+            "datetime": "2022-06-01 11:36"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「這一部分我們昨天也跟他有講過,我們應該是今天就準備好了嘛,因為那個不是一個錄音檔,一開始以為是要相關錄音檔,其他的聯繫有時候用電腦,相關的其他的傳真或等等的,這一些在做所以那要稍微,整理一下不過現在已經整理好了,應該是沒有問題。」",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "不是",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-01 18:22"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "是時效的問題?陳潤秋聽聞後表示,新北確實是記者會,才知道板橋車站大型兒童疫苗接種站的事情。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "知道",
+                "確實"
+            ],
+            "datetime": "2022-06-02 15:21"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "打疫苗不是說人比較少就要關掉,多一個人打就多一個人的方便,就是造福市民。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "方便"
+            ],
+            "datetime": "2022-06-02 18:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "台北榮民總醫院桃園分院、鄭文燦和桃園市政府衛生局,都花了很多的心力營造快樂的氣氛,讓小朋友雖然是打針,仍留下快樂的印象,也看得出桃園市政府的用心,如果大家都這樣做,施打率一定會超高。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "快樂",
+                "快樂的",
+                "很多",
+                "很多的",
+                "衛生",
+                "快樂",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 18:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "有這樣的訊息嗎?醫福會執行長王必勝在一旁補充,明天的預約目前已經有900多人,現場可能會超過1500人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 18:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「這屬於政治活動的一環,跟疫情無關,我也不回應。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "無關"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:45"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "出「有時篩太多了」,渾然不覺「以篩代隔」正是讓人民能在與病毒共存時過常態生活的核心要件。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不覺"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 06:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「不是今日去接種的人少就認為是浪費,去打的人就會覺得有必要,要體諒父母愛小孩的心」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "浪費",
+                "不是",
+                "浪費"
+            ],
+            "positive_list": [
+                "必要",
+                "體諒",
+                "母愛"
+            ],
+            "datetime": "2022-06-03 18:54"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "陳時中若要參選就該盡快表態,林佳龍說,陳時中很辛苦,在防疫第一線,他過去當交通部長時也與陳時中並肩作戰,防疫工作要做好,民主選舉也要向前走,民進黨有提名的機制,會在最近展開徵詢。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "作戰",
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 10:41"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "我們更了解到,對彰化、南投、雲林、嘉義的民眾來說,彰基醫療服務的重要性。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "重要",
+                "重要性"
+            ],
+            "datetime": "2022-06-04 14:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "提到",
+            "opinion": "彰基是全國兒童醫療重症會診醫院。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 14:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "把事關全國人民生命安全的大權交出來;不要選舉的話也該宣布,應盡快做出決斷和聲明。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "決斷"
+            ],
+            "datetime": "2022-06-04 11:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "提到",
+            "opinion": "陳時中應盡速表態是否參選北市長,林佳龍認為,陳時中在防疫第一線相當辛苦,過去他在交通部長任內也和陳時中並肩作戰,防疫工作要做好,民主機制也要向前走,民進黨內有提名的機制並展開徵詢,他也相信陳時中無論在哪個職務上都能做得很好。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "作戰",
+                "辛苦"
+            ],
+            "positive_list": [
+                "很好",
+                "相信"
+            ],
+            "datetime": "2022-06-04 14:07"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "放寬邊境管制有人支持也有人擔心,指揮中心還是需要跟外交部、交通部等單位一起研議,目前還在研議中。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 13:25"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "現行規定「新冠肺炎確診死亡須於24小時內通報,遺體須盡快火化,並未規定須於24小時內火化」,已引發重大爭議。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "重大"
+            ],
+            "datetime": "2022-06-05 14:57"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「未要求確診遺體24小時內火化」,引發爭議。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 11:09"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「沒有規定確診者死亡一定需24小時內火化」,引起各界討論,對此,蘇貞昌上午赴世貿一館參觀2022台北國際書展前受訪時回應,對於任何生命的消失,政府都痛感不捨,相關的處理方法,政府都希望能夠照規定,而如果溝通還有需要進一步,則請指揮中心和地方政府、業者多多溝通。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡",
+                "沒有",
+                "消失",
+                "沒有",
+                "消失"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-05 10:51"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "對抗病毒2年多了,也對病毒比較了解,可以找殯葬業者一起來思考,業者會比中央更了解,希望可以討論出一個方法,達到讓家屬看到最後一面,又可以讓殯葬業者得到保護。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "對抗"
+            ],
+            "positive_list": [
+                "了解",
+                "希望",
+                "保護",
+                "思考",
+                "得到",
+                "達到",
+                "希望"
+            ],
+            "datetime": "2022-06-05 17:19"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "截至昨晚,台中5738人、高雄5550人、桃園5243人、新北3859人、台北2789人、台南1549人,總共24728人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 16:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "昨(4)日疫苗施打量總計3萬8849劑,「第一劑涵蓋率達到90%」,第二劑82.05%,基礎加強劑0.88%,追加劑66.47%。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "達到"
+            ],
+            "datetime": "2022-06-05 14:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "批評",
+            "opinion": "而國民黨立委賴士葆也砲轟,這是好大的烏龍,去年6月8日副指揮官陳宗彥的談話明明確認24小時內要火化,「哪一個才是正確的指引?」新冠疫情延燒2年多,台灣已有超過2500人染疫離世,因遺體需在24小時內火化,殯葬業者這段期間時刻待命,不少家屬也因無法送別留下終生遺憾。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "超過",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "正確",
+                "正確的",
+                "明確"
+            ],
+            "datetime": "2022-06-05 10:31"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "過要24小時內火化,引發外界一片嘩然。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 08:40"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "現行規定「新冠肺炎確診死亡須於24小時內通報,遺體須盡快火化,並未規定須於24小時內火化」,已引發重大爭議。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "重大"
+            ],
+            "datetime": "2022-06-05 14:03"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "沒有一定要在24小時內處理確診者遺體。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 12:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "他發出的公文都一致,要求盡速,但沒有硬性規定24小時。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "沒有"
+            ],
+            "positive_list": [
+                "一致"
+            ],
+            "datetime": "2022-06-06 19:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「109年1月就公告把新冠肺炎公告在第五類第五類裡面,都要24小時報告,但是新冠肺炎跟新型A型流感都不需要24小時處理,去火化只要求火化深埋要報告。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 19:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "並沒有要求硬性規定時間,但新北市長侯友宜反駁,實務運作跟陳時中說法有落差。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "反駁",
+                "沒有",
+                "要求",
+                "反駁",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 19:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "僅說要盡速處理,但未規定時間,從疫情一開始就沒有變,但仍遭到國民黨砲轟,還要他盡速下台。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 12:47"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "有要求「盡速」火化,但沒有要求24小時之內。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:15"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "「要講這話的人也要特別注意,有牽涉到公權力質疑與公務人員造假的問題,有充分證據可以提出來討論,但不能任意指控。」",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "任意",
+                "指控",
+                "假的",
+                "問題",
+                "質疑",
+                "指控",
+                "問題",
+                "造假"
+            ],
+            "positive_list": [
+                "充分",
+                "注意",
+                "特別"
+            ],
+            "datetime": "2022-06-06 15:29"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「在台灣不可能有死亡黑數,講這話的人要提出證據,不能任意指控!」國民黨立院黨團上午召開記者會,以「去年大量染疫死亡黑數?政府蓋牌?政府出來講清楚說明白?」為主題,他們批評陳時中,「不改善檢驗量能不足問題,反而放任黑數擴大而不作為;呼籲指揮中心應回歸真相進行調查,還給確診者家屬公道。」",
+            "negative_score": 14,
+            "positive_score": 6,
+            "negative_list": [
+                "不可",
+                "不足",
+                "不能",
+                "任意",
+                "死亡",
+                "批評",
+                "放任",
+                "指控",
+                "問題",
+                "不可",
+                "不足",
+                "批評",
+                "指控",
+                "問題"
+            ],
+            "positive_list": [
+                "改善",
+                "明白",
+                "清楚",
+                "進行",
+                "說明",
+                "改善"
+            ],
+            "datetime": "2022-06-06 15:29"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "針對確診者遺體火化,「是規定24小時內要通報,不是24小時內要處理屍體。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "屍體"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:01"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "新冠肺炎相關規則一直從未變過,都是盡速火化為原則,若深埋要報准,因傳染病「希望盡速」,但沒有訂時間。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "傳染",
+                "傳染病",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-06 05:55"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "從未要求殯葬者這樣做,不知媒體是沒看懂,或故意做文章,這個公文很容易讓大家誤解,盡快找業者討論,做到滿足家屬願望,並讓從業人員安全的處理方式。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "不知",
+                "故意",
+                "要求",
+                "誤解",
+                "不知"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "容易",
+                "滿足",
+                "滿足"
+            ],
+            "datetime": "2022-06-06 13:30"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "確診率與染疫率比例約為1比2至1比3,代表有1至2成的社區染疫黑數是不會被確診。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "一副事不關己態度說是大家誤會,把責任推給地方政府和殯葬業者,欠所有往生者和家屬一個道歉。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不關",
+                "誤會",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:39"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "規範從沒變過,「希望盡速但沒訂時間」,但會盡快找業者來談,看怎麼做到兩全其美,也就是滿足家屬渴望,同時讓從業人員安全處理。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "希望",
+                "規範",
+                "渴望",
+                "滿足",
+                "希望",
+                "渴望",
+                "滿足"
+            ],
+            "datetime": "2022-06-06 10:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "從未規定確診亡者得在24小時之內火化,引發外界熱議。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 06:55"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「沒有聽聞這個訊息啦,那我也再次講,不要等我了。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "他沒聽說,也再次講,不要等他,另外也積極備戰的前交通部長林佳龍則回應,還沒聽過延後決定,當然以防疫優先,但民主選舉也要逐步向前走。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "決定",
+                "當然",
+                "積極"
+            ],
+            "datetime": "2022-06-06 18:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "把事關國人生命健康的大權交出來。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "健康",
+                "健康的"
+            ],
+            "datetime": "2022-06-06 17:36"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "不曾聽聞,今天再次媒體問及民進黨有意等到8月提名陳時中參選,他再次回應「沒有聽聞這個訊息,也再說一次不要等我。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "全台5至11歲兒童疫苗施接種率為60.5%,而總統蔡英文同日稍晚卻透過臉書發文稱兒童疫苗覆蓋率為74.2%,遭外界質疑該數據是將確診兒童一起算進去而得。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:16"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "昨天公布的各縣市5至11歲第1劑接種率,是接種莫德納、BNT疫苗第1劑施打數,除以各縣市5至11歲戶籍人口數所得出。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:04"
+        },
+        {
+            "person": "陳時中",
+            "verb": "解釋",
+            "opinion": "由於確診兒童體內有一定程度保護力,才會一起併入計算。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-06-07 16:04"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "「從未要求這樣做」引爆風波。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "風波"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 11:30"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "沒規定遺體在24小時火化,是地方權責,是否認為中央甩鍋地方?柯文哲表示,他看網路上說他去年被打臉,他直言,「如果全台灣都誤會,那就不是柯文哲的問題,如果全台灣都誤會,那就不是任何個人的問題。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "否認",
+                "問題",
+                "誤會",
+                "不是",
+                "問題",
+                "被打"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:19"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "「沒有規定24小時內火化」,侯友宜直言,自己聽了覺得「怎麼會這樣」,因為內政部也說過,實務運作上,殯葬業是內政部指導,指揮中心則是要求盡速火化,這樣的做法已經實行2年多,都是用這樣的方式處理。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "沒有"
+            ],
+            "positive_list": [
+                "實行"
+            ],
+            "datetime": "2022-06-07 11:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "穿了就是沒擔當,用含混不清、曖昧不明的方式,就這樣「混」了2年多,讓多少人在不明不白中,留下莫大的遺憾與傷痛。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不明",
+                "不清",
+                "含混",
+                "遺憾",
+                "曖昧",
+                "不明不白",
+                "不清",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:23"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "實務上各地考量火化場負荷量能,不影響火化場日常工作情形下,都以24小時為原則。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "負荷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:23"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「我們不是說24小時內火化的人是錯的,沒有,那是對的,我們希望火化速度快,只是沒有明寫是24小時之內。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-07 16:31"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "實務上各地考量火化場負荷量能,不影響火化場日常工作情形下,都以24小時為原則,「法上沒有規定24小時一定要火化,但要求要能盡速」,地方當然根據排班、火化場使用量能,24小時內處理比較好。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "負荷",
+                "沒有"
+            ],
+            "positive_list": [
+                "比較好",
+                "當然",
+                "較好"
+            ],
+            "datetime": "2022-06-07 16:31"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "「中央從未要求這樣做」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 10:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "最快可能7月可以免戴口罩、8月會開放邊境。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-06-07 17:08"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "大約6月10日疫情會趨緩,柯文哲認同,差不多,會開始往下走,但也會有高原期,拖多久很難預測,他也透露,台北的疫情高原期、洪峰已經過了,但南部還沒過。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "透露"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-06-07 17:08"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "「要等我,大可不必」,反倒是無任所大使林佳龍,頻頻出招,主動拋出願意和國民黨北市長參選人蔣萬安對談中正紀念堂的轉型正義,但蔣萬安冷處理,今天忙著向打過三腳督選戰的前市長黃大洲取經,不過他說,沒有談到選戰的事。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "主動",
+                "正義",
+                "紀念",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-07 17:35"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "約在6月10日疫情會趨緩,柯文哲說,「差不多,開始往下走」,但會有高原期,拖多久很難預測。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:31"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "沒聽聞這個訊息,「別等我」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:09"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "法一變再變,讓地方政府、殯葬業者全部亂成一團,這就是指揮中心失能、指揮官失職的結果,希望指揮中心應具體改善,不要把防疫當選戰。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "希望",
+                "改善",
+                "希望",
+                "改善"
+            ],
+            "datetime": "2022-06-08 12:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "法也是一變再變,讓地方政府、殯葬業者亂成一團,國民黨強烈質疑陳時中完全失能、失職。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "強烈",
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 13:55"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "24小時內火化是錯的,沒有,那是對的,只是沒有明寫是24小時以內」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:18"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "24小時內火化的做法是對的,只是沒硬性要求。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:14"
+        },
+        {
+            "person": "陳時中",
+            "verb": "評估",
+            "opinion": "可拿到3成選票,但受疫情之累,再提升空間有限。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "提升"
+            ],
+            "datetime": "2022-06-08 16:43"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "專心防疫,2022不接受任何縣市長的提名或徵召,不要用抽象的政治話語叫民進黨不要等他,「越叫民進黨不要等你,民進黨越是不敢不等你」,應該直接宣布不會接受提名,斷了自己的念頭,也斷了民進黨徵召的念頭,把所有的心力好好的、努力的成全台灣的防疫,這才是該做的事。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不要",
+                "不會"
+            ],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "接受"
+            ],
+            "datetime": "2022-06-08 13:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "遺體應該依《傳染病防治法規定》,盡速逕送火化場,卻也傳出家屬見痛心表示見不到往生者最後一面;對此,行政院政務委員兼發言人羅秉成表示「技術性做法都可以來嘗試看看」。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "痛心",
+                "傳染",
+                "傳染病",
+                "不到",
+                "痛心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:27"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "法大轉彎,稱「也不是說這樣做是錯的,只是沒有明寫」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "這樣做是錯的,只是沒有明寫」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:44"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "24小時內火化的做法是對的,只是沒硬性要求。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 09:40"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "將檢討1922標準作業流程(SOP),未來不只提供疫情說明,還能在緊急情況下協助通報或調配。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "協助",
+                "說明"
+            ],
+            "datetime": "2022-06-08 16:16"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922是負責回答問題跟轉介相關單位的平台,最後花比較多時間在立案追蹤上,經瞭解,當天1922有4萬多通電話。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "追蹤",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "負責",
+                "瞭解"
+            ],
+            "datetime": "2022-06-08 16:16"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "防疫也要顧經濟,當然沒問題。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-06-08 18:21"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "未規定要在24小時內火化,到5日改口只有要求盡速火化,而非24小時,結果7日又坦承24小時內火化是對的,只是公文沒有明寫。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 13:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "1922負責回答相關疑問或轉相關單位回答,當天1922有2萬多通電話,每個發生情況的家屬都非常緊急。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "疑問",
+                "緊急",
+                "疑問"
+            ],
+            "positive_list": [
+                "負責",
+                "生情"
+            ],
+            "datetime": "2022-06-09 15:51"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922就是疫情通報及諮詢服務中心,這是從民國93年起成立,是發包委外的,都是委託民間經營,範圍為「疫情通報」跟「諮詢服務」,所以「不具有公權力」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-06-09 15:51"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "疫情記者會有人覺得有需要,有人覺得不需要,有人認為開得好、也有覺得不好,「不過基本上這是政府訊息宣佈討論平台,形容報明牌我想是不太好,每個單位有它的功能,有重要政策在這公布,也建立公信力、效率也相對高。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不太",
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "重要",
+                "效率",
+                "太好"
+            ],
+            "datetime": "2022-06-09 14:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "要求確診死亡遺體盡速火化而不定時限,主要原因是安排火化的過程有諸多變數,將請內政部研議如何兼顧防疫與人情。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不定",
+                "死亡",
+                "要求",
+                "不定"
+            ],
+            "positive_list": [
+                "人情"
+            ],
+            "datetime": "2022-06-09 12:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922就是疫情通報及諮詢服務中心,這是從93年起成立,是發包委外的,都是委託民間經營,所以不具有這樣公權力,主要任務就是疫情通報及諮詢,會有一定的教育訓練,有些指引讓他可以參考。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "訓練",
+                "經營"
+            ],
+            "datetime": "2022-06-09 21:43"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "1922負責回答相關疑問或轉相關單位回答,那天1922有2萬多通電話,每個發生情況的家屬都非常緊急。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "疑問",
+                "緊急",
+                "疑問"
+            ],
+            "positive_list": [
+                "負責",
+                "生情"
+            ],
+            "datetime": "2022-06-09 21:43"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "這起案件「沒有延誤就醫」的問題,顯見憾事主因就是因為1922的SOP不夠完善。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠",
+                "沒有",
+                "延誤",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:25"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "這起案件「沒有延誤就醫」的問題,顯見憾事主因就是因為1922的SOP不夠完善。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不夠",
+                "沒有",
+                "延誤",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:41"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "健保署有開設長新冠的整合醫療計畫,避免復原者要跑多個門診。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-06-09 17:08"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "記者,冷冷的說,確診者死亡,又不是他說不要死就不會死。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "死亡",
+                "要死",
+                "不是",
+                "不要",
+                "不會",
+                "冷冷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 06:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "藉此炒作並不好,如有特定人員或團體散播疫情謠言、不實訊息,將依「嚴重特殊傳染性肺炎防治及紓困振興特別條例」第14條,最高可罰300萬元或3年以下有期徒刑、拘役,呼籲民眾不要任意傳播類似訊息。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "任意",
+                "傳染",
+                "傳染性",
+                "謠言",
+                "嚴重",
+                "不好",
+                "不要",
+                "不實"
+            ],
+            "positive_list": [
+                "特別",
+                "最高"
+            ],
+            "datetime": "2022-06-09 05:40"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922就是疫情通報及諮詢服務中心,這是從93年起成立,是發包委外的,都是委託民間經營,所以不具有這樣公權力,主要任務就是疫情通報及諮詢,會有一定的教育訓練,有些指引讓他可以參考。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "訓練",
+                "經營"
+            ],
+            "datetime": "2022-06-10 09:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "家用快篩試劑實名制販售情形,表中詳列可販售機構家數、可完售機構家售、今日可販售份數、今日已售出份數、今日免費領用份數。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-06-10 19:55"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「有些立委明知故問,1922是疫情通報諮詢專線,是很好溝通解釋管道,也許會入案通知,但不是它直接執行公權力。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "很好",
+                "通知"
+            ],
+            "datetime": "2022-06-10 18:15"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "也不是只有北市民,因為全台灣都受到(影響)。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:06"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "1922是委外,委託民間經營,「不具有公權力」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-06-10 15:47"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "就像很多專線都是這樣成立很久了如1925安心專線、1966長照服務專線、1919食安專線等也許會入案通知,但不會直接執行公權力,如張老師等專線這都是跟政府長期在做的,也會入案,但不會指派相關救護人員做任何事,這是很清楚的。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "很多",
+                "清楚",
+                "清楚的",
+                "通知",
+                "安心"
+            ],
+            "datetime": "2022-06-10 15:13"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "過沒延誤就醫,副市長劉和然直言,這段時間討論都模糊了,因此交給第三方公正單位做司法釐清。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "延誤",
+                "模糊"
+            ],
+            "positive_list": [
+                "公正"
+            ],
+            "datetime": "2022-06-10 17:29"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "1922無公權力?新北市副市長劉和然回應,疫情期間緊急就醫仍請撥1922。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "認為",
+            "opinion": "「台灣13天死亡翻倍」在說明統計上需要檢討,若分母也黑數、分子也黑數,拿來亂比一通,得到一個奇奇怪怪的結論就這樣講,影響到民心和對疫情的判斷,這都不是一件好事。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "好事",
+                "死亡",
+                "奇怪",
+                "不是"
+            ],
+            "positive_list": [
+                "好事",
+                "得到",
+                "說明",
+                "好事"
+            ],
+            "datetime": "2022-06-10 16:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922專線不具公權力,是委外經營的疫情通報跟諮詢服務中心。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-06-11 11:36"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "如果要精準統計死亡翻倍速度,應該是從今年1月Omicron疫情爆發後開始計算,才能看整體疫情變化,如果把過去兩年流行的不同變異株確診率與死亡率都放進來比,統計就會失真,「分母也黑數,分子也黑數拿來亂比一通,影響民心跟疫情,都不是好事情。」",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "好事",
+                "死亡",
+                "爆發",
+                "不是"
+            ],
+            "positive_list": [
+                "才能",
+                "好事",
+                "流行",
+                "流行的",
+                "好事"
+            ],
+            "datetime": "2022-06-11 12:30"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "瞎話」,一堆言論都是在硬拗,呼籲陳時中不要再推卸責任、把責任都推到門外。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 10:44"
+        },
+        {
+            "person": "陳時中",
+            "verb": "痛批",
+            "opinion": "陳時中時中說謊,國民黨直指防疫專線1922,就是具有公權力,要陳時中別硬坳。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "說謊",
+                "說謊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 17:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「指揮有一定的體系,每個單位都有一定的管理體系、指揮的權,基本上是不要亂掉是最好,大家對這種公權力的解釋說法有很多種,我們講的是說是不是直接有指揮權、有調度權的意思。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "很多",
+                "最好",
+                "管理"
+            ],
+            "datetime": "2022-06-11 17:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "解釋",
+            "opinion": "「公權力」是指涉指揮權,他們沒有讓1922去指揮,背後也是因指揮要有一定管理體系,指揮權不要亂掉最好,大家對公權力解釋有很多種,而他們指涉的是調度、指揮權。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多",
+                "最好",
+                "管理"
+            ],
+            "datetime": "2022-06-11 14:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922是疫情通報及諮詢服務中心,且發包委託民間經營,所以不具有公權力。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-06-11 15:05"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「我是講說(1922)沒有指揮權」,指揮有一定的體系,指揮權基本上是不要亂掉最好,是指指揮權、調度權的意思。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-11 15:05"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "1922專線不具公權力,是委外經營的疫情通報跟諮詢服務中心。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "經營"
+            ],
+            "datetime": "2022-06-12 14:36"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "1922沒有公權力,立委明知故問。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 17:09"
+        }
+    ]
+}

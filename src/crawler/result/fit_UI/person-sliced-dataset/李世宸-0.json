@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李世宸",
+            "verb": "表示",
+            "opinion": "「即使受到中國打壓,世衛行動團在日內瓦,還是持續透過論壇的方式,繼續為台灣發聲。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 12:12"
+        }
+    ]
+}

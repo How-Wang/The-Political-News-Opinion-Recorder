@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/呂惠卿.png",
+    "opinions": [
+        {
+            "person": "呂惠卿",
+            "verb": "說",
+            "opinion": "「親友團土地非農用,不用開罰不用繳土地稅,也不需要繳土地增值稅,只有親友團有這樣的特權,難怪他們借錢是不用還的。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "特權"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 18:43"
+        }
+    ]
+}

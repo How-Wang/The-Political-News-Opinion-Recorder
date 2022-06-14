@@ -1,0 +1,89 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張博洋.png",
+    "opinions": [
+        {
+            "person": "張博洋",
+            "verb": "說",
+            "opinion": "「一般人來講,他們是去看哪個路口比較多人,哪個點比較明顯,對我們來說則是哪個點免費,它就會是我們的看板兵家必爭之地,因為我們為了要省錢,我們都是集了好幾塊看板之後,只能出一次吊車,一次一天之內花一筆錢,要把所有的看板全部掛上去,這個也是一種省錢的方式。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "免費",
+                "明顯"
+            ],
+            "datetime": "2022-05-28 13:02"
+        },
+        {
+            "person": "張博洋",
+            "verb": "說",
+            "opinion": "確診後經醫師診斷就可以拿藥,柯文哲確診吃普拿疼、侯友宜也主張快篩陽就給藥,什麼時候台灣沒有藥了?張博洋會這樣說,主要是黃智賢昨日表示,台灣學中國做出的中藥清冠一號,一個月產量只有8萬份,幾乎不夠台灣一天用,真正能夠拿到的人不到5%,甚至更低,所以,95%以上確診的,只能自謀生路。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不夠",
+                "沒有",
+                "不到",
+                "沒有"
+            ],
+            "positive_list": [
+                "真正"
+            ],
+            "datetime": "2022-05-30 15:28"
+        },
+        {
+            "person": "張博洋",
+            "verb": "提出",
+            "opinion": "一妙招來洩恨,「把黃智賢空投過去救智商」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "洩恨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:28"
+        },
+        {
+            "person": "張博洋",
+            "verb": "說",
+            "opinion": "打算開直播,跟大家分享自己的確診經歷,而鄭光峰說,這幾天電話比平常還多,選民服務照樣得進行。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "的確",
+                "進行"
+            ],
+            "datetime": "2022-06-03 18:18"
+        },
+        {
+            "person": "張博洋",
+            "verb": "發現",
+            "opinion": "確診,還被視訊看診的醫師認了出來。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 18:18"
+        },
+        {
+            "person": "張博洋",
+            "verb": "說",
+            "opinion": "「朱立倫你知道他們這陣子常常自己搭飛機來聽,不需要你跑過去講嗎?」朱立倫昨日表示,這幾天在美國,他拜會了美國政府與國會部門,大家都支持歡迎國民黨重返華府,雙方討論議題包括台灣安全、兩岸關係、台美經貿與科技發展交流,也受到僑界熱情歡迎,大家都很支持中華民國與國民黨。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "知道",
+                "發展",
+                "熱情",
+                "歡迎",
+                "熱情",
+                "歡迎"
+            ],
+            "datetime": "2022-06-09 11:43"
+        }
+    ]
+}

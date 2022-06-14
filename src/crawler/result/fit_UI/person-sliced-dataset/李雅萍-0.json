@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李雅萍.png",
+    "opinions": [
+        {
+            "person": "李雅萍",
+            "verb": "呼籲",
+            "opinion": "世界衛生組織(WHO)納入台灣參與並促請理念相近國家支持台灣參與世衛訴求。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-27 22:08"
+        },
+        {
+            "person": "李雅萍",
+            "verb": "指出",
+            "opinion": "世界衛生大會(WHA)最終雖駁回邀請台灣參與提案,但疫病無國界,台灣科技防疫有成,今後仍持續與國際社會攜手為確保人類健康努力,盼積極參與WHA。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "駁回"
+            ],
+            "positive_list": [
+                "努力",
+                "健康",
+                "衛生",
+                "積極",
+                "衛生"
+            ],
+            "datetime": "2022-05-27 22:08"
+        }
+    ]
+}

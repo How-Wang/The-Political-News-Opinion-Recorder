@@ -1,0 +1,19 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "楊志良",
+            "verb": "說",
+            "opinion": "並不排除空降人選,盼本月底前產生,黃健庭也允諾會盡快產生。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "允諾"
+            ],
+            "datetime": "2022-06-07 14:53"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李政.png",
+    "opinions": [
+        {
+            "person": "李政",
+            "verb": "說明",
+            "opinion": "目前是台中疫情高原期,以關心民眾健康為要,考量試劑分裝作業交給一般廠商做,會增加很多經費,因此投入市府人力分裝試劑供市民使用。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "裝作"
+            ],
+            "positive_list": [
+                "很多",
+                "健康",
+                "增加",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-10 15:15"
+        }
+    ]
+}

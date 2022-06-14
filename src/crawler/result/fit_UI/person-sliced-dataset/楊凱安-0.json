@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊凱安.png",
+    "opinions": [
+        {
+            "person": "楊凱安",
+            "verb": "指出",
+            "opinion": "「隨著台海情勢的不斷升溫,中國軍機進入到東南空域的次數,也不斷的增加,加上包括遼寧艦在內,相當多的中國軍艦,時常出現在花東的外海,而鷹式飛彈在明年要退出防空第一線,東部離島的防空該如何兼顧,是國軍當前重要課題。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "退出"
+            ],
+            "positive_list": [
+                "重要",
+                "增加"
+            ],
+            "datetime": "2022-06-10 13:51"
+        }
+    ]
+}

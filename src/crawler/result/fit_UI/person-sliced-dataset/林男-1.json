@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林男.png",
+    "opinions": [
+        {
+            "person": "林男",
+            "verb": "說明",
+            "opinion": "限制閱卷標準,且影響律師為林男有效辯護權利,將原裁定撤銷。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "限制",
+                "撤銷"
+            ],
+            "positive_list": [
+                "有效"
+            ],
+            "datetime": "2022-06-07 14:42"
+        }
+    ]
+}

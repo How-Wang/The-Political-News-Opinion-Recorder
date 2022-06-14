@@ -1,0 +1,298 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "自己任內每年都參加WHA。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-23 09:49"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "「蔡英文政府說,這是因為中共打壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 09:49"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "兒童疫苗數量不夠,指揮中心引以為傲的超前部署在哪;這就是政府所說的「有政府,請安心」,怎麼能不憤怒。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不夠",
+                "憤怒",
+                "憤怒"
+            ],
+            "positive_list": [
+                "引以為傲",
+                "安心",
+                "為傲"
+            ],
+            "datetime": "2022-05-25 13:31"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "兒童疫苗數量不足,沒有超前部署,蔡炳坤則回應,台北市的原則是,中央給多少疫苗就用最快的速度跟努力接種完成,不管是莫德納還是BNT兒童疫苗,都是用最快速度進行。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不足",
+                "不管",
+                "沒有",
+                "不足",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "完成",
+                "進行"
+            ],
+            "datetime": "2022-05-25 17:00"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "國內有多少孩童,需要多少的兒童疫苗,預先規畫並提供給家長們選擇,是政府最基本的防疫作為。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 09:44"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "一位出席染疫死亡兒童告別式的民眾,在媒體人黃暐瀚臉書上留言:「看到家長傷心欲絕泣不成聲的模樣,我忍不住也哭出來了。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不住",
+                "死亡",
+                "傷心",
+                "不成",
+                "傷心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 11:44"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "「我就是蔣萬安」,今天最重要的就是拜會馬英九,未來也會持續向幾會有城市治理經驗的前輩一一請益拜會。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "經驗"
+            ],
+            "datetime": "2022-05-27 10:52"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "台北市很多延續至今的政策,都是馬英九當市長時推動。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-27 14:06"
+        },
+        {
+            "person": "馬英九",
+            "verb": "質疑",
+            "opinion": "密錄器只有2分多鐘,這是選擇性公布,這樣解決不了徐巧芯施壓警員不要開單,又威脅事後再消單的醜陋事實,要求警方公布密錄器全部內容,並要徐巧芯滾出政壇。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "威脅",
+                "要求",
+                "醜陋",
+                "不了",
+                "不要",
+                "威脅"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-28 17:57"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "「吃飯先」,網友依舊湧入留言提出自己的看法。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:23"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "中,曾提出臺灣精神是「正直、善良、勤奮、誠信、進取、包容」,我認為就是真臺灣人的核心價值。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正直",
+                "善良",
+                "進取",
+                "勤奮"
+            ],
+            "datetime": "2022-06-01 05:50"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "「六四事件」33週年除了要再次呼籲大陸當局,勇於面對歷史、承擔責任,才能往前邁進;另一方面,也要藉此機會反思,台灣雖號稱「民主」,卻一步步墮入「不自由的民主」,格外值得警惕。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "格外",
+                "警惕"
+            ],
+            "positive_list": [
+                "才能",
+                "自由",
+                "自由的",
+                "值得",
+                "機會",
+                "自由"
+            ],
+            "datetime": "2022-06-05 10:41"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "聲浪不斷,但要參選台北市長的蔣萬安,卻幫馬英九緩頰。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:41"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "的政府,看到不同意見就扭曲抹紅的執政黨,還有臉來說嘴自己是自由民主?針對馬英九的檢討,行政院長蘇貞昌5日也開砲,台灣的自由民主全世界公認,各種評比也都名列前茅,竟然有人違逆事實、為專制極權塗脂抹粉,對自己反而多所扭曲,一定不為台灣人民接受,也會成為世界笑柄。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不同意",
+                "不為",
+                "扭曲",
+                "笑柄",
+                "專制",
+                "專制",
+                "竟然"
+            ],
+            "positive_list": [
+                "同意",
+                "成為",
+                "自由",
+                "接受",
+                "自由"
+            ],
+            "datetime": "2022-06-05 10:58"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "台灣雖然號稱「民主」,卻一步步墮入「不自由的民主」,格外值得警惕。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "格外",
+                "警惕"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "值得",
+                "自由"
+            ],
+            "datetime": "2022-06-05 10:23"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "台灣的自由、民主,全世界公認、各種評比也都名列前茅。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-05 11:41"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "台灣有陷入「不自由的民主」危機,肯定中國國家主席習近平對六四的處理。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "危機",
+                "陷入",
+                "危機"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "肯定",
+                "自由"
+            ],
+            "datetime": "2022-06-05 11:41"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "六四事件33週年,一方面,他要再次呼籲大陸當局,勇於面對歷史、承擔責任,才能往前邁進。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-06-05 13:20"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "的是「民主永遠有進步空間」,談話不該被扭曲。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "扭曲"
+            ],
+            "positive_list": [
+                "進步"
+            ],
+            "datetime": "2022-06-06 08:00"
+        }
+    ]
+}

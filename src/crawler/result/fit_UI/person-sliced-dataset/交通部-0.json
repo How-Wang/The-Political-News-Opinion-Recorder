@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/交通部.png",
+    "opinions": [
+        {
+            "person": "交通部",
+            "verb": "宣布",
+            "opinion": "今年七月起,國際駕照封面將加註「TAIWAN」字樣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:06"
+        }
+    ]
+}

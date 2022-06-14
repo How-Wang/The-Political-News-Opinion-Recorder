@@ -1,0 +1,56 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何志偉.png",
+    "opinions": [
+        {
+            "person": "何志偉",
+            "verb": "回應",
+            "opinion": "中央社記者詢問時表示,他向斯洛伐克朋友說明時,沒有使用「打架」這字眼,而是用「推擠」描述,也沒有提到「國民黨」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "打架",
+                "沒有",
+                "推擠",
+                "沒有"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-06-09 17:46"
+        },
+        {
+            "person": "何志偉",
+            "verb": "說明",
+            "opinion": "因立法院會於日前處理法案時,議場發生推擠,在野黨立委朝主席台丟擲水杯抗議,然後直接砸到畫,發生孫中山先生畫像衣服破洞的意外。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "抗議",
+                "破洞",
+                "推擠",
+                "意外"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:46"
+        },
+        {
+            "person": "何志偉",
+            "verb": "提到",
+            "opinion": "斯洛伐克外賓打趣作勢在場要真實上演「全武行」,他也善盡職責勸架,跟外賓說「要乖哦、要乖,我們吵架,不打架」。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "打架",
+                "吵架",
+                "吵架"
+            ],
+            "positive_list": [
+                "打趣",
+                "真實",
+                "職責",
+                "打趣"
+            ],
+            "datetime": "2022-06-09 15:54"
+        }
+    ]
+}

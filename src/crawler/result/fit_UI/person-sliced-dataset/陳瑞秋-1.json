@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳瑞秋.png",
+    "opinions": [
+        {
+            "person": "陳瑞秋",
+            "verb": "說",
+            "opinion": "第四劑疫苗的施打期程為6月20日至30日,對於資訊落差的長者,衛生局也會提供鄰里協助,協助長者事前或到現場進行預約。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "差的"
+            ],
+            "positive_list": [
+                "助長",
+                "協助",
+                "進行",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 15:41"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉美芳.png",
+    "opinions": [
+        {
+            "person": "劉美芳",
+            "verb": "表示",
+            "opinion": "衛福部長陳時中可能有重聽問題,建議侯友宜可以幫陳買一個助聽器,讓他跟雙北聯繫會方便一點。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "方便"
+            ],
+            "datetime": "2022-06-02 15:21"
+        }
+    ]
+}

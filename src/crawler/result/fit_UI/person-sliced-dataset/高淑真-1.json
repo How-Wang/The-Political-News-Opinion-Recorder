@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高淑真.png",
+    "opinions": [
+        {
+            "person": "高淑真",
+            "verb": "說",
+            "opinion": "這說法可以嗎?高則回應,專員都很辛苦,不可能不接電話。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不可",
+                "辛苦",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 16:29"
+        }
+    ]
+}

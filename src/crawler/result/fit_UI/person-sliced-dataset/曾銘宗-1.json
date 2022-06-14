@@ -1,0 +1,1096 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "相關經費來源可透過特別預算、年度預算、第二預備金等來處理。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-21 11:43"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "提出",
+            "opinion": "呼籲,應比照去年立即為針對受疫情衝擊產業、員工提供紓困計畫,若是屆時需要增加預算,國民黨團也會支持開臨時會來審查預算。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "衝擊"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-21 11:05"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「經費的來源可以以緩濟急,包括(紓困)特別預算(餘款),包括年度預算包括(各部會)基金的預算,包括相關的第二預備金,那假設真的疫情非常地嚴重,需要紓困協助的經費非常龐大的話,呼籲到時候來開臨時會(討論)。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "嚴重"
+            ],
+            "positive_list": [
+                "協助",
+                "特別"
+            ],
+            "datetime": "2022-05-21 12:46"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "應比照去年立即為針對受疫情衝擊產業、員工提供紓困計畫,若是屆時需要增加預算,國民黨團也會支持開臨時會來審查預算。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "衝擊"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-21 11:46"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "今日於黨團大會討論投票,認為NCC在主委陳耀祥主政下已無公信力,NCC淪民進黨附屬單位,黨團原則上傾向不進場投票;民眾黨則是不滿被提名人王正嘉專長為「網路言論與刑法」,質疑未來NCC工作重點是否為言論審查,淪認知作戰指揮中心,表態將不進場投票背書。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "作戰",
+                "質疑",
+                "不滿"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:23"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "批評",
+            "opinion": "若這個提案是由民進黨提出,早就鼓掌通過了,因此呼籲全國農民睜大眼睛、檢視反對者的言論。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "反對",
+                "反對者",
+                "睜大"
+            ],
+            "positive_list": [
+                "通過",
+                "鼓掌"
+            ],
+            "datetime": "2022-05-25 13:05"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "司法院與行政院於24日第二次核定「傳染病流行疫情嚴重期間司法程序特別條例」的適用期間,為5月25日起至8月24日止,為期3個月,施行地區為全國;為何適用期間是3個月。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "傳染",
+                "傳染病",
+                "嚴重"
+            ],
+            "positive_list": [
+                "流行",
+                "特別"
+            ],
+            "datetime": "2022-05-25 11:12"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「台北市很重要,新北也很重要,全國各地都很重要,防疫沒有顏色,病毒也沒有顏色。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-25 18:56"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "今年中央約20億媒體宣導費,農委會就占1億4971萬元,農委會前年就曾編政策行銷預算,買了東森、年代、民視等五家媒體各約1千多萬元,後來被審計部核定,其中有2000多萬元不符用途、不准報銷。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不准",
+                "不符"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 10:05"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "根據消息指出,蔡政府正準備髮夾彎,將核二、核三延役配套、正在研究2025非核家園這張神主牌該怎麼解套,以及台電已經多次向政府高層、經濟部進行簡報上述解套方案,國民黨團呼籲蔡政府承認2025非核家園是錯誤的能源政策,提出可行解決方案,確保全民用電權益。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "錯誤",
+                "錯誤的"
+            ],
+            "positive_list": [
+                "可行",
+                "承認",
+                "進行",
+                "準備",
+                "解決",
+                "權益",
+                "解決"
+            ],
+            "datetime": "2022-05-26 13:55"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "國民黨團3項前提立法院已通過附帶決議,交通部應確實督導未來的台鐵公司。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "通過",
+                "確實"
+            ],
+            "datetime": "2022-05-27 15:48"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "立法院通過的防疫紓困特別預算,經過多次追加的結果,總數為新台幣8393億元,立法院對於各部會的要求是要錢給錢、要人給人,但是政府防疫工作做不好,確診人數已達173萬人,1784人死亡,彭博社評台灣防疫韌性為倒數第3名,國民黨團要代表全民,給予政府最嚴厲的譴責。",
+            "negative_score": 8,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "死亡",
+                "要求",
+                "過多",
+                "嚴厲",
+                "嚴厲的",
+                "譴責",
+                "不好"
+            ],
+            "positive_list": [
+                "特別",
+                "通過",
+                "給予"
+            ],
+            "datetime": "2022-05-28 15:20"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "很多家長抱怨為何只能領5劑,用完了怎麼辦,國民黨團要求,請比照美國、英國、新加坡等國家,在疫情高峰時,免費提供全民快篩。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "抱怨",
+                "要求",
+                "完了",
+                "抱怨"
+            ],
+            "positive_list": [
+                "免費",
+                "很多"
+            ],
+            "datetime": "2022-05-28 15:20"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "批評",
+            "opinion": "衛福部長陳時中說,現在傳出陳時中將在7月中要離開崗位選舉,「確診、中重症死亡人數這麼高,還有心要選舉?不追究你法律責任、移送法辦、送到監察院就不錯了,還想要選舉?」呼籲選民以後用選票唾棄陳時中。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "離開",
+                "唾棄"
+            ],
+            "positive_list": [
+                "法律"
+            ],
+            "datetime": "2022-05-28 10:39"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "國民黨團堅決表達反對立場,屆時也會有抗議行動;民進黨立法院黨團總召柯建銘指出,就照程序處理,該表決就表決。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "抗議",
+                "對立",
+                "對立"
+            ],
+            "positive_list": [
+                "堅決"
+            ],
+            "datetime": "2022-05-29 20:30"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "6人已完成自首程序,要求刑事局應依法偵辦,再次重申全力聲援郭彥均。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "刑事",
+                "要求"
+            ],
+            "positive_list": [
+                "全力",
+                "完成"
+            ],
+            "datetime": "2022-05-29 12:39"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "國民黨團堅決表達反對立場,屆時也會有抗議行動;民進黨立法院黨團總召柯建銘指出,就照程序處理,該表決就表決。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "抗議",
+                "對立",
+                "對立"
+            ],
+            "positive_list": [
+                "堅決"
+            ],
+            "datetime": "2022-05-29 23:04"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "因為疫情,很多孩子都走了是事實,這不是謠言,郭彥均幫忙出聲抱不平都不行,還要被移送法辦。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不平",
+                "謠言",
+                "不平",
+                "不是"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 11:53"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「希望政府、警政署、刑事警察局把我們移送法辦,要辦一起辦。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "刑事"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-29 18:18"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「郭彥均叔叔幫你們出個聲音,抱個不平都不行,還要被移送法辦,拜託所有的小朋友大朋友,出來挺挺你。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不平",
+                "不平",
+                "拜託"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:57"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "對於民進黨的做法,國民黨要表達抗議,並給予最嚴厲的譴責,希望全民睜大眼睛,好好檢視民進黨,並在年底用選票唾棄貪污的民進黨。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "抗議",
+                "貪污",
+                "貪污的",
+                "睜大",
+                "嚴厲",
+                "嚴厲的",
+                "譴責",
+                "貪污",
+                "唾棄"
+            ],
+            "positive_list": [
+                "希望",
+                "給予",
+                "希望"
+            ],
+            "datetime": "2022-05-30 14:02"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "國民黨團撤簽協商結論;蔡其昌說,沒有協商結論,那就無法處理,因此進入下一案,會計法第99條之1條文修正草案。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "無法",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:23"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "希望民進黨團抽掉攸關國務機要費除罪化的會計法修正草案,否則不排除占領主席台2天,直到這個會期(5月31日)結束。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "排除",
+                "占領"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-30 08:34"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "國民黨團撤簽協商結論;蔡其昌說,沒有協商結論,那就無法處理,因此進入下一案,會計法第99條之1條文修正草案。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "無法",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:00"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "網軍治國有5大案:楊蕙如案、賴清德案、林瑋豐案、林秉樞案和政院小編案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 22:01"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "蔡政府英文政府利用網軍攻擊反對黨、帶風向,這是經過副總統賴清德所證實的情況,養網軍的經費部分來自中央政府宣導預算,根據中央政府111年度編列宣導經費,總共11億元,其中最多的是農委會1億4971萬元,其次是司法院1億352萬元,教育部有8835萬元,國營事業部分則編列8億元,兩者相加共有20億元。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "反對",
+                "攻擊",
+                "利用",
+                "攻擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 22:01"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "國民黨團曾多次召開記者會,呼籲蔡政府趕快購買兒童疫苗,結果不僅很多孩子都走了,更多長者也走了,只有民進黨政府至今沒有人出面負責。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多",
+                "負責"
+            ],
+            "datetime": "2022-05-31 14:39"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "蔡英文政府政府明知疫情將爆發卻隱匿疫情,且至今沒人出面負責,呼籲監察院、檢調調查。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "爆發"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-05-31 14:39"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "他代表國民黨團表達遺憾與致歉,「該賠就賠」,相信國父一定會體諒,並強調大家都非常尊重孫中山創建中華民國,國民黨團如今奮鬥的目標,也是國父過去奮鬥的目標,也就是自由與民主,而民進黨則是想下架國父。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "遺憾",
+                "遺憾"
+            ],
+            "positive_list": [
+                "自由",
+                "相信",
+                "尊重",
+                "奮鬥",
+                "體諒",
+                "自由",
+                "尊重",
+                "奮鬥"
+            ],
+            "datetime": "2022-06-01 16:28"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「賠償沒有問題,損害公物我們該賠就賠,但是我相信,國父一定會體諒我們的初衷,有傷了他的話,我們真的很抱歉。」",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "抱歉",
+                "問題",
+                "損害",
+                "有問題",
+                "沒有",
+                "抱歉",
+                "問題"
+            ],
+            "positive_list": [
+                "相信",
+                "體諒"
+            ],
+            "datetime": "2022-06-01 18:50"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "在追求自由民主的過程中,於立法院議場傷到國父遺像,他代表國民黨團表達遺憾與致歉之意。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "遺憾",
+                "遺憾"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-01 12:17"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "這波疫情主要是Omicron病毒,但政府核准的福吉美唾液快篩試劑竟然驗不出Omicron病毒,根本是草菅人命,國民黨團要求衛福部盡快出面說清楚核准過程,否則不排除以公務員圖利罪提告。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "排除",
+                "不出",
+                "草菅",
+                "草菅人命",
+                "竟然"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-02 15:13"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "質疑",
+            "opinion": "福吉美唾液快篩的原廠說明書,僅標示可驗出Alpha、Beta、Gamma、Delta等病毒株,就是沒有標示Omicron,呼籲中央流行疫情指揮中心出面說明。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "流行",
+                "說明"
+            ],
+            "datetime": "2022-06-02 11:57"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "強調",
+            "opinion": "衛福部應出面說清楚講明白,否則不排除告發相關官員圖利罪。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "告發",
+                "排除"
+            ],
+            "positive_list": [
+                "明白",
+                "清楚"
+            ],
+            "datetime": "2022-06-02 13:40"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "國民黨團將提出4點呼籲,包括低收入戶加發3000元、中低收入戶加發2000元,加強照顧弱勢家庭;至於租金補貼部分,針對經常性收入未滿3萬元的勞工,政府則應每人每月補貼1萬元,為期3個月。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:34"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "根據去年全國總稅收的統計圖表,原本預計收到的2兆4000億預算,卻超收了4034億,創歷史超收新高。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 15:34"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「租金補貼範圍,最低5000元最高假設4口、5口之家,真的需要最高2萬元,對月薪未滿3萬元的人,給予勞工每個人1萬元的補貼,為期3個月並有排富條款。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "最低"
+            ],
+            "positive_list": [
+                "最高",
+                "給予"
+            ],
+            "datetime": "2022-06-03 13:07"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "政府稅收去年超收新台幣4千億餘元,應比照去年擴大弱勢家庭補助,將租金補貼增加至5千至2萬元,給予月薪不到3萬元的勞工每人1萬元補貼,並凍漲夏季電價。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "給予",
+                "增加"
+            ],
+            "datetime": "2022-06-03 10:48"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "過去兩年半來,實務操作上引發最大爭議的是遺體倉促火化,家屬無從做好後事準備,送家人最後一程,甚至造成許多家屬無法見親人最後一面,留下終生遺憾。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-05 14:57"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "中央疫情指揮中心規定遺體火化的時間規定不清楚,引發「火化之亂」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "不清"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-05 14:57"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「新冠肺炎確診死亡需在,24小時內通報,但是遺體需盡快火化,並未規定在24小時火化,說來輕鬆自如,似乎不清楚這項規定,已經造成家屬受難者,送終的機會都沒有。」",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "死亡",
+                "沒有",
+                "受難",
+                "受難者",
+                "不清",
+                "沒有"
+            ],
+            "positive_list": [
+                "清楚",
+                "輕鬆",
+                "機會",
+                "自如",
+                "輕鬆"
+            ],
+            "datetime": "2022-06-05 13:02"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "批評",
+            "opinion": "另外過去二年半來,實務操作上引發最大爭議的是,遺體倉促火化,家屬無從做好後事準備,送家人最後一程,甚至造成許許多多家庭家屬無法見親人最後一面,留下終生遺憾。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-05 15:19"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "中央疫情指揮中心規定遺體火化的時間規定不清楚,引發「火化之亂」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "不清"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-05 14:03"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "過去兩年半來,實務操作上引發最大爭議的是遺體倉促火化,家屬無從做好後事準備,送家人最後一程,甚至造成許多家屬無法見親人最後一面,留下終生遺憾。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-05 14:03"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "陳時中明知檢驗能量不足,為何不馬上改善?放任黑數不斷擴大,蔓延擴張,讓不知情者陷入染疫風險,造成更多死傷,國民黨團要求陳時中必須說清楚、講明白。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不足",
+                "不知",
+                "不斷",
+                "放任",
+                "要求",
+                "陷入",
+                "蔓延",
+                "不足",
+                "不知",
+                "何不"
+            ],
+            "positive_list": [
+                "改善",
+                "明白",
+                "清楚",
+                "改善"
+            ],
+            "datetime": "2022-06-06 14:49"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "國民黨團提出三點訴求,分別是染疫身亡者是否要在24小時火化必須規定清楚。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-07 14:14"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "要求監察院應定期公布監委出席會議狀況,供各界檢視,讓全民來監督。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:18"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "世界衛生組織曾提出確診喪葬指引,強調為避免倉促處置染疫死者,死者尊嚴及其傳統、宗教、文化、家屬,應受到尊重保護,包括紐澳、新加坡及加拿大也沒有儘速火化的規定。",
+            "negative_score": 5,
+            "positive_score": 8,
+            "negative_list": [
+                "死者",
+                "沒有",
+                "處置",
+                "避免",
+                "沒有"
+            ],
+            "positive_list": [
+                "保護",
+                "尊重",
+                "尊嚴",
+                "衛生",
+                "避免",
+                "尊重",
+                "尊嚴",
+                "衛生"
+            ],
+            "datetime": "2022-06-08 12:58"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "這是現階段最好的論述;黨團首席副書記長李德維指出,國民黨立場沒變。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-08 16:40"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "對照現在執政的民進黨政府沒有提出好的論述和做為,兩岸關係急速惡化,國民黨藉著這次朱立倫訪美機會,說明好的論述,這是現階段最好的論述,希望兩岸關係和平穩定;希望民進黨陣營心胸放大,不要一味批評,歡迎提出更好論述,有助維持兩岸關係穩定,讓中華民國走出去,未來有更大的發展。",
+            "negative_score": 6,
+            "positive_score": 12,
+            "negative_list": [
+                "批評",
+                "沒有",
+                "惡化",
+                "不要",
+                "批評",
+                "沒有"
+            ],
+            "positive_list": [
+                "平穩",
+                "有助",
+                "希望",
+                "和平",
+                "最好",
+                "發展",
+                "說明",
+                "機會",
+                "穩定",
+                "歡迎",
+                "希望",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 16:40"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "執政黨在全國疫情最嚴重的時候,不把防疫做好,竟動員府院黨及側翼,全力打擊新北市政府,執政黨心中只有選舉,真是把防疫當選戰在打,對不起全國民眾,國民黨團對這種沒有人性、冷血及違反行政倫理的做法表達抗議,並給予做嚴厲的譴責。",
+            "negative_score": 15,
+            "positive_score": 5,
+            "negative_list": [
+                "打擊",
+                "抗議",
+                "沒有",
+                "違反",
+                "嚴重",
+                "嚴重的",
+                "嚴厲",
+                "嚴厲的",
+                "譴責",
+                "不起",
+                "打擊",
+                "冷血",
+                "沒有",
+                "違反",
+                "對不起"
+            ],
+            "positive_list": [
+                "人性",
+                "全力",
+                "倫理",
+                "倫理的",
+                "給予"
+            ],
+            "datetime": "2022-06-09 14:32"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "目前還在立法院審議中,還沒有共識,各界還有不同意見,尤其可能有個資安全的問題。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不同意",
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "同意",
+                "安全",
+                "安全的"
+            ],
+            "datetime": "2022-06-09 13:38"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "除有特殊狀況,大方向贊成身分證要有配偶和父母資訊。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "大方",
+                "贊成"
+            ],
+            "datetime": "2022-06-09 13:38"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "父母養育這麼久,竟然不願把其姓名登載在身分證上,因此他認同還是要有配偶和父母資訊。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "竟然"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說明",
+            "opinion": "目前該案在立法院審議過程中,還沒有共識,主要是各界提出個資疑慮的問題,所以還沒有達成共識。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "疑慮",
+                "沒有",
+                "問題",
+                "疑慮"
+            ],
+            "positive_list": [
+                "達成"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "根據「行政程序法」第16條第1項規定,「行政機關得依法規將其權限之一部分,委託民間團體或個人辦理。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:19"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "1922專線有行政責任,也有刑事責任。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "刑事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:19"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "《蘋果》賣給誰關係到中華民國的媒體能不能獨立,因為媒體是第四權,非常重要,「有沒有中資,或者其他我們懷疑的外資,請政府依法釐清」,有的話,當然不能成為台灣媒體的股東,但若沒有的話,就請還給當事人一個事實。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "懷疑",
+                "懷疑的",
+                "沒有",
+                "懷疑"
+            ],
+            "positive_list": [
+                "成為",
+                "重要",
+                "當然",
+                "獨立"
+            ],
+            "datetime": "2022-06-10 12:00"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "表示",
+            "opinion": "根據法規,1922不僅有公權力,也是刑法所稱的公務員,當然有行政責任和刑事責任,陳時中「搞錯了」,應認真一點,回答問題前可先問問法務部門。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "刑事",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "當然",
+                "認真"
+            ],
+            "datetime": "2022-06-10 11:49"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「依行政程序法受託行使公權力,之個人或團體,於委託範圍內視為行政機關,1922當然有公權力,他們執行公務上也視為公務員。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-06-10 18:15"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「黨政軍綠營側翼全部打地方政府,我們連反擊都不行啊,這什麼世界,我們把事實澄清,還原事實也不行啊。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "什麼世界"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-10 12:50"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "假設真的是李四川參選高雄市,那勝算非常高。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:23"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "李四川的學經歷非常完整而豐富,任職過行政院秘書長、新北市副市長、高雄市副市長,且又具有工程背景,做事非常圓融、落實。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完整",
+                "豐富"
+            ],
+            "datetime": "2022-06-11 12:23"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "恩恩爸爸打電話到1922求助,居然花了168分鐘才通知新北市衛生局,這段期間1922毫無作為、內幕重重、亟待釐清真相。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "毫無",
+                "求助",
+                "居然"
+            ],
+            "positive_list": [
+                "毫無",
+                "通知",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 14:36"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "指出",
+            "opinion": "1922絕對有公權力。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 14:36"
+        },
+        {
+            "person": "曾銘宗",
+            "verb": "說",
+            "opinion": "「你的專業有問題耶,不知道的話問一下行政院嘛,1922絕對有公權力,行政程序法第二條第三項,受託行使公權力之個人,或團體及委託範圍內視為行政機關,刑法還把這些人當公務員。」",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不知道的",
+                "問題",
+                "絕對",
+                "不知",
+                "有問題",
+                "問題"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-12 17:09"
+        }
+    ]
+}

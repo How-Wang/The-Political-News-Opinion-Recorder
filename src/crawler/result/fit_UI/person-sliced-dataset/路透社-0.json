@@ -1,0 +1,57 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "路透社",
+            "verb": "表示",
+            "opinion": "這項經濟協議不會提供關稅減免,但會提供一種解決氣候變遷、加強供應鏈韌性和數位貿易等重大議題的管道。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "重大",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-23 17:38"
+        },
+        {
+            "person": "路透社",
+            "verb": "指出",
+            "opinion": "世界衛生大會已決定不把本案納入正式議程。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "決定",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 17:01"
+        },
+        {
+            "person": "路透社",
+            "verb": "認為",
+            "opinion": "這項美台雙邊倡議在某方面來說,類似美國總統拜登政府的IPEF。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:52"
+        },
+        {
+            "person": "路透社",
+            "verb": "認為",
+            "opinion": "這項美台雙邊倡議在某方面來說,類似美國總統拜登政府的IPEF。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:33"
+        }
+    ]
+}

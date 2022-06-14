@@ -1,0 +1,77 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/德若巴.png",
+    "opinions": [
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "「在此我還想向蔡英文總統發出誠摯的邀請,希望未來條件許可的情況下,盼蔡總統有機會訪問布拉提斯拉瓦省,您永遠知道我會永遠為您準備紅地毯。」",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "知道",
+                "許可",
+                "準備",
+                "誠摯",
+                "誠摯的",
+                "機會",
+                "希望",
+                "誠摯"
+            ],
+            "datetime": "2022-06-07 13:07"
+        },
+        {
+            "person": "德若巴",
+            "verb": "指出",
+            "opinion": "作為省長他會積極推進與高雄更多合作,包括科技和經貿,並期待年輕學者互訪,期待台灣年輕孩子能到布拉提斯拉瓦省,相信可以給台灣孩子提供寬廣視野。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "相信",
+                "推進",
+                "期待",
+                "積極",
+                "合作",
+                "期待"
+            ],
+            "datetime": "2022-06-07 12:58"
+        },
+        {
+            "person": "德若巴",
+            "verb": "提到",
+            "opinion": "長期在政治領域工作,後來擔任布拉提斯拉瓦省省長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:26"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "「你好,我覺得非常有趣也印象深刻,台灣的媒體對立法院這麼感興趣,看來各位的重要性不亞於政府機關,所以我們訪團的同仁感到羨慕又忌妒。」",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "對立",
+                "忌妒",
+                "羨慕",
+                "對立"
+            ],
+            "positive_list": [
+                "有趣",
+                "重要",
+                "重要性",
+                "深刻",
+                "羨慕",
+                "興趣",
+                "有趣",
+                "羨慕"
+            ],
+            "datetime": "2022-06-09 16:54"
+        }
+    ]
+}

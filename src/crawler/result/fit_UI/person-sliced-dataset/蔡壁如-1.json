@@ -1,0 +1,345 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡壁如",
+            "verb": "指出",
+            "opinion": "黃珊珊原本規畫要台北市議會會期結束後請辭參選,但現在疫情嚴峻,不適合離開,若參照新加坡模式,台灣疫情高原期大約4周到1個月,大約到6月底,但現在每天新增確診數仍高達7、8萬人,不可能在4、5萬人時就離職,要等到全台疫情趨於穩定,恐怕最快要兩個月,進入7、8月。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "不適",
+                "恐怕",
+                "離開",
+                "嚴峻",
+                "不可",
+                "恐怕"
+            ],
+            "positive_list": [
+                "周到",
+                "適合",
+                "穩定"
+            ],
+            "datetime": "2022-05-27 13:23"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "最近有報導稱陳時中可能變成2018年的民進黨台北市長候選人姚文智,「如果陳時中現在離開指揮中心這個位置,還是會被國人唾棄,作一個防疫逃兵」,且除了疫情,這一波快篩之亂、兒童疫苗不足,也造成民怨炸鍋,預估對陳時中的選情都會有所衝擊。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不足",
+                "衝擊",
+                "離開",
+                "不足",
+                "唾棄"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:23"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "現在黃珊珊辭職的期程「還在delay(延遲)當中」,沒有那麼快確定,因為如果要進入選戰模式,恐怕還是要先離職,不可以佔在市府的位置上。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "沒有",
+                "延遲",
+                "恐怕",
+                "辭職",
+                "不可",
+                "沒有",
+                "恐怕"
+            ],
+            "positive_list": [
+                "確定"
+            ],
+            "datetime": "2022-05-27 13:23"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "指出",
+            "opinion": "去年因應國際2050淨零碳排目標、1218兩項能源公投,台灣民眾黨花了很多心力及時間,推動《氣候變遷法》、民眾黨能源政策,自己也連續兩年參與青年抗暖大遊行。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-27 10:27"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "「天時地利」,因為黃珊珊身在北市副市長的位置,還是可以持續曝光。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 10:57"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "黃珊珊原規劃北市議會會期結束後,就要離職參選,但因疫情爆發延後,恐怕最快要到7、8月。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "恐怕",
+                "爆發",
+                "恐怕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 10:57"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "指出",
+            "opinion": "台北副市長黃珊珊可能於7、8月辭職參選台北市長。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辭職"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:33"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "黃珊珊還是要離職才能參選,但現在疫情嚴峻,還不適合離開。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不適",
+                "離開",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "才能",
+                "適合"
+            ],
+            "datetime": "2022-05-28 11:57"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "黃珊珊預計7、8月離職參選台北市長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:57"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "有和副市長聊過參選黨籍,如果黨中央徵召不排斥參加民眾黨。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "排斥"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-29 10:37"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "黃珊珊不排斥入黨、甚至可能7、8月參選一事。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "排斥"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 20:34"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "WHA剛結束,國際組織將台灣排除在外,影響許多民眾權益,期許政府能夠展現更靈活且彈性的外交政策。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "權益",
+                "靈活",
+                "期許"
+            ],
+            "datetime": "2022-05-30 12:17"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "她這會期進入社會福利及衛生環境委員會,把精力聚焦在衛生防疫及環境正義議題;這會期衛環委員會初審通過精神衛生法和菸害防制法修正草案,期待盡快朝野協商並三讀修正通過,民眾黨團下會期將繼續推動學校供餐法、再生能源發展條例、電業法等修法草案。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "正義",
+                "通過",
+                "期待",
+                "發展",
+                "福利",
+                "精力",
+                "衛生",
+                "期待",
+                "衛生"
+            ],
+            "datetime": "2022-05-31 11:34"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "前面不管是第四類或第五類各類的傳染病,都有明確的時間規範。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不管",
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [
+                "明確",
+                "規範"
+            ],
+            "datetime": "2022-06-06 15:49"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "指出",
+            "opinion": "但是其中被歸類為第五類的「嚴重特殊傳染性肺炎」,關於屍體處理,卻只寫著「火化或報請地方主管機關核准後深埋」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "傳染",
+                "傳染性",
+                "嚴重",
+                "屍體"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:49"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "質疑",
+            "opinion": "經過修正的公告卻不肯說清楚,一個高過憲法賦與人民權利的防疫特別條例,卻修改了一個語焉不詳的法規。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不肯"
+            ],
+            "positive_list": [
+                "特別",
+                "清楚"
+            ],
+            "datetime": "2022-06-07 11:30"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "保護台灣公共論壇空間自由、可信任的品質,台灣是民主國家,最可貴的就是言論的自由,但這個自由的空間,不應該成為任何政治角力或被政治力控制的地方,它的珍貴之處,就像藻礁一樣,消失了就再也回不來。",
+            "negative_score": 3,
+            "positive_score": 13,
+            "negative_list": [
+                "消失",
+                "不應該",
+                "消失"
+            ],
+            "positive_list": [
+                "可信",
+                "可信任",
+                "可信任的",
+                "可貴",
+                "可貴的",
+                "成為",
+                "自由",
+                "自由的",
+                "信任",
+                "保護",
+                "珍貴",
+                "可信",
+                "自由"
+            ],
+            "datetime": "2022-06-08 11:01"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "柯文哲是個專業的醫師,在政治上因為「政治網紅」堀起,因為柯文通常用直白、一針見血的話,點出問題的核心,獲得人民的共鳴與好感,但也因過於直白,常常被有心人斷章取義,只截取其中的一、兩句,不管是做梗圖也好、做標題也好,惡意曲意解柯文哲的原意。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不管",
+                "問題",
+                "惡意",
+                "問題"
+            ],
+            "positive_list": [
+                "獲得",
+                "好感"
+            ],
+            "datetime": "2022-06-08 11:01"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "說",
+            "opinion": "政府千算萬算,沒算到刪除確診死亡人數後,卻增加了確診中重症3天內死亡的人數比率,看到「中重症者46%,3天內亡」,反而讓人民更為恐慌。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "刪除",
+                "恐慌",
+                "恐慌"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-06-10 18:38"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "指出",
+            "opinion": "昨晚疾管署公布今年新冠死亡通報總數是3123例,其中2520例有列入公告,603例排除。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "排除"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:38"
+        },
+        {
+            "person": "蔡壁如",
+            "verb": "表示",
+            "opinion": "醫學上有ICD-10(國際疾病傷害及死因分類診斷),一定會有主要、次要死因,分成甲、乙、丙、丁4個欄位,和1欄「其他」,比如說主要死因是肺炎,但死亡診斷書上沒有寫明是新冠肺炎,而是寫在「其他」,就不會算在新冠染疫的死亡人數內。",
+            "negative_score": 10,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "次要",
+                "死亡",
+                "沒有",
+                "要死",
+                "疾病",
+                "傷害",
+                "不會",
+                "沒有",
+                "傷害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:38"
+        }
+    ]
+}

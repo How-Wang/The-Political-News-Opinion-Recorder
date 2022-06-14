@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李倩萍.png",
+    "opinions": [
+        {
+            "person": "李倩萍",
+            "verb": "說",
+            "opinion": "「市長或到局長甚至副市長,他們荒腔走板的一個回應,事實上代表的是什麼,代表的是心虛嘛。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "心虛",
+                "心虛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:15"
+        }
+    ]
+}

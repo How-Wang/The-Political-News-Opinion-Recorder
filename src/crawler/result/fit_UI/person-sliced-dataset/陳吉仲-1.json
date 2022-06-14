@@ -1,0 +1,113 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳吉仲",
+            "verb": "說",
+            "opinion": "「今年差不多減產一半以上。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 18:24"
+        },
+        {
+            "person": "陳吉仲",
+            "verb": "說",
+            "opinion": "「有少數品質因為船運塞港問題,造成品質到進口國,日本市場時不是很好,我們有要求外銷業者,如果品質不好不得上市。」",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "要求",
+                "問題",
+                "不好",
+                "不是",
+                "不得",
+                "好不",
+                "問題"
+            ],
+            "positive_list": [
+                "很好"
+            ],
+            "datetime": "2022-05-25 13:04"
+        },
+        {
+            "person": "陳吉仲",
+            "verb": "強調",
+            "opinion": "是航運時間,影響鳳梨品質,但農委會也發現,有業者削價競爭,過去台灣鳳梨在日本售價,大都700日幣以上,最近卻出現2顆298日幣的,甚至比菲律賓進口鳳梨還低。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "競爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:04"
+        },
+        {
+            "person": "陳吉仲",
+            "verb": "說",
+            "opinion": "「如果在日本市場價格,沒有維持一定的水準,也不得領取農委會相關外銷獎勵。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "不得",
+                "沒有"
+            ],
+            "positive_list": [
+                "獎勵",
+                "獎勵"
+            ],
+            "datetime": "2022-05-25 13:04"
+        },
+        {
+            "person": "陳吉仲",
+            "verb": "表示",
+            "opinion": "外銷的部分設有相關獎勵、藥檢措施,包括從產地、集貨包裝分級到冷鏈物流等,都要求到位。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "獎勵",
+                "獎勵"
+            ],
+            "datetime": "2022-05-25 10:59"
+        },
+        {
+            "person": "陳吉仲",
+            "verb": "表示",
+            "opinion": "近日因船運塞港問題,確實有少部分鳳梨在日上架時品質不如預期,已要求業者加強把關。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不如",
+                "要求",
+                "問題",
+                "不如",
+                "問題"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-05-25 10:59"
+        },
+        {
+            "person": "陳吉仲",
+            "verb": "表示",
+            "opinion": "這不是事實,農委會會跟審計部說明這二千多萬都是全部使用在活動上面,不是所謂用在廣意的文宣或媒體部分,這部分有誤解。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "誤解",
+                "不是"
+            ],
+            "positive_list": [
+                "說明"
+            ],
+            "datetime": "2022-05-25 10:05"
+        }
+    ]
+}

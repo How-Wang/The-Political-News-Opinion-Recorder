@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/文化局.png",
+    "opinions": [
+        {
+            "person": "文化局",
+            "verb": "指出",
+            "opinion": "今年租金比社會住宅來得更加優惠,現推出租金為每坪450元,比起鄰近租屋行情低25%至35%。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 23:33"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳愷閎.png",
+    "opinions": [
+        {
+            "person": "陳愷閎",
+            "verb": "提到",
+            "opinion": "公務員應該上班的時間內,沒有從事職務,卻配合演戲報假案,這可能涉及刑法第134條準瀆職罪,上面提到的刑度恐再加重。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "加重",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 12:36"
+        },
+        {
+            "person": "陳愷閎",
+            "verb": "提到",
+            "opinion": "新北市政府對外稱是「模擬」,也就是以「假報案」經由公務員受理得知,所以可能觸犯《刑法》第213條登載不實、第214條使公務員登載於職務上不實等,刑度也在1至7年有期徒刑。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "觸犯",
+                "不實",
+                "觸犯"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:01"
+        }
+    ]
+}

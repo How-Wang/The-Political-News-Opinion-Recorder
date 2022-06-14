@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪國浩.png",
+    "opinions": [
+        {
+            "person": "洪國浩",
+            "verb": "說",
+            "opinion": "南投縣政治「藍大於綠」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:28"
+        }
+    ]
+}

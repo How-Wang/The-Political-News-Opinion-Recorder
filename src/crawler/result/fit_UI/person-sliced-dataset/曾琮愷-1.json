@@ -1,0 +1,43 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾琮愷.png",
+    "opinions": [
+        {
+            "person": "曾琮愷",
+            "verb": "指出",
+            "opinion": "6月9日接到老人家爆料,說到了魚池鄉衛生所,領取假牙補助時,一旁站的,都是國民黨的參選人,縣府文宣品,也被塞進國民黨參選人文宣。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-11 13:04"
+        },
+        {
+            "person": "曾琮愷",
+            "verb": "指出",
+            "opinion": "文宣袋內竟然放有國民黨縣長參選人許淑華的文宣口罩,以及魚池鄉長參選人黃馨瑩的文宣咖啡包。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "竟然"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 09:53"
+        },
+        {
+            "person": "曾琮愷",
+            "verb": "指出",
+            "opinion": "南投縣政府補助的65歲以上老人裝假牙文宣品內,竟夾帶國民黨南投縣長參選人許淑華等人口罩文宣,痛批縣府行政不中立,公然違法,不排除提出檢舉。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "排除",
+                "違法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 09:53"
+        }
+    ]
+}

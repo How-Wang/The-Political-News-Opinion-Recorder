@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/民主進步黨.png",
+    "opinions": [
+        {
+            "person": "民主進步黨",
+            "verb": "說",
+            "opinion": "「王鴻薇用舊照,製造假訊息!」內文首先提到,台中淹水不找盧秀燕,難道台中市長換人了嗎。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "用舊",
+                "造假"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 19:05"
+        }
+    ]
+}

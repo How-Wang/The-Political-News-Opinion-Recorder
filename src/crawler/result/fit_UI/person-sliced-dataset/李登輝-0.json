@@ -1,0 +1,21 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李登輝",
+            "verb": "說",
+            "opinion": "安倍有出版書,我們希望他能夠帶他的書到台灣來簽,內容他一定會提到台日關係,更清楚的讓台灣人知道,安倍以前當首相時候,心裡面的想法。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "知道",
+                "清楚",
+                "清楚的",
+                "希望"
+            ],
+            "datetime": "2022-05-23 21:05"
+        }
+    ]
+}

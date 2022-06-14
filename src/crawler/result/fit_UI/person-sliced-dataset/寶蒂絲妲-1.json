@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/寶蒂絲妲.png",
+    "opinions": [
+        {
+            "person": "寶蒂絲妲",
+            "verb": "表示",
+            "opinion": "這趟環台之旅成為宏台兩國文化最美的相遇,讓台灣民眾有機會品嚐宏國最道地家鄉菜與美味咖啡。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "美味",
+                "機會"
+            ],
+            "datetime": "2022-05-29 16:43"
+        }
+    ]
+}

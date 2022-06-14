@@ -1,0 +1,206 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/德若巴.png",
+    "opinions": [
+        {
+            "person": "德若巴",
+            "verb": "說明",
+            "opinion": "會,以增進布拉提斯拉瓦省與高雄市的貿易往來及投資商機。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "增進"
+            ],
+            "datetime": "2022-06-02 11:50"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說明",
+            "opinion": "會,以增進布拉提斯拉瓦省與高雄市的貿易往來及投資商機。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "增進"
+            ],
+            "datetime": "2022-06-02 11:52"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說明",
+            "opinion": "會,以增進布拉提斯拉瓦省與高雄市的貿易往來及投資商機。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "增進"
+            ],
+            "datetime": "2022-06-02 12:00"
+        },
+        {
+            "person": "德若巴",
+            "verb": "指出",
+            "opinion": "此行來台強化並支持雙方友誼,與中華民國台灣擁有良好的建設性關係,這次的行程滿檔,將和許多台灣官員會面,並計畫和高雄市簽訂夥伴締盟協定。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "友誼",
+                "良好",
+                "良好的",
+                "建設",
+                "建設性",
+                "夥伴",
+                "擁有",
+                "良好"
+            ],
+            "datetime": "2022-06-05 10:53"
+        },
+        {
+            "person": "德若巴",
+            "verb": "指出",
+            "opinion": "此行來台強化並支持雙方友誼,與中華民國台灣擁有良好的建設性關係,這次的行程滿檔,將和許多台灣官員會面,並計畫和高雄市簽訂夥伴締盟協定。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "友誼",
+                "良好",
+                "良好的",
+                "建設",
+                "建設性",
+                "夥伴",
+                "擁有",
+                "良好"
+            ],
+            "datetime": "2022-06-05 09:41"
+        },
+        {
+            "person": "德若巴",
+            "verb": "表示",
+            "opinion": "非常期待跟高雄市簽署夥伴協議,能務實地在科技、教育方面緊密合作;蘇貞昌說,高雄市長陳其邁當選前也曾任國會議員、行政院副院長,陳其邁讓高雄建設突飛猛進,受人民歡迎,「貴省很會選夥伴城市」。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "建設",
+                "務實",
+                "期待",
+                "夥伴",
+                "歡迎",
+                "合作",
+                "期待",
+                "歡迎"
+            ],
+            "datetime": "2022-06-06 12:56"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "他非常期待跟高雄簽署夥伴協議,他跟高雄之間合作,可以在科技教育上緊密合作,希望跟高雄之間有更多學生交流。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "希望",
+                "期待",
+                "夥伴",
+                "合作",
+                "希望",
+                "期待"
+            ],
+            "datetime": "2022-06-06 12:02"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "他非常期待跟高雄簽署夥伴協議,他跟高雄之間合作,可以在科技教育上緊密合作,希望跟高雄之間有更多學生交流。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "希望",
+                "期待",
+                "夥伴",
+                "合作",
+                "希望",
+                "期待"
+            ],
+            "datetime": "2022-06-06 11:34"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "「你好」,後來透過翻譯提到,他即將跟高雄市長陳其邁簽署雙邊合作關係夥伴協議,也很高興台灣願意招收斯洛伐克大學學生。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "高興",
+                "夥伴",
+                "願意",
+                "合作",
+                "高興",
+                "願意"
+            ],
+            "datetime": "2022-06-09 12:55"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "「你好,我覺得非常有趣也印象深刻,台灣的媒體對立法院這麼感興趣,看來各位的重要性不亞於政府機關,所以我們訪團的同仁感到羨慕又忌妒。」",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "對立",
+                "忌妒",
+                "羨慕",
+                "對立"
+            ],
+            "positive_list": [
+                "有趣",
+                "重要",
+                "重要性",
+                "深刻",
+                "羨慕",
+                "興趣",
+                "有趣",
+                "羨慕"
+            ],
+            "datetime": "2022-06-09 13:13"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "今日看到許多台灣媒體,讓訪團成員覺得很忌妒,因為自己國家的媒體,對於國會新聞不太關注。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不太",
+                "忌妒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:54"
+        },
+        {
+            "person": "德若巴",
+            "verb": "說",
+            "opinion": "企業與產業合作必須要能夠務實,要把行動計畫推動下去,目前比較常見有台灣企業到斯洛伐克投資,希望未來也能有更多斯洛伐克人到台灣投資。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "希望",
+                "務實",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-10 12:58"
+        }
+    ]
+}

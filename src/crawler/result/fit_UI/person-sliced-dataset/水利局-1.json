@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/水利局.png",
+    "opinions": [
+        {
+            "person": "水利局",
+            "verb": "呼籲",
+            "opinion": "不少學者、專家都說明雙北疫情高峰會逐漸轉移至中南部,現在是全體市民都要注意的時刻,請市民朋友一定要加緊防疫,佩戴好口罩。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "注意的",
+                "專家",
+                "說明"
+            ],
+            "datetime": "2022-05-27 15:16"
+        }
+    ]
+}

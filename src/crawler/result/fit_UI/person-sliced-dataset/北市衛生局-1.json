@@ -1,0 +1,896 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "快篩陽性民眾就醫請至防疫急門診,65歲以上快篩陽及「居家隔離」、「居家檢疫」、「自主防疫」期間的民眾請採視訊診療,無法視訊者,則可委由非隔離中之親友,持夾鏈袋包妥的家用快篩檢測卡夾及健保卡由親友就近至醫療院所,請醫師現場評估確認。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "隔離",
+                "無法"
+            ],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-05-21 15:49"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說明",
+            "opinion": "密切接觸者匡列以同住親友為原則,職場及學校採自主應變,並以暴露風險高低實施防疫假、停課等措施。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "暴露"
+            ],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-05-21 15:49"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "快篩陽性民眾就醫請至防疫急門診,65歲以上及「居家隔離」、「居家檢疫」、「自主防疫」期間快篩陽性的民眾請採視訊診療,無法視訊者,則可委由非隔離中之親友,持夾鏈袋包妥的家用快篩檢測卡夾及健保卡由親友就近至醫療院所,請醫師現場評估確認。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "隔離",
+                "無法"
+            ],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-05-23 15:44"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "民眾理性對待,不要癱瘓衛生局電話、妨害防疫工作,而廖老大的影片也在記者會後悄悄下架。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "妨害",
+                "悄悄",
+                "癱瘓",
+                "不要",
+                "老大"
+            ],
+            "positive_list": [
+                "理性",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 10:26"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "質疑",
+            "opinion": "自己沒給衛生局長曾梓展紅包,所以新開的飲料店才會2週內遭2次登門檢查。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 10:26"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "快篩陽性民眾就醫請至防疫急門診,65歲以上及「居家隔離」、「居家檢疫」、「自主防疫」期間快篩陽性的民眾請採視訊診療,無法視訊者,則可委由非隔離中之親友,持夾鏈袋包妥的家用快篩檢測卡夾及健保卡由親友就近至醫療院所,請醫師現場評估確認。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "隔離",
+                "無法"
+            ],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-05-25 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "民眾快篩陽性,經過醫生判斷後即確診新制26日起上路,但民眾若符合6項條件,仍可進行PCR採檢。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "符合",
+                "進行"
+            ],
+            "datetime": "2022-05-26 15:42"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "如無相關發燒、喉嚨痛、咳嗽、流鼻水症狀或快篩檢測結果為陰性,請遵循中央流行疫情指揮中心防疫規範,做好個人防護,持續自我健康管理。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "自我",
+                "發燒"
+            ],
+            "positive_list": [
+                "流行",
+                "健康",
+                "規範",
+                "管理"
+            ],
+            "datetime": "2022-05-26 15:42"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "提出",
+            "opinion": "周玉蔻、衛生局跟萬芳醫院的通聯記錄及相關事證,自己也會追查到底。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-28 12:31"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "台北市COVID-19嚴重特殊性肺炎專區網頁,設有12大分類(確診者、居隔者、快篩陽者、其他接觸者、入境者、老師/學生、居家照護、防疫急門診、車來速、醫療照護、家用快篩、防疫文字客服),民眾可直接依分類查詢所需資訊。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說",
+            "opinion": "台北市為保護兒童的健康,已媒合醫療院所5月26日至6月3日期間,預定完成158所國小及附設幼兒園滿5歲兒童疫苗接種,5月28至31日期間以每一區提供一站點幼兒園便利、貼心的接種服務。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "便利",
+                "保護",
+                "健康"
+            ],
+            "datetime": "2022-05-28 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "「新北疫點通」已經在18日正式上線啟動,民眾能夠即時掌握疫情資訊與自我身份認知,從防疫小幫手可以找尋快篩試劑的購買、公費疫苗施打、社區篩檢站地點查詢及防疫旅館資訊,目前累計使用者已經達5萬人,瀏覽次數更達到8萬人次。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "正式",
+                "掌握",
+                "達到",
+                "幫手"
+            ],
+            "datetime": "2022-05-29 14:33"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說明",
+            "opinion": "本土確診案例攀升,公衛量能備受考驗,許多政策隨著疫情不斷滾動調整,民眾問題接踵而來,新北市民每日上萬通電話湧入公衛系統諮詢,如何幫助民眾獲得解答,成新北首要任務。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "幫助",
+                "獲得"
+            ],
+            "datetime": "2022-05-29 14:33"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說",
+            "opinion": "在疫情之下,為了增加民眾查找疫情資訊的便利性,新北市快速成立「新北疫點通」,已經在18日正式上線啟用,平台跳脫傳統板型選擇活潑鮮明色彩,網站首頁以大區塊顯示。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "便利",
+                "活潑",
+                "增加",
+                "鮮明"
+            ],
+            "datetime": "2022-05-29 14:33"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "有關使用者中心的引導路徑設計,分別為確診者、密切接觸者、不確定身分者3類,讓民眾透過自我身分認知點選進入,至於疫情常見問題,則採用條列式展開,分類明確讓民眾輕鬆上手。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不確",
+                "不確定",
+                "自我",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "明確",
+                "輕鬆",
+                "確定",
+                "輕鬆"
+            ],
+            "datetime": "2022-05-29 14:33"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "快篩陽性者可透過台北市防疫急門診及車來速進行評估確診,共有3項就醫方式,經醫師看診後取得口服抗病毒藥物。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "毒藥"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-29 15:46"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "透過「新北疫點通」,民眾能夠即時掌握疫情資訊與自我身份認知,從防疫小幫手可以找尋快篩試劑的購買、公費疫苗施打、社區篩檢站地點查詢及防疫旅館資訊,目前累計使用者已經達5萬人,瀏覽次數更達到8萬人次。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "掌握",
+                "達到",
+                "幫手"
+            ],
+            "datetime": "2022-05-29 14:56"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "「新北疫點通」網站中囊括民眾最關心的防疫資訊,共有五大類,包含最新消息、我的身分、防疫小幫手、衛教專區及常見問題。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "幫手",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-29 14:56"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "目前新北市居家照護執行中有11萬6581人,居家隔離列管數3萬115人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 14:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說明",
+            "opinion": "若兒童確診,可以依照6症狀判斷,自行就醫。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 15:38"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說",
+            "opinion": "6月1日起實施0-6歲幼兒免費領取5劑家用抗原快篩試劑,民眾可攜帶幼兒的健保卡至實名制家用快篩販售通路藥局領取,藥局名單可至衛生福利部中央健康保險署網站查詢(https://www.nhi.gov.tw/)。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "可攜帶",
+                "免費",
+                "健康",
+                "福利",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-30 16:27"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "台北市259家診所及23家醫院可提供預約進行視訊診療快篩陽性確診研判及通報服務,相關資訊可至臺北市嚴重特殊傳染性肺炎(COVID-19)專區(https://reurl.cc/Kb8OYR)查詢。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "傳染",
+                "傳染性",
+                "嚴重"
+            ],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-30 16:27"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "中央流行疫情指揮中心也隨即與兒科醫學會專家開會討論幼兒警示徵兆和就醫指引,提出民眾、醫療機構等相關版本,也開放確診個案或同住居家隔離者,只要生命緊急需送醫,都可透過防疫計程車、親友接送、步行或自駕前往醫院;對每一條在疫情中流逝的生命,都令人傷痛,衛生局會竭盡所能持續優化各種流程,照護民眾健康。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "流逝",
+                "隔離",
+                "緊急"
+            ],
+            "positive_list": [
+                "流行",
+                "健康",
+                "專家",
+                "開放",
+                "衛生",
+                "衛生",
+                "學會"
+            ],
+            "datetime": "2022-05-30 11:59"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "他們是看到記者會才得知,相關細節還在聯繫中。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說",
+            "opinion": "會對訴求做了解,並且親自聯繫,依照相關規定一定會提供。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-05-31 15:36"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "依據中央接種作業建議指引原則,醫護人力原則每班4小時,每日可安排2至3班次,原則醫護人力由1名醫師、2名護理師為1組,並可視實際需求彈性調整。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-01 16:35"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說明",
+            "opinion": "。恩恩爸強調,他們夫妻需要的其實不是說明,而是儘快拿到相關資料,「在拼湊出完整的事情真相後,如果有不完整需要討論的部分,我們夫妻再正式和新北市政府當面討論請教。」",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "正式",
+                "完整",
+                "完整的",
+                "說明"
+            ],
+            "datetime": "2022-06-01 09:59"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "該機構於4月中旬受理該住民入住,工作人員皆秉持專業,持續協助該住民的生活適應及照顧。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "適應"
+            ],
+            "datetime": "2022-06-02 11:09"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說",
+            "opinion": "恩恩症狀有變,但卻被判定描述狀況無法確認,也是不符合,必須找衛生局。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不符",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "符合",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 16:29"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說",
+            "opinion": "如果恩恩爸爸看到資料有任何問題,市府都會跟恩恩爸爸見面說明清楚。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-06-02 10:23"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "痛批",
+            "opinion": "消防局冷血,恩恩爸爸今天(3日)上電視台節目時不禁哽咽,他強調,他要的不是錢,要的是真相。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不是",
+                "冷血",
+                "哽咽"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 18:34"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "強調",
+            "opinion": "他對消防員很尊敬,只是想要釐清關鍵的81分鐘,還原現場。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "尊敬"
+            ],
+            "datetime": "2022-06-03 13:48"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "明(4)日在台大醫院及台大北護分院,及4-5日中正紀念堂接種站皆有提供兒童疫苗接種服務,感謝醫護人員為防疫辛勞付出,有需求之家長可利用連假帶兒童前往接種;如已透過北市疫苗預約系統預約接種之家長,可依預約時段前往接種,提醒應攜帶健保卡前往,並完成意願書簽署,由醫師評估後完成接種。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "完成",
+                "紀念",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-03 15:44"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "台北市近一週確診病例數雖持續下降,在端午連假3天,北士科及中正紀念堂兩處車來速防疫急門診,仍有提供有症狀或快篩陽民眾,篩檢、看診及取藥服務。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-06-03 15:44"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "6月6日起將陸續寄達學校,待學生回校實施實體課程時領取;畢業生若已離校,可回原畢業學校領取。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 16:02"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "雖然確診者人數下降,端午節連假期間仍然要提醒市民遵循中央流行疫情指揮中心防疫規範,請做好勤洗手、戴好口罩、維持社交距離等個人防護,持續自我健康管理。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "下降",
+                "自我"
+            ],
+            "positive_list": [
+                "流行",
+                "健康",
+                "規範",
+                "管理"
+            ],
+            "datetime": "2022-06-04 16:02"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "4日在台大醫院、台大北護分院及中正紀念堂接種站皆有提供兒童疫苗接種服務,感謝醫護人員為防疫辛勞付出,有需求的家長可利用連假帶兒童前往接種;如已透過北市疫苗預約系統預約接種的家長,可依預約時段前往接種,提醒家長應攜帶子女的健保卡前往,並完成意願書簽署,由醫師評估後完成接種。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "完成",
+                "紀念",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-04 15:52"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "台北市近1週確診病例數持續下降,端午連假3天,北士科及中正紀念堂兩處車來速防疫急門診,仍有提供有症狀或快篩陽民眾,篩檢、看診及取藥服務。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-06-04 15:52"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "有需求的家長可利用連假帶兒童前往接種。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:52"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "在台大醫院、台大北護分院及中正紀念堂接種站皆有提供兒童疫苗接種服務,感謝醫護人員為防疫辛勞付出,有需求之家長可利用連假帶兒童前往接種;如已透過北市疫苗預約系統預約接種之家長,可依預約時段前往接種,提醒家長應攜帶子女之健保卡前往,並完成意願書簽署,由醫師評估後完成接種。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "完成",
+                "紀念",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-04 16:04"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "近一週確診病例數持續下降,端午連假3天,北士科及中正紀念堂兩處車來速防疫急門診,仍有提供有症狀或快篩陽民眾,篩檢、看診及取藥服務。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-06-04 16:04"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "請民眾先行網路預約,再至現場篩檢或就醫,以避免久候及降低群聚感染風險。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "降低",
+                "感染",
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-06-05 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "適逢端午連假期間,考量部分民眾疫苗接種需求,今(6)日於中正紀念堂接種站仍有提供兒童接種服務,有需求之家長可多加利用;如已透過北市疫苗預約系統預約接種之家長,可依預約時段前往接種,提醒應攜帶健保卡前往,並完成意願書簽署,由醫師評估後完成接種。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "完成",
+                "紀念"
+            ],
+            "datetime": "2022-06-05 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "說明",
+            "opinion": "。議會總質詢都已經來到最後一天,民進黨團議員不滿侯友宜市長,始終沒有給黨團一個回覆,所謂的81分鐘真相,還是沒有完全公布。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "沒有",
+                "不滿",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:15"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "解釋",
+            "opinion": "無法簡化成花29分鐘的原因正是這連續性過程,因此侯友宜才會希望由消防局長、衛生局長當面向恩恩爸爸說明狀況。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "希望",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 16:30"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "本土確診病例數下降,北市車來速篩檢站近日實際服務量亦隨之下降,為妥善調整醫護人力,北士科及中正紀念堂車來速篩檢站將服務至6月8日,並自6月9日起停止服務,後續回歸醫療院所通訊診療及防疫急門診持續提供服務。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "停止"
+            ],
+            "positive_list": [
+                "紀念",
+                "實際"
+            ],
+            "datetime": "2022-06-06 15:40"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "質疑",
+            "opinion": "為何消防局跟衛生局聯絡時間花到29分鐘,劉和然說明,這其實是連續性的動作,消防局持續打給衛生局的過程也主動會跟醫院聯絡,而衛生局也是,沒辦法簡化成數字,所以侯友宜才希望能讓局長當面詳細說明。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [
+                "主動",
+                "希望",
+                "詳細",
+                "說明",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 15:54"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "宣布",
+            "opinion": "北士科篩檢站、中正紀念堂篩檢站將於9日起停止服務,後續回歸醫院通訊診療和防疫急門診。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-06-06 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "台北市6日新增3765例本土確診,5日確診者居家照護人數4萬7501人,管理中居家隔離人數4803人。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "管理"
+            ],
+            "datetime": "2022-06-06 15:43"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "回應",
+            "opinion": "表示,截至6月5日,台北市長照機構共2698人確診(含快篩陽),確診率約30.1%,確診死亡率為1.93%,會全力守護機構內確診長輩及身障者的健康。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "全力",
+                "健康"
+            ],
+            "datetime": "2022-06-07 16:19"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "呼籲",
+            "opinion": "國內疫情仍嚴峻,請家長儘快安排兒童疫苗接種,降低兒童感染後中重症及死亡風險。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "降低",
+                "感染",
+                "嚴峻"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:57"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "強調",
+            "opinion": "目前照護機構住民經醫師診療後,須投藥之住民即開始投口服抗病毒藥物,以穩定機構內確診住民的狀況,透過衛生局、社會局加強督導長照機構做好防疫工作,減少照護機構之感染風險,一同守護台北市長照住宿型機構內確診長輩及身障者的身體健康。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "毒藥",
+                "減少",
+                "感染"
+            ],
+            "positive_list": [
+                "健康",
+                "衛生",
+                "穩定",
+                "衛生"
+            ],
+            "datetime": "2022-06-07 15:22"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "5月1日至5月25日確診,且有使用過確診個案自主回報疫調系統之確診者,可至PBBS平台(http://pbbs.cdc.gov.tw)修補同住親友資料,並下載居隔證明書。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "自主"
+            ],
+            "datetime": "2022-06-08 15:40"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "今起實施免費家用快篩試劑領用方案,經醫師評估具COVID-19臨床條件或評估旅遊史、群聚史、接觸史或高風險職業史等符合需篩檢之民眾,不限戶籍與國籍,無需掛號、看診即可發放。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "免費",
+                "符合"
+            ],
+            "datetime": "2022-06-08 15:40"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "表示",
+            "opinion": "自己收到吹哨者提供的資料,顯示政府早已有一份非常完整的案件處置紀錄,這份資料,完全沒對社會大眾公開,也沒有提供給恩恩爸。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "處置",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "完整",
+                "完整的"
+            ],
+            "datetime": "2022-06-09 09:58"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "回應",
+            "opinion": "家屬的要求,及彼此之間的橫向聯繫,相關的資料如果給家屬清楚地知道,也可以讓真相大白,希望能夠盡快地協助家屬,滿足家屬的期待。",
+            "negative_score": 1,
+            "positive_score": 10,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "希望",
+                "協助",
+                "知道",
+                "清楚",
+                "清楚地",
+                "期待",
+                "滿足",
+                "希望",
+                "期待",
+                "滿足"
+            ],
+            "datetime": "2022-06-10 13:06"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "回應",
+            "opinion": "家屬的要求,以及彼此之間的橫向聯繫。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 10:20"
+        },
+        {
+            "person": "北市衛生局",
+            "verb": "指出",
+            "opinion": "這幾通橫向通聯的錄音和紀錄,在整起事件裡至為關鍵,案件的緊急程度、處置流程,甚至當天醫療量能的協調狀況,都可能在這些通話裡被還原,對於獲得恩恩事件的真相,絕對有關鍵影響。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "處置",
+                "絕對",
+                "緊急"
+            ],
+            "positive_list": [
+                "協調",
+                "獲得"
+            ],
+            "datetime": "2022-06-10 14:30"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林騰煌.png",
+    "opinions": [
+        {
+            "person": "林騰煌",
+            "verb": "提出",
+            "opinion": "當選無效之訴,一審判決當選無效,但高院二審則改判當選有效確定。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "判決",
+                "無效",
+                "審判"
+            ],
+            "positive_list": [
+                "有效",
+                "確定"
+            ],
+            "datetime": "2022-05-26 11:57"
+        }
+    ]
+}

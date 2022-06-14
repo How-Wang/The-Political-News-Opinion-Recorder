@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/公路總局.png",
+    "opinions": [
+        {
+            "person": "公路總局",
+            "verb": "說明",
+            "opinion": "今年將推動試驗性生態廊道,未來進行施作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-26 11:45"
+        }
+    ]
+}

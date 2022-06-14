@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳光復.png",
+    "opinions": [
+        {
+            "person": "陳光復",
+            "verb": "說",
+            "opinion": "「凡走過都必留下痕跡,有的人擔任公職是圖利自己,我們都可以看得到。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "得到"
+            ],
+            "datetime": "2022-06-06 18:38"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/NAC.png",
+    "opinions": [
+        {
+            "person": "NAC",
+            "verb": "痛批",
+            "opinion": "有些醫師搞雙標,當時對化痰藥NAC治療新冠病毒證據力不足一事用力批判,卻對清冠一號默不作聲。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不足",
+                "用力",
+                "批判",
+                "不足"
+            ],
+            "positive_list": [
+                "治療"
+            ],
+            "datetime": "2022-05-26 12:06"
+        }
+    ]
+}

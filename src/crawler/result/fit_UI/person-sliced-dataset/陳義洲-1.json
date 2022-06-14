@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳義洲.png",
+    "opinions": [
+        {
+            "person": "陳義洲",
+            "verb": "說",
+            "opinion": "要向台北市政府舉發,讓北市長柯文哲當下尷尬不知怎回應,但不少網友在網路上怒轟陳義洲根本是「薪水小偷」,還說「這位陳義洲議員還活在2021年」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "小偷",
+                "不知",
+                "尷尬",
+                "不知",
+                "尷尬"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 14:43"
+        }
+    ]
+}

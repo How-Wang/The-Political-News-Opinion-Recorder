@@ -1,0 +1,333 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "會盡量爭取與友邦的雙邊會談,也會跟所有友好國家爭取對談機會。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "機會"
+            ],
+            "datetime": "2022-05-21 21:52"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "會盡量爭取與友邦的雙邊會談,也會跟所有友好國家爭取對談機會。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "機會"
+            ],
+            "datetime": "2022-05-21 22:27"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "強調",
+            "opinion": "會努力到最後一刻,希望明天能進入世衛大會。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-22 21:49"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「如果有機會當然一定要去爭取啊,一定希望秘書長,可以聽到我們台灣,2300萬同胞的聲音,目前我們的行程,都是還滿順利的,我們也都按照我們預定的規劃,在積極的努力,要努力到最後一刻,我們會希望我們今年,是能夠來參加世界衛生大會。」",
+            "negative_score": 0,
+            "positive_score": 12,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "參加",
+                "順利",
+                "順利的",
+                "當然",
+                "衛生",
+                "機會",
+                "積極",
+                "積極的",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 18:06"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "提到",
+            "opinion": "說他們有在車站看到我們這個宣傳。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 08:45"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「沒有人應該被丟下,在這個預防疫情的時代,台灣願意和其它國家合作,示範台灣能幫忙,台灣正在幫忙。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "合作",
+                "願意",
+                "合作",
+                "願意"
+            ],
+            "datetime": "2022-05-24 12:12"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "針對世衛再度拒絕台灣與會,已向世衛呈交衛福部長陳時中親筆抗議信,清楚表明立場;她也把握時間爭取與更多理念相近盟友會面交流。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "抗議",
+                "拒絕"
+            ],
+            "positive_list": [
+                "把握",
+                "清楚",
+                "把握"
+            ],
+            "datetime": "2022-05-25 08:55"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "他們願意對外公開幫我們執言,應該是非常支持台灣,知道台灣不應該被排除在外,防疫工作一定要全球一起攜手合作。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "排除",
+                "不應該"
+            ],
+            "positive_list": [
+                "公開",
+                "合作",
+                "知道",
+                "願意",
+                "合作",
+                "願意"
+            ],
+            "datetime": "2022-05-25 08:55"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "兩國都是邀請台灣參與世衛大會的提案國,台灣很感謝。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-25 07:52"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「部長已經有擬具一封親筆的抗議信,我們已經把這抗議信,送到世界衛生組織。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-25 18:45"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "指出",
+            "opinion": "陳時中擬具一封親筆簽名的抗議信,已把此信送到WHO,儘管不一定能收到回覆,「但還是要很清楚地表達我們的立場」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "清楚",
+                "清楚地"
+            ],
+            "datetime": "2022-05-25 15:46"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「部長已經有擬具一封親筆的抗議信,我們已經把這抗議信,送到世界衛生組織。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-25 12:42"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "他們願意對外公開幫我們執言,應該是非常支持台灣,知道台灣不應該被排除在外,防疫工作一定要全球一起攜手合作。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "排除",
+                "不應該"
+            ],
+            "positive_list": [
+                "公開",
+                "合作",
+                "知道",
+                "願意",
+                "合作",
+                "願意"
+            ],
+            "datetime": "2022-05-25 09:14"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "針對世衛再度拒絕台灣與會,已向世衛呈交衛福部長陳時中親筆抗議信,清楚表明立場;她也把握時間爭取與更多理念相近盟友會面交流。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "抗議",
+                "拒絕"
+            ],
+            "positive_list": [
+                "把握",
+                "清楚",
+                "把握"
+            ],
+            "datetime": "2022-05-25 09:14"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "儘管這次很遺憾無法參與會議,但會繼續努力,友邦也堅定表示將非常樂意繼續為台發聲。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "努力",
+                "堅定",
+                "樂意",
+                "樂意"
+            ],
+            "datetime": "2022-05-26 07:40"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「(次長現在心情如何),結束了六天的行程。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 18:28"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「六天行程結束準備返台,大家非常地努力,也有一些成果,所以也要,國內還有很多事情要做,所以我們也要趕快回去。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "很多",
+                "準備"
+            ],
+            "datetime": "2022-05-26 18:28"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "說",
+            "opinion": "「如果可以來的話,其實我們在10月份,如果有部長級的政府官員到的話,我們也會特別安排部長的一個圓桌論壇,不管是疫情的防治問題,還是非傳染疾病等等的公衛的問題,我們都會希望能夠有機會,跟各國的衛生的領袖,能夠來做這樣的討論分享。」",
+            "negative_score": 5,
+            "positive_score": 7,
+            "negative_list": [
+                "不管",
+                "疾病",
+                "問題",
+                "傳染",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "特別",
+                "衛生",
+                "衛生的",
+                "機會",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 08:24"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "儘管這次很遺憾無法參與會議,但會繼續努力,友邦也堅定表示將非常樂意繼續為台發聲。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "努力",
+                "堅定",
+                "樂意",
+                "樂意"
+            ],
+            "datetime": "2022-05-26 08:14"
+        },
+        {
+            "person": "李麗芬",
+            "verb": "表示",
+            "opinion": "已經轉交衛福部長陳時中親筆的抗議信給世界衛生組織(WHO),同時邀請理念相近國家一同進行閉門專業論壇,當中大談臺灣防疫新模式與高端疫苗,卻沒提到我們如何透過他們重回WHA,似乎未見與我們有邦交關係的「重連結者」(擁有廣泛人脈)國家角色來為臺灣登高一呼。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "進行",
+                "衛生",
+                "擁有",
+                "衛生"
+            ],
+            "datetime": "2022-06-04 06:10"
+        }
+    ]
+}

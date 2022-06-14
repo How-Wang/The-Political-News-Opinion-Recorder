@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪輝祥.png",
+    "opinions": [
+        {
+            "person": "洪輝祥",
+            "verb": "指出",
+            "opinion": "為了農業與民宿的需求,使用除草劑、把水源攔截等,這都使陸蟹棲地劣化,成為陸蟹生存的危機。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "危機",
+                "危機"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-26 15:00"
+        }
+    ]
+}

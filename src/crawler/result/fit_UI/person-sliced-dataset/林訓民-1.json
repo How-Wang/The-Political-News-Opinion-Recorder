@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林訓民.png",
+    "opinions": [
+        {
+            "person": "林訓民",
+            "verb": "表示",
+            "opinion": "參觀的民眾還是有不少親子族群,今年展位6個,與2019年相較還少2個展位面積,銷售卻是異軍突起,不僅端午節當天的業績為前一天的3倍,也已經達到2019年的銷售額,表現亮眼。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "達到"
+            ],
+            "datetime": "2022-06-07 19:17"
+        }
+    ]
+}

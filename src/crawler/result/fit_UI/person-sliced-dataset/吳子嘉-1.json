@@ -1,0 +1,324 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "吳子嘉",
+            "verb": "質疑",
+            "opinion": "民進黨利用這個疫情,製造雙北的困難,然後搞選舉。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困難",
+                "利用",
+                "困難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 08:20"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "提到",
+            "opinion": "朱立倫到美國以後,遇到的政治人物都會詢問今年選情如何,朱立倫就會回答九合一會贏,所以已把兩個地方都布局好,其一為台北市先提名會贏的立委蔣萬安,桃園則是丟出沒得嫌的張善政,兩者贏面都很大。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "出沒",
+                "沒得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:00"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "認為",
+            "opinion": "「他要超過蔡英文,他要去聽美國人的話,他要去抱美國人的大腿」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 09:00"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "有31.9%的新北人認為陳時中要對疫情爆發負最大責任,雙北綜合起來有27%討厭陳時中;另外,有29.6%桃園人對陳時中表達不滿。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不滿",
+                "討厭",
+                "爆發",
+                "不滿",
+                "討厭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:04"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "陳時中在北市的不滿意度高達近6成,說明要選台北市長「不太可能」。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不太",
+                "不滿",
+                "不滿意",
+                "不滿"
+            ],
+            "positive_list": [
+                "滿意",
+                "說明",
+                "滿意"
+            ],
+            "datetime": "2022-05-28 12:04"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "認為",
+            "opinion": "陳時中在雙北和桃園「全掛掉了」,因為「討厭的比例」比較高。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "討厭",
+                "討厭的",
+                "討厭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:04"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "提到",
+            "opinion": "朱立倫到美國以後,美國所有的重量級政治人物都會問他今年選情如何,朱立倫就會回答九合一他會贏,所以他把兩個地方都布局好了,台北市先提名會贏的藍委蔣萬安,桃園則是丟出沒得嫌的張善政,這個也會贏。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "出沒",
+                "沒得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 08:10"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "行政院真正在拍板決定的就是蘇貞昌,像是0+7「就是他幹的」,但蘇貞昌竟然是7%,這次疫情爆發還一點事都沒有。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "爆發",
+                "沒有",
+                "竟然"
+            ],
+            "positive_list": [
+                "決定",
+                "真正"
+            ],
+            "datetime": "2022-05-29 12:19"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "表示",
+            "opinion": "蘇貞昌躲到了蔡英文後面。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 09:20"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "說",
+            "opinion": "「莫名其妙」,陳時中是指揮官理應要負責,但第2名竟是總統蔡英文,「關蔡總統屁事?」蔡英文總共開了3次防疫會議,2次在民進黨中常會,1次是在總統府,但結果她居然變成第2名,可蘇貞昌居然只有7%,這表示蘇貞昌躲到了蔡英文後面。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "屁事",
+                "居然",
+                "莫名",
+                "莫名其妙"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-05-29 09:20"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "表示",
+            "opinion": "「民進黨每次有問題的時候,都會去向北京求救,就是開始扣帽子嘛,對不對」;他認為,這一次的事件,讓總統蔡英文的民調大傷、重傷。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "大傷",
+                "不對",
+                "問題",
+                "不對",
+                "有問題",
+                "求救",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:22"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "依照交叉分析結果,國民黨在台北市的好感度上升到接近30%,民進黨則是下降至35%,藍綠差距5個百分點,在誤差值內,可見國民黨這1個月拚命打是有用的,尤其是在北北基桃這4個縣市,國民黨的支持度都有上揚的趨勢。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "下降",
+                "誤差"
+            ],
+            "positive_list": [
+                "有用",
+                "有用的",
+                "好感"
+            ],
+            "datetime": "2022-05-30 08:10"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "表示",
+            "opinion": "自己聽到一個消息,邱奕勝很頭痛,邱奕勝本來挺呂玉玲,因為呂玉玲老公陳萬得本來要選議長,邱奕勝等於推呂玉玲選市長換得陳萬得退讓議長選舉,現在卻被砸鍋了,因此呂玉玲繼續跑可能是在喬東西。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "頭痛",
+                "東西",
+                "頭痛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 21:44"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "台灣的確診死亡人數不斷攀升,而根據資料顯示投藥數卻降低,這有2種可能性,第一就是在確診輕症時不給藥,導致症狀惡化,第二則是病人就醫的時機延誤,造成自身的症狀加重。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不斷",
+                "加重",
+                "死亡",
+                "延誤",
+                "降低",
+                "病人",
+                "惡化"
+            ],
+            "positive_list": [
+                "的確",
+                "時機"
+            ],
+            "datetime": "2022-06-05 08:50"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "從6月開始的死亡人數不斷刷新,4日更來到152人創下新高,他也秀出死亡人數以及投藥數的對照表質疑,為何在死亡人數屢創新高下,政府開出去的藥量卻下降?這是一件很詭異的事情,照邏輯來看,這2件事情應該是正比才對。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "不斷",
+                "死亡",
+                "質疑",
+                "詭異"
+            ],
+            "positive_list": [
+                "創新",
+                "邏輯"
+            ],
+            "datetime": "2022-06-05 08:50"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "表示",
+            "opinion": "為了這件事情他特地去查了法條,根據《傳染病防治法》第50條規定,染第一類傳染病的遺體應於24小時內火化,染第五類傳染病的遺體則要在中央主管機關公告的期限內入殮並火化。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "病的",
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 08:40"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "表示",
+            "opinion": "桃園現在是「善政」,但其實正在「善後」,快一個月了還沒把事情喬好。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "說",
+            "opinion": "根據黃暐瀚推估,朱立倫回台第一件事情就是把張善政換掉。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "新潮流現在放著副總統賴清德被修理,就是因為現在總統蔡英文是新潮流的衣食父母,怎麼可能敢出來挺賴清德?1名民進黨政高層向《風傳媒》指出,不像吳子嘉所說,新潮流內部不支持的言論是錯誤,其實民進黨內不分派系,像是今年底議員這個層級,許多人都找賴清德幫助。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不像",
+                "派系",
+                "錯誤",
+                "不像"
+            ],
+            "positive_list": [
+                "修理",
+                "幫助"
+            ],
+            "datetime": "2022-06-12 14:59"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "表示",
+            "opinion": "如果台北市長是藍綠對決,台北市會被藍軍拿走,但藍軍有可能會分裂,因此衛福部長陳時中也有勝選可能,如此一來就就比較好募款。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "分裂",
+                "分裂"
+            ],
+            "positive_list": [
+                "比較好",
+                "較好"
+            ],
+            "datetime": "2022-06-12 08:20"
+        },
+        {
+            "person": "吳子嘉",
+            "verb": "指出",
+            "opinion": "陳時中現在說的每句話,無論是開放解封,還是7月份可能取消戴口罩,都是在開遠期支票討好選民。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "取消",
+                "討好"
+            ],
+            "positive_list": [
+                "開放",
+                "討好"
+            ],
+            "datetime": "2022-06-12 08:20"
+        }
+    ]
+}

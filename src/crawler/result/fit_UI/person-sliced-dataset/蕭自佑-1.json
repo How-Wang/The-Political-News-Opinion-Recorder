@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蕭自佑.png",
+    "opinions": [
+        {
+            "person": "蕭自佑",
+            "verb": "表示",
+            "opinion": "今天到台北市巡察,先到台北自來水事業處(北水處),聽取北水處簡報有關台北水源、供水管網、配合北水南送相關計畫等議題,隨後,實地視察北水處監控中心實際調控水源情形。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-05-30 18:02"
+        }
+    ]
+}

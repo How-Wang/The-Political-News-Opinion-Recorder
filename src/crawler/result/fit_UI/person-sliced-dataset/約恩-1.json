@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/約恩.png",
+    "opinions": [
+        {
+            "person": "約恩",
+            "verb": "說明",
+            "opinion": "但遭婉拒,新北市政府指出,今上午9點已用雙掛號將資料寄出。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "婉拒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 10:33"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蘇治芬",
+            "verb": "表示",
+            "opinion": "民進黨雲林縣黨部主委選戰已殺紅眼,話一說出不久即傳出由立法委員劉建國推派出選的參選人沈健興退選,全力支持曾擔任立委蘇治芬助理主任的林金忠同額競選,今(22)日結果出爐,主任委員由林金忠以3906票當選。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-05-22 21:17"
+        }
+    ]
+}

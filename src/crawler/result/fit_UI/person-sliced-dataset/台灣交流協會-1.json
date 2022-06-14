@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣交流協會.png",
+    "opinions": [
+        {
+            "person": "台灣交流協會",
+            "verb": "說",
+            "opinion": "一轉眼已經快一年了,去年六四那天,載著「友情疫苗」的紅鶴於天際翱翔,當時只是想要盡力回報台灣長期給予日本的恩情,「為幫助海島鄰居做我們力所能及的事」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "給予",
+                "幫助"
+            ],
+            "datetime": "2022-06-02 18:39"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/方志源.png",
+    "opinions": [
+        {
+            "person": "方志源",
+            "verb": "表示",
+            "opinion": "一旦非洲豬瘟危害到本土豬產業,他們財產也將一夕消失,因此他們比誰都重視。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "危害",
+                "消失",
+                "消失"
+            ],
+            "positive_list": [
+                "重視",
+                "財產"
+            ],
+            "datetime": "2022-05-27 13:36"
+        }
+    ]
+}

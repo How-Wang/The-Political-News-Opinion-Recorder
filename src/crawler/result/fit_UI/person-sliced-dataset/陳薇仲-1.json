@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳薇仲.png",
+    "opinions": [
+        {
+            "person": "陳薇仲",
+            "verb": "說",
+            "opinion": "成是58億,甚至說出「按照謝國樑的方式發得58億元經費,占基隆年度總預算的四分之一,她如果是市長,不認為可行」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "可行"
+            ],
+            "datetime": "2022-06-04 12:08"
+        }
+    ]
+}

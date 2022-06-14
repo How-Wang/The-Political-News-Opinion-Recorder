@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何應明.png",
+    "opinions": [
+        {
+            "person": "何應明",
+            "verb": "說",
+            "opinion": "「很多業者都說我們都撐不下去了,我們租金也繳不出來,我們貸款也繳不出來,薪水也繳不出來水電也繳不出來。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不下",
+                "不出"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-27 13:30"
+        }
+    ]
+}

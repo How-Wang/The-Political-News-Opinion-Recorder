@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李縉穎.png",
+    "opinions": [
+        {
+            "person": "李縉穎",
+            "verb": "指出",
+            "opinion": "不順你的意就想翻桌,羅智強的行為放在職場或是社會上,就是個媽寶、屁孩、中二,黨內卻懼怕他的聲量而不敢檢討他,這才是國民黨至今為止一直爬不起來的原因,一個不懂得反省檢討的政黨,人民怎麼可能會給機會。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "懼怕",
+                "不起",
+                "不懂",
+                "懼怕"
+            ],
+            "positive_list": [
+                "機會"
+            ],
+            "datetime": "2022-06-05 15:53"
+        }
+    ]
+}

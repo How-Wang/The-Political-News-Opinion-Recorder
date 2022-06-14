@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯總.png",
+    "opinions": [
+        {
+            "person": "柯總",
+            "verb": "說",
+            "opinion": "的很對:「台北市長當不好是因為總想著選總統」,往後應可成為後人對這8年台北市政的總結。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-01 12:01"
+        }
+    ]
+}

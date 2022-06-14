@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡孟裕.png",
+    "opinions": [
+        {
+            "person": "蔡孟裕",
+            "verb": "強調",
+            "opinion": "目前草案規劃方向是當職安法規規定的職安人員可以兼任時,才會讓環保專責人員去兼任,不會牴觸原本的職安或消防法規,且草案仍在預告期,還未定案、會持續收集各界意見。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "未定",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:51"
+        }
+    ]
+}

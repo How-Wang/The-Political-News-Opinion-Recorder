@@ -1,0 +1,76 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡蒼柏.png",
+    "opinions": [
+        {
+            "person": "蔡蒼柏",
+            "verb": "說",
+            "opinion": "宿命啦!現在只要有球棒打人新聞,就會聯想到台中,對此,台中市長盧秀燕強調,警政署評比,台中治安都名列前茅,民眾觀感有落差,還要再努力。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "宿命",
+                "打人"
+            ],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-05-28 17:25"
+        },
+        {
+            "person": "蔡蒼柏",
+            "verb": "指出",
+            "opinion": "此不實訊息與事實差距慎大,已經符合「惡、假、害」的要件,依法應該可以偵辦開罰。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-01 20:11"
+        },
+        {
+            "person": "蔡蒼柏",
+            "verb": "說明",
+            "opinion": "此不實訊息與事實差距慎大,已經符合「惡、假、害」的要件,依法應該可以偵辦開罰。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-01 16:10"
+        },
+        {
+            "person": "蔡蒼柏",
+            "verb": "指出",
+            "opinion": "此不實訊息與事實差距慎大,已經符合「惡、假、害」的要件,依法應該可以偵辦開罰。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-03 09:32"
+        },
+        {
+            "person": "蔡蒼柏",
+            "verb": "指出",
+            "opinion": "此不實訊息與事實差距慎大,已經符合「惡、假、害」的要件,依法應該可以偵辦開罰。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-06-04 11:49"
+        }
+    ]
+}

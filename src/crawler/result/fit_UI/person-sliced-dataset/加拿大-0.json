@@ -1,0 +1,30 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "加拿大",
+            "verb": "說",
+            "opinion": "自己是『華僑』,我想馬偕就是『加僑』,是台灣和加拿大建立起友誼的第一座橋樑。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "友誼"
+            ],
+            "datetime": "2022-05-22 16:10"
+        },
+        {
+            "person": "加拿大",
+            "verb": "說",
+            "opinion": "其他的活動我很難保證參加,但一聽到這個活動,就早早排定時間,務必親自出席。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "保證",
+                "參加"
+            ],
+            "datetime": "2022-05-22 16:10"
+        }
+    ]
+}

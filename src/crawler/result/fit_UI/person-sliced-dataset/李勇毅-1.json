@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李勇毅.png",
+    "opinions": [
+        {
+            "person": "李勇毅",
+            "verb": "表示",
+            "opinion": "對於立委所提建議,會帶回研議,朝保護消費者權益的方向努力。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "保護",
+                "權益"
+            ],
+            "datetime": "2022-06-08 12:56"
+        }
+    ]
+}

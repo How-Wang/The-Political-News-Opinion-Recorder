@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何元楷.png",
+    "opinions": [
+        {
+            "person": "何元楷",
+            "verb": "質疑",
+            "opinion": "台灣基進前立委陳柏惟日前批評台中市長盧秀燕在快篩試劑貼貼紙,但「選擇性失明」,實際上桃園市、高雄市都有貼。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "失明",
+                "批評",
+                "失明",
+                "批評"
+            ],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-07 17:36"
+        }
+    ]
+}

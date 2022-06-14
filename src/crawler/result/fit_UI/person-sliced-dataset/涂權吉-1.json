@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/涂權吉.png",
+    "opinions": [
+        {
+            "person": "涂權吉",
+            "verb": "說",
+            "opinion": "「透過這個民調,讓張善政市長候選人能夠希望積極,針對我們邱奕勝議長、呂玉玲委員,還有羅智強議員的部分,積極來整合。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "積極",
+                "希望"
+            ],
+            "datetime": "2022-06-04 13:00"
+        }
+    ]
+}

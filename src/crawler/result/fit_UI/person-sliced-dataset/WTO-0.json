@@ -1,0 +1,47 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "WTO",
+            "verb": "指出",
+            "opinion": "包括台灣企業代表在內的APEC「企業諮詢委員會」(ABAC)建議,制定多年期工作計畫,推動亞太自由貿易區(FTAAP),並建議優先聚焦數位化、包容性、永續性、貿易與投資、貿易回應疫情五項領域,以兼顧傳統及新興貿易議題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-22 22:10"
+        },
+        {
+            "person": "WTO",
+            "verb": "宣布",
+            "opinion": "啟動21世紀貿易倡議,建立全新經貿談判架構,將就貿易便捷、法規制定、農業、反貪污、中小企業、數位貿易、勞工、環保、標準、國營企業、非市場經濟共11項議題展開協商,以達成高標準且具經濟意義的貿易協定,推進與深化雙邊貿易關係。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "貪污",
+                "貪污"
+            ],
+            "positive_list": [
+                "推進",
+                "達成"
+            ],
+            "datetime": "2022-06-10 07:18"
+        },
+        {
+            "person": "WTO",
+            "verb": "指出",
+            "opinion": "台灣輸出的石斑魚都符合國際規範。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "符合",
+                "規範"
+            ],
+            "datetime": "2022-06-11 16:26"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/特拉斯.png",
+    "opinions": [
+        {
+            "person": "特拉斯",
+            "verb": "提到",
+            "opinion": "英國與捷克正努力共同打擊來自俄羅斯和中國的虛假信息,並且要特別讚揚,捷克在面對中國的經濟脅迫所採取的堅定立場,我們必須確保台灣也有能力自衛。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "打擊",
+                "脅迫",
+                "虛假",
+                "打擊"
+            ],
+            "positive_list": [
+                "有能力",
+                "努力",
+                "特別",
+                "能力",
+                "堅定",
+                "讚揚"
+            ],
+            "datetime": "2022-05-29 15:42"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡銘坤.png",
+    "opinions": [
+        {
+            "person": "蔡銘坤",
+            "verb": "呼籲",
+            "opinion": "要徹查,行政院長蘇貞昌今(3)日上午受訪時表示,蔡銘坤其昌的助理講的是「校園兒童」施打輝瑞疫苗的數量;中市府則是指全台中市小朋友打輝瑞跟莫德納疫苗的數量。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 12:56"
+        },
+        {
+            "person": "蔡銘坤",
+            "verb": "呼籲",
+            "opinion": "要徹查,蘇貞昌回應,蔡其昌助理所講的是,在校園兒童施打輝瑞疫苗的數量,而台中市府講的是全台中市小朋友打輝瑞跟莫德納疫苗的數量。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 09:32"
+        },
+        {
+            "person": "蔡銘坤",
+            "verb": "指出",
+            "opinion": "台中兒童疫苗至5月31日指施打7200劑,遭國民黨台中市議員羅廷緯在議會質詢衛生、警察局是否是假訊息?警察局長蔡蒼柏答詢時指出,此不實訊息與事實差距甚大,已經符合「惡、假、害」要件,依法應該可以偵辦開罰。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [
+                "符合",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 09:36"
+        }
+    ]
+}

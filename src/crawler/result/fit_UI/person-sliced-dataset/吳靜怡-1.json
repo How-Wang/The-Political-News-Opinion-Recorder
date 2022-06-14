@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳靜怡.png",
+    "opinions": [
+        {
+            "person": "吳靜怡",
+            "verb": "說",
+            "opinion": "「林先生」如果只是這個組織的一個人,那麼組織背後是誰?固定IP不嚴重,更嚴重的是更多不是用固定IP的那些操作言論者。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "嚴重",
+                "嚴重的",
+                "不是"
+            ],
+            "positive_list": [
+                "固定"
+            ],
+            "datetime": "2022-06-04 22:32"
+        },
+        {
+            "person": "吳靜怡",
+            "verb": "說",
+            "opinion": "「林先生」如果只是這個組織的一個人,那麼組織背後是誰?固定IP不嚴重,更嚴重的是更多不是用固定IP的那些操作言論者。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "嚴重",
+                "嚴重的",
+                "不是"
+            ],
+            "positive_list": [
+                "固定"
+            ],
+            "datetime": "2022-06-04 22:49"
+        },
+        {
+            "person": "吳靜怡",
+            "verb": "質疑",
+            "opinion": "吳靜怡更是在臉書貼出11個IP位置,聲稱經常為柯文哲帶風向。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 18:01"
+        }
+    ]
+}

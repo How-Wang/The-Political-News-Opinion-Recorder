@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新北板橋急診科.png",
+    "opinions": [
+        {
+            "person": "新北板橋急診科",
+            "verb": "表示",
+            "opinion": "「走掉的孩子十隻手指數得出來,那應該就是一隻手掌不見得數得出來,如果醫療資源充沛,那麼大家就不需要恐慌,也就不會這麼多鳥事了。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不見",
+                "不會",
+                "恐慌",
+                "不會",
+                "恐慌"
+            ],
+            "positive_list": [
+                "充沛",
+                "資源"
+            ],
+            "datetime": "2022-05-27 17:52"
+        }
+    ]
+}

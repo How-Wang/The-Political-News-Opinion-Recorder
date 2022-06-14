@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北交通.png",
+    "opinions": [
+        {
+            "person": "台北交通",
+            "verb": "認為",
+            "opinion": "解決台北交通問題,不能只看台北,需整合首都圈北北基桃,台北市長要有行政院長的高度,至少是部長的層級,去承擔首都圈整合的責任,未來解決台北市交通問題,一定需要跨縣市合作。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "解決",
+                "合作",
+                "解決"
+            ],
+            "datetime": "2022-06-07 09:15"
+        }
+    ]
+}

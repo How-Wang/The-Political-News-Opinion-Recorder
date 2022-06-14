@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣國際造船公司.png",
+    "opinions": [
+        {
+            "person": "台灣國際造船公司",
+            "verb": "表示",
+            "opinion": "SI公司擔任台船潛艦國造案建造技協,主要提供技術諮詢服務,並無將韓國潛艦圖資提供給台船;此外,台灣潛艦國造案設計與張保皋級潛艦完全不同,韓國潛艦的技術圖說,根本無法應用於潛艦國造案。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:54"
+        }
+    ]
+}

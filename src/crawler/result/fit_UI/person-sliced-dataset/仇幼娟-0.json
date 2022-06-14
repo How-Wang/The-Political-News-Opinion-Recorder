@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/仇幼娟.png",
+    "opinions": [
+        {
+            "person": "仇幼娟",
+            "verb": "說明",
+            "opinion": "社區涵蓋率並不等於社區保護力,完整的疫苗接種才有完整保護力。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "完整",
+                "完整的",
+                "保護"
+            ],
+            "datetime": "2022-06-11 15:35"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/NATO.png",
+    "opinions": [
+        {
+            "person": "NATO",
+            "verb": "說",
+            "opinion": "中立國不會打仗?揭密瑞典軍事與特殊地理位置竟直掐俄羅斯咽喉!」「網路流行迷因:抖音一響、OOOO!一款短影音APP意外走紅卻爆壓榨員工,竟是中國特殊996傳入美國?工時與薪水合理性徹底引爆聊天室激辯!」《水曜日聊世界EP.36》李慧芝和劉方慈整理「瑞典自強最前線」和「抖音的996血汗」最新議題。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "打仗",
+                "意外",
+                "壓榨",
+                "不會"
+            ],
+            "positive_list": [
+                "合理",
+                "流行",
+                "理性"
+            ],
+            "datetime": "2022-06-02 19:07"
+        }
+    ]
+}

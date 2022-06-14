@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/紀秋美.png",
+    "opinions": [
+        {
+            "person": "紀秋美",
+            "verb": "表示",
+            "opinion": "這次舉辦與群馬縣的聯誼活動原本只是想受到疫情影響,會員很久沒出遊,想利用這個機會讓會員能玩得盡興,順便做國民外交,於是邀請群馬縣幾名議員聯誼。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "機會",
+                "盡興"
+            ],
+            "datetime": "2022-06-12 23:35"
+        }
+    ]
+}

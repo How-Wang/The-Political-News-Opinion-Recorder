@@ -1,0 +1,48 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林岳平",
+            "verb": "表示",
+            "opinion": "侯友宜雙親原本住在朴子市安福里,去年11月間侯友宜93歲父親侯溪濱過世,侯母昨天安詳辭世,侯友宜家屬將比照父親侯溪濱告別式模式,婉謝各界花圈、花籃,低調處理,預計29日舉辦告別式,僅辦理家祭、不辦公祭。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "過世"
+            ],
+            "positive_list": [
+                "安詳",
+                "安詳"
+            ],
+            "datetime": "2022-05-24 16:40"
+        },
+        {
+            "person": "林岳平",
+            "verb": "說",
+            "opinion": "去年侯溪濱母則呂秀蓮節哀友宜父過世,家屬遵照侯父遺囑低調辦喪事,侯母過世也將低調舉行,家屬預計5月29日舉辦告別式,僅舉行家祭,不辦公祭。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "過世"
+            ],
+            "positive_list": [
+                "舉行"
+            ],
+            "datetime": "2022-05-24 16:35"
+        },
+        {
+            "person": "林岳平",
+            "verb": "說",
+            "opinion": "去年侯溪濱母呂秀蓮友宜父過世,家屬遵照侯父遺囑低調辦喪事,侯母過世也將低調舉行,家屬預計5月29日舉辦告別式,僅舉行家祭,不辦公祭。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "過世"
+            ],
+            "positive_list": [
+                "舉行"
+            ],
+            "datetime": "2022-05-24 15:07"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李雨蓁",
+            "verb": "指出",
+            "opinion": "經過20幾年的實測,只要我國申請的「國名」,一旦不被中國認同,就無法加入WHA,「這就是赤裸裸的打壓!」。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "赤裸裸",
+                "赤裸裸的",
+                "無法",
+                "打壓",
+                "無法"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-05-22 10:26"
+        },
+        {
+            "person": "李雨蓁",
+            "verb": "痛批",
+            "opinion": "「馬英九任內年年去WHA?全靠舔共就對了!」她回顧,李登輝時代在1997年以「中華民國」名義申請加入「觀察員」席次,但未成功;陳水扁時代2002年末爆發SARS病毒,因我國並非WHA成員,無法獲得疫情相關第一手消息,隔年,我國提出以「台灣」名義申請加入「觀察員」,又遭否決。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "否決",
+                "無法",
+                "爆發",
+                "無法"
+            ],
+            "positive_list": [
+                "成功",
+                "獲得"
+            ],
+            "datetime": "2022-05-22 10:26"
+        },
+        {
+            "person": "李雨蓁",
+            "verb": "指出",
+            "opinion": "「罷韓就是台灣民主解毒的清冠一號」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:45"
+        },
+        {
+            "person": "李雨蓁",
+            "verb": "表示",
+            "opinion": "民主可貴,但稍有不慎就容易被壞病毒利用,需要我們謹慎看待、細心呵護,透過不斷的思辨衝突,期待台灣能走出一條不一樣的民主道路。",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不斷",
+                "衝突",
+                "利用",
+                "衝突"
+            ],
+            "positive_list": [
+                "可貴",
+                "容易",
+                "細心",
+                "期待",
+                "謹慎",
+                "期待"
+            ],
+            "datetime": "2022-06-06 15:45"
+        }
+    ]
+}

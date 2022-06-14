@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/慶南警察廳.png",
+    "opinions": [
+        {
+            "person": "慶南警察廳",
+            "verb": "表示",
+            "opinion": "已將涉嫌向台船(CSBC)洩漏韓國張保皋級潛艦設計圖的韓國A公司理事B某,依違反對外貿易法、非法競爭防止法等罪嫌拘留移送檢方,潛逃的該公司代表C某則遭通緝。",
+            "negative_score": 8,
+            "positive_score": 1,
+            "negative_list": [
+                "反對",
+                "拘留",
+                "非法",
+                "洩漏",
+                "違反",
+                "潛逃",
+                "競爭",
+                "違反"
+            ],
+            "positive_list": [
+                "防止"
+            ],
+            "datetime": "2022-06-07 22:31"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/北市信義分局.png",
+    "opinions": [
+        {
+            "person": "北市信義分局",
+            "verb": "質疑",
+            "opinion": "受到施壓,資深媒體人周玉蔻更爆料,徐巧芯拜託議長陳錦祥別讓密錄器公開。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-05-26 17:37"
+        },
+        {
+            "person": "北市信義分局",
+            "verb": "質疑",
+            "opinion": "受到施壓;徐巧芯27日晚間在臉書正面迎戰,向警方申請公布19日違規停車密錄影片,並透露不公開影片,是警方表示涉及到員警瀆職問題「希望我給基層員警一個機會」。",
+            "negative_score": 5,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "透露",
+                "不公",
+                "問題",
+                "違規"
+            ],
+            "positive_list": [
+                "公開",
+                "正面",
+                "希望",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-05-27 22:08"
+        }
+    ]
+}

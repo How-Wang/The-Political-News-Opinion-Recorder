@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/統一集團.png",
+    "opinions": [
+        {
+            "person": "統一集團",
+            "verb": "指出",
+            "opinion": "誠品信義店雖有獲利,但以長期投資而言、效益不如預期,相較信義計畫區黃金地段該有的行情低許多,統一集團難向股東交代。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不如",
+                "不如"
+            ],
+            "positive_list": [
+                "獲利",
+                "黃金"
+            ],
+            "datetime": "2022-06-10 18:39"
+        }
+    ]
+}

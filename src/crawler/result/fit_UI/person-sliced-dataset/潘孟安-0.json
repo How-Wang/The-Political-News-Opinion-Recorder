@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/潘孟安.png",
+    "opinions": [
+        {
+            "person": "潘孟安",
+            "verb": "提出",
+            "opinion": "質疑,而潘孟安PO文解釋說,因為縣內5到17歲疫苗施打率為92.45%,而社區涵蓋率達105%,這個社區涵蓋率超過100%引發議論,甚至有人轟這數學題求解答。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "超過",
+                "質疑",
+                "議論",
+                "求解"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 15:35"
+        }
+    ]
+}

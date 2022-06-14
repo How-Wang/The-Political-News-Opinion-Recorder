@@ -1,0 +1,921 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "台灣是地球村一分子,也有很多抗疫經驗可貢獻國際,但不希望矮化自己換取參加的機會。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "很多",
+                "參加",
+                "經驗",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-05-21 17:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "呼籲",
+            "opinion": "各界支持台灣參與今年的WHA。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 17:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "台灣過去2年一再戰勝疫情,無論是整體染疫率還是致死率等防疫作為,都很值得各國學習,近日台灣疫情確實升溫,但這是與病毒共存的必經路程,而且目前疫情控制得宜,還是值得和世界分享。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "一再",
+                "致死"
+            ],
+            "positive_list": [
+                "值得",
+                "確實",
+                "學習",
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-05-21 17:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「國際有一些詭譎多變的地方,但我們若參加國際組織,會是正向的想法」,強調「我們不會矮化自己來參加,我們是積極貢獻而參加。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "參加",
+                "積極"
+            ],
+            "datetime": "2022-05-21 15:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "台灣的防疫成就被忽視。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "忽視"
+            ],
+            "positive_list": [
+                "成就"
+            ],
+            "datetime": "2022-05-21 15:21"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "疫情威脅猶在,各國應通力合作互相支持,並為下一個未知的「X疾病」預作準備。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "未知",
+                "未知的",
+                "威脅",
+                "疾病",
+                "威脅"
+            ],
+            "positive_list": [
+                "合作",
+                "準備",
+                "合作"
+            ],
+            "datetime": "2022-05-21 08:25"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "COVID-19(2019冠狀病毒疾病)疫情蔓延全球兩年多,逾625萬人病故。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "疾病",
+                "蔓延"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 08:25"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "台灣全民健保的高覆蓋率、科技防疫、疫苗接種和數位證明、電子病歷及遠距醫療等發展良好;今年4月起,台灣採用新防疫模式,強化民間自主應變能力、輕重症分流,並保全醫療體系量能。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自主",
+                "良好",
+                "能力",
+                "發展",
+                "良好"
+            ],
+            "datetime": "2022-05-21 04:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "呼籲",
+            "opinion": "WHO重視台灣民眾的健康權利、各界支持台灣以觀察員身分參與WHA。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重視",
+                "健康"
+            ],
+            "datetime": "2022-05-21 04:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "COVID-19疫情蔓延全球兩年,至今已有超過625萬人喪生。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "超過",
+                "蔓延"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 04:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "平台問題在行政院政委唐鳳領導下不斷研議,還跟新北視訊討論是不是符合需要,希望達成共識,提出意見很多,很多縣市私下都會打給他,防疫一定是中央地方一起合作,絕對不會把耳朵矇起來,執行的是地方,地方有困難中央一定要想辦法解決。",
+            "negative_score": 10,
+            "positive_score": 9,
+            "negative_list": [
+                "不會",
+                "不斷",
+                "有困難",
+                "困難",
+                "問題",
+                "絕對",
+                "不是",
+                "不會",
+                "困難",
+                "問題"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "很多",
+                "符合",
+                "解決",
+                "達成",
+                "合作",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-21 11:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "現在以疫情為主,大家不用特別講到選舉部分,「你們去關心其他人的選情,這邊就關心我的疫情。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-21 14:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "疫情威脅猶在,各國應通力合作互相支持,並為下一個未知的「X疾病」預作準備。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "未知",
+                "未知的",
+                "威脅",
+                "疾病",
+                "威脅"
+            ],
+            "positive_list": [
+                "合作",
+                "準備",
+                "合作"
+            ],
+            "datetime": "2022-05-21 09:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "COVID-19(2019冠狀病毒疾病)疫情蔓延全球兩年多,逾625萬人病故。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "疾病",
+                "蔓延"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 09:53"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "COVID-19疫情蔓延全球兩年,至今已有超過625萬人喪生。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "超過",
+                "蔓延"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 07:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "呼籲",
+            "opinion": "WHO重視台灣民眾的健康權利、各界支持台灣以觀察員身分參與WHA。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重視",
+                "健康"
+            ],
+            "datetime": "2022-05-21 07:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "台灣全民健保的高覆蓋率、科技防疫、疫苗接種和數位證明、電子病歷及遠距醫療等發展良好;今年4月起,台灣採用新防疫模式,強化民間自主應變能力、輕重症分流,並保全醫療體系量能。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自主",
+                "良好",
+                "能力",
+                "發展",
+                "良好"
+            ],
+            "datetime": "2022-05-21 07:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "當前國際仍面臨疫情威脅、疫苗供給及疫後復甦挑戰,各國應通力合作、互相支持,並為下一個diseaseX預作準備。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "威脅",
+                "挑戰",
+                "威脅"
+            ],
+            "positive_list": [
+                "合作",
+                "準備",
+                "合作"
+            ],
+            "datetime": "2022-05-21 05:11"
+        },
+        {
+            "person": "陳時中",
+            "verb": "痛批",
+            "opinion": "「高登環球」快篩採購案時,也未見綠營大咖出面緩頰護航,足見陳時中在選戰中日益跛腳的衰頹情勢,嚴重影響他的參選能量,更讓綠營在北台灣的選情中喪失具備全國影響力的大將。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "喪失",
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 05:20"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "行動團目標是「我們要有貢獻參與。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 16:45"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "快篩試劑實名制現在每天提供40萬人份販售,相信再過幾輪,壓力會慢慢減輕,希望2、3週內能平衡。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [
+                "平衡",
+                "希望",
+                "相信",
+                "減輕",
+                "平衡",
+                "希望"
+            ],
+            "datetime": "2022-05-22 10:29"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "今天是星期日,明天才會開始進行相關辯論,要看辯論結果怎樣,並強調「我們秉持有貢獻來參與世界衛生大會或衛生組織」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "辯論",
+                "怎樣"
+            ],
+            "positive_list": [
+                "天才",
+                "進行",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 18:34"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "下週起將開放「快篩陽性視同確診」全民適用,新增的9大篩檢站不會停止運作,而是轉換為診斷與開藥站,讓確診者不用進到醫院,減少感染風險。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "停止",
+                "減少",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-05-22 16:27"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "下週起將開放「快篩陽性視同確診」全民適用,新增的9大篩檢站不會停止運作,而是轉換為診斷與開藥站,讓確診者不用進到醫院,減少感染風險。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "停止",
+                "減少",
+                "感染",
+                "不會"
+            ],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-05-22 14:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "法,新北市政府顯然不買帳,地方和中央的矛盾,恐怕越來越大。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "矛盾",
+                "恐怕",
+                "矛盾",
+                "恐怕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:04"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "要好好學習馬政府在維持對等、尊嚴、互信下,與中國對話。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "尊嚴",
+                "學習",
+                "好學",
+                "尊嚴"
+            ],
+            "datetime": "2022-05-22 18:02"
+        },
+        {
+            "person": "陳時中",
+            "verb": "提到",
+            "opinion": "總統也觀察了一些情況,常常跟他講,疫情發展到後期,與病毒共存時,對地方自主防疫要予以尊重,不要打亂地方步驟,要用協助而不是干預的角度,來看待相關的事情。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "打亂",
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "自主",
+                "協助",
+                "尊重",
+                "發展",
+                "尊重"
+            ],
+            "datetime": "2022-05-22 15:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "行政院政委唐鳳和資訊組合作改善,今早開單效率已變高,但目前為止仍有一成的資料不全,呼籲民眾填寫資料時,注意電話是否有填寫。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "改善",
+                "注意",
+                "效率",
+                "合作",
+                "改善"
+            ],
+            "datetime": "2022-05-22 15:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "像新北先前急診室排了許多人,台北急診室也有工會出來反映,中央就嘗試著有些急門診的設計或社區篩檢站,找中央的醫院把它做起來。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 15:12"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "「以我這年紀沒在用帥做標準,那是年輕人在用的評比標準」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 15:05"
+        },
+        {
+            "person": "陳時中",
+            "verb": "痛批",
+            "opinion": "造神;同黨高雄市議員邱于軒查證後,發現是林園國小的有獎徵答題目,非考試卷也沒有政治用意。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 15:05"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "祝他早日康復,心情放輕鬆,「他自己是醫生,應該可以把自己照顧得很好」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "很好",
+                "輕鬆",
+                "輕鬆"
+            ],
+            "datetime": "2022-05-22 15:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "第二個是大家可以看到陸續很多人都確診,確診會常態化,確診也是提升整體社區保護力非常重要的一環。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "保護",
+                "很多",
+                "重要",
+                "重要的",
+                "提升"
+            ],
+            "datetime": "2022-05-22 15:00"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "「我們不要矮化自己參加。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-22 18:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "蔡英文總統很關心新北疫情,但因為有PCR排隊問題,以及新北市無法跟醫師公會維持好的互動,所以他在上週四與新北醫師公會開會處理。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "無法",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 17:17"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "柯文哲身為市長,平時接觸的人比較多,希望他早日康復,過程中心情可以放輕鬆,多喝水,「柯文哲市長自己是醫生,相信他可以把自己照顧得很好」。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "很好",
+                "相信",
+                "輕鬆",
+                "希望",
+                "輕鬆"
+            ],
+            "datetime": "2022-05-22 15:21"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "2020年2月,疫情大流行初期,為降低社區傳染風險,政府建置「入境檢疫系統」,透過全民健保數據庫、移民署以及海關資料庫,創建大數據分析,結合後端「電子圍籬智慧監控系統」,以手機定位掌握個人行蹤,確保落實居家隔離檢疫。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "降低",
+                "傳染",
+                "隔離"
+            ],
+            "positive_list": [
+                "流行",
+                "掌握",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-05-25 06:21"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "COVID-19全球疫情延燒至今兩年,已有超過625萬人喪生,包括英國約17萬8000人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 06:21"
+        },
+        {
+            "person": "陳時中",
+            "verb": "強調",
+            "opinion": "台灣需要WHA,WHA也需要台灣,我方有實質的經驗與貢獻,而不是純粹受照顧,「起碼要讓我們做觀察員,但當然要爭取成為會員」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "成為",
+                "當然",
+                "經驗"
+            ],
+            "datetime": "2022-05-25 15:46"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "陳建仁的說法是一個鼓勵性質。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "鼓勵"
+            ],
+            "datetime": "2022-05-25 15:46"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "2020年2月,疫情大流行初期,為降低社區傳染風險,政府建置「入境檢疫系統」,透過全民健保數據庫、移民署以及海關資料庫,創建大數據分析,結合後端「電子圍籬智慧監控系統」,以手機定位掌握個人行蹤,確保落實居家隔離檢疫。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "降低",
+                "傳染",
+                "隔離"
+            ],
+            "positive_list": [
+                "流行",
+                "掌握",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-05-25 06:55"
+        },
+        {
+            "person": "陳時中",
+            "verb": "指出",
+            "opinion": "COVID-19全球疫情延燒至今兩年,已有超過625萬人喪生,包括英國約17萬8000人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 06:55"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說明",
+            "opinion": "台灣邊境開放是遲早的事,5-6月相關邊境放寬的政策會出爐,時間大概落在6月,方向還要跟各部會討論。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-05-28 12:50"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "目前國內染疫率為6%,國內外染疫風險已差不多,因此,預計下個月就會公布邊境鬆綁政策。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 13:13"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "將研議逐步鬆綁邊境防疫規定,但要等台灣醫療量能足夠才可能開放旅遊,戴口罩的規定將持續實施至6月30日,針對7月似乎有望解封,金門縣長楊鎮浯今(1)日也向中央喊話,要求對關閉2年多的「小三通」也一視同仁,做到整體評估有條件開放的可行性。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "可行",
+                "足夠",
+                "開放",
+                "開放的"
+            ],
+            "datetime": "2022-06-01 17:24"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "將研議逐步鬆綁邊境防疫規定,但要等台灣醫療量能足夠才可能開放旅遊,戴口罩的規定將持續實施至6月30日,針對7月似乎有望解封,台北市長柯文哲今(1)日受訪直言,台灣本土已經感染成這樣,邊境封鎖的確沒意義了。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "封鎖",
+                "感染"
+            ],
+            "positive_list": [
+                "足夠",
+                "的確",
+                "開放"
+            ],
+            "datetime": "2022-06-01 15:46"
+        },
+        {
+            "person": "陳時中",
+            "verb": "提出",
+            "opinion": "的3點理由,包括有帶回新病毒變異株的風險、拖累醫療體系及國內染疫率6%已經與入境染疫率6%接近。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "拖累",
+                "拖累"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:33"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "他沒聽說,也說過「不要等我」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 14:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "「我講的意思很清楚,不用說要等我或什麼,那就大可不必了。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-07 14:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "市長人選提名,陳時中在日前記者會直言:「不要等我啦!」林佳龍接受媒體訪問時則回應,盡快產生候選人是比較負責任的,因為在野黨已經提名了,沒有母雞除了對小雞有影響外,市民也不知道民進黨的主張是什麼。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "沒有",
+                "不知",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道",
+                "負責",
+                "接受"
+            ],
+            "datetime": "2022-06-07 14:49"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "不要等他,是否也會呼籲黨中央就不要等陳時中了?林佳龍回應,「盡快產生候選人是比較負責任的」,在野黨已經提名了,沒有母雞除了對小雞會有影響外,市民不知道這政黨主張是什麼,也不好讓在野黨一個銅板不太會響,民主就是一個嘉年華,健康快樂的心情來參與。",
+            "negative_score": 9,
+            "positive_score": 6,
+            "negative_list": [
+                "不太",
+                "不好",
+                "不知",
+                "不知道",
+                "沒有",
+                "不好",
+                "不知",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "快樂",
+                "快樂的",
+                "知道",
+                "負責",
+                "健康",
+                "快樂"
+            ],
+            "datetime": "2022-06-07 10:58"
+        },
+        {
+            "person": "陳時中",
+            "verb": "宣布",
+            "opinion": "市長人選提名,陳時中在日前記者會直言:「不要等我啦!」林佳龍接受媒體訪問時則回應,盡快產生候選人是比較負責任的,因為在野黨已經提名了,沒有母雞除了對小雞有影響外,市民也不知道民進黨的主張是什麼。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "沒有",
+                "不知",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道",
+                "負責",
+                "接受"
+            ],
+            "datetime": "2022-06-07 14:26"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "2人均由醫療機構照顧,僅要求確診者同住者須隔離,總統蔡英文、行政院長蘇貞昌等接觸者應戴好口罩,若有症狀就快篩。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:33"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "目前確診2人均在醫療機構,會盡最大努力提供最好的醫療服務。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "最好"
+            ],
+            "datetime": "2022-06-09 15:33"
+        },
+        {
+            "person": "陳時中",
+            "verb": "表示",
+            "opinion": "居家隔離部分目前僅有同住者才有相關規定,若有症狀可先做快篩。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:42"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "訪團5日、6日都有PCR檢驗,也都是陰性,直到8日PCR檢驗陽性,目前身體狀況應該還算穩定,醫療機構部分會盡最大能力提供最好的醫療服務。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "能力",
+                "最好",
+                "穩定"
+            ],
+            "datetime": "2022-06-09 14:42"
+        },
+        {
+            "person": "陳時中",
+            "verb": "提到",
+            "opinion": "自己不談選舉,「我講的意思很清楚,不用說要等我或什麼,那就大可不必了。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-10 07:59"
+        },
+        {
+            "person": "陳時中",
+            "verb": "說",
+            "opinion": "都沒有在考慮,現在都在考慮疫情,如何跟大家講清楚說明白,讓大家對疫情更了解、共同抗疫。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "了解",
+                "考慮",
+                "明白",
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-06-10 14:52"
+        },
+        {
+            "person": "陳時中",
+            "verb": "回應",
+            "opinion": "可能想太多了吧,等六月底事情發生了就會知道了,「我個人目前沒有考慮這事情」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有考慮",
+                "沒有"
+            ],
+            "positive_list": [
+                "考慮",
+                "知道"
+            ],
+            "datetime": "2022-06-10 14:28"
+        }
+    ]
+}

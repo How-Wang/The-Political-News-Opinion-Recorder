@@ -1,0 +1,43 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林氏璧.png",
+    "opinions": [
+        {
+            "person": "林氏璧",
+            "verb": "提到",
+            "opinion": "兒童疫苗,莫德納或輝瑞都好,不要挑了。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 13:47"
+        },
+        {
+            "person": "林氏璧",
+            "verb": "說",
+            "opinion": "走向共存的路上,我們應該盡一切努力來減少重症,繼續推廣正確衛教,提高有重症風險因子者的疫苗施打率,提高五日內給藥率,力行輕重症分流。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "減少"
+            ],
+            "positive_list": [
+                "正確",
+                "努力",
+                "提高"
+            ],
+            "datetime": "2022-05-29 13:47"
+        },
+        {
+            "person": "林氏璧",
+            "verb": "強調",
+            "opinion": "接近台大張鑾英老師的論點,在台灣新冠發生兒童腦炎發生率大約萬分之1。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:59"
+        }
+    ]
+}

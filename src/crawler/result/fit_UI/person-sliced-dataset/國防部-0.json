@@ -1,0 +1,439 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "國防部",
+            "verb": "強調",
+            "opinion": "對台政策沒有改變,美國軍方的態度也和白宮一致。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "一致"
+            ],
+            "datetime": "2022-05-24 17:33"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "新的國產偵蒐戰鬥車未來將替換目前「悍馬偵搜車」或「M113甲車」,目的是解決悍馬車裝備老舊、馬力不足、維保困難、防護力不足、火力薄弱及缺乏監偵裝備等問題;而新型國產戰鬥車,未來將會提升新成立的聯合兵種營偵蒐能力。",
+            "negative_score": 9,
+            "positive_score": 5,
+            "negative_list": [
+                "不足",
+                "困難",
+                "缺乏",
+                "問題",
+                "戰鬥",
+                "薄弱",
+                "不足",
+                "困難",
+                "問題"
+            ],
+            "positive_list": [
+                "能力",
+                "提升",
+                "解決",
+                "聯合",
+                "解決"
+            ],
+            "datetime": "2022-05-25 18:15"
+        },
+        {
+            "person": "國防部",
+            "verb": "認為",
+            "opinion": "這些說法令人哭笑不得。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 09:19"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "國軍各式防空飛彈採重層部署方式配置,考量外、離島地區地理條件,國軍已部署小型靈活的雙聯裝刺針飛彈,後續規畫增加部署人攜式刺針飛彈。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "刺針"
+            ],
+            "positive_list": [
+                "增加",
+                "靈活",
+                "靈活的"
+            ],
+            "datetime": "2022-05-26 10:13"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "針對外、離島的飛彈部署,後續規畫增加人攜式刺針飛彈,以持續強化防空戰力。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "刺針"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-26 10:47"
+        },
+        {
+            "person": "國防部",
+            "verb": "強調",
+            "opinion": "國軍深切體認唯有自立自強、自助才能人助,以堅定的自我防衛決心,讓民眾與全世界看見,中華民國為維護台海安全、區域和平穩定所做的努力。",
+            "negative_score": 1,
+            "positive_score": 13,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "才能",
+                "平穩",
+                "安全",
+                "自立",
+                "努力",
+                "決心",
+                "和平",
+                "堅定",
+                "堅定的",
+                "深切",
+                "穩定",
+                "自立自強",
+                "自助"
+            ],
+            "datetime": "2022-05-28 10:59"
+        },
+        {
+            "person": "國防部",
+            "verb": "強調",
+            "opinion": "「國軍護衛家園意志堅定」,為了驗證海、空軍及防空部隊聯合作戰成效,國軍日前實施年度飛彈射擊訓練。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "作戰",
+                "射擊"
+            ],
+            "positive_list": [
+                "合作",
+                "訓練",
+                "堅定",
+                "聯合",
+                "合作"
+            ],
+            "datetime": "2022-05-28 10:59"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "此事涉日本政府內部作業,因此不評論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 12:31"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "此事涉日本政府內部作業,因此不評論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 12:29"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "俄烏戰爭未使美國轉移戰略重心,仍置於印太區域,但研判2027年區域情勢,中共將實現建軍百年目標,將具備遠程海空打擊與區域防空能力,大幅延伸其作戰範圍,其能量足以對台與抗擊外軍作戰。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "打擊",
+                "作戰",
+                "戰爭",
+                "打擊"
+            ],
+            "positive_list": [
+                "能力",
+                "實現"
+            ],
+            "datetime": "2022-06-04 12:22"
+        },
+        {
+            "person": "國防部",
+            "verb": "認為",
+            "opinion": "屆時整體印太區域仍受美中兩強激烈競爭、相互抗衡影響。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "激烈",
+                "競爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 12:22"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "俄烏戰爭未使美國轉移戰略重心,仍置於印太區域,但研判2027年區域情勢,中共將實現建軍百年目標,將具備遠程海空打擊與區域防空能力,大幅延伸其作戰範圍,其能量足以對台與抗擊外軍作戰。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "打擊",
+                "作戰",
+                "戰爭",
+                "打擊"
+            ],
+            "positive_list": [
+                "能力",
+                "實現"
+            ],
+            "datetime": "2022-06-04 10:42"
+        },
+        {
+            "person": "國防部",
+            "verb": "認為",
+            "opinion": "屆時整體印太區域仍受美中兩強激烈競爭、相互抗衡影響。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "激烈",
+                "競爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 10:42"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "此事涉日本政府內部作業,因此不評論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 12:05"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "俄烏戰爭未使美國轉移戰略重心,仍置於印太區域,但研判2027年區域情勢,中共將實現建軍百年目標,將具備遠程海空打擊與區域防空能力,大幅延伸其作戰範圍,其能量足以對台與抗擊外軍作戰。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "打擊",
+                "作戰",
+                "戰爭",
+                "打擊"
+            ],
+            "positive_list": [
+                "能力",
+                "實現"
+            ],
+            "datetime": "2022-06-04 10:02"
+        },
+        {
+            "person": "國防部",
+            "verb": "認為",
+            "opinion": "屆時整體印太區域仍受美中兩強激烈競爭、相互抗衡影響。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "激烈",
+                "競爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 10:02"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "美國基於「台灣關係法」與「六項保證」,持續協助台灣維持足夠自我防衛能力,是維持區域穩定的基礎,國防部對美方軍售決定,表達誠摯感謝。",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "決定",
+                "足夠",
+                "協助",
+                "保證",
+                "能力",
+                "感謝",
+                "誠摯",
+                "穩定",
+                "穩定的",
+                "感謝",
+                "誠摯"
+            ],
+            "datetime": "2022-06-09 12:10"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "因應近期中共機艦於台灣周邊海空域活動頻繁,美國政府宣布對台軍售1億2000萬美元「海軍艦艇零附件及相關技術支援」,有助維持海軍艦艇裝備妥善與消耗補充,全案可望在一個月後生效。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "消耗",
+                "頻繁",
+                "可望"
+            ],
+            "positive_list": [
+                "支援",
+                "生效",
+                "有助"
+            ],
+            "datetime": "2022-06-09 12:10"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "美國基於「台灣關係法」與「六項保證」,持續協助台灣維持足夠之自我防衛能力,是維持區域穩定的基礎,國防部對美方軍售決定,表達誠摯的感謝。",
+            "negative_score": 1,
+            "positive_score": 12,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "決定",
+                "足夠",
+                "協助",
+                "保證",
+                "能力",
+                "感謝",
+                "誠摯",
+                "誠摯的",
+                "穩定",
+                "穩定的",
+                "感謝",
+                "誠摯"
+            ],
+            "datetime": "2022-06-09 12:08"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "美國基於「臺灣關係法」與「六項保證」,持續協助台灣維持足夠之自我防衛能力,是維持區域穩定的基礎,國防部對美方軍售決定,表達誠摯的感謝。",
+            "negative_score": 1,
+            "positive_score": 12,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "決定",
+                "足夠",
+                "協助",
+                "保證",
+                "能力",
+                "感謝",
+                "誠摯",
+                "誠摯的",
+                "穩定",
+                "穩定的",
+                "感謝",
+                "誠摯"
+            ],
+            "datetime": "2022-06-09 13:55"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "美國基於「臺灣關係法」與「六項保證」,持續協助臺灣維持足夠之自我防衛能力,是維持區域穩定的基礎,國防部對美方軍售決定,表達誠摯的感謝。",
+            "negative_score": 1,
+            "positive_score": 12,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "決定",
+                "足夠",
+                "協助",
+                "保證",
+                "能力",
+                "感謝",
+                "誠摯",
+                "誠摯的",
+                "穩定",
+                "穩定的",
+                "感謝",
+                "誠摯"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "美國政府於美東時間6月8日就「海軍艦艇零附件及相關技術支援」總額1億2000萬美元對台軍售案,進行「知會國會」程序,可望在1個月後正式生效。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "可望"
+            ],
+            "positive_list": [
+                "支援",
+                "正式",
+                "生效",
+                "進行"
+            ],
+            "datetime": "2022-06-09 17:22"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "美國政府於美東時間6月8日就「海軍艦艇零附件及相關技術支援」總額1億2000萬美元對台軍售案,進行「知會國會」程序,可望在1個月後正式生效。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "可望"
+            ],
+            "positive_list": [
+                "支援",
+                "正式",
+                "生效",
+                "進行"
+            ],
+            "datetime": "2022-06-09 12:15"
+        },
+        {
+            "person": "國防部",
+            "verb": "說",
+            "opinion": "因應近期中共機艦於我周邊海空域活動頻繁,本次美方同意供售的艦艇零附件品項,有助於維持我海軍艦艇裝備妥善與消耗補充,滿足戰備任務實需。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "消耗",
+                "頻繁"
+            ],
+            "positive_list": [
+                "同意",
+                "有助",
+                "務實",
+                "滿足",
+                "滿足"
+            ],
+            "datetime": "2022-06-09 12:15"
+        },
+        {
+            "person": "國防部",
+            "verb": "評估",
+            "opinion": "已無研改或延壽可行性,預計112年底完成裁撤。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "可行",
+                "完成"
+            ],
+            "datetime": "2022-06-10 16:30"
+        }
+    ]
+}

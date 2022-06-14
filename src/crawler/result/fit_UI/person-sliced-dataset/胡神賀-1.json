@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/胡神賀.png",
+    "opinions": [
+        {
+            "person": "胡神賀",
+            "verb": "表示",
+            "opinion": "這次是首度和國軍體系正式鏈結合作,目前規劃了12家庇護工場和福利處合作,推出可作為零嘴及野戰口糧的果乾、乾燥蔬菜等商品,希望國軍、民眾及社會各界多多支持。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "乾燥",
+                "庇護"
+            ],
+            "positive_list": [
+                "正式",
+                "合作",
+                "希望",
+                "福利",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-06 13:36"
+        }
+    ]
+}

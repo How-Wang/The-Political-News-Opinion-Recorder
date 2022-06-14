@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新竹高中.png",
+    "opinions": [
+        {
+            "person": "新竹高中",
+            "verb": "表示",
+            "opinion": "2022年,也是新竹高中建校一百週年,趁著這個特別的里程碑,於畢業典禮上舉行此一儀式,別具意義。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "特別的",
+                "舉行"
+            ],
+            "datetime": "2022-06-02 12:32"
+        }
+    ]
+}

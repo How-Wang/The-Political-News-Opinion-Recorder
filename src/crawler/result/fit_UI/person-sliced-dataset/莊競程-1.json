@@ -1,0 +1,18 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "莊競程",
+            "verb": "指出",
+            "opinion": "根據教育部的統計資料,國小及幼兒園學童的染疫人數合計超過七萬人,許多家長因為孩子停課而必須請假照顧,對許多家庭將會是很大的負擔。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "負擔",
+                "超過"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 13:47"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/花蓮人.png",
+    "opinions": [
+        {
+            "person": "花蓮人",
+            "verb": "提出",
+            "opinion": "的候選人,呂秀蓮透過臉書批評,就民主政治言,國民兩黨捨棄黨內初選機制,而由黨主席任意提出「口袋」人選,是用人治取代法治,根本違反「公平」與「正當程序」的民主基本原則。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "任意",
+                "批評",
+                "違反",
+                "批評",
+                "違反"
+            ],
+            "positive_list": [
+                "公平",
+                "正當",
+                "公平"
+            ],
+            "datetime": "2022-05-28 16:10"
+        }
+    ]
+}

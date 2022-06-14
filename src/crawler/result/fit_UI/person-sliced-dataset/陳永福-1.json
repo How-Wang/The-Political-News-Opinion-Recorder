@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳永福.png",
+    "opinions": [
+        {
+            "person": "陳永福",
+            "verb": "說",
+            "opinion": "「如何提高自己的效率,工作效率這一本書,送到我們新北市政府,相信新北市的市民,能夠得到更好的照顧。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "效率",
+                "得到",
+                "提高"
+            ],
+            "datetime": "2022-05-26 12:58"
+        }
+    ]
+}

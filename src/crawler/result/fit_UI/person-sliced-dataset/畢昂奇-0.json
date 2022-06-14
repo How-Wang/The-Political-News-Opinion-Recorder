@@ -1,0 +1,80 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/畢昂奇.png",
+    "opinions": [
+        {
+            "person": "畢昂奇",
+            "verb": "宣布",
+            "opinion": "雙方達成「台美21世紀雙邊貿易倡議(USTaiwanInitiateon21thTrade)」,鄧振中更哽咽表示,自己等這個等30年了,倡議目標就是安排一個談判機制,建立可長可久的台美經貿關係。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "哽咽"
+            ],
+            "positive_list": [
+                "達成"
+            ],
+            "datetime": "2022-06-02 11:31"
+        },
+        {
+            "person": "畢昂奇",
+            "verb": "宣布",
+            "opinion": "雙方達成「台美21世紀雙邊貿易倡議」,鄧更哽咽表示,自己等這個等30年了,倡議目標就是安排一個談判機制,建立可長可久的台美經貿關係。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "哽咽"
+            ],
+            "positive_list": [
+                "達成"
+            ],
+            "datetime": "2022-06-02 16:23"
+        },
+        {
+            "person": "畢昂奇",
+            "verb": "宣布",
+            "opinion": "啟動「台美21世紀貿易倡議」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 13:45"
+        },
+        {
+            "person": "畢昂奇",
+            "verb": "表示",
+            "opinion": "由於台北和華府有強烈意願深化經濟關係,美國與台灣的新貿易談判,可能比與印太經濟架構(IPEF)國家更廣泛的談判進展更快。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "強烈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 19:21"
+        },
+        {
+            "person": "畢昂奇",
+            "verb": "表示",
+            "opinion": "由於台北和華府有強烈意願深化經濟關係,美國與台灣的新貿易談判,可能比與印太經濟架構(IPEF)國家更廣泛的談判進展更快。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "強烈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 22:12"
+        },
+        {
+            "person": "畢昂奇",
+            "verb": "宣布",
+            "opinion": "啟動「台美21世紀貿易倡議」;該「倡議」的首次會議將於月底在華府舉行,屆時立法院還未開議,鄧振中躲掉了立法院正式會議的監督。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "舉行"
+            ],
+            "datetime": "2022-06-10 07:10"
+        }
+    ]
+}

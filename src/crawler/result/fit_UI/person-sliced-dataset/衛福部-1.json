@@ -1,0 +1,529 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "衛福部",
+            "verb": "說",
+            "opinion": "現也出現企業要求勞工自願請假、自願離職,以此規避支付薪水的狀況,呼籲勞動部應嚴加注意,建議應比照去年紓困計畫,微調補助對象、條件後,提供個人、受影響產業申請紓困貸款。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "規避"
+            ],
+            "positive_list": [
+                "自願",
+                "注意"
+            ],
+            "datetime": "2022-05-21 11:05"
+        },
+        {
+            "person": "衛福部",
+            "verb": "認為",
+            "opinion": "有可能參選台北市長或桃園市長。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 11:57"
+        },
+        {
+            "person": "衛福部",
+            "verb": "指出",
+            "opinion": "第1輪自4/28實施後,至5/25累計販售888萬9470份(4444萬7,350劑)。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:04"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "自今日起全面實施快篩陽性經醫病共識診斷後確診政策,並強化全國診斷及給藥量能,動員基層醫療體系投入看診、給藥及居家照護服務,並開放居家照護民眾就醫方式,若無法使用視訊診療或使用後仍需就醫,可聯絡衛生局後以防疫車隊、同住親友/確診者陪同或自行前往等方式就醫,儘早獲得適當診治。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "全面",
+                "開放",
+                "衛生",
+                "適當",
+                "獲得",
+                "衛生"
+            ],
+            "datetime": "2022-05-26 13:25"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "目前全球疫情略降,仍顯嚴峻,國內疫情則將進入「高原期」,重症及死亡病例持續上升,請各部會及中央與地方政府間務必加強協力與溝通,以因應疫情帶來之社會衝擊。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "衝擊",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "協力"
+            ],
+            "datetime": "2022-05-26 13:25"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "未來醫療事故有關人員涉及違反法律所定的行政或刑事責任,應就其有無主動通報、積極配合調查或提供資料,為處罰或科刑輕重審酌。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "刑事",
+                "事故",
+                "處罰",
+                "違反",
+                "處罰",
+                "違反"
+            ],
+            "positive_list": [
+                "主動",
+                "法律",
+                "積極"
+            ],
+            "datetime": "2022-05-31 20:11"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說明",
+            "opinion": "草案推動歷程,盼以「即時關懷」、「調解先行」、「事故預防」3原則,促進醫病和諧。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "事故"
+            ],
+            "positive_list": [
+                "和諧",
+                "促進",
+                "關懷"
+            ],
+            "datetime": "2022-05-31 20:11"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "5月底會有約1.2億劑快篩來台,包括亞培3000萬劑、羅氏約6500萬劑,再加上緊急採購的3570萬劑。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 12:12"
+        },
+        {
+            "person": "衛福部",
+            "verb": "呼籲",
+            "opinion": "疫情來到最後關鍵戰役,中央及地方應持續協力合作,提升全民疫苗涵蓋率,並強化衛教資訊取得與系統優化,以減少基層公衛單位工作負擔。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "負擔",
+                "減少",
+                "戰役"
+            ],
+            "positive_list": [
+                "合作",
+                "協力",
+                "提升",
+                "合作"
+            ],
+            "datetime": "2022-06-02 11:31"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說",
+            "opinion": "截至1日新增367例,較前一週的331例上升11%,仍具風險。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 11:31"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說",
+            "opinion": "1日起入境全面改為唾液篩檢,目前已請相關部會盤點後續邊境放寬措施方向。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-06-02 11:31"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "重症及死亡個案持續增加,請各部會及地方政府務必加強管控傳播風險,並強化醫療應處能力,減少疫情對脆弱族群衝擊。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡",
+                "脆弱",
+                "減少",
+                "衝擊"
+            ],
+            "positive_list": [
+                "能力",
+                "增加"
+            ],
+            "datetime": "2022-06-02 11:31"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說明",
+            "opinion": "書僅標示可驗出Alpha、Beta、Gamma、Delta等病毒變異株,但無標示Omicron。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 12:42"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "目前全球疫情略降,但仍顯嚴峻,國內疫情則進入廣泛社區流行,重症及死亡個案持續增加,請各部會及地方政府務必加強管控傳播風險,並強化醫療應處能力,以減少疫情對脆弱族群衝擊。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "死亡",
+                "脆弱",
+                "減少",
+                "衝擊",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "流行",
+                "能力",
+                "增加"
+            ],
+            "datetime": "2022-06-02 11:57"
+        },
+        {
+            "person": "衛福部",
+            "verb": "強調",
+            "opinion": "目前仍處廣泛社區流行,且中南部增幅較大,中重症及死亡比例快速上升。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "流行"
+            ],
+            "datetime": "2022-06-02 11:57"
+        },
+        {
+            "person": "衛福部",
+            "verb": "強調",
+            "opinion": "也將並提供0至6歲幼兒每人5劑、照顧型機構住民及工作人員每人3劑、弱勢民眾每人5劑公費快篩試劑,減輕脆弱族群經濟負擔。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "負擔",
+                "脆弱"
+            ],
+            "positive_list": [
+                "減輕"
+            ],
+            "datetime": "2022-06-02 11:47"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "目前全球疫情略降,但仍顯嚴峻,國內疫情則進入廣泛社區流行,重症及死亡個案持續增加,請各部會及地方政府務必加強管控傳播風險,並強化醫療應處能力,以減少疫情對脆弱族群衝擊。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "死亡",
+                "脆弱",
+                "減少",
+                "衝擊",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "流行",
+                "能力",
+                "增加"
+            ],
+            "datetime": "2022-06-02 11:47"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "依據指揮中心數據,截至6月1日,快篩實名制第1輪全國已經有大約970萬人購買,到現在還有約百萬份的剩餘量,考量供貨穩定、端午連續假期的物流,依照經濟部與指揮中心建議,決定在6月6日啟動快篩實名第2輪,據點的份數由78份增量到117份,方便民眾購買。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "方便",
+                "決定",
+                "穩定"
+            ],
+            "datetime": "2022-06-02 12:32"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "依據指揮中心數據,截至6月1日,快篩實名制第1輪全國已經有大約970萬人購買,到現在還有約百萬份的剩餘量,考量供貨穩定、端午連續假期的物流,依照經濟部與指揮中心建議,決定在6月6日啟動快篩實名第2輪,據點的份數由78份增量到117份,方便民眾購買。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "方便",
+                "決定",
+                "穩定"
+            ],
+            "datetime": "2022-06-02 12:04"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "目前全球疫情略降,但仍顯嚴峻,國內疫情則進入廣泛社區流行,重症及死亡個案持續增加,請各部會及地方政府務必加強管控傳播風險,並強化醫療應處能力,以減少疫情對脆弱族群衝擊。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "死亡",
+                "脆弱",
+                "減少",
+                "衝擊",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "流行",
+                "能力",
+                "增加"
+            ],
+            "datetime": "2022-06-02 12:26"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "提供0-6歲幼兒每人5劑、照顧型機構住民及工作人員每人3劑、弱勢民眾每人5劑公費快篩試劑,減輕脆弱族群經濟負擔。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "負擔",
+                "脆弱"
+            ],
+            "positive_list": [
+                "減輕"
+            ],
+            "datetime": "2022-06-02 12:26"
+        },
+        {
+            "person": "衛福部",
+            "verb": "指出",
+            "opinion": "因應我國際機場防疫自主防護能力已提升,昨日起入境全面改為唾液篩檢,且已請相關部會盤點後續邊境放寬措施方向。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "自主",
+                "能力",
+                "提升"
+            ],
+            "datetime": "2022-06-02 12:26"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說",
+            "opinion": "1922橫向資料準備好了,也還沒接到通知去拿,恩恩爸希望可以一併拿到,為了找出真相,繼續努力拼湊通聯拼圖。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "通知",
+                "準備",
+                "希望"
+            ],
+            "datetime": "2022-06-05 18:44"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "食用油脂中,成人GEs的限量標準,終於在今年1月26日預告,將從113年1月1日實施;但為避免113年標準實施前,不符合歐盟標準油品轉輸入到台灣,食藥署應加強追蹤宣導、採取相關配套管理措施,並輔導業者二次精煉等加工作業、減少GEs含量,確保民眾食安。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不符",
+                "追蹤",
+                "減少",
+                "避免"
+            ],
+            "positive_list": [
+                "符合",
+                "管理",
+                "避免"
+            ],
+            "datetime": "2022-06-06 14:21"
+        },
+        {
+            "person": "衛福部",
+            "verb": "強調",
+            "opinion": "將去函要求院方提出報告說明,瞭解突然不續聘的原因,也會進一步就整體醫院的人事制度上進行查核,確認人事管理如晉用、獎懲、考核等制度上是否有不當之處,釐清醫師權益有無受損。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "突然",
+                "要求"
+            ],
+            "positive_list": [
+                "進行",
+                "管理",
+                "說明",
+                "瞭解",
+                "權益"
+            ],
+            "datetime": "2022-06-07 23:05"
+        },
+        {
+            "person": "衛福部",
+            "verb": "表示",
+            "opinion": "目前全球疫情逐步趨緩,但仍不可輕忽;本土疫情則處於高原期,預期未來會逐漸下降,將密切監測疫情變化、民眾疫苗施打率及醫療量能整備情形,逐步調整防疫政策。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "下降",
+                "不可",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 13:49"
+        },
+        {
+            "person": "衛福部",
+            "verb": "指出",
+            "opinion": "經與殯葬業者討論,實務上有遺體屍體腐化、無法化妝、動線規劃不易等3問題,目前正試圖克服技術問題,研議如何讓遺屬瞻仰遺容並兼顧防疫。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不易",
+                "問題",
+                "無法",
+                "屍體",
+                "問題",
+                "無法"
+            ],
+            "positive_list": [
+                "克服"
+            ],
+            "datetime": "2022-06-09 12:34"
+        },
+        {
+            "person": "衛福部",
+            "verb": "指出",
+            "opinion": "目前全球疫情逐步趨緩,但仍不可輕忽;本土疫情則處於高原期,預期未來會逐漸下降,政府將密切監測疫情變化、民眾疫苗施打率及醫療量能整備情形,逐步調整防疫政策。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "下降",
+                "不可",
+                "不可"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 11:29"
+        },
+        {
+            "person": "衛福部",
+            "verb": "發現",
+            "opinion": "報明牌每天喊+0,甚至還不錯,後來就上癮了,每天報明牌就報了2年,現在才知道報不下去。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "上癮",
+                "不下"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-09 14:53"
+        },
+        {
+            "person": "衛福部",
+            "verb": "指出",
+            "opinion": "6月2日至8日新增49萬9718例,較前一週下降11%;台北區下降30%、北區下降20%、中區上升9%、南區及高屏上升4%,東區下降7%。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "下降"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 12:55"
+        },
+        {
+            "person": "衛福部",
+            "verb": "指出",
+            "opinion": "COVID-19疫情穩定控制,但現在也要關注登革熱疫情。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-06-09 12:55"
+        },
+        {
+            "person": "衛福部",
+            "verb": "提出",
+            "opinion": "精進的作法?薛瑞元上午在行政院會後記者會上回應時表示,目前正在搜集國外資料,但是國外資料可能僅供參考,因為每個國家在民俗、習慣上有所不同,衛福部也曾找第一線處理遺體的殯葬業者詢問,看是否在處理方式上有什麼樣的困難,這部分都有在進行。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "困難",
+                "困難"
+            ],
+            "positive_list": [
+                "習慣",
+                "進行"
+            ],
+            "datetime": "2022-06-09 12:11"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說",
+            "opinion": "一個謊,要用100個謊來圓;一樣的道理,推卸一個責任,就要面對100個無法自圓其說的過往。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "道理"
+            ],
+            "datetime": "2022-06-10 09:15"
+        },
+        {
+            "person": "衛福部",
+            "verb": "說明",
+            "opinion": "全球疫情狀況,以及因應大流行階段的相關準備措施,包含地方衛生系統目前準備狀況,簡報中的各國資訊,也都是公開資料。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "流行",
+                "準備",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-12 17:26"
+        }
+    ]
+}

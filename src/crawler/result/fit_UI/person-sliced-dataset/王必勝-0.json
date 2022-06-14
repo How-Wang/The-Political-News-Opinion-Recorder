@@ -1,0 +1,208 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "雙北叫不動醫院?暗指地方防疫不力?新北自4月11日,至5月21日,累計照護達29萬9040人,解隔康復達17萬8192人。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暗指"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 21:52"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "「我們的意見常常不一樣,但不一樣就是繼續討論,找出一個平衡點,我覺得這就是中央跟地方合作的精神。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平衡",
+                "合作",
+                "合作的",
+                "平衡",
+                "合作"
+            ],
+            "datetime": "2022-05-22 18:06"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "「有嗎?看起來有嗎?沒有!我們溝通一直都很順暢。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:06"
+        },
+        {
+            "person": "王必勝",
+            "verb": "回應",
+            "opinion": "。不過,被問及柯文哲快篩陽性後的狀況為何?黃珊珊於會後受訪時說明,柯文哲今天喉嚨不舒服,因此有做採檢,目前正在等PCR結果。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不舒服"
+            ],
+            "positive_list": [
+                "舒服",
+                "說明"
+            ],
+            "datetime": "2022-05-22 17:13"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說",
+            "opinion": "「會在時限內圓滿達成任務」,這是軍人本色。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "圓滿",
+                "達成"
+            ],
+            "datetime": "2022-05-22 01:39"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "松山機場設立篩檢站的理由。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 01:39"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "台北市民需要的PCR量能仍高,平時準備的PCR量能應該充分發揮出來,「此時不用更待何時?」王必勝還指出,台北市的PCR篩檢站大都設在醫院場域內,醫院內比較不容易有充足的空間,也多少會妨礙醫療作業運行。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "妨礙"
+            ],
+            "positive_list": [
+                "充分",
+                "充足",
+                "充足的",
+                "容易",
+                "準備"
+            ],
+            "datetime": "2022-05-22 01:39"
+        },
+        {
+            "person": "王必勝",
+            "verb": "強調",
+            "opinion": "平時準備的PCR量能要充分發揮,此時不用更待何時?他點出,北市篩檢站都在醫院場域,醫院不容易有充足的空間,而北市一向有自己戰略思考,未必會認同,應中央地方合作防疫才能成功。",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "未必"
+            ],
+            "positive_list": [
+                "才能",
+                "充分",
+                "充足",
+                "充足的",
+                "合作",
+                "成功",
+                "思考",
+                "容易",
+                "準備",
+                "合作",
+                "認同"
+            ],
+            "datetime": "2022-05-22 17:51"
+        },
+        {
+            "person": "王必勝",
+            "verb": "說明",
+            "opinion": "台北市民需要的PCR量能仍高。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 17:51"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "「我們的意見常常不一樣,但意見不一樣就是繼續討論,找出一個平衡點,這就是中央跟地方合作的精神。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "平衡",
+                "合作",
+                "合作的",
+                "平衡",
+                "合作"
+            ],
+            "datetime": "2022-05-22 17:25"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "從各大採檢站的實際狀況觀察,台北市民需要的PCR量能仍高,因此認為平時準備的PCR量能,應該充分發揮出來,「此時不用更待何時?」王必勝指出,台北市的PCR篩檢站大都設在醫院場域內,醫院內比較不容易有充足的空間,也多少會妨礙醫療作業運行。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "妨礙"
+            ],
+            "positive_list": [
+                "充分",
+                "充足",
+                "充足的",
+                "容易",
+                "準備",
+                "實際"
+            ],
+            "datetime": "2022-05-22 07:52"
+        },
+        {
+            "person": "王必勝",
+            "verb": "提到",
+            "opinion": "台北市的木柵、北士科以及中央合作新設的自由廣場「車來速」篩檢站,是很適合台北市的設計,運作也很順利。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "科以"
+            ],
+            "positive_list": [
+                "合作",
+                "自由",
+                "順利",
+                "適合",
+                "合作",
+                "自由"
+            ],
+            "datetime": "2022-05-22 07:52"
+        },
+        {
+            "person": "王必勝",
+            "verb": "表示",
+            "opinion": "這次雖然很辛苦,但很高興看到有史以來最多理念相近的國家幫台灣發言,都是直接支持台灣,這些國家也都肯定台灣防疫工作,相信一定會得到愈多肯定。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "肯定",
+                "相信",
+                "高興",
+                "得到",
+                "高興"
+            ],
+            "datetime": "2022-05-27 18:09"
+        }
+    ]
+}

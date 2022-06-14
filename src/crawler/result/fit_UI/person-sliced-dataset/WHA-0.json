@@ -1,0 +1,522 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "WHA",
+            "verb": "指出",
+            "opinion": "第75屆世界衛生大會將於瑞士日內瓦召開,但台灣仍有相當大程度被排除於全球國際公衛體系外,台灣的專家現正盡全力對抗擴散中的新冠病毒社區感染,而阻擋台灣參加世界衛生大會將使這些努力受限,也有損全球健康安全。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "排除",
+                "感染",
+                "對抗"
+            ],
+            "positive_list": [
+                "全力",
+                "安全",
+                "努力",
+                "健康",
+                "參加",
+                "專家",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 15:58"
+        },
+        {
+            "person": "WHA",
+            "verb": "表示",
+            "opinion": "愈來愈多的國家清楚表態,希望台灣應該參加WHA,也盼更多的國家表達支持台灣早日參加世界衛生組織的態度,讓台灣貢獻國際社會,也讓台灣被看見。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "參加",
+                "清楚",
+                "衛生",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 12:37"
+        },
+        {
+            "person": "WHA",
+            "verb": "指出",
+            "opinion": "第75屆世界衛生大會將於日內瓦召開,但台灣仍有相當大程度被排除於全球國際公衛體系外,台灣的專家現正盡全力對抗擴散中的新冠病毒社區感染,而阻擋台灣參加世界衛生大會將使這些努力受限,也有損全球健康安全。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "排除",
+                "感染",
+                "對抗"
+            ],
+            "positive_list": [
+                "全力",
+                "安全",
+                "努力",
+                "健康",
+                "參加",
+                "專家",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 11:05"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "為國人健康、國家利益與亞太和平,蔡英文一定要恢復兩岸協商,重建兩岸互信,如此才是根本之道。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "利益",
+                "和平",
+                "健康"
+            ],
+            "datetime": "2022-05-21 10:03"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "的看法?我國不能與會是否跟中共打壓有關?陳時中時中語重心長表示,「這東西其實很難回答,我認為我們參加國際組織活動,讓台灣在國際參與與能見度提高,也把能力貢獻是好事」,他說,我們是地球村的一份子,雖國際局勢也有詭譎多變的地方,但「我們會保持正向、會不矮化自己、而是積極貢獻來參加。」",
+            "negative_score": 4,
+            "positive_score": 6,
+            "negative_list": [
+                "不能",
+                "好事",
+                "打壓",
+                "東西"
+            ],
+            "positive_list": [
+                "好事",
+                "能力",
+                "參加",
+                "提高",
+                "積極",
+                "好事"
+            ],
+            "datetime": "2022-05-21 15:21"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "蔡英文總統恢復兩岸協商,才是解決問題的根本之道。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-21 12:16"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "政府一定要恢復兩岸協商。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:53"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "為國人健康、國家利益與亞太和平,蔡總統一定要恢復兩岸協商,重建兩岸互信,如此才是根本之道。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "利益",
+                "和平",
+                "健康"
+            ],
+            "datetime": "2022-05-21 10:06"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "蔡英文總統要恢復兩岸協商,才是根本之道。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:02"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "WHA不該排除台灣,總統蔡英文特別錄製影片,由衛福部次長李麗芬帶到瑞士日內瓦第一線,感謝海外僑胞為台灣發聲,友邦官員也到場力挺。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "特別",
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 18:02"
+        },
+        {
+            "person": "WHA",
+            "verb": "強調",
+            "opinion": "台灣不應被排除在WHA外,台灣先進醫療衛生成就與能力一定能為維護全球健康帶來強勁力量。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "成就",
+                "能力",
+                "健康",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "WHA",
+            "verb": "痛批",
+            "opinion": "馬英九能年年去WHA,「全靠舔共,因為他逕自矮化台灣主權,向中國輸誠」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 10:26"
+        },
+        {
+            "person": "WHA",
+            "verb": "指出",
+            "opinion": "該等決議僅處理「中國代表權問題」,相關決議並未授權中國在聯合國體系代表台灣;友邦同時有力強調,台灣以觀察員身分參與WHA是一個衛生議題,與政治無涉。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "有力",
+                "衛生",
+                "聯合",
+                "衛生"
+            ],
+            "datetime": "2022-05-23 19:55"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "可能會是擺在第一首要的,台灣的力量非常大,我覺得我們可以給台灣帶來的力量會更大,包括收容難民。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "難民"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 16:21"
+        },
+        {
+            "person": "WHA",
+            "verb": "指出",
+            "opinion": "不應該讓任何人民排除在外,因此海地一直希望台灣可以一起在健康議題合作,作為WHA的觀察員。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "排除",
+                "不應該"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "健康",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-05-24 22:00"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "需要遵循平等原則,同舟共濟,沒有人該被遺漏,全面支持台灣參加WHA。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "遺漏",
+                "沒有"
+            ],
+            "positive_list": [
+                "平等",
+                "全面",
+                "參加"
+            ],
+            "datetime": "2022-05-24 22:00"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "「美國英國澳大利亞法國德國加拿大盧森堡立陶宛,等少數國家代表,置各方共識於不顧,執意發表不負責任言論,嚴重違反一個中國原則,中方對此堅決反對,中國中央政府對台灣地區,參與全球衛生事務,做了完善安排。」",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "不負責任",
+                "不顧",
+                "反對",
+                "違反",
+                "嚴重",
+                "不顧",
+                "違反"
+            ],
+            "positive_list": [
+                "負責",
+                "堅決",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 21:23"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "聯合國讓台灣參與WHA,有助於國際社會從台灣公衛經驗中受益。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "有助",
+                "經驗",
+                "聯合"
+            ],
+            "datetime": "2022-05-24 18:20"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "聯合國讓台灣參與WHA,有助於國際社會從台灣公衛經驗中受益。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "有助",
+                "經驗",
+                "聯合"
+            ],
+            "datetime": "2022-05-24 16:14"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "WHO以及各利害相關方支持台灣參加WHA,完整參與WHO各項會議、機制和活動,落實WHO憲章「健康是基本人權」以及聯合國永續發展目標「不遺漏任何人」。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "遺漏"
+            ],
+            "positive_list": [
+                "完整",
+                "健康",
+                "參加",
+                "發展",
+                "聯合"
+            ],
+            "datetime": "2022-05-25 06:21"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "「例如說台灣,不應該造成任何地理上的真空,不應該排除任何人的參加。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "排除",
+                "不應該"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-25 18:45"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "「我們所有人都必須要同舟共濟,這就是為什麼捷克共和國,全面支持台灣可以被授予,WHA大會的觀察員地位。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "地位"
+            ],
+            "datetime": "2022-05-25 18:45"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "「也希望強調,應該提到各個地區的成功例子,成功的抗疫,來保證公共衛生的應對,例如說台灣,不應該造成任何地理上的真空,不應該排除任何人的參加。」",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "排除",
+                "不應該"
+            ],
+            "positive_list": [
+                "成功",
+                "成功的",
+                "希望",
+                "保證",
+                "參加",
+                "衛生",
+                "衛生的",
+                "希望",
+                "衛生"
+            ],
+            "datetime": "2022-05-25 12:42"
+        },
+        {
+            "person": "WHA",
+            "verb": "呼籲",
+            "opinion": "WHO以及各利害相關方支持台灣參加WHA,完整參與WHO各項會議、機制和活動,落實WHO憲章「健康是基本人權」以及聯合國永續發展目標「不遺漏任何人」。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "遺漏"
+            ],
+            "positive_list": [
+                "完整",
+                "健康",
+                "參加",
+                "發展",
+                "聯合"
+            ],
+            "datetime": "2022-05-25 06:55"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "希望下次來台交流可以不用隔離檢疫!衛福部次長李麗芬說,「我們有跟她講說有信心,我們有信心她來的時候,政策一定會有不一樣的改變,因為我們10月衛福部會舉辦,全球的健康與福祉的論壇。」",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "有信心",
+                "希望",
+                "信心",
+                "健康",
+                "希望",
+                "信心",
+                "福祉"
+            ],
+            "datetime": "2022-05-26 08:24"
+        },
+        {
+            "person": "WHA",
+            "verb": "指出",
+            "opinion": "在達成目標之前,還有很多的事可做,讓台灣在堅持主權不受剝奪情況下實質參與,例如這幾年舉辦周邊及多邊的會談與合作,「與更多理念相近國家在平等的情況下推動更多實質合作,就是現階段用來突破和促進的策略」。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "剝奪",
+                "不受",
+                "剝奪"
+            ],
+            "positive_list": [
+                "平等",
+                "合作",
+                "促進",
+                "很多",
+                "很多的",
+                "堅持",
+                "達成",
+                "合作"
+            ],
+            "datetime": "2022-05-28 17:31"
+        },
+        {
+            "person": "WHA",
+            "verb": "指出",
+            "opinion": "在達成目標之前,還有很多的事可做,讓台灣在堅持主權不受剝奪情況下實質參與,例如這幾年舉辦周邊及多邊的會談與合作,「與更多理念相近國家在平等的情況下推動更多實質合作,就是現階段用來突破和促進的策略」。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "剝奪",
+                "不受",
+                "剝奪"
+            ],
+            "positive_list": [
+                "平等",
+                "合作",
+                "促進",
+                "很多",
+                "很多的",
+                "堅持",
+                "達成",
+                "合作"
+            ],
+            "datetime": "2022-05-28 18:16"
+        },
+        {
+            "person": "WHA",
+            "verb": "強調",
+            "opinion": "應將台灣納入全球衛生架構,對於法國展現堅定力挺台灣的立場,台灣深表感謝,盼兩國關係在既有深厚基礎上持續友好及深化。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "堅定",
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-06-04 21:32"
+        },
+        {
+            "person": "WHA",
+            "verb": "表示",
+            "opinion": "透過頒贈「大綬卿雲勳章」感謝葛利歐為台法關係的努力與貢獻,期待未來台灣與法國在各領域持續深化合作;今年上半年,法國是歐盟的輪值主席,歐盟在2月通過歐洲晶片法案,強調台灣先進的晶片技術以及共同合作的意願。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "努力",
+                "通過",
+                "期待",
+                "感謝",
+                "合作",
+                "期待",
+                "感謝"
+            ],
+            "datetime": "2022-06-09 11:06"
+        },
+        {
+            "person": "WHA",
+            "verb": "說",
+            "opinion": "日本6月10日開始開放外國觀光客入境,台灣的入境檢疫隔離天數將放寬為3+4天,這意味著日本民眾訪台的日子指日可待,期待台日早日重啟交流。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "期待",
+                "開放",
+                "期待"
+            ],
+            "datetime": "2022-06-12 23:35"
+        }
+    ]
+}

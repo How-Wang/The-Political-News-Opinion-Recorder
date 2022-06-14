@@ -1,0 +1,32 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/杜美.png",
+    "opinions": [
+        {
+            "person": "杜美",
+            "verb": "指出",
+            "opinion": "少了市場准入,將限縮倡議能為美國勞工、製造商與消費者帶來的益處。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 07:12"
+        },
+        {
+            "person": "杜美",
+            "verb": "表示",
+            "opinion": "該倡議雖是強化美台貿易關係的重要第一步,但倡議目前排除傳統上作為自由貿易協定(FTA)基石的市場准入條款,包含削減雙邊進口關稅。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "削減",
+                "排除"
+            ],
+            "positive_list": [
+                "自由",
+                "重要",
+                "自由"
+            ],
+            "datetime": "2022-06-03 07:12"
+        }
+    ]
+}

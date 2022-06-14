@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪輝祥.png",
+    "opinions": [
+        {
+            "person": "洪輝祥",
+            "verb": "指出",
+            "opinion": "過去陸蟹族群可能有百萬隻等級,但是現在大概剩下過去的百分之一,保護陸蟹不是劃個保護區就好了。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "保護"
+            ],
+            "datetime": "2022-05-26 11:45"
+        }
+    ]
+}

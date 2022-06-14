@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/河野太郎.png",
+    "opinions": [
+        {
+            "person": "河野太郎",
+            "verb": "說",
+            "opinion": "此事以後也大吃一驚,「他萬萬沒想到,自己的推特也被當作認知作戰的工具。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "大吃一驚",
+                "作戰",
+                "大吃一驚",
+                "沒想",
+                "沒想到",
+                "被當"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:13"
+        }
+    ]
+}

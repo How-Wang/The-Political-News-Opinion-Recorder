@@ -1,0 +1,49 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "于北辰",
+            "verb": "表示",
+            "opinion": "國民黨主席朱立倫自豪派張善政讓綠營自亂陣腳,確實也是如此,因為張善政太好打,所有人都自認會贏,都來搶提名。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "自認"
+            ],
+            "positive_list": [
+                "自豪",
+                "確實",
+                "太好"
+            ],
+            "datetime": "2022-05-25 18:39"
+        },
+        {
+            "person": "于北辰",
+            "verb": "認為",
+            "opinion": "照朱立倫個性,不會輕易更換桃園市長人選。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 18:39"
+        },
+        {
+            "person": "于北辰",
+            "verb": "表示",
+            "opinion": "飛行夾克上有中華民國國旗,就是因為當時在二戰時期空戰表現卓越,所以把包含聯合國、美國、日本,四個最頂尖飛行員的國家或組織放在飛行夾克背面,「當年中華民國的飛虎隊聞名世界,背在背上是個榮譽。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "卓越",
+                "榮譽",
+                "聯合",
+                "榮譽"
+            ],
+            "datetime": "2022-05-27 15:49"
+        }
+    ]
+}

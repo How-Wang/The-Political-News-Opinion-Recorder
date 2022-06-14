@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/威爾森.png",
+    "opinions": [
+        {
+            "person": "威爾森",
+            "verb": "提到",
+            "opinion": "「這次烏克蘭的國土防衛部隊令人相當敬佩,威爾森與烏克蘭、瑞典及芬蘭的國土防衛相關組織之合作非常具有意義,台灣很希望未來有機會參與相關交流,進一步強化全民動員防衛」。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "合作",
+                "有意義",
+                "希望",
+                "機會",
+                "合作",
+                "希望",
+                "敬佩"
+            ],
+            "datetime": "2022-06-04 08:30"
+        }
+    ]
+}

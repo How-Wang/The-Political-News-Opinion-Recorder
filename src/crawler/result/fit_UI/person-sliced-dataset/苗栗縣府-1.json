@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "苗栗縣府",
+            "verb": "表示",
+            "opinion": "20日接獲通報,有民眾在YouTube上傳自養犬隻狩獵山羌的影片。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "狩獵"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 10:35"
+        }
+    ]
+}

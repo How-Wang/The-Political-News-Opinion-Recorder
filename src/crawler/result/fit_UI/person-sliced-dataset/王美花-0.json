@@ -1,0 +1,141 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "王美花",
+            "verb": "強調",
+            "opinion": "台美之間,會找到「新做法」,繼續深化經貿關係。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 12:45"
+        },
+        {
+            "person": "王美花",
+            "verb": "指出",
+            "opinion": "貿易代表戴琪(KathrineTai)5月29日在亞太經濟合作會議(APEC)貿易部長會議場邊會晤台灣政務委員鄧振中,討論深化美台經濟合作,並相約數周後再次會面,雙方會繼續討論深化台美關係的做法,絕對有新的做法會出來。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "絕對"
+            ],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-23 10:14"
+        },
+        {
+            "person": "王美花",
+            "verb": "表示",
+            "opinion": "不會影響台灣半導體競爭力。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "競爭",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 10:14"
+        },
+        {
+            "person": "王美花",
+            "verb": "回應",
+            "opinion": "表示,台灣強項在於製造,在上述產業擁有諸多廠商,另有上銀、友達及拓連科技等廠商在該州設立據點,會後將請台灣業者把該州列為投資參考標的,鼓勵我商籌組經貿訪問團赴該州。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "鼓勵",
+                "擁有"
+            ],
+            "datetime": "2022-06-01 21:08"
+        },
+        {
+            "person": "王美花",
+            "verb": "指出",
+            "opinion": "對產業來講,這是重要議題,今天下午有與相關產業界打電話,產業界認為台美可以有貿易倡議,未來還會進行談判,對很多貿易機制來做相關規範,他們都覺得這是一個好的方向,更是台灣的重大突破,對於政府能夠推進貿易倡議,都表達高度肯定。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "很多",
+                "重大",
+                "重要",
+                "推進",
+                "規範",
+                "進行"
+            ],
+            "datetime": "2022-06-01 22:08"
+        },
+        {
+            "person": "王美花",
+            "verb": "表示",
+            "opinion": "在2016年至2020年擔任次長期間,促成歐盟成員國多項農產品進口。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "促成"
+            ],
+            "datetime": "2022-06-02 19:56"
+        },
+        {
+            "person": "王美花",
+            "verb": "表示",
+            "opinion": "經濟安全與國家安全同等重要,因此台灣能與美國洽談貿易倡議,是台灣未來與世界各國合作的重要基礎,在行政院經貿談判辦公室將跨部會討論細項,經濟部將以對產業界最有利的情況,爭取深化台美經貿關係。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "安全",
+                "有利",
+                "有利的",
+                "重要",
+                "合作"
+            ],
+            "datetime": "2022-06-02 19:35"
+        },
+        {
+            "person": "王美花",
+            "verb": "表示",
+            "opinion": "經濟安全與國家安全同等重要,因此台灣能與美國洽談貿易倡議,是台灣未來與世界各國合作的重要基礎,在行政院經貿談判辦公室將跨部會討論細項,經濟部將以對產業界最有利的情況,爭取深化台美經貿關係。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "安全",
+                "有利",
+                "有利的",
+                "重要",
+                "合作"
+            ],
+            "datetime": "2022-06-02 12:05"
+        },
+        {
+            "person": "王美花",
+            "verb": "強調",
+            "opinion": "台灣將持續扮演全球半導體產業值得信賴的夥伴,並協助穩定供應鏈韌性。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "信賴",
+                "值得",
+                "值得信賴",
+                "值得信賴的",
+                "夥伴",
+                "穩定"
+            ],
+            "datetime": "2022-06-02 20:53"
+        }
+    ]
+}

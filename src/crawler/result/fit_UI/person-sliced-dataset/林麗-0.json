@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林麗.png",
+    "opinions": [
+        {
+            "person": "林麗",
+            "verb": "說",
+            "opinion": "「這些債務非常有可能,是在遭到檢廉搜索之後,為了要脫罪,以及合理化的違法行為,希望縣長能夠交代,她和楊吉雄先生的借貸關係。」",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "債務",
+                "搜索",
+                "違法"
+            ],
+            "positive_list": [
+                "合理",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-07 18:43"
+        }
+    ]
+}

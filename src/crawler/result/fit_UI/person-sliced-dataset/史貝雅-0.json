@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/史貝雅.png",
+    "opinions": [
+        {
+            "person": "史貝雅",
+            "verb": "指出",
+            "opinion": "該州擁有優良育成環境,提供許多商機,並有諸多大學參與育成計畫,期雙邊加強生醫產業合作。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "擁有",
+                "優良",
+                "合作"
+            ],
+            "datetime": "2022-06-01 21:08"
+        }
+    ]
+}

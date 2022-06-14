@@ -1,0 +1,709 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "到,「中國默許台灣以中華台北的名義參加奧運會,但對參加WHA,卻提出了更高的要求」,這屬於得寸進尺,台灣一旦讓步,中國只會進一步打壓台灣的國際空間。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "要求",
+                "打壓"
+            ],
+            "positive_list": [
+                "參加",
+                "讓步"
+            ],
+            "datetime": "2022-05-21 21:34"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "提出",
+            "opinion": "2點分析表示,「這是台灣的主權問題、尊嚴問題」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "尊嚴",
+                "尊嚴"
+            ],
+            "datetime": "2022-05-21 21:34"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "提到",
+            "opinion": "前總統馬英九今日表示,自己任內「年年參加WHA」,呼籲蔡英文總統恢復兩岸協商,才是解決問題的根本之道。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "參加",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-21 21:34"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "到,每年一次的世界衛生大會(WHA)明天即將在日內瓦召開。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 21:34"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "中國最害怕的是,日美在首腦會談後的共同聲明中「在台灣問題上有所突破」,也擔心拜登訪問日本後心血來潮「抽半天時間到台北走一走」,假如這樣的話,中國在國際社會上鼓吹多年的一個中國政策將瞬間瓦解。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "瓦解",
+                "害怕",
+                "害怕的",
+                "問題",
+                "擔心",
+                "害怕",
+                "問題",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "拜登第一站先去南韓見新總統尹錫悅,主要是為了加固對中國的包圍網。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "包圍"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "這是為「俄烏戰爭」之後的國際秩序佈局而來,可能將對今後的國際形勢有深遠的影響。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [
+                "秩序"
+            ],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "美國總統拜登來訪亞洲,是為俄烏戰爭之後的國際秩序佈局而來。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [
+                "秩序"
+            ],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "「中國最害怕的是,日美在首腦會談後的共同聲明中,在台灣問題上有所突破;也擔心拜登訪問日本後心血來潮,抽半天時間到台北走一走。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "害怕",
+                "害怕的",
+                "問題",
+                "擔心",
+                "害怕",
+                "問題",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "在外交上,能把中國逼到事先放如此狠話,實屬罕見。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "罕見"
+            ],
+            "datetime": "2022-05-21 09:50"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "「你如果接受中國的條件以中國的一部分的名義,加入WHO的話那可能所有支持你的國家,可能就會馬上,大家的支持就會散掉。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-22 18:02"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "台灣的13個友邦,和往年一樣向大會提出了要求讓台灣以觀察員身分參加大會的提案,但是,如果不出意外,該提案將在22日晚上的WHA總務委員會上被否決。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "否決",
+                "要求",
+                "意外",
+                "不出"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-22 11:00"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "馬英九說的很輕鬆,但我們在考慮這個問題的時候,不能忽視台灣的主權問題、尊嚴問題。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不能",
+                "忽視",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "考慮",
+                "尊嚴",
+                "輕鬆",
+                "尊嚴",
+                "輕鬆"
+            ],
+            "datetime": "2022-05-22 11:00"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "台灣能否參加WHA,已經成為民主陣營和獨裁國家博弈的舞台。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "獨裁",
+                "獨裁"
+            ],
+            "positive_list": [
+                "成為",
+                "參加"
+            ],
+            "datetime": "2022-05-22 11:00"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "日理萬機的前首相安倍,特地用英文寫文章投書給美國媒體,自然不是為了賺取稿費或提高知名度,而是一種外交上的表態,應該事先得到了美日雙方政府的默許,「而拜登今天的發言,正是對安倍提案的回答」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "自然",
+                "得到",
+                "提高"
+            ],
+            "datetime": "2022-05-23 22:32"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "拜登這個時候專程訪問日本,說不定就是為了說這句話而來的。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不定",
+                "不定"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-23 22:32"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "美國已經調整了協防台灣的基本政策,從「戰略模糊」變成了「戰略清晰」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "模糊"
+            ],
+            "positive_list": [
+                "清晰"
+            ],
+            "datetime": "2022-05-23 22:32"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "事後白宮對拜登的發言做出了回應,強調「美國對台政策未改變」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 22:32"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "莫里森是這些年來對中國政策最為強硬的外國領導人之一,近年一直追究新冠病毒來源,同時對來自中國的種種滲透具強烈戒心,推出很多「防中」政策,也因此中國官媒對莫里森的政黨落敗顯得興高采烈,有一些網路媒體甚至用「死硬的反華分子出局」為標題,報導這次澳大利亞的選舉。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "強烈",
+                "滲透"
+            ],
+            "positive_list": [
+                "很多",
+                "興高采烈",
+                "興高采烈"
+            ],
+            "datetime": "2022-05-23 11:46"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "艾班尼斯上台後對中國政策,只會進行「戰術上的調整」,而不會進行「戰略上的調整」,澳中關係或許會有改善、但不會很大。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "改善",
+                "進行",
+                "改善"
+            ],
+            "datetime": "2022-05-23 11:46"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "提到",
+            "opinion": "至於後來美國國防部回應的「對台政策沒有改變」,可以理解為一種外交上的套話,就好像普丁也經常強調「愛好和平」一樣,沒有任何實質意義。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "和平",
+                "理解",
+                "愛好",
+                "愛好和平"
+            ],
+            "datetime": "2022-05-24 21:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "自己仔細觀看了昨天記者會的全過程。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 21:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "這些說法,讓人感到哭笑不得。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 21:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "以他的經驗來看,拜登絕對不可能說錯話。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "絕對",
+                "不可"
+            ],
+            "positive_list": [
+                "經驗"
+            ],
+            "datetime": "2022-05-24 21:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "拜登半年前曾有相同發言,這次「公開表態自然不可能是再次說錯話」,而白宮的「補充說明」他直指「除了能給中國留點面子,基本上沒有任何意義。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "沒有",
+                "不可",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "自然",
+                "說明"
+            ],
+            "datetime": "2022-05-24 10:18"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "「基本上可以做出結論:美國已經調整了協防台灣的基本政策,從戰略模糊變成了戰略清晰。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "模糊"
+            ],
+            "positive_list": [
+                "清晰"
+            ],
+            "datetime": "2022-05-24 10:18"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "這一次的拜登發言之後,中國外交部發言人汪文斌立刻回嗆「不要站在14億中國人民的對立面」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "對立",
+                "對立面",
+                "不要",
+                "對立"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 10:25"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "美國國防部後來回應的「對台政策沒有改變」,可以理解為一種外交上的套話,就如同普丁也經常強調「愛好和平」一樣,沒有任何實質意義。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "和平",
+                "理解",
+                "愛好",
+                "愛好和平"
+            ],
+            "datetime": "2022-05-25 09:19"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "以他過去參加國際記者會的經驗,「拜登絕對不可能是說錯話」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "絕對",
+                "不可"
+            ],
+            "positive_list": [
+                "參加",
+                "經驗"
+            ],
+            "datetime": "2022-05-25 09:19"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "這次拜登發言之後,中國外交部發言人汪文斌立刻回嗆「不要站在14億中國人民的對立面」。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "對立",
+                "對立面",
+                "不要",
+                "對立"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 09:19"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "前日相安倍晉三近來多次呼籲,美國應放棄對台戰略模糊,今年4月12日投書《洛杉磯時報》,直言戰略模糊「已經過時」,助長印太地區不穩、使中國低估美國決心,也讓台灣當局有不必要的焦慮。",
+            "negative_score": 8,
+            "positive_score": 3,
+            "negative_list": [
+                "不必要",
+                "不必要的",
+                "不穩",
+                "放棄",
+                "焦慮",
+                "過時",
+                "模糊",
+                "焦慮"
+            ],
+            "positive_list": [
+                "必要",
+                "助長",
+                "決心"
+            ],
+            "datetime": "2022-05-25 08:30"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "日幣相比2019年便宜20%左右,去日本玩每頓晚餐可以多加一道菜或啤酒,甚至想在日本置業等於打8折買到房子。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "便宜"
+            ],
+            "datetime": "2022-05-28 15:22"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "他曾被嘲諷打高端疫苗回不了日本,不過如今證明日方沒歧視高端疫苗施打者,且日方崇尚科學,好東西就一定會被承認。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不了",
+                "東西",
+                "歧視",
+                "嘲諷"
+            ],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-05-28 15:22"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "雖然日本疫情尚未完全結束,但首相岸田文雄已經決定開放國門,且台灣在區分上屬於最安全的藍色,也就代表台灣人入境日本時不需要做PCR檢查,而且不論有無接種疫苗都不用隔離。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "尚未",
+                "隔離"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "決定",
+                "開放"
+            ],
+            "datetime": "2022-05-28 15:22"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "「和日本比起來,台灣是『假新聞的重災區』」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:13"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "他認為郭彥均事件所引發的效應讓外界感受到台灣正面臨一波強大的認知作戰攻擊。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "作戰",
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [
+                "正面",
+                "強大",
+                "強大的"
+            ],
+            "datetime": "2022-05-31 10:13"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "日本很多保守派人士認為,如果在台灣海峽出現類似的武力衝突,按照日本當前的法律,日本是很難做到像波蘭那樣支援台灣的。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "武力",
+                "衝突",
+                "保守",
+                "衝突"
+            ],
+            "positive_list": [
+                "支援",
+                "法律",
+                "很多"
+            ],
+            "datetime": "2022-06-01 09:35"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "這些年的日台關係,主要還是靠民間的力量在推動,民間的互信關係,會推動政府做出政策上的改變。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:35"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "這個數字是非常驚人的,應該遠遠超過了日本政府對台海局勢的風險評估,將會影響日本政策。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "超過",
+                "驚人",
+                "驚人的",
+                "驚人"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 09:35"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "幾十年來他在悼念六四事件期間都會去採訪相關紀念活動,去得最多的是香港維多利亞公園。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "紀念"
+            ],
+            "datetime": "2022-06-06 09:23"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "他差一點以為是讀到了中國外交部發言人的談話。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:23"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "國民黨內有些人,對中國的理解、對人權問題的認識,已經和國際社會的主流價值觀越走越遠了。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "理解"
+            ],
+            "datetime": "2022-06-06 09:23"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "反觀美方早在20年前就開始派遣現役上校至AIT擔任武官,近年美台軍事方面的廣泛合作,據說和駐台武官的貢獻有很大關係。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-06 08:20"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "第二,是來自美國的壓力。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 08:20"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "提到",
+            "opinion": "「去年原本要出口到中國的鳳梨,因檢驗不合格被取消後,被大量轉銷到了日本,卻沒聽說過在日本海關查出什麼問題。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不合",
+                "不合格",
+                "取消",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "合格"
+            ],
+            "datetime": "2022-06-12 10:04"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "呼籲",
+            "opinion": "相關業者「應及時做好轉型的準備」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-12 10:04"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "提到",
+            "opinion": "「日本人是全世界最愛吃魚的民族」,認為台灣石斑魚在日本應該很有商機。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "愛吃"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:04"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳邁如.png",
+    "opinions": [
+        {
+            "person": "陳邁如",
+            "verb": "宣布",
+            "opinion": "面對6月即將到來的「高原期」,為了體恤醫護人員疫情期間的辛勞,將提供專責病房醫事人員特別津貼加碼,除了中央補貼現行的1萬元,高雄市政府將再加碼1000元;此外,高雄在5月至7月提出紓困措施,總額高達8.6億。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-31 16:47"
+        }
+    ]
+}

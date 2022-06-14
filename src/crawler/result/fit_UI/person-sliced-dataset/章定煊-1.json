@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/章定煊.png",
+    "opinions": [
+        {
+            "person": "章定煊",
+            "verb": "指出",
+            "opinion": "美國5、6、7月,每月升息2碼(0.5%),與台灣已經有6碼的差距,對於台灣來說,如果升息多一點,就能緩解通膨,但對於國內經濟不利,如果升息少一點,通膨壓力就會持續,端看央行選擇。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不利",
+                "壓力",
+                "不利",
+                "碼的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 19:00"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯寧.png",
+    "opinions": [
+        {
+            "person": "柯寧",
+            "verb": "提出",
+            "opinion": "「台灣夥伴法案」(TaiwanPartnershipAct),鼓勵各州國民兵與我國國軍建立夥伴計畫,已獲納入《2022會計年度國防授權法》(NDAA2022)通過立法。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "通過",
+                "鼓勵",
+                "夥伴"
+            ],
+            "datetime": "2022-05-31 10:30"
+        }
+    ]
+}

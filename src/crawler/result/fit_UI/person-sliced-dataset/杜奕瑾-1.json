@@ -1,0 +1,103 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/杜奕瑾.png",
+    "opinions": [
+        {
+            "person": "杜奕瑾",
+            "verb": "發現",
+            "opinion": "IP在台北市政府,質疑與其他帳號有關聯,包括一名台北市長柯文哲隨行攝影。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 23:15"
+        },
+        {
+            "person": "杜奕瑾",
+            "verb": "說",
+            "opinion": "到,該網友很有名,並揪出他矛盾之處。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "矛盾",
+                "矛盾"
+            ],
+            "positive_list": [
+                "有名"
+            ],
+            "datetime": "2022-06-02 22:51"
+        },
+        {
+            "person": "杜奕瑾",
+            "verb": "說",
+            "opinion": "到,該網友很有名,並揪出他矛盾之處。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "矛盾",
+                "矛盾"
+            ],
+            "positive_list": [
+                "有名"
+            ],
+            "datetime": "2022-06-02 21:31"
+        },
+        {
+            "person": "杜奕瑾",
+            "verb": "說",
+            "opinion": "到,該網友很有名,並揪出他矛盾之處,明明今年一月才發文詢問,「過年要去女友家玩,什麼時候該出發?才不會卡在路上」,結果5月26日就說老婆住院,還有3個分別為3歲、6歲以及8歲的孩子。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "矛盾",
+                "不會",
+                "矛盾"
+            ],
+            "positive_list": [
+                "有名"
+            ],
+            "datetime": "2022-06-02 20:21"
+        },
+        {
+            "person": "杜奕瑾",
+            "verb": "表示",
+            "opinion": "該網友很有名,並揪出他矛盾之處,明明今年一月才發文詢問,「過年要去女友家玩,什麼時候該出發?才不會卡在路上」,結果5月26日就說老婆住院,還有3個分別為3歲、6歲以及8歲的孩子。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "矛盾",
+                "不會",
+                "矛盾"
+            ],
+            "positive_list": [
+                "有名"
+            ],
+            "datetime": "2022-06-02 17:37"
+        },
+        {
+            "person": "杜奕瑾",
+            "verb": "發現",
+            "opinion": "還有其他公務員也在上班時上PTT發文,使網軍爭議越滾越大。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:22"
+        },
+        {
+            "person": "杜奕瑾",
+            "verb": "發現",
+            "opinion": "IP在台北市政府,質疑與其他帳號有關聯,進而發現還有其他公務員在上班時間發政治文,使網軍爭議延燒。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:23"
+        }
+    ]
+}

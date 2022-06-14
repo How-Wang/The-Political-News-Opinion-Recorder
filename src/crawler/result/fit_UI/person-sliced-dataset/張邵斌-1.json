@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張邵斌.png",
+    "opinions": [
+        {
+            "person": "張邵斌",
+            "verb": "表示",
+            "opinion": "「今天是疫情記者會,大家還是關注疫情,早就要求公務員上班時間按照規定,這個問題三重地政事務所已經統一回應」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:17"
+        }
+    ]
+}

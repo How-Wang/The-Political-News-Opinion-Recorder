@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯黑.png",
+    "opinions": [
+        {
+            "person": "柯黑",
+            "verb": "說",
+            "opinion": "到一整個畚箕」,提醒為政不在多言,多做少說。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:38"
+        }
+    ]
+}

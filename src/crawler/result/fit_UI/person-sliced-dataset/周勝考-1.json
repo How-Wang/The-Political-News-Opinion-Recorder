@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周勝考.png",
+    "opinions": [
+        {
+            "person": "周勝考",
+            "verb": "說",
+            "opinion": "「爸爸要要求真相,我是非常贊成,給恩恩爸爸一個交代,該面對的還是要面對。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "贊成"
+            ],
+            "datetime": "2022-06-12 18:12"
+        }
+    ]
+}

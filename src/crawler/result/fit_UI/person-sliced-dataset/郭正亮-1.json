@@ -1,0 +1,105 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "郭正亮",
+            "verb": "認為",
+            "opinion": "張善政比較難打,因為他是非典型政治人物,不會有政治話術攻防。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 06:10"
+        },
+        {
+            "person": "郭正亮",
+            "verb": "提到",
+            "opinion": "目前並未出現太多從長照機構出來的新聞,因為是高度封鎖,裡面的員工不能講話,也不見媒體入內採訪、拍攝,但之後很可能看到長照機構出來很多新聞,可能會有家屬進去長照機構後,消息才曝光。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不見",
+                "不能",
+                "封鎖"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 11:06"
+        },
+        {
+            "person": "郭正亮",
+            "verb": "認為",
+            "opinion": "黨中央現在已經正式提名,很難回頭,點出羅智強現在罵朱立倫,其實已經沒有意義,對他也沒有好處。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "正式",
+                "有意義"
+            ],
+            "datetime": "2022-06-06 17:40"
+        },
+        {
+            "person": "郭正亮",
+            "verb": "表示",
+            "opinion": "聽到資深媒體人黃揚明私下爆料,蔡英文政府有可能在6月下旬進行內閣改組。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-10 11:23"
+        },
+        {
+            "person": "郭正亮",
+            "verb": "指出",
+            "opinion": "台北市還不是最嚴重的,像彰化非常多移工都直接到診所拿感冒藥,反正藥房、診所有錢賺就好,要不要申報確診就自己決定,醫院也不會做PCR,「所以我們阿中已經找到可以圓滿參選的藉口了」。",
+            "negative_score": 9,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "感冒",
+                "藉口",
+                "嚴重",
+                "嚴重的",
+                "不是",
+                "不要",
+                "不會",
+                "藉口"
+            ],
+            "positive_list": [
+                "有錢",
+                "決定",
+                "圓滿"
+            ],
+            "datetime": "2022-06-11 08:30"
+        },
+        {
+            "person": "郭正亮",
+            "verb": "認為",
+            "opinion": "這是因為台北市算日薪的工作者非常多,因為怕要隔離7天就不敢申報確診,他更開玩笑表示,衛福部長陳時中可以找到圓滿參選的藉口了。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "玩笑",
+                "開玩笑",
+                "隔離",
+                "藉口",
+                "藉口"
+            ],
+            "positive_list": [
+                "圓滿"
+            ],
+            "datetime": "2022-06-11 08:30"
+        }
+    ]
+}

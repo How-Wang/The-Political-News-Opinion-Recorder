@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪淑芬.png",
+    "opinions": [
+        {
+            "person": "洪淑芬",
+            "verb": "認為",
+            "opinion": "可能是院內重症患者不幸死亡,消息就就會流出。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "死亡",
+                "流出",
+                "患者",
+                "不幸"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 11:06"
+        }
+    ]
+}

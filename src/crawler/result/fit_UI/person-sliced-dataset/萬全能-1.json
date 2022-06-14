@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/萬全能.png",
+    "opinions": [
+        {
+            "person": "萬全能",
+            "verb": "說",
+            "opinion": "「他們不清楚他們的獎金,發下來的錢到底明細是什麼,公司說你好就是你好,公司說你不好就是你申誡,甚至因為這原因,他們對他們的獎金制度,是完全的不信任。」",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不信",
+                "不信任",
+                "不清",
+                "不清楚",
+                "不好",
+                "不清"
+            ],
+            "positive_list": [
+                "信任",
+                "清楚"
+            ],
+            "datetime": "2022-05-26 12:36"
+        }
+    ]
+}

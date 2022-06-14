@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/倪貴榮.png",
+    "opinions": [
+        {
+            "person": "倪貴榮",
+            "verb": "表示",
+            "opinion": "台灣現行法制皆符合CPTPP規範,建議可加強與民眾溝通以提高社會信心,同時,台灣可藉由加入CPTPP提升食品安全體制,藉以在科學評估及治理方面與國際接軌。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "信心",
+                "符合",
+                "規範",
+                "提升",
+                "提高",
+                "信心"
+            ],
+            "datetime": "2022-05-27 21:30"
+        }
+    ]
+}

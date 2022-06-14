@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張圖.png",
+    "opinions": [
+        {
+            "person": "張圖",
+            "verb": "表示",
+            "opinion": "今天市議員跟盧市長要,到底校園前3天施打數字是多少,他剛剛看到的數字恐怕7000都不到。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "恐怕",
+                "不到",
+                "恐怕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:16"
+        }
+    ]
+}

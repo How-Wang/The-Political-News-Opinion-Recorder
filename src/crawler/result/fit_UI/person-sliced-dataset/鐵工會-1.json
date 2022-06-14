@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鐵工會.png",
+    "opinions": [
+        {
+            "person": "鐵工會",
+            "verb": "說",
+            "opinion": "近期王國材的言論與作為並非善意,令人心寒,台鐵許多的勞資衝突,往往都被交通部官員顢頇迂腐決策所搞砸,也敦請行政院蘇院長出面,否則鐵工會與交通部的衝突又將再起。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "衝突",
+                "心寒",
+                "衝突"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-10 10:32"
+        },
+        {
+            "person": "鐵工會",
+            "verb": "表示",
+            "opinion": "若台鐵局不先與工會溝通、取得共識,自將子法送交通部,他們認為交通部已無善意、勞資衝將再起,於接下來的國定假日及投票日,執行不加班活動。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不加"
+            ],
+            "positive_list": [
+                "善意"
+            ],
+            "datetime": "2022-06-10 09:35"
+        }
+    ]
+}

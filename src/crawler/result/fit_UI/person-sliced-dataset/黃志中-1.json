@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃志中.png",
+    "opinions": [
+        {
+            "person": "黃志中",
+            "verb": "說明",
+            "opinion": "截至6月4日為止,負壓及專責病房總床數2248,空床數1160床、空床率51.6%;第二級加強型防疫旅館總床數484,空床率78.1%,確診個案分流狀況,其中接受居家照護共有7萬4025人(占98%),住院人數有1,066人(占1.4%)。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-04 21:18"
+        }
+    ]
+}

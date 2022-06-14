@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/盧勝洲.png",
+    "opinions": [
+        {
+            "person": "盧勝洲",
+            "verb": "發現",
+            "opinion": "上班時間於PTT發文,將由政風處進行相關處分。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-10 17:25"
+        }
+    ]
+}

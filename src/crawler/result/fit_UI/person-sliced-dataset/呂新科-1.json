@@ -1,0 +1,53 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/呂新科.png",
+    "opinions": [
+        {
+            "person": "呂新科",
+            "verb": "說",
+            "opinion": "每個訊息都有聯外IP,內部每個設備也都有一組IP,會依照此結構進行查詢,找看看內部網路是由誰發出該訊息,目前正在調查當中,查詢清楚後會報告給政風處,大約在下週三(6月8日)以前可查出,並將報告交給台北市議會。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "清楚",
+                "進行"
+            ],
+            "datetime": "2022-06-02 23:15"
+        },
+        {
+            "person": "呂新科",
+            "verb": "說",
+            "opinion": "下週就會有結果,大約在下週三(6月8日)以前可查出,並將報告交給台北市議會。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:46"
+        },
+        {
+            "person": "呂新科",
+            "verb": "說",
+            "opinion": "到,前幾天「LxxExxxx」只花四個月就生出三個孩子的抹黑事件,在批踢踢創世神持續分析和網友們追查比對之下,有幾個帳號都曾使用『117.56.178.81』的IP發文,而且此IP也在PTT貼徵才文《誠徵台北市衛生局專案企劃師》。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "抹黑"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 20:21"
+        },
+        {
+            "person": "呂新科",
+            "verb": "說明",
+            "opinion": "訊息對外聯網會有IP,而市府內部每個電腦設備也有一組IP,將依此查詢,確認是誰發出去的訊息。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 18:41"
+        }
+    ]
+}

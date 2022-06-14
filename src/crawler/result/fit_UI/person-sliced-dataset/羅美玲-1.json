@@ -1,0 +1,19 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "羅美玲",
+            "verb": "說",
+            "opinion": "民進黨南投縣議員提名已就定位,未來半年會母雞帶小雞打團體戰,讓更多人認識蔡培慧;她說,國民黨長期在南投縣執政,但南投縣沒什麼改變,期待選民給民進黨機會,讓民進黨來做,南投會更好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "期待",
+                "機會",
+                "期待"
+            ],
+            "datetime": "2022-05-25 17:49"
+        }
+    ]
+}

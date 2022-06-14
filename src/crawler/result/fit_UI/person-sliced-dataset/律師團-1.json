@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/律師團.png",
+    "opinions": [
+        {
+            "person": "律師團",
+            "verb": "表示",
+            "opinion": "有些媒體報導對高院的裁定確實解讀錯誤,高院並沒允許拷貝全部卷證,而是律師團可以重新向新北院合議庭提出聲請,若合議庭還是不准許,就須依高院裁定意旨詳加說明理由,律師團正研商是否重新聲請拷貝。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不准",
+                "錯誤"
+            ],
+            "positive_list": [
+                "明理",
+                "說明",
+                "確實"
+            ],
+            "datetime": "2022-06-07 22:18"
+        }
+    ]
+}

@@ -1,0 +1,616 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "他任內能夠年年出席WHA的原因很簡單,就是兩岸有互信。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 22:49"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "他任內年年參加WHA,呼籲蔡總統要恢復兩岸協商、建立互信;民進黨晚間表示,全球有34國共1504位國會議員致函WHO,強力聲援台灣出席WHA,馬英九前總統以受到中共幫助參加WHA為榮,徹底自我矮化。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "為榮",
+                "參加",
+                "幫助",
+                "為榮"
+            ],
+            "datetime": "2022-05-21 22:49"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "往後8年,台灣年年收到WHO邀請,甚至在2016年5月蔡總統上任後,還能參加最後一次,因為邀請函的收信人、還是他派任的衛生署長。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "參加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 22:49"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "他任內年年都能參加WHA,並呼籲總統蔡英文恢復兩岸協商,重建兩岸互信。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-21 12:37"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "他任內能夠年年出席WHA的原因很簡單,就是兩岸有互信。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 17:11"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "「蔡政府說,這是因為中共打壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:17"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "「他任內年年參加WHA」,呼籲總統蔡英文重啟兩岸協商。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-21 11:56"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "他任內「年年參加WHA」,呼籲總統蔡英文恢復兩岸協商,才是解決問題的根本之道。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "參加",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-05-21 11:13"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "蔡英文政府相信,美國會幫忙我們,最近也有美國議員連署,但是別忘了,2020年當我國14個邦交國在世界衛生組織(WHO)提出邀請我國以觀察員身分出席WHA的議案時,當時的美國國務卿龐佩奧竟然表示「美國不適合參加連署」而拒絕,令人錯愕。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不適",
+                "拒絕",
+                "竟然"
+            ],
+            "positive_list": [
+                "相信",
+                "參加",
+                "衛生",
+                "適合",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 10:03"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "從過去20年的經驗來看,只靠國際友人幫助是不夠的,兩岸一定要直接協商,蔡英文上任後斷絕兩岸聯繫,能否藉這次機會恢復協商,是能否參加WHA的關鍵。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不夠",
+                "不夠的",
+                "斷絕"
+            ],
+            "positive_list": [
+                "參加",
+                "經驗",
+                "機會",
+                "幫助"
+            ],
+            "datetime": "2022-05-21 10:03"
+        },
+        {
+            "person": "馬英九",
+            "verb": "強調",
+            "opinion": "「我任內能夠年年出席WHA的原因很簡單,就是兩岸有互信」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 10:03"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "這次的WHA,台灣迄今尚未收到出席的邀請函,「讓我心中百感交集」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "尚未"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 10:03"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "自己任內年年參與,根本原因是「兩岸有互信」,因為他支持「一中各表的九二共識」,採「和陸、友日、親美」大戰略,以及「外交休兵」策略,任內每年都收到WHO邀請,只靠國際友人幫忙不夠,呼籲蔡總統為國人健康、國家利益與亞太和平,一定要恢復兩岸協商,重建兩岸互信。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不夠"
+            ],
+            "positive_list": [
+                "利益",
+                "和平",
+                "健康"
+            ],
+            "datetime": "2022-05-21 17:31"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "到,他任內能夠年年出席WHA的原因很簡單,就是兩岸有互信。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 16:32"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "誠摯呼籲,為國人健康、國家利益與亞太和平,蔡總統一定要恢復兩岸協商,重建兩岸互信,如此才是根本之道。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "利益",
+                "和平",
+                "健康",
+                "誠摯",
+                "誠摯"
+            ],
+            "datetime": "2022-05-21 10:55"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "第75屆WHA將於明天在瑞士日內瓦召開,這也是2020年全球爆發新冠肺炎疫情後,首度恢復實體會議,但台灣迄今尚未收到出席的邀請函,讓他心中百感交集。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "尚未",
+                "爆發"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 15:21"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "「蔡政府說,這是因為中共打壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 11:53"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "龐佩奧今年初來台,接受蔡總統贈勳,被視為最挺臺灣的美國國務卿。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-21 10:06"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "「蔡政府說,這是因為中共打壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "打壓"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 10:06"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "第75屆世界衛生大會(WHA)將於明天在瑞士日內瓦召開,這也是2020年全球爆發新冠肺炎疫情後,首度恢復實體會議,「但我們迄今尚未收到出席的邀請函,讓我心中百感交集。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "尚未",
+                "爆發"
+            ],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-21 10:06"
+        },
+        {
+            "person": "馬英九",
+            "verb": "批評",
+            "opinion": "民進黨政府,卻引來自我矮化等批評,對此,馬前總統辦公室今也展開回擊,「奉勸這些綠委,好好學習馬政府如何能在維持對等、尊嚴、互信下,與大陸協商的經驗,不要再誤國誤民,犧牲臺灣人民利益了」。",
+            "negative_score": 4,
+            "positive_score": 7,
+            "negative_list": [
+                "自我",
+                "批評",
+                "不要",
+                "批評"
+            ],
+            "positive_list": [
+                "利益",
+                "尊嚴",
+                "經驗",
+                "學習",
+                "好學",
+                "尊嚴",
+                "犧牲"
+            ],
+            "datetime": "2022-05-22 16:53"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "世衛組織(WHO)共有194個會員國,其中大部分是第三世界國家或中共的81個友邦,要有半數(97國)以上支持,我國才有機會參加。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "參加",
+                "機會"
+            ],
+            "datetime": "2022-05-22 16:53"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "在他任內能夠年年出席WHA的原因很簡單,就是兩岸有互信,兩岸能否協商才是關鍵。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 10:26"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "他8年任內每年獲邀參加WHA。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-22 18:17"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "如今每個與自由民主台灣理念相同的國家,如美日法德英加等國,在支持台灣以觀察員身分「重返」世界衞生組織或至少世衞大會的同時,都對世衛組織「聽命於中國」表達嚴正的抗議與不滿。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不滿",
+                "抗議",
+                "不滿"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-05-22 11:51"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "自己任內「年年都參加WHA」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-22 11:51"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "他8年任內每年獲邀參加WHA。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-05-22 11:00"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "他任內能夠年年出席WHA的原因很簡單,就是兩岸有互信。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 05:33"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "他任內年年參加WHA,呼籲蔡總統要恢復兩岸協商、建立互信;民進黨晚間表示,全球有34國共1504位國會議員致函WHO,強力聲援台灣出席WHA,馬英九前總統以受到中共幫助參加WHA為榮,徹底自我矮化。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "為榮",
+                "參加",
+                "幫助",
+                "為榮"
+            ],
+            "datetime": "2022-05-22 05:33"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "往後8年,台灣年年收到WHO邀請,甚至在2016年5月蔡總統上任後,還能參加最後一次,因為邀請函的收信人、還是他派任的衛生署長。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "參加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 05:33"
+        },
+        {
+            "person": "馬英九",
+            "verb": "回應",
+            "opinion": "欣慰見到蔡英文政府終於回歸馬前總統路線,追求和平,避免戰爭。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "戰爭",
+                "避免"
+            ],
+            "positive_list": [
+                "和平",
+                "避免"
+            ],
+            "datetime": "2022-05-26 18:40"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "雙城論壇的舉辦前提,就是中共不再擾台,對台灣釋出善意,且雙方地位要對等,才有舉辦的意義。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "善意",
+                "地位"
+            ],
+            "datetime": "2022-05-28 12:32"
+        },
+        {
+            "person": "馬英九",
+            "verb": "提到",
+            "opinion": "對於舉辦台北上海雙城論壇,他主張要有3大前提,「中共不再擾台、對台灣釋出善意、雙方地位對等」,今(28日)他在受訪時被問到此事時也重申,共軍擾台的情況之下不利於兩岸之間交流。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不利",
+                "不利"
+            ],
+            "positive_list": [
+                "善意",
+                "地位"
+            ],
+            "datetime": "2022-05-28 15:02"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "台灣雖號稱「民主」,卻一步步墮入「不自由的民主」,他更稱讚中國領導人習近平,於去年10月談到民主一事。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "稱讚",
+                "自由",
+                "稱讚"
+            ],
+            "datetime": "2022-06-04 21:55"
+        },
+        {
+            "person": "馬英九",
+            "verb": "提到",
+            "opinion": "去年10月,中國領導人習近平在中央人大工作會議時談到了民主,堅持國家一切權力屬於人民,最大限度保障人民當家作主、依法治國,我認為這是有助於建立法治社會的正確方向,「如能真誠面對、平反六四這個歷史創傷,不但在國際上能有非常正面的形象,兩岸也不會越走越遠」。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "限度",
+                "創傷",
+                "不會"
+            ],
+            "positive_list": [
+                "正面",
+                "正確",
+                "有助",
+                "真誠",
+                "堅持"
+            ],
+            "datetime": "2022-06-04 18:58"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "去年10月,中國領導人習近平先生在中央人大工作會議時談到了民主,堅持國家一切權力屬於人民,最大限度保障人民當家作主、依法治國,他認為這是有助於建立法治社會的正確方向。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "限度"
+            ],
+            "positive_list": [
+                "正確",
+                "有助",
+                "堅持"
+            ],
+            "datetime": "2022-06-04 15:47"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "到,今天是「六四事件」33週年。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 14:59"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "要台灣藉此反思號稱「民主」,卻一步步墮入「不自由的民主」,更肯定中國領導人習近去年在中央人大工作會議談到了民主,堅持國家一切權力屬於人民,「我認為這是有助於建立法治社會的正確方向」。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "正確",
+                "有助",
+                "自由",
+                "自由的",
+                "肯定",
+                "堅持",
+                "自由"
+            ],
+            "datetime": "2022-06-04 09:38"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "最近的世界情勢很不安穩。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不安",
+                "不安穩",
+                "不安"
+            ],
+            "positive_list": [
+                "安穩"
+            ],
+            "datetime": "2022-06-04 09:38"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "一方面他要再次呼籲大陸當局,勇於面對歷史、承擔責任,才能往前邁進;另一方面也要藉此機會反思,台灣雖號稱民主,卻一步步墮入「不自由的民主」,格外值得警惕。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "格外",
+                "警惕"
+            ],
+            "positive_list": [
+                "才能",
+                "自由",
+                "自由的",
+                "值得",
+                "機會",
+                "自由"
+            ],
+            "datetime": "2022-06-04 12:04"
+        },
+        {
+            "person": "馬英九",
+            "verb": "表示",
+            "opinion": "因支持「一中各表的『九二共識』,所以從2009年到2016年,8年間我國年年收到WHO邀請。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:06"
+        },
+        {
+            "person": "馬英九",
+            "verb": "說",
+            "opinion": "了,表示台灣將以堆積木方式,向簽署「自由貿易協定」(FTA)努力。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "努力",
+                "自由"
+            ],
+            "datetime": "2022-06-10 07:10"
+        },
+        {
+            "person": "馬英九",
+            "verb": "指出",
+            "opinion": "這些評量機構的評估標準,是否有什麼缺失,如此才能讓國人理解其評論標準之由來。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "理解"
+            ],
+            "datetime": "2022-06-12 06:00"
+        }
+    ]
+}

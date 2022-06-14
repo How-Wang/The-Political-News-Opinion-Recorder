@@ -1,0 +1,37 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃郁芬.png",
+    "opinions": [
+        {
+            "person": "黃郁芬",
+            "verb": "認為",
+            "opinion": "現在只剩徐巧芯自己還在硬凹、玩文字遊戲,辯稱自己的語氣比平常都平和、回去再講是要「尊重警方執法權力」,講得好像員警都知道徐巧芯平常怎麼講話、員警都聽得出來是「純溝通、沒施壓」一樣。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 11:00"
+        },
+        {
+            "person": "黃郁芬",
+            "verb": "強調",
+            "opinion": "挺基層的方式很簡單,讓基層同仁依照自己的職權好好做事、不用受其他不正當因素干擾,僅此而已。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "干擾",
+                "不正",
+                "不正當",
+                "干擾",
+                "不正"
+            ],
+            "positive_list": [
+                "正當"
+            ],
+            "datetime": "2022-05-28 11:00"
+        }
+    ]
+}

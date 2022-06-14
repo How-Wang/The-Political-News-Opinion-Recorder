@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳成典.png",
+    "opinions": [
+        {
+            "person": "吳成典",
+            "verb": "說",
+            "opinion": "「朱立倫高舉的是親美的蔡英文路線,朱立倫與蔡英文都會把台灣,帶向戰爭之中。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 13:22"
+        }
+    ]
+}

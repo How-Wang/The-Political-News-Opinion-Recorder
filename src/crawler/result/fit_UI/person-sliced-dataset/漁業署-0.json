@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/漁業署.png",
+    "opinions": [
+        {
+            "person": "漁業署",
+            "verb": "指出",
+            "opinion": "去年(2021)辦理未上市水產品抽驗共2230件,其中石斑魚抽驗孔雀綠等89項次動物用藥共299件,結果均合格。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "合格"
+            ],
+            "datetime": "2022-06-11 13:09"
+        },
+        {
+            "person": "漁業署",
+            "verb": "指出",
+            "opinion": "去年辦理未上市水產品抽驗共2230件,其中石斑魚抽驗孔雀綠等89項次動物用藥共299件,結果均合格。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "合格"
+            ],
+            "datetime": "2022-06-11 11:23"
+        }
+    ]
+}

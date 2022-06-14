@@ -1,0 +1,71 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "溫玉霞",
+            "verb": "表示",
+            "opinion": "來自台灣的黃昀亞以「淡水暮色傳福音」畫作,獲得聯合國教科文組織「國際青年視覺藝術大賽」10歲至13歲組冠軍。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "冠軍",
+                "獲得",
+                "聯合",
+                "藝術",
+                "冠軍"
+            ],
+            "datetime": "2022-05-22 12:59"
+        },
+        {
+            "person": "溫玉霞",
+            "verb": "表示",
+            "opinion": "非常謝謝黃昀亞代表台灣站上聯合國教科文組織的舞台,讓世界看見台灣的孩子,不論在哪裡成長,都能展露才華,為台灣爭光。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成長",
+                "聯合",
+                "才華",
+                "謝謝"
+            ],
+            "datetime": "2022-05-22 12:59"
+        },
+        {
+            "person": "溫玉霞",
+            "verb": "表示",
+            "opinion": "主辦方為頒獎典禮暖場舉辦慈善義賣晚會,目的為未來美術館籌建募款,包括黃昀亞等前三名的得獎作品複製品被競價叫買,最後以3.2萬歐元(約折合新台幣100萬元)敲槌賣出。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "得獎",
+                "慈善"
+            ],
+            "datetime": "2022-05-22 12:59"
+        },
+        {
+            "person": "溫玉霞",
+            "verb": "質疑",
+            "opinion": "美豬來台、軍火也買、台積電已到美國設廠,最後BTA(雙邊貿易協定)、IPEF都沒有,這有雙方互惠嗎?這對台灣不公平;田中光回應,不會啦。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不公平",
+                "不會",
+                "沒有",
+                "不公",
+                "不公平",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "公平",
+                "互惠",
+                "公平"
+            ],
+            "datetime": "2022-05-25 12:08"
+        }
+    ]
+}

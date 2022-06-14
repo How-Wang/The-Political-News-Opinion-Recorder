@@ -1,0 +1,79 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃子佼.png",
+    "opinions": [
+        {
+            "person": "黃子佼",
+            "verb": "表示",
+            "opinion": "通常台灣人還是有一定的底線啦,再怎樣也不該去鬧別人的婚喪喜慶,「別人生小孩跑去留言很多孩子走了,這什麼操觸霉頭作我真心不懂。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不懂",
+                "怎樣"
+            ],
+            "positive_list": [
+                "很多",
+                "喜慶"
+            ],
+            "datetime": "2022-05-29 18:24"
+        },
+        {
+            "person": "黃子佼",
+            "verb": "說",
+            "opinion": "「哇真的是感動,子佼耿如歡迎玉米來到地球,也恭喜你們成為爸媽了,我要祝福玉米健康快樂長大,我很開心因為不分顏色黨派,大家都是在慶祝生命的誕生。」",
+            "negative_score": 0,
+            "positive_score": 12,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "快樂",
+                "恭喜",
+                "健康",
+                "感動",
+                "慶祝",
+                "歡迎",
+                "快樂",
+                "開心",
+                "感動",
+                "慶祝",
+                "歡迎"
+            ],
+            "datetime": "2022-05-30 17:40"
+        },
+        {
+            "person": "黃子佼",
+            "verb": "說",
+            "opinion": "「這是文化總會的會長蔡英文會長寄來的,卡片是總統府的卡片所以我很緊張,我想說是發生什麼事情。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "緊張",
+                "緊張"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 17:40"
+        },
+        {
+            "person": "黃子佼",
+            "verb": "強調",
+            "opinion": "自己不涉入政治,而這次首長們的留言、語音、卡片及語音祝福,「還是要有禮貌的在此做感謝,天災人禍時我們不會分顏色,增產報國也當然不分顏色的。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "有禮",
+                "有禮貌",
+                "有禮貌的",
+                "感謝",
+                "當然",
+                "禮貌",
+                "有禮",
+                "感謝"
+            ],
+            "datetime": "2022-05-30 11:39"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新北地院.png",
+    "opinions": [
+        {
+            "person": "新北地院",
+            "verb": "提出",
+            "opinion": "抗告,高院認定律師享有閱卷權,可抄錄、重製、攝影卷證,今(7)日撤銷新北地院限制閱卷的裁定。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "限制",
+                "撤銷"
+            ],
+            "positive_list": [
+                "享有"
+            ],
+            "datetime": "2022-06-07 14:47"
+        }
+    ]
+}

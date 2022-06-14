@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳進昌.png",
+    "opinions": [
+        {
+            "person": "吳進昌",
+            "verb": "說",
+            "opinion": "「張善政真的是我們桃園市的福氣,以他院長資歷能力跟操守,來當我們的市長當然是最好的,當然有信心。」",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "有信心",
+                "信心",
+                "能力",
+                "最好",
+                "當然",
+                "福氣",
+                "信心",
+                "福氣"
+            ],
+            "datetime": "2022-06-02 14:06"
+        }
+    ]
+}

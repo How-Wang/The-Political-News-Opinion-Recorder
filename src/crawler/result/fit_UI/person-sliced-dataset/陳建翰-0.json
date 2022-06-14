@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳建翰.png",
+    "opinions": [
+        {
+            "person": "陳建翰",
+            "verb": "指出",
+            "opinion": "若要拉開產業縱深,走全球化市場,就必須將石斑魚也養到很大,急速冷凍後切片。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 20:25"
+        }
+    ]
+}

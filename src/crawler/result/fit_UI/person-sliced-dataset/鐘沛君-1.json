@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鐘沛君.png",
+    "opinions": [
+        {
+            "person": "鐘沛君",
+            "verb": "認為",
+            "opinion": "應該將辛苦的醫護用對地方,中央在自由廣場兒童疫苗接種站放了82個醫護、行政人力,每條線可替200名兒童接種,每天預估可打2400至2600人,但開放第一天的第一個小時打200人之後,後面7小時只接種169人。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "辛苦",
+                "辛苦的",
+                "苦的"
+            ],
+            "positive_list": [
+                "自由",
+                "開放",
+                "自由"
+            ],
+            "datetime": "2022-06-02 14:47"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳凱凌.png",
+    "opinions": [
+        {
+            "person": "陳凱凌",
+            "verb": "強調",
+            "opinion": "對於不實黑函內容,除交政風調查外,散佈不實言論將提起告訴,並提出4點回應。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:21"
+        },
+        {
+            "person": "陳凱凌",
+            "verb": "表示",
+            "opinion": "土方這部份目前已請第三方單位來協助進行鑑定與釐清,而該開發案經費48.7億皆依照契約規定辦理。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "進行",
+                "開發"
+            ],
+            "datetime": "2022-06-08 16:21"
+        },
+        {
+            "person": "陳凱凌",
+            "verb": "表示",
+            "opinion": "這些都是不實言論,除了已經自請政風調查,他也向謝龍介喊話,放下言論免責權,謝龍介議員如果在外面說,他一定提告。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:50"
+        },
+        {
+            "person": "陳凱凌",
+            "verb": "表示",
+            "opinion": "土方這部份目前已請第三方單位來協助進行鑑定與釐清,而該開發案經費48.7億皆依照契約規定辦理。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "進行",
+                "開發"
+            ],
+            "datetime": "2022-06-08 17:50"
+        },
+        {
+            "person": "陳凱凌",
+            "verb": "說",
+            "opinion": "陳豪宅一棟買過一棟,要求市長黃偉哲將陳豪宅凱凌停職法辦。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:50"
+        }
+    ]
+}

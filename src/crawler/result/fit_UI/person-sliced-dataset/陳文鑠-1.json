@@ -1,0 +1,105 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳文鑠.png",
+    "opinions": [
+        {
+            "person": "陳文鑠",
+            "verb": "說明",
+            "opinion": "林育生姓員工之後會透過基金會發表道歉聲明,對方已有表達願接受所有懲處。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-06 15:23"
+        },
+        {
+            "person": "陳文鑠",
+            "verb": "回應",
+            "opinion": "聲明跟考績都涉及個人資料,屬於公司內部紀錄,內容大致上是針對他的所做所為跟大家道歉,他本人有同意聲明被揭露,但還是要謹慎確認這份聲明是否涉及個資。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "揭露",
+                "道歉"
+            ],
+            "positive_list": [
+                "同意",
+                "謹慎"
+            ],
+            "datetime": "2022-06-07 22:39"
+        },
+        {
+            "person": "陳文鑠",
+            "verb": "強調",
+            "opinion": "公司內部紀錄不宜對外公布,而屬於他個人網路上的言論,應由他聲明澄清,若議員有索資才會按照程序題供。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-07 22:39"
+        },
+        {
+            "person": "陳文鑠",
+            "verb": "表示",
+            "opinion": "已在昨日核定針對林育生姓員工記過2次、年度考績丙等、無年終獎金,另有要求林育生姓員工發布道歉聲明。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:39"
+        },
+        {
+            "person": "陳文鑠",
+            "verb": "說",
+            "opinion": "有要求他要自己寫聲明道歉,但這是兩回事,對外他應該要自己公布,不宜由基金會公布。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不宜",
+                "要求",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:39"
+        },
+        {
+            "person": "陳文鑠",
+            "verb": "強調",
+            "opinion": "人評會決議有要求林姓員工寫道歉聲明,儘管林姓員工本人有同意聲明被披露,但要先確認該份聲明是否涉及個資,且應該由對方自己公布,不宜由基金會公布。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不宜",
+                "要求",
+                "道歉"
+            ],
+            "positive_list": [
+                "同意"
+            ],
+            "datetime": "2022-06-07 20:08"
+        },
+        {
+            "person": "陳文鑠",
+            "verb": "表示",
+            "opinion": "已在6日人事評議委員會核定,針對林姓員工記過2次、年度考績丙等、無年終獎金,並要求林姓員工發布道歉聲明。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 20:08"
+        }
+    ]
+}

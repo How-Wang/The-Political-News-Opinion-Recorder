@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/大仲馬.png",
+    "opinions": [
+        {
+            "person": "大仲馬",
+            "verb": "說",
+            "opinion": "台法兩國皆重視文學科技,享有美好風景、美食,因為法國國會重視台法關係,立法院日前通過調降法國進口香檳關稅,從原先的20%降至10%,這就是善的循環,期待未來有越來越多好的循環,更多交流互訪。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "享有",
+                "美好",
+                "重視",
+                "通過",
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-09 17:58"
+        }
+    ]
+}

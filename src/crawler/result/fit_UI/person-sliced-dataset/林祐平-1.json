@@ -1,0 +1,39 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林祐平.png",
+    "opinions": [
+        {
+            "person": "林祐平",
+            "verb": "說",
+            "opinion": "「現在臨時又不用(24小時火化),造成家屬很大困擾,都沒辦法見亡者最後一面,是不是要請政府出來,幫我們講清楚。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "不是",
+                "困擾",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-05 18:19"
+        },
+        {
+            "person": "林祐平",
+            "verb": "說",
+            "opinion": "「現在臨時又不用(24小時火化),造成家屬很大困擾,都沒辦法見亡者最後一面,是不是要請政府出來,幫我們講清楚。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "困擾",
+                "不是",
+                "困擾",
+                "沒辦法"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-05 13:02"
+        }
+    ]
+}

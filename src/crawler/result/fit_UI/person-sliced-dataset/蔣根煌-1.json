@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔣根煌.png",
+    "opinions": [
+        {
+            "person": "蔣根煌",
+            "verb": "表示",
+            "opinion": "就算徐志榮民調第一,要提名也需要經過徐志榮同意。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "同意"
+            ],
+            "datetime": "2022-06-01 15:59"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/NedPrice.png",
+    "opinions": [
+        {
+            "person": "NedPrice",
+            "verb": "表示",
+            "opinion": "無法置評中方反應,但美國在與台灣非官方關係架構下進行的任何事務,都符合美方長年「一中政策」,該政策是以台灣關係法、美中三公報及六項保證為準則。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "保證",
+                "符合",
+                "進行"
+            ],
+            "datetime": "2022-06-03 07:12"
+        }
+    ]
+}

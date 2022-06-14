@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高等檢察署.png",
+    "opinions": [
+        {
+            "person": "高等檢察署",
+            "verb": "認為",
+            "opinion": "二審的無罪判決違背經驗及論理法則,以判決違背法令等理由,今上訴最高法院。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "判決",
+                "違背",
+                "違背"
+            ],
+            "positive_list": [
+                "最高",
+                "無罪",
+                "經驗"
+            ],
+            "datetime": "2022-06-09 16:49"
+        }
+    ]
+}

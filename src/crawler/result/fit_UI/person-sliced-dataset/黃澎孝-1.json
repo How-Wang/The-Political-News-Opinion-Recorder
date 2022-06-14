@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃澎孝.png",
+    "opinions": [
+        {
+            "person": "黃澎孝",
+            "verb": "提到",
+            "opinion": "中國駐美大使秦剛,秦剛日前在論壇中表示,台灣早在近1800年前就是中國的一部分,接著黃澎孝提到神話故事主角嫦娥,並說:「中國常駐月亮大使嫦娥:我可以證明月亮自古以來當然就是中國的嘍」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-06-11 16:04"
+        }
+    ]
+}

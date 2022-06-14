@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾婷岳.png",
+    "opinions": [
+        {
+            "person": "曾婷岳",
+            "verb": "表示",
+            "opinion": "「如該訊息符合假訊息,惡意造假及造成危害的要件,且該訊息疑似是遭受內容農場操作,將其廣泛散布,本局將會針對源頭溯源追查。」",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "危害",
+                "惡意",
+                "遭受",
+                "造假"
+            ],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-05-30 12:31"
+        }
+    ]
+}

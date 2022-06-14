@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊弘旻.png",
+    "opinions": [
+        {
+            "person": "楊弘旻",
+            "verb": "說",
+            "opinion": "「地方來說的話,看起來我們林姿妙的支持度跟滿意度都很高。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-27 18:51"
+        },
+        {
+            "person": "楊弘旻",
+            "verb": "說",
+            "opinion": "的話,看起來林姿妙的支持度跟滿意度都很高。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-27 16:34"
+        }
+    ]
+}

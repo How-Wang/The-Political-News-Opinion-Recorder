@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許銘春.png",
+    "opinions": [
+        {
+            "person": "許銘春",
+            "verb": "表示",
+            "opinion": "因屬於特別預算部分,須由行政院通盤考量,但勞動部自有紓困方案都會持續推動。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-26 16:49"
+        }
+    ]
+}

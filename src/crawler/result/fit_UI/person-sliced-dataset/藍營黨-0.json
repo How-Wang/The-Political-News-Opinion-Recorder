@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/藍營黨.png",
+    "opinions": [
+        {
+            "person": "藍營黨",
+            "verb": "說",
+            "opinion": "前立委柯志恩;雖她一再以「希望從地方產生人選」為由來推辭,但地方上就是生不出任何像樣的人。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "一再",
+                "不出"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-07 09:44"
+        }
+    ]
+}

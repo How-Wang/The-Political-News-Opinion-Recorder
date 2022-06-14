@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/基督教醫院.png",
+    "opinions": [
+        {
+            "person": "基督教醫院",
+            "verb": "說",
+            "opinion": "「這是我們的照護團隊、護理長,專門收治18歲以下新冠病毒感染的兒童專責病房,目前為止我們已經收治了215位兒童,並且陸續康復出院。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "感染"
+            ],
+            "positive_list": [
+                "專門"
+            ],
+            "datetime": "2022-06-04 12:28"
+        }
+    ]
+}

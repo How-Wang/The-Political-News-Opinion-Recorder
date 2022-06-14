@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳簽署.png",
+    "opinions": [
+        {
+            "person": "陳簽署",
+            "verb": "說明",
+            "opinion": "會及參觀相關市政建設。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "建設"
+            ],
+            "datetime": "2022-06-02 12:00"
+        }
+    ]
+}

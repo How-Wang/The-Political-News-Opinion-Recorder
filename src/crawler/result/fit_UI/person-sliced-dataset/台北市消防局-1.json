@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市消防局.png",
+    "opinions": [
+        {
+            "person": "台北市消防局",
+            "verb": "說",
+            "opinion": "過有個資法相關規範,新北第一時間按照相關規定,都會提供恩恩爸讓他充分了解。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "充分",
+                "規範"
+            ],
+            "datetime": "2022-06-10 11:51"
+        }
+    ]
+}

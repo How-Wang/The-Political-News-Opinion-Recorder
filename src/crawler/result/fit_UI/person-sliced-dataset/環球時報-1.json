@@ -1,0 +1,49 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/環球時報.png",
+    "opinions": [
+        {
+            "person": "環球時報",
+            "verb": "指出",
+            "opinion": "中國外交部罕見提到非邦交國,而是台灣的友邦瓜地馬拉,更說瓜地馬拉代表向中國表達「加強合作」的意願。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "罕見",
+                "合作"
+            ],
+            "datetime": "2022-05-29 19:07"
+        },
+        {
+            "person": "環球時報",
+            "verb": "指出",
+            "opinion": "中國外交部罕見提到非邦交國、而是台灣的友邦瓜地馬拉,更說瓜地馬拉代表向中國表達\"加強合作\"的意願。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "罕見",
+                "合作"
+            ],
+            "datetime": "2022-05-29 16:52"
+        },
+        {
+            "person": "環球時報",
+            "verb": "強調",
+            "opinion": "「德不配位,必有災殃」,若三觀扭曲,人生就會成為篩子,總有一天會把不堪漏出來。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "扭曲",
+                "漏出",
+                "不配"
+            ],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-07 17:03"
+        }
+    ]
+}

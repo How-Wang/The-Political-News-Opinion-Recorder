@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/叔本華.png",
+    "opinions": [
+        {
+            "person": "叔本華",
+            "verb": "說",
+            "opinion": "過「要尊重每一個人,不論他是何等卑微與可笑。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "可笑",
+                "卑微",
+                "可笑",
+                "卑微"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-09 05:40"
+        }
+    ]
+}

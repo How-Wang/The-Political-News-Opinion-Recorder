@@ -1,0 +1,23 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳歐珀",
+            "verb": "表示",
+            "opinion": "國民黨到中國說一個中國,到美國強調親美,立場搖擺,他呼籲國民黨應該清楚說明真正的主張及國家方向,讓國人了解。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "搖擺"
+            ],
+            "positive_list": [
+                "了解",
+                "真正",
+                "真正的",
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-06-08 11:38"
+        }
+    ]
+}

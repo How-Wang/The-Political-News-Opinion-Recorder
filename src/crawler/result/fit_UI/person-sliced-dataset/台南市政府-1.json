@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台南市政府.png",
+    "opinions": [
+        {
+            "person": "台南市政府",
+            "verb": "指出",
+            "opinion": "在與其他縣市相比,醫療量能不夠的情況下,如何維持醫療,是他們非常重要的工作,所以他們結合智慧科技力量,盼能讓民眾有更便捷、安全的防疫生活。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "不夠",
+                "不夠的"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "重要",
+                "重要的",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-06-12 14:53"
+        }
+    ]
+}

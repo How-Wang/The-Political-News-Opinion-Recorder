@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鍾佳濱.png",
+    "opinions": [
+        {
+            "person": "鍾佳濱",
+            "verb": "指出",
+            "opinion": "以挪威鮭魚為例,它能賣到全世界,很大的原因是能將產品標準化,並依照他們的烹調方式來販售。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 20:25"
+        }
+    ]
+}

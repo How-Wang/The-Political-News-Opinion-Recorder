@@ -1,0 +1,101 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張維倩.png",
+    "opinions": [
+        {
+            "person": "張維倩",
+            "verb": "質疑",
+            "opinion": "疫情期間,物資分配應該快速到位,為什麼有人解隔,關懷箱還沒收到?侯友宜再次強調,這是因為中央法傳系統塞車,就像去年校正回歸一樣,也再次把矛頭指向中央,拖了25天才做「快篩陽等同確診」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "沒收"
+            ],
+            "positive_list": [
+                "天才",
+                "關懷"
+            ],
+            "datetime": "2022-05-26 12:58"
+        },
+        {
+            "person": "張維倩",
+            "verb": "表示",
+            "opinion": "「如果願意出來勇於承擔的話,我們所有的議員,大家也願意全力來輔選,那希望這場選戰呢,不僅是我們的市長,要打敗侯友宜市長,那重點是要帶動我們,整個市議員的選舉。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "希望",
+                "願意",
+                "希望",
+                "願意"
+            ],
+            "datetime": "2022-05-28 18:01"
+        },
+        {
+            "person": "張維倩",
+            "verb": "說",
+            "opinion": "「如果願意出來勇於承擔的話,我們所有的議員,大家也願意全力來輔選,重點是推出好的人選,爭取大家認同,才是民眾最想要見到的。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "願意",
+                "認同",
+                "願意"
+            ],
+            "datetime": "2022-05-28 13:00"
+        },
+        {
+            "person": "張維倩",
+            "verb": "認為",
+            "opinion": "永續對孩子們來說非常重要,手作活動若可以結合環境保護,則能讓孩子在寓教於樂中學習,家中的舊布料不只可以再利用,也能透過手作,把愛傳出去,並且學習分享。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "保護",
+                "重要",
+                "學習"
+            ],
+            "datetime": "2022-05-28 17:12"
+        },
+        {
+            "person": "張維倩",
+            "verb": "認為",
+            "opinion": "永續對孩子們來說非常重要,手作活動若可以結合環境保護,則能讓孩子在寓教於樂中學習,家中的舊布料不只可以再利用,也能透過手作,把愛傳出去,並且學習分享。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "保護",
+                "重要",
+                "學習"
+            ],
+            "datetime": "2022-05-29 17:48"
+        },
+        {
+            "person": "張維倩",
+            "verb": "表示",
+            "opinion": "「太香了,連兒童都暴動了,好好好各位冷靜,哇這肉一定要有,有肥有瘦,我要吃,還有他們家好吃的干貝。」",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "暴動",
+                "冷靜"
+            ],
+            "positive_list": [
+                "好吃",
+                "好吃的",
+                "冷靜",
+                "冷靜"
+            ],
+            "datetime": "2022-06-03 17:58"
+        }
+    ]
+}

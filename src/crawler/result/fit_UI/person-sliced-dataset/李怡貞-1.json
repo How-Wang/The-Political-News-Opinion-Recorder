@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李怡貞.png",
+    "opinions": [
+        {
+            "person": "李怡貞",
+            "verb": "表示",
+            "opinion": "最近真的看到「不多不少」的孩子因為疫情的關係而離世新聞,開始覺得有點擔心,因為過世的孩子年紀跟女兒年齡層差不多喔,感覺起來好像都是猛爆性的腦炎也來不及救治。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "擔心",
+                "過世",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:41"
+        },
+        {
+            "person": "李怡貞",
+            "verb": "指出",
+            "opinion": "這樣的事情其實怪政府怪醫療人員或是怪傳染途徑親友或是怪抒發心情的藝人都無意義,只是徒增分裂。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "分裂",
+                "無意義",
+                "傳染",
+                "分裂"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-05-29 12:41"
+        }
+    ]
+}

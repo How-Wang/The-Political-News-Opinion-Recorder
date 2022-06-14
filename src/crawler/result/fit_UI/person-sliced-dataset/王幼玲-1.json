@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王幼玲.png",
+    "opinions": [
+        {
+            "person": "王幼玲",
+            "verb": "回應",
+            "opinion": "監委職責不是只有參加彈劾審查會這項,還有每個月固定的各類委員會;只拿一項工作大作文章,就是以偏概全。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "彈劾",
+                "不是",
+                "以偏概全"
+            ],
+            "positive_list": [
+                "固定",
+                "固定的",
+                "參加",
+                "職責"
+            ],
+            "datetime": "2022-06-08 17:18"
+        }
+    ]
+}

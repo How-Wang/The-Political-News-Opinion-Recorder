@@ -1,0 +1,38 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "艾伯雷",
+            "verb": "回應",
+            "opinion": "他比這個手勢沒有惡意,若有不好的觀感他表示很抱歉,並重申說「我是非常支持台灣的」。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "有惡意",
+                "沒有",
+                "抱歉",
+                "惡意",
+                "不好",
+                "沒有",
+                "抱歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 17:30"
+        },
+        {
+            "person": "艾伯雷",
+            "verb": "表示",
+            "opinion": "台灣在亞太地區地緣政治相當特別,台灣的安全關乎世界安全,尤其台灣面臨中國這個強權,此外,他也關注台法是否能進一步進行文化交流,因為台灣有一所法國高中,也許在這方面也可以多多交流。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "特別",
+                "進行"
+            ],
+            "datetime": "2022-06-10 17:08"
+        }
+    ]
+}

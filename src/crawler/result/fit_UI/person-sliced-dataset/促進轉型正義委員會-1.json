@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/促進轉型正義委員會.png",
+    "opinions": [
+        {
+            "person": "促進轉型正義委員會",
+            "verb": "提出",
+            "opinion": "包括移除銅像等3項建議措施。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 13:02"
+        },
+        {
+            "person": "促進轉型正義委員會",
+            "verb": "提出",
+            "opinion": "國幣去蔣、去威權,若要全面改版的成本恐怕不低,試問可行性。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "恐怕",
+                "恐怕"
+            ],
+            "positive_list": [
+                "可行",
+                "全面"
+            ],
+            "datetime": "2022-05-29 11:45"
+        }
+    ]
+}

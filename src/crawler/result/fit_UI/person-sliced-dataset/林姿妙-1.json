@@ -1,0 +1,154 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "林姿妙",
+            "verb": "質疑",
+            "opinion": "檢調,恐怕會趁著起訴,來影響選舉。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "恐怕",
+                "起訴",
+                "恐怕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 21:44"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "回應",
+            "opinion": "「謝謝我們陳鴻禧俊宇議員的關心,其實姿妙呢,簡單、做人認真、做事實實在在,這是政治迫害,甚至呢他會利用這個...起訴,來影響我們選舉。」",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "迫害",
+                "起訴",
+                "利用",
+                "迫害"
+            ],
+            "positive_list": [
+                "實在",
+                "認真",
+                "關心",
+                "謝謝",
+                "關心"
+            ],
+            "datetime": "2022-05-24 21:44"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "表示",
+            "opinion": "欠債還錢,天經地義,卻被有心人士故意操作、混淆視聽,誤導是貪污,完全不符事實。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不符",
+                "故意",
+                "混淆",
+                "貪污",
+                "誤導",
+                "混淆",
+                "貪污"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 21:01"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "說",
+            "opinion": "詞,民進黨宜蘭縣議會黨團總召陳俊宇則表示,林姿妙就是心虛在打「預防針」;而黨內人士也說,「打完起訴預防針,然再輔以民調自清,這種政治操作顯然是把宜蘭縣民當笨蛋,以為可以隻手遮天」。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "心虛",
+                "起訴",
+                "笨蛋",
+                "心虛",
+                "笨蛋"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 21:01"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "說明",
+            "opinion": "會表示,是有心人士及特定媒體操作帳戶有新台幣上億元,暗指是貪污所得,其實資金出入是在支票帳戶,非存款帳戶,資金存入是為票據兌現,存入就會被領走,來回10次就會創造10倍金流,才出現支票帳戶累計達上億元。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "貪污",
+                "暗指",
+                "貪污"
+            ],
+            "positive_list": [
+                "創造"
+            ],
+            "datetime": "2022-05-25 21:01"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "說",
+            "opinion": "詞,民進黨宜蘭縣議會黨團總召陳俊宇直言,林姿妙就是心虛在打「預防針」,黨內人士更不客氣的說,「打完起訴預防針,然再輔以民調自清,這種政治操作顯然是把宜蘭縣民當笨蛋,以為可以隻手遮天」。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "心虛",
+                "起訴",
+                "笨蛋",
+                "心虛",
+                "笨蛋"
+            ],
+            "positive_list": [
+                "客氣",
+                "客氣的"
+            ],
+            "datetime": "2022-05-25 17:18"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "說",
+            "opinion": "「這個調查的時候是在三月份,三月份剛好是那個司法案件,所以民眾會受影響,但是大家都已經知道這是政治迫害。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "迫害",
+                "迫害"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-27 18:51"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "說",
+            "opinion": "「民進黨黨團說,您的粉專上面,刻意忽略民調後段班的部分,妳怎麼看,謝謝啦謝謝啦。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "忽略"
+            ],
+            "positive_list": [
+                "謝謝"
+            ],
+            "datetime": "2022-05-30 23:20"
+        },
+        {
+            "person": "林姿妙",
+            "verb": "說",
+            "opinion": "「好山好水種出來的金棗呢,品質非常非常的棒,宜蘭縣政府呢不以營利為目的,但是我們這些青年創業,我們希望能幫忙到他們,他們也需要鼓勵希望要大家來幫忙。」",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不以"
+            ],
+            "positive_list": [
+                "希望",
+                "鼓勵",
+                "希望"
+            ],
+            "datetime": "2022-06-08 18:21"
+        }
+    ]
+}

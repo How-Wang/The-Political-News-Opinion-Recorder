@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張津唯.png",
+    "opinions": [
+        {
+            "person": "張津唯",
+            "verb": "指出",
+            "opinion": "消防局其它科室人員更透過「網內互打」至勤務指揮中心「假報案」製造亂象,並下令強迫局本部南雅分隊「假裝有火警」,大聲呼喊無線電營造紛亂,以上為無開案案件,只有電話紀錄及無線電錄音。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "大聲",
+                "假裝",
+                "強迫",
+                "強迫"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 20:56"
+        }
+    ]
+}

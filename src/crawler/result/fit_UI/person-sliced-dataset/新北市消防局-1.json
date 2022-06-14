@@ -1,0 +1,541 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新北市消防局.png",
+    "opinions": [
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "可以到消防局播放聆聽。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-03 11:49"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "解釋",
+            "opinion": "是因受限《政府資訊公開法》、《通訊保障法》,無法提供錄音檔。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-03 09:45"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "指出",
+            "opinion": "公益宣導會經過當事人同意,而且會剪輯、去識別化;至於調閱119報案紀錄,則是要通話的當事人和公務人員同意,才能提供。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "才能",
+                "同意"
+            ],
+            "datetime": "2022-06-03 18:30"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "發現",
+            "opinion": "公車上有人摔倒,女童冷靜報案通知119勤指中心,一來一往的對話內容都在經過去背景音後,PO上新北市消防局粉絲團當成宣導影片,「雖然報案那頭是稚嫩的聲音,冷靜、不疾不徐的提供正確資訊,讓受理案件人員清楚了解狀況迅速派出人車,拯救性命,孩子妳好棒謝謝妳。」",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "摔倒",
+                "冷靜"
+            ],
+            "positive_list": [
+                "了解",
+                "正確",
+                "冷靜",
+                "迅速",
+                "清楚",
+                "通知",
+                "冷靜",
+                "謝謝"
+            ],
+            "datetime": "2022-06-03 15:37"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "因《政府資訊公開法》、《通訊保障法》,無法提供相關錄音檔。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-04 15:48"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "說",
+            "opinion": "法,恩恩爸認為不合理,黃德清僅簡短回應,「律師說法我們都尊重」。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不合",
+                "不合理"
+            ],
+            "positive_list": [
+                "合理",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-05 15:42"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "解釋",
+            "opinion": "受限政府資訊公開法、通訊保障法,無法提供錄音檔,但可派專人隨時送錄音檔供恩爸聽取比對。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-05 15:23"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "質疑",
+            "opinion": "新北市消防局與衛生局橫向聯繫所花費的時間過長。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-06 16:30"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "提到",
+            "opinion": "119為報案電話,涵蓋報案方、受理方,以及同時間報案者其他人的個資,與1922行政客服電話性質不同;若有需要司法調查時,會經程序提供檢調;至於陳情案都是請當事人到現場聽取,但無法攜離或錄音,多數縣市政府119作法皆如此。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:54"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "全文如下:有關張姓網友貼文提及6月6日恩恩爸爸至消防局聽取錄音案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 21:51"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "全文如下:有關張姓網友貼文提及6月6日恩恩爸爸至消防局聽取錄音案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 21:34"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "恩恩爸爸在前一天主動表示想到指揮中心,瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況,讓他了解疫情嚴峻當下,119內部作業環境就是如此忙碌,而且119協助恩恩就醫期間,119進線量達190通,比當下呈現狀況更為忙碌。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "協助",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 20:57"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "解釋",
+            "opinion": "此為造假不實訊息,本局明日上午9時,將在新北地檢按鈴申告。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不實",
+                "造假"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 19:35"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "解釋",
+            "opinion": "恩恩爸爸在前一天主動表示想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 19:35"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "發現",
+            "opinion": "錄音品質良好,沒有聽到其他雜音,恩恩爸也當場提出抗議,為什麼錄音檔不能提供?恩恩父親說,「因為昨天要離開消防局的時候,他答應我會再回覆給我,昨天的下午防疫記者會,好像有媒體問到這件事情,好像他們在防疫記者會上直接又拒絕了一次。」",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "抗議",
+                "沒有",
+                "拒絕",
+                "離開",
+                "沒有"
+            ],
+            "positive_list": [
+                "良好",
+                "答應",
+                "良好"
+            ],
+            "datetime": "2022-06-07 18:17"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "該網友刻意散播新北消防局造假並變造錄音檔之不實訊息,嚴重影響聲譽,為求慎重且避免社會大眾誤解,將於8日上午9時到新北地檢按鈴提告。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "誤解",
+                "避免",
+                "嚴重",
+                "不實",
+                "造假"
+            ],
+            "positive_list": [
+                "慎重",
+                "聲譽",
+                "避免"
+            ],
+            "datetime": "2022-06-07 22:41"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "至於該網友刻意散播本局造假並變造錄音檔之不實訊息,嚴重影響本局聲譽,為求慎重且避免社會大眾誤解,消防局8日上午9時,在新北地檢按鈴提告。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "誤解",
+                "避免",
+                "嚴重",
+                "不實",
+                "造假"
+            ],
+            "positive_list": [
+                "慎重",
+                "聲譽",
+                "避免"
+            ],
+            "datetime": "2022-06-07 21:14"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "指出",
+            "opinion": "恩恩爸在前一天主動表示想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 21:14"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "指出",
+            "opinion": "恩恩爸在前一天主動表示想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 20:23"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "承認當天是「還原話務繁忙情況」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-06-07 20:23"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "至於該網友刻意散播本局造假並變造錄音檔之不實訊息,嚴重影響本局聲譽,為求慎重且避免社會大眾誤解,本局將檢具所有資料(含相關通聯紀錄、錄音檔案)向檢方提出告訴。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "誤解",
+                "避免",
+                "嚴重",
+                "不實",
+                "造假"
+            ],
+            "positive_list": [
+                "慎重",
+                "聲譽",
+                "避免"
+            ],
+            "datetime": "2022-06-07 19:53"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "為了重現119進線量爆增忙碌情況,有還原當時情況讓他了解,對於網友影射消防局變造錄音檔則不排除提告。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "排除"
+            ],
+            "positive_list": [
+                "了解"
+            ],
+            "datetime": "2022-06-07 19:19"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "至於該網友刻意散播本局造假並變造錄音檔之不實訊息,嚴重影響本局聲譽,為求慎重且避免社會大眾誤解,本局將檢具所有資料(含相關通聯紀錄、錄音檔案)向檢方提出告訴。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "誤解",
+                "避免",
+                "嚴重",
+                "不實",
+                "造假"
+            ],
+            "positive_list": [
+                "慎重",
+                "聲譽",
+                "避免"
+            ],
+            "datetime": "2022-06-07 19:19"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "說,是情境模擬報案量,局內同仁以「測試電話」進線勤務中心。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 22:21"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "全文如下:有關張姓網友貼文提及6月6日恩恩爸爸至消防局聽取錄音案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 19:50"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "指出",
+            "opinion": "恩恩爸在前一天主動表示想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "瞭解"
+            ],
+            "datetime": "2022-06-07 21:42"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "承認當天是「還原話務繁忙情況」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-06-07 21:42"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "指出",
+            "opinion": "新北市政府是以「假報案」方式,表演勤務指揮中心現場;新北市消防局昨天解釋,當天是採取情境模擬報案量,局內人員以「測試電話」進線勤務中心。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 10:13"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "中,用了「還原」二字,無論是還原還是模擬,「演了一場忙碌的現場應屬事實,這點消防局的回應等於是證實了這一塊。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 14:07"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "解釋",
+            "opinion": "恩恩爸爸在前一天主動表示想到指揮中心瞭解119作業環境,為了重現Omicron疫情爆發時,119進線量爆增忙碌情況,故還原當時話務繁忙情況讓他了解,疫情嚴峻當下,119內部作業環境就是如此忙碌。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "爆發",
+                "嚴峻"
+            ],
+            "positive_list": [
+                "了解",
+                "主動",
+                "瞭解"
+            ],
+            "datetime": "2022-06-08 10:25"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "全文如下:有關張加重津唯姓網友貼文提及6月6日恩恩爸爸至消防局聽取錄音案。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "加重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 09:51"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "回應",
+            "opinion": "是為重現119進線量爆增忙碌情況,但恩恩爸表示並不知情。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不知",
+                "不知"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:09"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "表示",
+            "opinion": "至於該網友刻意散播本局造假並變造錄音檔之不實訊息,嚴重影響本局聲譽,為求慎重且避免社會大眾誤解,本局將檢具所有資料(含相關通聯紀錄、錄音檔案)向檢方提出告訴。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "誤解",
+                "避免",
+                "嚴重",
+                "不實",
+                "造假"
+            ],
+            "positive_list": [
+                "慎重",
+                "聲譽",
+                "避免"
+            ],
+            "datetime": "2022-06-09 16:09"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "說明",
+            "opinion": "整件事情的誤會在於「認知」,李主任跟恩恩爸解釋流程,但恩恩爸並不知道這件事情是模擬而非當下的真實情形。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "誤會",
+                "不知"
+            ],
+            "positive_list": [
+                "知道",
+                "真實"
+            ],
+            "datetime": "2022-06-09 15:02"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "說",
+            "opinion": "還是連絡不上衛生所;6點24分打第二通電話,告知小孩紫斑、肌肉疆硬,消防局這時才連絡上衛生所,衛生所也才連絡上雙和醫院、確認有床位可以收治,並致電家屬說消防局會去接送。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-09 07:20"
+        },
+        {
+            "person": "新北市消防局",
+            "verb": "批評",
+            "opinion": "但市長侯友宜還是力挺消防員清白。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清白"
+            ],
+            "datetime": "2022-06-10 10:43"
+        }
+    ]
+}

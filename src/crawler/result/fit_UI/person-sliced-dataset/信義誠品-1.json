@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/信義誠品.png",
+    "opinions": [
+        {
+            "person": "信義誠品",
+            "verb": "表示",
+            "opinion": "若誠品創辦人吳清友在世,也不會麻煩總統打電話,而是會直接找市長幫忙。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "麻煩",
+                "不會",
+                "麻煩"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 18:39"
+        }
+    ]
+}

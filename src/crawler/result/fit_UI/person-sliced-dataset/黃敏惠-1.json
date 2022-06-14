@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃敏惠.png",
+    "opinions": [
+        {
+            "person": "黃敏惠",
+            "verb": "說",
+            "opinion": "「嘉義市在台北地位,猶如台灣在全世界的地位,我們更感謝所有市民,大家看到體會到危機感,不願做一個被遺忘的城市。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "危機",
+                "危機"
+            ],
+            "positive_list": [
+                "感謝",
+                "地位",
+                "感謝"
+            ],
+            "datetime": "2022-06-06 17:40"
+        }
+    ]
+}

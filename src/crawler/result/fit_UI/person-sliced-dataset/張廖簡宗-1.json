@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張廖簡宗.png",
+    "opinions": [
+        {
+            "person": "張廖簡宗",
+            "verb": "回應",
+            "opinion": "自己是不分藍綠、只重視做事的人;另被問及和議員參選人合體現身,是否準備好母雞帶小雞參選?張善政僅稱「我剛開始走,要互相拉抬」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重視",
+                "準備"
+            ],
+            "datetime": "2022-06-02 13:36"
+        }
+    ]
+}

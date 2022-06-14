@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林榮基.png",
+    "opinions": [
+        {
+            "person": "林榮基",
+            "verb": "強調",
+            "opinion": "中國這個政權不是現在才開始獨裁,它獨裁了幾千年,所以要反抗的話不是說只有幾人去反抗,反抗的時間要很長很遠,把眼光放長一點,從沒有一個獨裁政權可維持幾千年,呼籲有志者要不停努力、保持理念。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "反抗",
+                "反抗的",
+                "沒有",
+                "獨裁",
+                "不是",
+                "沒有",
+                "獨裁"
+            ],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-06-09 13:14"
+        }
+    ]
+}

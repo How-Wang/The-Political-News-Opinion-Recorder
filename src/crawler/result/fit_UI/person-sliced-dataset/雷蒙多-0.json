@@ -1,0 +1,58 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/雷蒙多.png",
+    "opinions": [
+        {
+            "person": "雷蒙多",
+            "verb": "表示",
+            "opinion": "晶片短缺已經是嚴重的國安危機,並強調「美國必須自主生產晶片,而非靠盟友支持」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "危機",
+                "嚴重",
+                "嚴重的",
+                "危機"
+            ],
+            "positive_list": [
+                "生產",
+                "自主"
+            ],
+            "datetime": "2022-05-28 08:17"
+        },
+        {
+            "person": "雷蒙多",
+            "verb": "表示",
+            "opinion": "前景「並不漂亮」,且「非常可怕且站不住腳」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不住",
+                "可怕",
+                "可怕"
+            ],
+            "positive_list": [
+                "漂亮",
+                "漂亮"
+            ],
+            "datetime": "2022-05-28 08:17"
+        },
+        {
+            "person": "雷蒙多",
+            "verb": "呼籲",
+            "opinion": "美國國會儘快通過「CHIPSforAmerica」法案,更指出美國有將近70%的精密晶片都來自台灣,且這些晶片還運用在標槍系統,認為這並不安全。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不安",
+                "不安全",
+                "不安"
+            ],
+            "positive_list": [
+                "安全",
+                "通過",
+                "精密"
+            ],
+            "datetime": "2022-05-28 08:17"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/庫馬爾.png",
+    "opinions": [
+        {
+            "person": "庫馬爾",
+            "verb": "說",
+            "opinion": "的中國在區域安全的侵擾。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "侵擾"
+            ],
+            "positive_list": [
+                "安全",
+                "安全的"
+            ],
+            "datetime": "2022-06-12 12:59"
+        }
+    ]
+}

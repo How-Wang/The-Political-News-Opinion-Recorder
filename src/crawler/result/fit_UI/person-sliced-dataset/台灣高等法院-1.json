@@ -1,0 +1,59 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣高等法院.png",
+    "opinions": [
+        {
+            "person": "台灣高等法院",
+            "verb": "指出",
+            "opinion": "因尚不知法律修正內容,待修正的法律經總統公布生效後,合議庭會審酌相關事實與法律的適用,並依法審理。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知"
+            ],
+            "positive_list": [
+                "生效",
+                "法律",
+                "法律的"
+            ],
+            "datetime": "2022-05-30 13:58"
+        },
+        {
+            "person": "台灣高等法院",
+            "verb": "表示",
+            "opinion": "因為尚不知法律修正內容,待修正之法律經總統公布生效後,合議庭會審酌相關事實與法律的適用,並依法審理。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知"
+            ],
+            "positive_list": [
+                "生效",
+                "法律",
+                "法律的"
+            ],
+            "datetime": "2022-05-30 15:06"
+        },
+        {
+            "person": "台灣高等法院",
+            "verb": "認為",
+            "opinion": "原審「未盡闡明義務,不經言詞辯論,就以判決駁回」訴訟程序有重大瑕疵,將原判決廢棄,發回北院更審。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "判決",
+                "瑕疵",
+                "駁回",
+                "廢棄",
+                "辯論",
+                "不經"
+            ],
+            "positive_list": [
+                "重大",
+                "義務"
+            ],
+            "datetime": "2022-06-10 22:02"
+        }
+    ]
+}

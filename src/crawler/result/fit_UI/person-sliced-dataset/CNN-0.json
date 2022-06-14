@@ -1,0 +1,71 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/CNN.png",
+    "opinions": [
+        {
+            "person": "CNN",
+            "verb": "認為",
+            "opinion": "解放軍在陸海空戰場都有致命弱點,儘管有能力奪台,但勢必付出極大的血腥代價,迫使北京當局不得不深思,是否真的具備全面入侵台灣的能力與決心。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "代價",
+                "血腥",
+                "致命",
+                "迫使",
+                "弱點",
+                "戰場",
+                "不得"
+            ],
+            "positive_list": [
+                "全面",
+                "有能力",
+                "決心",
+                "能力",
+                "深思"
+            ],
+            "datetime": "2022-06-01 15:32"
+        },
+        {
+            "person": "CNN",
+            "verb": "說",
+            "opinion": "關鍵目標是「制定雄心勃勃的協商路線圖,以達成高標承諾和具經濟意義的成果」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "承諾",
+                "達成"
+            ],
+            "datetime": "2022-06-02 10:52"
+        },
+        {
+            "person": "CNN",
+            "verb": "說",
+            "opinion": "關鍵目標是「制定雄心勃勃的協商路線圖,以達成高標承諾和具經濟意義的成果」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "承諾",
+                "達成"
+            ],
+            "datetime": "2022-06-02 11:33"
+        },
+        {
+            "person": "CNN",
+            "verb": "認為",
+            "opinion": "共軍在陸海空都有要害之處,縱使有能力奪台,但也將付出相當大的血腥代價。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "代價",
+                "血腥"
+            ],
+            "positive_list": [
+                "有能力",
+                "能力"
+            ],
+            "datetime": "2022-06-02 09:40"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃國昌.png",
+    "opinions": [
+        {
+            "person": "黃國昌",
+            "verb": "指出",
+            "opinion": "問題是:真的有「公正辦理」嗎?去年夏天,為了掩飾疫苗政策的錯亂與準備的不足,有系統地帶風向抹黑BNT疫苗,其中還不乏有權力的公職人員。",
+            "negative_score": 8,
+            "positive_score": 5,
+            "negative_list": [
+                "不足",
+                "問題",
+                "掩飾",
+                "錯亂",
+                "不足",
+                "抹黑",
+                "問題",
+                "錯亂"
+            ],
+            "positive_list": [
+                "公正",
+                "有權",
+                "有權力",
+                "有權力的",
+                "準備"
+            ],
+            "datetime": "2022-05-29 16:16"
+        },
+        {
+            "person": "黃國昌",
+            "verb": "表示",
+            "opinion": "一席咎責查辦的傲慢發言,引發社會怒火之後,蘇貞昌今天出面表示:「請權責機關公正辦理就好,不針對任何個人」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "傲慢",
+                "怒火",
+                "傲慢"
+            ],
+            "positive_list": [
+                "公正"
+            ],
+            "datetime": "2022-05-29 16:16"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "北榮",
+            "verb": "表示",
+            "opinion": "感動,不過近來台北市及新北市政府因為防疫,頻頻槓上中央,還批她沒有關心雙北疫情,蔡英文這樣說。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "槓上"
+            ],
+            "positive_list": [
+                "感動",
+                "關心",
+                "感動",
+                "關心"
+            ],
+            "datetime": "2022-05-24 22:31"
+        },
+        {
+            "person": "北榮",
+            "verb": "質疑",
+            "opinion": "是否太慢到第一線關心,對此,她受訪時表示,總統來關心第一線醫護同仁,這事情是值得高興的,她強調,總統到現場後,醫護同仁都很雀躍,這是鼓舞士氣非常重要。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "值得",
+                "高興",
+                "高興的",
+                "雀躍",
+                "鼓舞",
+                "關心",
+                "高興",
+                "雀躍",
+                "鼓舞",
+                "關心"
+            ],
+            "datetime": "2022-05-24 18:29"
+        },
+        {
+            "person": "北榮",
+            "verb": "解釋",
+            "opinion": "雖然都是「自由廣場」,但兒童疫苗施打站與原先車來速採檢確診給藥站有很明確的動線區隔,也有很遠的距離。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "明確",
+                "自由"
+            ],
+            "datetime": "2022-05-30 18:48"
+        },
+        {
+            "person": "北榮",
+            "verb": "解釋",
+            "opinion": "雖然都是「自由廣場」,但兒童疫苗施打站與原先車來速採檢確診給藥站有很明確的動線區隔,也有很遠的距離。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "明確",
+                "自由"
+            ],
+            "datetime": "2022-05-31 10:00"
+        },
+        {
+            "person": "北榮",
+            "verb": "提到",
+            "opinion": "只要讓多一個家庭安心,醫護努力都是值得的,醫師公會全聯會理事長邱泰源,更帶著補給品,慰勞在端午節堅守崗位的醫護們。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "值得",
+                "值得的",
+                "安心"
+            ],
+            "datetime": "2022-06-03 17:49"
+        }
+    ]
+}

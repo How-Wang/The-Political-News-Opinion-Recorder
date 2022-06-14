@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭新輝.png",
+    "opinions": [
+        {
+            "person": "鄭新輝",
+            "verb": "說",
+            "opinion": "「下禮拜開始會有畢業考,另外我們有,中等學校運動會的選手,學校防疫小組做好防疫,這個確定的話學生是可以回校的。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "確定"
+            ],
+            "datetime": "2022-05-26 17:32"
+        }
+    ]
+}

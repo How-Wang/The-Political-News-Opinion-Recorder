@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吉田姿伶.png",
+    "opinions": [
+        {
+            "person": "吉田姿伶",
+            "verb": "說",
+            "opinion": "台灣女性真的力量強大。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "強大"
+            ],
+            "datetime": "2022-06-12 23:35"
+        }
+    ]
+}

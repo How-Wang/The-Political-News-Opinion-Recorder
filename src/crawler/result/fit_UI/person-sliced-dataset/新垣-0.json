@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新垣.png",
+    "opinions": [
+        {
+            "person": "新垣",
+            "verb": "說",
+            "opinion": "這就是我們台灣女性最驕傲的地方。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "驕傲",
+                "驕傲的",
+                "驕傲"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 23:35"
+        }
+    ]
+}

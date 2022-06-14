@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/洪孟楷.png",
+    "opinions": [
+        {
+            "person": "洪孟楷",
+            "verb": "說",
+            "opinion": "他是個棒球迷,他的生活就是陽光、空氣、水跟棒球,今天是以球會友,有段時間沒有來了,今天當然要來一下,他也希望透過這樣的軟性活動,讓大家知道,防疫做好,可以恢復正常生活,用行動力挺現在的棒球。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "正常",
+                "希望",
+                "知道",
+                "當然",
+                "希望"
+            ],
+            "datetime": "2022-06-07 18:05"
+        }
+    ]
+}

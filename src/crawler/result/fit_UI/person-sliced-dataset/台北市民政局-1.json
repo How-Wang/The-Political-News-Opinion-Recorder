@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市民政局.png",
+    "opinions": [
+        {
+            "person": "台北市民政局",
+            "verb": "回應",
+            "opinion": "截至5月31日為止,台北市人口數為247萬599人,扣除原住民人口數後區域人口數為245萬3645人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 18:27"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/美國人.png",
+    "opinions": [
+        {
+            "person": "美國人",
+            "verb": "說",
+            "opinion": "你們竟然逼我們買會讓睪丸變小的豬肉,我們絕不買單,拒絕到底。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "拒絕",
+                "竟然",
+                "絕不"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "美國人",
+            "verb": "說",
+            "opinion": "「你們竟然逼我們買會讓睪丸變小的豬肉,我們絕不買單,拒絕到底」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "拒絕",
+                "竟然",
+                "絕不"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 09:28"
+        },
+        {
+            "person": "美國人",
+            "verb": "說",
+            "opinion": "公開表示,國民黨不是親中而是親美,一番話讓他成為箭靶。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "公開",
+                "成為"
+            ],
+            "datetime": "2022-06-08 13:22"
+        }
+    ]
+}

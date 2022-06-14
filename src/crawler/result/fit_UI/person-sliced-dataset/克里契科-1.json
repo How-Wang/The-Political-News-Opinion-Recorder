@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/克里契科.png",
+    "opinions": [
+        {
+            "person": "克里契科",
+            "verb": "宣布",
+            "opinion": "轉贈台灣人民募捐的300萬美元予基輔市,另提供烏克蘭當地6所醫療機構500萬美元,總計800萬美元。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-07 02:32"
+        }
+    ]
+}

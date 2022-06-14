@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐功凡.png",
+    "opinions": [
+        {
+            "person": "徐功凡",
+            "verb": "指出",
+            "opinion": "何志勇邀請他時就義不容辭的答應,年輕世代相聚在一起,不管做什麼事情,只要是正面的,不論是對防疫觀念也好,或促銷經濟消費,只要可以做的部分,就一起努力達成。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "正面",
+                "努力",
+                "答應",
+                "達成",
+                "義不容辭"
+            ],
+            "datetime": "2022-06-07 18:05"
+        }
+    ]
+}

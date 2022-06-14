@@ -1,0 +1,181 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國發會.png",
+    "opinions": [
+        {
+            "person": "國發會",
+            "verb": "指出",
+            "opinion": "2022振興措施經費達新台幣345.6億元;另外,經濟部先前推出的補助餐飲業業者規劃行銷方案,經費原為6億元,將加碼至36.25億元。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:53"
+        },
+        {
+            "person": "國發會",
+            "verb": "解釋",
+            "opinion": "今年因台灣正經歷與疫情共存的陣痛期,維持正常生活下,民眾自主減少外出活動、聚餐,難免影響相關內需產業。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "陣痛",
+                "減少"
+            ],
+            "positive_list": [
+                "正常",
+                "自主"
+            ],
+            "datetime": "2022-05-26 14:58"
+        },
+        {
+            "person": "國發會",
+            "verb": "表示",
+            "opinion": "今年因台灣正經歷與疫情共存的陣痛期,維持正常生活下,民眾自主減少外出活動、聚餐,難免影響相關內需產業。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "陣痛",
+                "減少"
+            ],
+            "positive_list": [
+                "正常",
+                "自主"
+            ],
+            "datetime": "2022-05-26 13:43"
+        },
+        {
+            "person": "國發會",
+            "verb": "提出",
+            "opinion": "新一波振興措施,希望透過「助產業護勞工、減負擔、穩金流」等3個面向,提供必要的支持,降低特定產業的衝擊。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "負擔",
+                "降低",
+                "衝擊"
+            ],
+            "positive_list": [
+                "必要",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-26 12:57"
+        },
+        {
+            "person": "國發會",
+            "verb": "表示",
+            "opinion": "今年因台灣正經歷與疫情共存的陣痛期,維持正常生活下,民眾自主減少外出活動、聚餐,難免影響相關內需產業。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "陣痛",
+                "減少"
+            ],
+            "positive_list": [
+                "正常",
+                "自主"
+            ],
+            "datetime": "2022-05-26 11:55"
+        },
+        {
+            "person": "國發會",
+            "verb": "提出",
+            "opinion": "新一波振興措施,此振興方案朝「助產業/護勞工」、「減負擔」、「穩金流」三大面向規畫,總紓困與振興經費合計345.6億元,共計89.9萬人受惠。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:54"
+        },
+        {
+            "person": "國發會",
+            "verb": "指出",
+            "opinion": "減負擔包括租金、權利金等減收(國有非公用不動產、國有公用及國營事業經管不動產);減徵稅負(關鍵原物料);桶裝瓦斯凍漲。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "負擔",
+                "徵稅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:54"
+        },
+        {
+            "person": "國發會",
+            "verb": "提出",
+            "opinion": "新一波振興作為,根據規劃,此波振興方案分為助產業戶勞工、減負擔、穩金流3大面向,預計發出345.6億紓困與振興經費,並減收101.5億稅收、吸收31.2億的稅負。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "負擔"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:15"
+        },
+        {
+            "person": "國發會",
+            "verb": "表示",
+            "opinion": "今年疫情影響層面與過去2年不同,前年因境外疫情嚴峻,直接衝擊我國傳統製造業,以及受邊境管制之航空、旅行等行業;去年則因疫情升至三級警戒,要求多項營業場所及活動關閉或暫停,衝擊內需產業。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "暫停",
+                "衝擊",
+                "嚴峻"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:15"
+        },
+        {
+            "person": "國發會",
+            "verb": "表示",
+            "opinion": "今年疫情影響層面與過去2年不同,2020年時因境外疫情嚴峻,直接衝擊我國傳統製造業,以及受邊境管制之航空、旅行等行業;2021年則因疫情升至三級警戒,要求多項營業場所及活動關閉或暫停,衝擊內需產業。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "暫停",
+                "衝擊",
+                "嚴峻"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:55"
+        },
+        {
+            "person": "國發會",
+            "verb": "說明",
+            "opinion": "過去2年多來在全體國人與政府互相配合及努力下,除了守住疫情,推動多項紓困、振興措施外,亦順應時勢把握契機,創造「經濟奇蹟2.0」,備受國際諸多肯定,顯示我國經濟結構轉型漸具成效,在疫情下更具韌性。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "把握",
+                "肯定",
+                "創造",
+                "把握"
+            ],
+            "datetime": "2022-05-26 12:55"
+        },
+        {
+            "person": "國發會",
+            "verb": "強調",
+            "opinion": "當時他要求行政院給個交代,但蘇貞昌就只一句「政府沒有養網軍」謊言混過,讓此事不了了之。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "要求",
+                "謊言",
+                "不了",
+                "沒有",
+                "謊言"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 12:05"
+        }
+    ]
+}

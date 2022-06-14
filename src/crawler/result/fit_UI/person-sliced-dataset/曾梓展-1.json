@@ -1,0 +1,38 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾梓展.png",
+    "opinions": [
+        {
+            "person": "曾梓展",
+            "verb": "表示",
+            "opinion": "中央今天公布台中11例死亡個案,年齡介於68歲至92歲,均有慢性病或癌症病史,死因為敗血症、呼吸衰竭等。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "衰竭",
+                "慢性",
+                "癌症"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 17:54"
+        },
+        {
+            "person": "曾梓展",
+            "verb": "說",
+            "opinion": "「的確台中榮總曾經希望,禮拜天6/5是不是可以休息,但大家知道,整個城市假日醫療量能的提供,是比較少的,所以我們那時候也情商台中榮總,是不是禮拜天還是繼續再服務半天。」",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "休息",
+                "希望",
+                "的確",
+                "知道",
+                "希望"
+            ],
+            "datetime": "2022-06-07 12:26"
+        }
+    ]
+}

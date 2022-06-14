@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許輔.png",
+    "opinions": [
+        {
+            "person": "許輔",
+            "verb": "說",
+            "opinion": "台灣開放含萊克多巴胺豬肉和福島5縣食品輸台,都是為了彰顯遵守CPTPP高標準的決心,以加入CPTPP及提升台灣的國際地位。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "決心",
+                "提升",
+                "開放",
+                "標準的",
+                "遵守",
+                "地位"
+            ],
+            "datetime": "2022-05-27 21:30"
+        }
+    ]
+}

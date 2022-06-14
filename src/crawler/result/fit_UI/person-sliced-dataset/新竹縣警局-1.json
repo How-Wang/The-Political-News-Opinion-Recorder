@@ -1,0 +1,43 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新竹縣警局.png",
+    "opinions": [
+        {
+            "person": "新竹縣警局",
+            "verb": "說",
+            "opinion": "死者是一位熱心助人的社區保全,他看了社區居民寫給家屬的卡片,眼淚幾乎就要掉下來,然而,從事故發生至今,警方種種不合理的作法與態度,至今家屬還等不到一個交代。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "不合",
+                "不合理",
+                "不合理的",
+                "不到",
+                "死者",
+                "事故",
+                "掉下",
+                "眼淚",
+                "不到",
+                "眼淚"
+            ],
+            "positive_list": [
+                "合理",
+                "合理的",
+                "熱心",
+                "熱心"
+            ],
+            "datetime": "2022-05-28 12:55"
+        },
+        {
+            "person": "新竹縣警局",
+            "verb": "宣布",
+            "opinion": "懲處林英煌等3名警官,但時代力量新竹縣議員連郁婷於臉書發文質疑,雲林縣警察局長李謀旺有打電話給林英煌等人關說施壓。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "質疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:03"
+        }
+    ]
+}

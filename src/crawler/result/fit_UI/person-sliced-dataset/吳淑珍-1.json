@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳淑珍.png",
+    "opinions": [
+        {
+            "person": "吳淑珍",
+            "verb": "指出",
+            "opinion": "「目前居家照護遵囑按時服藥,身體狀況不許可施打疫苗缺防護力,加上服用抗病毒和症狀治療藥物,副作用讓原本虛弱體質更加無力。」",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不許",
+                "無力",
+                "無力",
+                "虛弱"
+            ],
+            "positive_list": [
+                "治療",
+                "許可"
+            ],
+            "datetime": "2022-06-12 10:22"
+        }
+    ]
+}

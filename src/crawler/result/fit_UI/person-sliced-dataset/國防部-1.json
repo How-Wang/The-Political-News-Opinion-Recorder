@@ -1,0 +1,251 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "國防部",
+            "verb": "說明",
+            "opinion": "國軍第三劑疫苗接種率91.79%,調整區隔政策、暫緩辦理大型活動、進行快篩試劑發放及篩檢等防疫作為。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-05-24 10:54"
+        },
+        {
+            "person": "國防部",
+            "verb": "說明",
+            "opinion": "時表示,為藉由國家考試掄選機制,廣納優秀法律人才擔任軍法軍官,擬置「國防法務官」並由考試院辦理考試,期透過具備法律專業能力之人員協助,使國軍各項國防政策與執行均能依法行政,提升國軍整體法律專業質量,因此擬具「陸海空軍軍官士官任職條例」第3條之1修正草案。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "協助",
+                "法律",
+                "能力",
+                "提升",
+                "優秀"
+            ],
+            "datetime": "2022-05-24 17:34"
+        },
+        {
+            "person": "國防部",
+            "verb": "強調",
+            "opinion": "面對敵情威脅不能沉不住氣,而是要讓對方惹不起。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "不住",
+                "不能",
+                "威脅",
+                "不起",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 11:05"
+        },
+        {
+            "person": "國防部",
+            "verb": "強調",
+            "opinion": "有人覺得飛行很帥、有人覺得飛行很浪漫,想飛不僅是夢想也是堅持,但現實總是殘酷,飛行的不容易,訓練的艱辛,只有自己才懂。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "現實",
+                "殘酷",
+                "現實",
+                "殘酷"
+            ],
+            "positive_list": [
+                "容易",
+                "浪漫",
+                "訓練",
+                "堅持",
+                "夢想"
+            ],
+            "datetime": "2022-05-25 11:05"
+        },
+        {
+            "person": "國防部",
+            "verb": "提到",
+            "opinion": "楊基榮過去也曾擔任二一砲指部指揮官、蘭指部指揮官等重要主官,熟悉軍團各項戰演訓及災害防救任務。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "災害"
+            ],
+            "positive_list": [
+                "重要",
+                "熟悉"
+            ],
+            "datetime": "2022-05-30 10:23"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "空投不是把東西往下丟就好,其中「眉角」不少,官兵不僅需要結合地空聯絡、風向觀測及煙幕施放,更要克服天候、風向等因素,此外捆紮、裝載也是一門大學問,如此才能讓空投軍品們,平平安安的起飛,完完整整的落地。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不是",
+                "東西"
+            ],
+            "positive_list": [
+                "才能",
+                "平安",
+                "完整",
+                "克服"
+            ],
+            "datetime": "2022-05-30 17:05"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "後勤支援、物資運補除了機動車輛,若遇到道路中斷等交通阻礙時,「傘降空投」就是另一種選擇,大到9500磅的悍馬車,小到軍品補給,C-130運輸機都能夠空投。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "中斷",
+                "阻礙"
+            ],
+            "positive_list": [
+                "支援"
+            ],
+            "datetime": "2022-05-30 17:05"
+        },
+        {
+            "person": "國防部",
+            "verb": "說明",
+            "opinion": "書,這是五角大厦首次把《核態勢評估》與《飛彈防禦評估》納入進行整合性戰略評估,並提出4個國防優先事項,其中2項針對中國:包括應對中國日益增長的多領域威脅,優先考慮中國在印太地區的挑戰,然後是俄羅斯在歐洲的挑戰。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "威脅",
+                "挑戰",
+                "威脅"
+            ],
+            "positive_list": [
+                "考慮",
+                "進行"
+            ],
+            "datetime": "2022-05-30 06:40"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "對於同袍傷損深感哀痛與不捨,將依總統蔡英文指導,全力協助家屬處理後續事宜、徹底釐清肇因。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "哀痛",
+                "哀痛"
+            ],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-05-31 10:13"
+        },
+        {
+            "person": "國防部",
+            "verb": "宣布",
+            "opinion": "上午11時於國防部空軍司令部召開「AT-3光點消失臨時記者會」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "消失",
+                "消失"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:47"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "對同袍傷損深感哀痛與不捨,將依總統指導,全力協助家屬處理後續事宜、徹底釐清肇因。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "哀痛",
+                "哀痛"
+            ],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-05-31 09:52"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "對同袍傷損深感哀痛與不捨,將依總統指導,全力協助家屬處理後續事宜、徹底釐清肇因。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "哀痛",
+                "哀痛"
+            ],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-05-31 10:42"
+        },
+        {
+            "person": "國防部",
+            "verb": "指出",
+            "opinion": "將會由空軍再發布相關資訊。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 10:39"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "對同袍傷損深感哀痛與不捨,將依總統指導,全力協助家屬處理後續事宜、徹底釐清肇因。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "哀痛",
+                "哀痛"
+            ],
+            "positive_list": [
+                "全力",
+                "協助"
+            ],
+            "datetime": "2022-05-31 09:47"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "為嚇阻官兵攜帶毒品入營施用及藏放,國軍緝毒犬去年執行330場次嗅聞,並支援司法案件,110年至今年4月在軍營與營外共查獲10件毒品案。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "毒品"
+            ],
+            "positive_list": [
+                "支援"
+            ],
+            "datetime": "2022-06-07 12:45"
+        },
+        {
+            "person": "國防部",
+            "verb": "表示",
+            "opinion": "俄烏戰爭未使美國轉移戰略重心,研判中共在2027年將實現建軍百年目標,能量足以對台與抗擊外軍作戰。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰",
+                "戰爭"
+            ],
+            "positive_list": [
+                "實現"
+            ],
+            "datetime": "2022-06-09 10:12"
+        }
+    ]
+}

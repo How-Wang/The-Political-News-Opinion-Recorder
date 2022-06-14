@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曾勝利.png",
+    "opinions": [
+        {
+            "person": "曾勝利",
+            "verb": "表示",
+            "opinion": "感謝侯友宜對新北市的付出與建設,新北市各區的區里長都很讚許他,「他真的很用心,疫情期間也真的太忙了」,因此這次特別南下前來上香致意,幫侯呂秀蓮溪濱堅強母侯母友宜媽媽上個香,聊表心意。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "建設",
+                "致意",
+                "特別",
+                "堅強",
+                "感謝",
+                "感謝",
+                "讚許"
+            ],
+            "datetime": "2022-05-29 12:50"
+        }
+    ]
+}

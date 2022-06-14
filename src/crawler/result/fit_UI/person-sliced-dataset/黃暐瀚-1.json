@@ -1,0 +1,291 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃暐瀚",
+            "verb": "說",
+            "opinion": "議長這頭感覺不被尊重,跟媒體嗆聲:「沒需要做到這樣吧」?不願相見,人都已經上車飛奔桃園到一半的張善政,只好取消行程,掉頭再回台北智庫,『這不只陣腳大亂』啊!這是連「行程都大亂』了」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "取消",
+                "大亂",
+                "嗆聲"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-24 15:43"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "表示",
+            "opinion": "怎麼看來看去都是國民黨在亂。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 15:43"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "表示",
+            "opinion": "朱立倫當初與台北市前議員羅智強通話時,也跟羅智強一一說清楚不能選的理由。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-24 16:40"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "指出",
+            "opinion": "細看圖卡,可發現朱立倫與張善政身穿的外套正是高雄前市長韓國瑜的深藍色「鋼鐵H夾克」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 16:40"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "說",
+            "opinion": "對比邱奕勝態度無縫轉變,當過行政院長的張善政卻像是個什麼都不懂的「政治練習生」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不懂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 10:38"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "說",
+            "opinion": "她27歲從政當選南投縣議員、31歲選上南投市長,之後參與立委補選,擔任立委後有更多機會到各鄉鎮了解交通、農業等問題,20年政治路從基層到中央歷練完備。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "了解",
+                "機會"
+            ],
+            "datetime": "2022-06-02 11:28"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "表示",
+            "opinion": "桃園善政正在善後,快一個月了還沒把事情喬好,張善政在地方政治跟人脈這塊出乎意料的不懂,他今天要當參選人,居然不知道要跟大方大佬打個招呼。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "出乎",
+                "出乎意料",
+                "不知",
+                "不懂",
+                "居然"
+            ],
+            "positive_list": [
+                "大方",
+                "知道",
+                "出乎意料"
+            ],
+            "datetime": "2022-06-05 21:44"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "表示",
+            "opinion": "朱立倫是雙子座,一個身體兩個靈魂,當年換掉洪秀柱是自己的獨家,沒有記者敢跟,當時媒體去跟朱立倫的幕僚求證,有的說有、有的沒有,因為朱立倫自己有很多想法,所以得到的答案都不一樣,朱立倫對於桃園的事情也是這樣。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "很多",
+                "得到"
+            ],
+            "datetime": "2022-06-05 21:44"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "指出",
+            "opinion": "朱立倫可能啟動「換政」,國民黨文傳會今天表示,國民黨中常會已於5月18日正式通過徵召提名張善政參選年底桃園市長,絕無任何變化;張善政也已展開各項選舉行程,國民黨將全力協助張善政爭取勝選,打造新桃園。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "全力",
+                "協助",
+                "通過",
+                "絕無",
+                "舉行"
+            ],
+            "datetime": "2022-06-06 16:55"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "指出",
+            "opinion": "張善政被提名,羅智強還是繼續在行腳、呂玉玲連續4場跟地方議員、里長展現實力。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "現實",
+                "現實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "指出",
+            "opinion": "張善政被提名,羅智強還是繼續在行腳、呂玉玲連續4場跟地方議員、里長展現實力。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "現實",
+                "現實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:24"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "說",
+            "opinion": "朱立倫從美國返台後會把張善政換掉。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 14:06"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "說明",
+            "opinion": "朱立倫是雙子座,一個身體兩個靈魂,當年換掉洪秀柱是他的獨家,沒有記者敢跟,媒體去跟朱立倫的幕僚求證,有的說有,有的說沒有,而這次朱立倫對於桃園的事情也是這樣。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "指出",
+            "opinion": "張善政被提名,羅智強還是繼續在行腳、呂玉玲連續4場跟地方議員、里長展現實力。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "現實",
+                "現實"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "表示",
+            "opinion": "國民黨主席朱立倫訪美行程結束後,回台就有可能啟動「換政」,將有意參選者拉回初選。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:31"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "認為",
+            "opinion": "當年的換柱新聞是他的獨家報導,出稿求證時,幕僚們說法不一。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "批評",
+            "opinion": "部長翻出一紙公文,強調「24小時之內火化」是第一類,不是第五類。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:58"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "認為",
+            "opinion": "陳宗彥時中部長只說其一,不說其二、其三、其四,指揮中心這種態度真的大可不必。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:58"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "說",
+            "opinion": "被列為第五類傳染病的「裂谷熱、馬堡病毒出血熱、黃熱病、伊波拉病毒感染、拉薩熱、中東呼吸症候群冠狀病毒感染症」遺體處置方式,只能火化,不能深埋。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "病的",
+                "處置",
+                "傳染",
+                "傳染病",
+                "感染",
+                "熱病"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:58"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "提到",
+            "opinion": "在桃園提名亂局下照跑美國,朱立倫是是希望「出口轉內銷」,把九二共識等同沒有共識與不參與2024的論述銷回台灣。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-11 11:58"
+        },
+        {
+            "person": "黃暐瀚",
+            "verb": "指出",
+            "opinion": "若是年底選戰六都未過半將被逼宮的朱立倫,「是最想贏選舉的人」,舒城之戰的關鍵就是需要一場勝利。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "勝利"
+            ],
+            "datetime": "2022-06-11 11:58"
+        }
+    ]
+}

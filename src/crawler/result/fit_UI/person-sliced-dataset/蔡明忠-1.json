@@ -1,0 +1,53 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔡明忠.png",
+    "opinions": [
+        {
+            "person": "蔡明忠",
+            "verb": "指出",
+            "opinion": "今日新增中重症近200人,這些人恐在未來1周天內死亡,所以今日公布的確診新冠肺炎死亡人數絕對不是新高,未來一定有更多死亡人數出現,此現象代表台灣出現太多黑數,導致數字失真。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "死亡",
+                "絕對",
+                "不是"
+            ],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-05-26 08:50"
+        },
+        {
+            "person": "蔡明忠",
+            "verb": "指出",
+            "opinion": "台灣染疫兒童死亡率是10萬分之5,是日本的10倍、韓國的8倍,提醒政府應確實超前部署,準備好防疫3寶(意指疫苗、快篩、藥劑)。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [
+                "準備",
+                "確實"
+            ],
+            "datetime": "2022-05-26 08:50"
+        },
+        {
+            "person": "蔡明忠",
+            "verb": "指出",
+            "opinion": "判斷疫情是否趨緩,絕對不能只看染疫數字,因為其中存在很多未察覺的黑數,而台灣的死亡率非常高,很難斷言現在的疫情發展已經趨緩。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "死亡",
+                "絕對"
+            ],
+            "positive_list": [
+                "很多",
+                "發展"
+            ],
+            "datetime": "2022-06-08 13:55"
+        }
+    ]
+}

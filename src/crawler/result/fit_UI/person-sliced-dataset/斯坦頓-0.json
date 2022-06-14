@@ -1,0 +1,33 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "斯坦頓",
+            "verb": "說",
+            "opinion": "鄭達志是他的保健醫師,絕對是英雄!「他襲擊了槍手,拯救了教堂裡的許多人」,希望讓更多人,記住他的名字,加州參議院還特地休會,悼念鄭達志醫師的英勇之舉。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "絕對",
+                "襲擊"
+            ],
+            "positive_list": [
+                "希望",
+                "英勇",
+                "英雄",
+                "希望"
+            ],
+            "datetime": "2022-05-22 18:23"
+        },
+        {
+            "person": "斯坦頓",
+            "verb": "質疑",
+            "opinion": "表示永久執政只有兩個可能性,一個是回到兩蔣時代,另外就是和中共統一,所有外交相關事物,都透過中共外交部處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:01"
+        }
+    ]
+}

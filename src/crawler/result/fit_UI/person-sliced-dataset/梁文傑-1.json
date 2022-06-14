@@ -1,0 +1,49 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/梁文傑.png",
+    "opinions": [
+        {
+            "person": "梁文傑",
+            "verb": "提出",
+            "opinion": "「如果是急救,消防局根本不用聯絡衛生局所,衛生所也可以不用聯絡醫院。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-03 18:34"
+        },
+        {
+            "person": "梁文傑",
+            "verb": "認為",
+            "opinion": "家屬無法按照民俗送別往生者確實令人無奈,但非常時期也只能面對現實,且不應叫台北市殯儀館及殯葬業員工冒險。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "冒險",
+                "現實",
+                "無法",
+                "現實",
+                "無奈",
+                "無法"
+            ],
+            "positive_list": [
+                "確實"
+            ],
+            "datetime": "2022-06-06 22:54"
+        },
+        {
+            "person": "梁文傑",
+            "verb": "表示",
+            "opinion": "確診遺體24小時火化一事已吵好幾天,他詢問殯葬業者看法,對方說本來就知道中央並無規定要在24小時內火化,只是說要「盡速」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-06 22:54"
+        }
+    ]
+}

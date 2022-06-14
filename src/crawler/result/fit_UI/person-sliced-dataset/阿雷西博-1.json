@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/阿雷西博.png",
+    "opinions": [
+        {
+            "person": "阿雷西博",
+            "verb": "說明",
+            "opinion": "地球位置、人類DNA組成及該望遠鏡的介紹;於2016年,中國貴州的中國天眼望遠鏡正式承襲阿雷西博,並因循「銀河系燈塔」計畫而改版1974年的訊號內容,更新了更周全、詳盡的地球相關資訊。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "因循"
+            ],
+            "positive_list": [
+                "正式",
+                "詳盡",
+                "詳盡的"
+            ],
+            "datetime": "2022-06-09 17:57"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "謝和弦",
+            "verb": "表示",
+            "opinion": "「打不贏,他是我偶像」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 20:15"
+        },
+        {
+            "person": "謝和弦",
+            "verb": "痛批",
+            "opinion": "「台灣落後國家可以參考一下,在人民餓死病死前合法開放」,並標記強調「大麻合法化」、「草本也無妨。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "落後",
+                "餓死",
+                "餓死"
+            ],
+            "positive_list": [
+                "合法",
+                "開放"
+            ],
+            "datetime": "2022-06-10 18:28"
+        }
+    ]
+}

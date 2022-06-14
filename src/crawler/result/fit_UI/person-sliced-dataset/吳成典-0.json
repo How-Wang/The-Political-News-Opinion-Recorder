@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/吳成典.png",
+    "opinions": [
+        {
+            "person": "吳成典",
+            "verb": "說",
+            "opinion": "「朱立倫高舉的是親美的蔡英文路線,朱立倫與蔡英文都會把台灣,帶向戰爭之中。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:35"
+        },
+        {
+            "person": "吳成典",
+            "verb": "指出",
+            "opinion": "今天朱立倫高舉的是親美的蔡英文路線,朱立倫與蔡英文都會把台灣帶到戰爭之中,過去台灣人已經意識到美國正在利用民進黨,意圖以台灣為戰場,把台灣變成遏制中國成長的棋子。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "意圖",
+                "遏制",
+                "戰爭",
+                "戰場",
+                "利用"
+            ],
+            "positive_list": [
+                "成長"
+            ],
+            "datetime": "2022-06-08 12:14"
+        }
+    ]
+}

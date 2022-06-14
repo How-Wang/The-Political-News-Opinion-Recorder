@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/校友會.png",
+    "opinions": [
+        {
+            "person": "校友會",
+            "verb": "發現",
+            "opinion": "多位當年因政治因素而無法在竹中順利畢業的學長們。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "順利"
+            ],
+            "datetime": "2022-06-02 12:32"
+        }
+    ]
+}

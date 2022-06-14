@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "杜魯道",
+            "verb": "強調",
+            "opinion": "對台灣立場一貫,支持台灣被納入國際多邊論壇及機構,確保其觀點被聽見,這也是杜魯道連續三年,公開挺台參與WHA。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-05-21 08:45"
+        }
+    ]
+}

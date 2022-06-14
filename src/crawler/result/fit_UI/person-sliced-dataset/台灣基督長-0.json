@@ -1,0 +1,35 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "台灣基督長",
+            "verb": "認為",
+            "opinion": "可修法納入仇恨罪;法務部長蔡清祥今天受訪表示,可以蒐集外國立法例,再邀學者專家討論,若認為現行法律不夠周延,可想辦法立法。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不夠",
+                "仇恨",
+                "仇恨"
+            ],
+            "positive_list": [
+                "法律",
+                "專家"
+            ],
+            "datetime": "2022-05-23 10:26"
+        },
+        {
+            "person": "台灣基督長",
+            "verb": "指出",
+            "opinion": "索達諾1961年起進入教廷外交系統服務,在梵蒂岡第二大公會議期間於拉丁美洲工作,1968年冷戰激烈時刻被派往東歐工作。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "激烈",
+                "冷戰"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 22:37"
+        }
+    ]
+}

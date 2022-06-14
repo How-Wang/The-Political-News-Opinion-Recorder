@@ -1,0 +1,501 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蔡其昌",
+            "verb": "回應",
+            "opinion": "透過民調的政治操作就不必了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:54"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "「我們這一次爭取這20台檢測機器,叫做快速打擊部隊,每一次只要25分鐘,就可以做完相關檢測。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "打擊",
+                "打擊"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:54"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "表示",
+            "opinion": "「那治安部分我相信,不是這次民調不好,是長期台中市民都覺得治安不好,這個都是台中市民,心中最大的痛。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不是"
+            ],
+            "positive_list": [
+                "相信"
+            ],
+            "datetime": "2022-05-28 17:25"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "呼籲",
+            "opinion": "民眾支持屏東出產的芒果。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 15:04"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "「屏東,芒好的」,也形容「周春米,好忙」,指參選屏東縣長的周春米忙碌服務民眾、爭取建設。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "建設"
+            ],
+            "datetime": "2022-05-30 15:04"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "宣布",
+            "opinion": "開會,處理朝野黨團有簽署協商結論的國營事業預算案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 10:23"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "宣布",
+            "opinion": "開會,但國民黨團撤簽國營事業預算案協商結論,議程來到「會計法第99條之1」,藍綠陣營爆發全面衝突,國民黨立委持續朝主席台丟擲杯水,連孫中山遺像也遭砸破。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "衝突",
+                "爆發",
+                "衝突"
+            ],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-05-30 14:40"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "宣布",
+            "opinion": "開會,但國民黨團撤簽國營事業預算案協商結論,議程來到「會計法第99條之1」,藍綠陣營爆發全面衝突,國民黨立委持續朝主席台丟擲杯水,連孫中山遺像也遭砸破。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "衝突",
+                "爆發",
+                "衝突"
+            ],
+            "positive_list": [
+                "全面"
+            ],
+            "datetime": "2022-05-30 11:17"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "宣布",
+            "opinion": "開會,處理朝野黨團有簽署協商結論的國營事業預算案。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 11:00"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "宣布",
+            "opinion": "會議休息,請現場的議事人員緊急進行修復。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "緊急"
+            ],
+            "positive_list": [
+                "休息",
+                "進行"
+            ],
+            "datetime": "2022-06-01 10:15"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "「不需要一直抹黑,抹黑我幹什麼,我就是來幫忙的,國民黨沒有感謝我就算了,你應該跟我說謝謝,我這麼認真在協助盧秀燕市長、協助台中市。」",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "抹黑",
+                "算了"
+            ],
+            "positive_list": [
+                "協助",
+                "感謝",
+                "認真",
+                "感謝",
+                "謝謝"
+            ],
+            "datetime": "2022-06-01 18:15"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "質疑",
+            "opinion": "盧市府聲東擊西,轉移焦點,從兒童疫苗施打,到市府確診率,藍綠過招,攻防不斷。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:13"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "表示",
+            "opinion": "大家質疑台中市校園施打率,「我們講東,盧市長扯西!」反問盧市長在一回說總統府染疫數達3分之1,是否也是惡意造謠?網路流傳一張圖片,指出台中市兒童疫苗只施打7200劑,台中市政府澄清,5月31日下午3點為止,已施打7萬7290劑。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "造謠",
+                "惡意",
+                "質疑",
+                "造謠"
+            ],
+            "positive_list": [
+                "澄清"
+            ],
+            "datetime": "2022-06-02 14:16"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "警察局長如果認為有問題,盧市長昨天不是在議會公然造謠說,總統府確診人數是3分之1,這個跟事實不符。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "不符",
+                "問題",
+                "造謠",
+                "不是",
+                "有問題",
+                "問題",
+                "造謠"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:16"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "自己從頭到尾都在講盧秀燕「校園」兒童疫苗施打,3天總共7千多,這很清楚。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-06-03 09:32"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "表示",
+            "opinion": "大家質疑台中市校園施打率,「我們講東,盧秀燕市長扯西!」反問盧秀燕說總統府染疫數達3分之1,是否也是惡意造謠?對此,行政院長蘇貞昌出面緩頰,指出雙方各自說明,「互相了解就好」。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "造謠",
+                "惡意",
+                "質疑",
+                "造謠"
+            ],
+            "positive_list": [
+                "了解",
+                "說明"
+            ],
+            "datetime": "2022-06-03 09:36"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "回應",
+            "opinion": "還是希望市政府讓同仁可以專心在防疫工作上,而不是這些事情上。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-04 15:59"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "「國民黨的內訌如果不解決,會影響全台各地選舉,因為民眾對國民黨提名的候選人失去信心,覺得黨內自己都搞不定,怎麼有能力治理好一個縣市?」他強調,國民黨如果連家務事都解決不了,國民黨提名的候選人如何讓市民和縣民安心和支持。",
+            "negative_score": 6,
+            "positive_score": 7,
+            "negative_list": [
+                "不定",
+                "失去",
+                "不了",
+                "不定",
+                "內訌",
+                "失去"
+            ],
+            "positive_list": [
+                "有能力",
+                "信心",
+                "能力",
+                "解決",
+                "安心",
+                "信心",
+                "解決"
+            ],
+            "datetime": "2022-06-05 12:05"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "「我們曾捐了救護車我們捐了口罩,防護衣各種防疫期間需要的相關物件,6日我再來捐了兩千件的防護衣,希望我們對於防疫的工作,能夠有很大的幫忙。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-06 13:32"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "「像這些工作就盡量免了,不然公務同仁真的太辛苦了,還要去幫市長貼貼紙,我想這個就大可不必啦。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 13:32"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "民進黨中央一定以勝選為考量,誰最能夠勝選,中央黨部就會提名他,「我只能給予林佳龍更多的祝福」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-06-06 11:48"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "指出",
+            "opinion": "「跟各位鄉親朋友說聲不好意思,我確診了。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不好意思"
+            ],
+            "positive_list": [
+                "好意",
+                "好意"
+            ],
+            "datetime": "2022-06-09 22:04"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "指出",
+            "opinion": "晚上得知團隊同仁快篩陽性,他也馬上快篩,結果呈現陽性,目前沒有任何症狀,已取消未來一週行程在家隔離,一切遵循防疫規範辦理。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "取消",
+                "隔離",
+                "沒有"
+            ],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-06-09 22:04"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "宣布",
+            "opinion": "確診,緊急取消未來一週的行程,在家進行隔離,並向寶貝女兒喊話「很抱歉,害妳不能參加明天的畢業典禮了」。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "取消",
+                "抱歉",
+                "隔離",
+                "緊急",
+                "抱歉"
+            ],
+            "positive_list": [
+                "參加",
+                "進行"
+            ],
+            "datetime": "2022-06-09 22:11"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "自己對寶貝女兒很抱歉,「害妳不能參加明天的畢業典禮了」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "抱歉",
+                "抱歉"
+            ],
+            "positive_list": [
+                "參加"
+            ],
+            "datetime": "2022-06-09 22:01"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "表示",
+            "opinion": "今天晚上回到家,得知團隊同仁快篩陽性,自己也馬上快篩,結果呈現陽性,他對寶貝女兒很抱歉,「害妳不能參加明天的畢業典禮了」,蔡其昌也成為第24位染疫的立法委員。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "抱歉",
+                "抱歉"
+            ],
+            "positive_list": [
+                "成為",
+                "參加"
+            ],
+            "datetime": "2022-06-09 22:01"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "指出",
+            "opinion": "晚上得知團隊同仁快篩陽性,他也馬上快篩,結果呈現陽性,目前沒有任何症狀,已取消未來一周行程在家隔離,一切遵循防疫規範辦理。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "取消",
+                "隔離",
+                "沒有"
+            ],
+            "positive_list": [
+                "規範"
+            ],
+            "datetime": "2022-06-09 23:02"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "指出",
+            "opinion": "「跟各位鄉親朋友說聲不好意思,我確診了。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "不好",
+                "不好意思"
+            ],
+            "positive_list": [
+                "好意",
+                "好意"
+            ],
+            "datetime": "2022-06-09 23:02"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "說",
+            "opinion": "抱歉,因為爸爸確診,害同住的寶貝女兒,被迫缺席6月10日的國中畢業典禮。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "抱歉",
+                "缺席",
+                "抱歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:48"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "指出",
+            "opinion": "「(女兒)聽到我確診,她其實蠻傷心蠻難過的,而且有點失望啦,不過我的女兒很懂事,她和緩一下情緒之後,就來告訴我說爸爸的身體要緊,一切都遵照防疫的規定,讓我很安心,但是我還是覺得很愧疚。」",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "失望",
+                "傷心",
+                "難過",
+                "失望",
+                "傷心",
+                "愧疚",
+                "難過"
+            ],
+            "positive_list": [
+                "要緊",
+                "懂事",
+                "安心"
+            ],
+            "datetime": "2022-06-10 13:48"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "指出",
+            "opinion": "今天是女兒國三畢業典禮,學校規定如果家人有確診就不能參加,所以昨天晚上她本來很期待今天的畢業典禮,「聽到我確診她其實還蠻傷心、蠻難過,而且有點失望,不過她很懂事,和緩情緒後就來告訴我說爸爸身體要緊」,一切遵照防疫規定。",
+            "negative_score": 7,
+            "positive_score": 5,
+            "negative_list": [
+                "不能",
+                "失望",
+                "傷心",
+                "難過",
+                "失望",
+                "傷心",
+                "難過"
+            ],
+            "positive_list": [
+                "要緊",
+                "參加",
+                "期待",
+                "懂事",
+                "期待"
+            ],
+            "datetime": "2022-06-10 12:06"
+        },
+        {
+            "person": "蔡其昌",
+            "verb": "呼籲",
+            "opinion": "要遵守防疫規定,記得戴口罩、勤洗手,還沒打疫苗的快點去打疫苗。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "遵守"
+            ],
+            "datetime": "2022-06-10 12:06"
+        }
+    ]
+}

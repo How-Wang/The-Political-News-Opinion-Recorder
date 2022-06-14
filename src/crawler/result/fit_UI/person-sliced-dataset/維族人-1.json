@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/維族人.png",
+    "opinions": [
+        {
+            "person": "維族人",
+            "verb": "指出",
+            "opinion": "其中的照片、演講和官方指示證明,這些並非中國政府宣稱的「職業技能教育培訓中心」,而是高度戒備的營地。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 09:39"
+        }
+    ]
+}

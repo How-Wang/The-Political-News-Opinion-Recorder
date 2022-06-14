@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/全國產業總工會.png",
+    "opinions": [
+        {
+            "person": "全國產業總工會",
+            "verb": "表示",
+            "opinion": "提升勞工權益,是執政團隊一直努力的目標,政府已連續6年調高基本工資,也推動專法,讓職災保障體系更周全。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "提升",
+                "權益"
+            ],
+            "datetime": "2022-06-06 16:23"
+        }
+    ]
+}

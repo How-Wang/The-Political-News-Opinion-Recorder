@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/翁震州.png",
+    "opinions": [
+        {
+            "person": "翁震州",
+            "verb": "強調",
+            "opinion": "這個活動的完成品,會委由區公所和里長,轉送給正在居家隔離的小朋友,希望一針一線縫進香包中的心意,成為送暖的「平安符」,而不僅只是避邪驅瘟。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "平安",
+                "成為",
+                "完成",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-28 17:12"
+        },
+        {
+            "person": "翁震州",
+            "verb": "指出",
+            "opinion": "這個活動的完成品,會委由區公所和里長,轉送給正在居家隔離的小朋友,希望一針一線縫進香包中的心意,成為送暖的「平安符」,而不僅只是避邪驅瘟。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [
+                "平安",
+                "成為",
+                "完成",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-29 17:48"
+        }
+    ]
+}

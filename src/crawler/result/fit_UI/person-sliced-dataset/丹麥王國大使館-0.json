@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/丹麥王國大使館.png",
+    "opinions": [
+        {
+            "person": "丹麥王國大使館",
+            "verb": "指出",
+            "opinion": "一國是否民主,人權狀況如何,只能由本國人民來評判。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:07"
+        },
+        {
+            "person": "丹麥王國大使館",
+            "verb": "指出",
+            "opinion": "哥本哈根民主峰會在民主人權問題上污蔑抹黑中國,罔顧事實、顛倒黑白,充斥著意識形態偏見和政治謊言。",
+            "negative_score": 10,
+            "positive_score": 0,
+            "negative_list": [
+                "污蔑",
+                "偏見",
+                "問題",
+                "謊言",
+                "顛倒",
+                "污蔑",
+                "抹黑",
+                "問題",
+                "謊言",
+                "顛倒黑白"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 09:31"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/令狐榮達.png",
+    "opinions": [
+        {
+            "person": "令狐榮達",
+            "verb": "說",
+            "opinion": "「6/7開始,中央公園的「快篩陽確診得來速」,要停止服務。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 12:26"
+        },
+        {
+            "person": "令狐榮達",
+            "verb": "表示",
+            "opinion": "台中市接連幾天破萬例,顯見台中正在疫情的高原期,截至昨日北部染疫約12%到18%,而現在北部每日確診數有下滑趨勢;中南部目前為8%到9.36%,而中南部的確診數正處高原期,由此可預測台中未來趨勢,依台中現況每日確診數約9千至1萬初,預計高原期會在一至兩周之間。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "的確"
+            ],
+            "datetime": "2022-06-09 16:40"
+        }
+    ]
+}

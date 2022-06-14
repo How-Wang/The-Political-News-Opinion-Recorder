@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/周麗珠.png",
+    "opinions": [
+        {
+            "person": "周麗珠",
+            "verb": "指出",
+            "opinion": "目前國家考試也沒有個別補考的機制;而能不能視訊考試,因為無法掌握個別視訊場所考試過程的公平性,目前沒有這樣的規範。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "無法",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [
+                "公平",
+                "規範",
+                "掌握",
+                "公平"
+            ],
+            "datetime": "2022-05-27 12:23"
+        },
+        {
+            "person": "周麗珠",
+            "verb": "說明",
+            "opinion": "「考試我們會涉及到考試的公平性,然後涉及到人民的權利義務,這需要到法律保留的細項所以要在,如果需要有的話要在我們的法理面,有這樣子的授權規定。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "公平",
+                "法律",
+                "義務",
+                "公平"
+            ],
+            "datetime": "2022-05-27 13:20"
+        }
+    ]
+}

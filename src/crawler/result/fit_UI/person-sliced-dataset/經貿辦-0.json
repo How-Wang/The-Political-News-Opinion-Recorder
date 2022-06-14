@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/經貿辦.png",
+    "opinions": [
+        {
+            "person": "經貿辦",
+            "verb": "指出",
+            "opinion": "目標在談判完成後,獲致高標準且具經濟意義的貿易協定,將有利台灣爭取參加跨太平洋夥伴全面進步協定(CPTPP)。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "有利",
+                "完成",
+                "參加",
+                "進步",
+                "夥伴"
+            ],
+            "datetime": "2022-06-02 13:51"
+        }
+    ]
+}

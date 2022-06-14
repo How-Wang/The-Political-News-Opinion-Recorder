@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/趙永清.png",
+    "opinions": [
+        {
+            "person": "趙永清",
+            "verb": "表示",
+            "opinion": "與李鴻鈞都擔任過5屆立委、父執輩都在地方服務,都很有緣,期勉熟稔日本的李鴻鈞,能夠像美國職棒大聯盟的日本球星大谷翔平一樣,在副院長位置上能成為「二刀流」,在監院內部整合大家共識,像桶箍一樣團結大家,對外則是為民眾發聲、興利除弊。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-30 16:11"
+        }
+    ]
+}

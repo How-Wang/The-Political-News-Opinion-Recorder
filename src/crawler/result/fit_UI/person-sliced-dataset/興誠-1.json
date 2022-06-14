@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "興誠",
+            "verb": "表示",
+            "opinion": "「不意外」,另外也有網友嘆,「幫人改姓,華視的中文字幕,到底怎麼了」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "意外"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 23:22"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/習近平.png",
+    "opinions": [
+        {
+            "person": "習近平",
+            "verb": "批評",
+            "opinion": "民進黨政府讓台灣墮入「不自由的民主」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由"
+            ],
+            "datetime": "2022-06-05 10:27"
+        },
+        {
+            "person": "習近平",
+            "verb": "批評",
+            "opinion": "他認為,馬英九稱讚習近平堅持國家一切權力屬於人民,大讚這是正確方向,是言論自由價值。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "正確",
+                "自由",
+                "堅持",
+                "稱讚",
+                "自由",
+                "稱讚"
+            ],
+            "datetime": "2022-06-05 12:55"
+        },
+        {
+            "person": "習近平",
+            "verb": "說",
+            "opinion": "這些人是看不懂中文嗎?有哪一段是在抹粉?這些綠人應該回去多讀書。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不懂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 05:50"
+        }
+    ]
+}

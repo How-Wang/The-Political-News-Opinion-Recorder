@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/北屯區總太建設公司.png",
+    "opinions": [
+        {
+            "person": "北屯區總太建設公司",
+            "verb": "提到",
+            "opinion": "「捐壹億現金給媽祖,否則送慶記給您」,信件署名「大甲鎮瀾宮董事長顏清標」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:40"
+        }
+    ]
+}

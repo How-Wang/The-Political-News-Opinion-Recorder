@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳加晉.png",
+    "opinions": [
+        {
+            "person": "陳加晉",
+            "verb": "提出",
+            "opinion": "商標申請,註冊正是「波特王」三個字。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:28"
+        }
+    ]
+}

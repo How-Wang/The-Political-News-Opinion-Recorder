@@ -1,0 +1,32 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/卓榮泰.png",
+    "opinions": [
+        {
+            "person": "卓榮泰",
+            "verb": "指出",
+            "opinion": "包括前市長馬英九、郝龍斌、國民黨副主席連勝文、蔣萬安,都是威權時代血統純正的黨國高官後代,質疑為何這麼多年,台北選市長只能是這些人,對此,蔣萬安僅說,現在是民主化時代,他參選2次立委,也是透過民眾一票票選出的,不清楚卓榮泰為什麼會有這樣的想法。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "質疑",
+                "不清"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-26 10:45"
+        },
+        {
+            "person": "卓榮泰",
+            "verb": "說",
+            "opinion": "從馬英九、郝龍斌、連勝文、蔣萬安,他們都是威權時代血統純正的黨國高官後代,也都是國民黨的台北市長候選人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 12:21"
+        }
+    ]
+}

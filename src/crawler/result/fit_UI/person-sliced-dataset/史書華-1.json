@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/史書華.png",
+    "opinions": [
+        {
+            "person": "史書華",
+            "verb": "質疑",
+            "opinion": "一下這種號稱防疫的防疫茶、清冠茶,有沒有違法的疑慮。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "違法",
+                "違法的",
+                "疑慮",
+                "沒有",
+                "疑慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:14"
+        },
+        {
+            "person": "史書華",
+            "verb": "說",
+            "opinion": "阿中部長加油!你也兩年半沒休息過了,剛好休息一下。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "休息"
+            ],
+            "datetime": "2022-06-12 12:42"
+        }
+    ]
+}

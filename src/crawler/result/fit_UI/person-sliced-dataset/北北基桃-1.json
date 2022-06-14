@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/北北基桃.png",
+    "opinions": [
+        {
+            "person": "北北基桃",
+            "verb": "認為",
+            "opinion": "朱立倫這番話等同提前宣布侯友宜要競選連任,侯友宜今日上午到議會備詢前受訪時回應,自己全力做好防疫、以市政工作為主軸,現在最重要的是把握當下,把防疫和市政做好。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "把握",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "把握"
+            ],
+            "datetime": "2022-05-26 11:05"
+        },
+        {
+            "person": "北北基桃",
+            "verb": "表示",
+            "opinion": "新北市長布局目前有兩種選戰思維:一次性提名、或從長期培養人才作為提名。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 12:14"
+        }
+    ]
+}

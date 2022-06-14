@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/女宜.png",
+    "opinions": [
+        {
+            "person": "女宜",
+            "verb": "表示",
+            "opinion": "中選會待內政部提供資料後,統一於8月18日進行選舉公告,包括市長、議員等席次,而北市選委會則會公告里長席次。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-01 18:27"
+        }
+    ]
+}

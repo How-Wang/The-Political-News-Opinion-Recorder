@@ -1,0 +1,55 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/范雲.png",
+    "opinions": [
+        {
+            "person": "范雲",
+            "verb": "表示",
+            "opinion": "今天最後的議程將由藝人陳芳語在高峰會表演,分享她抵制音樂圈言論審查的心得,更可能演唱歌曲:「玻璃心」;她忍不住說,已等不及高峰會的開始,屆時再跟大家分享她在現場的交流與學習。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不住",
+                "抵制"
+            ],
+            "positive_list": [
+                "音樂",
+                "學習",
+                "音樂"
+            ],
+            "datetime": "2022-06-09 20:27"
+        },
+        {
+            "person": "范雲",
+            "verb": "指出",
+            "opinion": "她有信心,台灣正在往正確的道路前進,她也會繼續努力,深化台灣民主,實踐對所有人都開放國會的目標。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "正確",
+                "正確的",
+                "有信心",
+                "努力",
+                "信心",
+                "前進",
+                "開放",
+                "信心"
+            ],
+            "datetime": "2022-06-12 11:49"
+        },
+        {
+            "person": "范雲",
+            "verb": "表示",
+            "opinion": "她在11日於哥本哈根開放國會活動,向國際分享台灣開放國會的經驗,以及對未來國會樣貌期許。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "開放",
+                "經驗",
+                "期許"
+            ],
+            "datetime": "2022-06-12 11:49"
+        }
+    ]
+}

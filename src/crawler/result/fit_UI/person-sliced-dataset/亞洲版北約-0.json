@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/亞洲版北約.png",
+    "opinions": [
+        {
+            "person": "亞洲版北約",
+            "verb": "指出",
+            "opinion": "拜登訪亞洲之前,老共把遼寧號艦隊擺在台灣東方海域天天演習,搞了好久,連日本防衛大臣、外務大臣、首相都出來講話,「你明明知道拜登要來,那是非常不友善的舉動」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不友善",
+                "不友善的"
+            ],
+            "positive_list": [
+                "友善",
+                "友善的",
+                "知道",
+                "友善"
+            ],
+            "datetime": "2022-05-28 08:40"
+        }
+    ]
+}

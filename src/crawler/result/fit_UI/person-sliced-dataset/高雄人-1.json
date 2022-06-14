@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高雄人.png",
+    "opinions": [
+        {
+            "person": "高雄人",
+            "verb": "說",
+            "opinion": "柯志恩的發言恰恰凸顯出中國國民黨長期鄙夷高雄的高傲心態。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "高傲",
+                "高傲"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:36"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張保皋.png",
+    "opinions": [
+        {
+            "person": "張保皋",
+            "verb": "說",
+            "opinion": "根本無法應用於潛艦國造案。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 13:00"
+        }
+    ]
+}

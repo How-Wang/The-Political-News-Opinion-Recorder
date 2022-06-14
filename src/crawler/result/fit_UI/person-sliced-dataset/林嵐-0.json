@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林嵐.png",
+    "opinions": [
+        {
+            "person": "林嵐",
+            "verb": "表示",
+            "opinion": "他們的國籍欄若寫台灣,成績就無法進入排名,若國籍欄留白還有機會進排名,他和連林嵐都決定要用台灣名稱,AIDA排名不重要。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不重要",
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "決定",
+                "重要",
+                "機會"
+            ],
+            "datetime": "2022-05-26 14:35"
+        },
+        {
+            "person": "林嵐",
+            "verb": "表示",
+            "opinion": "將棄賽以示抗議,最終成功爭取以「台灣(Taiwan)」選手身分出賽。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [
+                "成功"
+            ],
+            "datetime": "2022-05-26 14:52"
+        },
+        {
+            "person": "林嵐",
+            "verb": "發現",
+            "opinion": "國名被改成「ChineseTaipeiTaiwan(中華台北台灣)」,他們馬上反應錯誤的要求更改回「Taiwan(台灣)」。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "錯誤",
+                "錯誤的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 13:35"
+        }
+    ]
+}

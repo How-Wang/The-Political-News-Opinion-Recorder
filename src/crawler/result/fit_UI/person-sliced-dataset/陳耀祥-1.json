@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳耀祥.png",
+    "opinions": [
+        {
+            "person": "陳耀祥",
+            "verb": "說",
+            "opinion": "本獨立機關採取一案一罰,所以懲處名單和事項,可能要花上3到6個月,基本上這就是拖字訣,反正國人天天見到太多政治扭曲的事太多,到時候不是忘了,便是熱度過後不當一回事。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "扭曲",
+                "不是"
+            ],
+            "positive_list": [
+                "獨立"
+            ],
+            "datetime": "2022-06-11 05:30"
+        }
+    ]
+}

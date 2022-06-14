@@ -1,0 +1,63 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳學聖",
+            "verb": "說",
+            "opinion": "「大家對於張善政這個人,都給予很高評價,但對朱立倫卻是罵聲不斷,我覺得給議長一點時間,我跟議長認識超過15年,議長是無私的人。」",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不斷",
+                "超過"
+            ],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-05-21 23:25"
+        },
+        {
+            "person": "陳學聖",
+            "verb": "說",
+            "opinion": "「(地方)大家對於張善政這個人都給予很高評價,但對朱立倫卻是罵聲不斷。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-05-21 18:24"
+        },
+        {
+            "person": "陳學聖",
+            "verb": "說",
+            "opinion": "「(地方)大家對於張善政這個人,都給予很高評價,但對朱立倫卻是罵聲不斷,(議長好像還是遲遲不見面),我覺得給議長一點時間,我跟議長認識超過15年,議長是無私的人。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不見",
+                "不斷",
+                "超過"
+            ],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-05-21 12:59"
+        },
+        {
+            "person": "陳學聖",
+            "verb": "表示",
+            "opinion": "已經就定位很久了,先前因為人選爭議還在糾結中,但是都有持續在準備,現在羅智強退選,大家就位後,相信很快就可以看出成績。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "準備"
+            ],
+            "datetime": "2022-06-09 09:09"
+        }
+    ]
+}

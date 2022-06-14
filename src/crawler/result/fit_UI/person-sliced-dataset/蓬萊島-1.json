@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蓬萊島.png",
+    "opinions": [
+        {
+            "person": "蓬萊島",
+            "verb": "指出",
+            "opinion": "蓬萊島事件純屬人禍,但新冠肺炎疫情則是100%天災。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:22"
+        }
+    ]
+}

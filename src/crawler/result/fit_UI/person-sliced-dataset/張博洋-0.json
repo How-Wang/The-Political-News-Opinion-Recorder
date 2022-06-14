@@ -1,0 +1,60 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張博洋.png",
+    "opinions": [
+        {
+            "person": "張博洋",
+            "verb": "說",
+            "opinion": "母雞遇到中國議題就變弱雞,這種言論還真是國民黨的選情大危機。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "危機",
+                "變弱",
+                "危機"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:20"
+        },
+        {
+            "person": "張博洋",
+            "verb": "表示",
+            "opinion": "現在唯一能做的,就是團結做這些醫護人員的後盾,不論是市民嚴守防疫規範、市府給予醫護人員應有的職場福利、又或是看診時別忘了說聲「辛苦了」表示謝意等等。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [
+                "規範",
+                "給予",
+                "福利"
+            ],
+            "datetime": "2022-06-06 16:57"
+        },
+        {
+            "person": "張博洋",
+            "verb": "說",
+            "opinion": "罷韓投票兩年過去了,這段時間,一起跨過了光輝榮耀的高雄百年、迎來讓城市煥然一新的台灣燈會、遭遇城中城祝融的可怕不幸、克服了惶恐不安的三級警戒,命運老是給高雄諸多考驗,「我命由我不由天」彷彿是這座城市的座右銘。",
+            "negative_score": 10,
+            "positive_score": 3,
+            "negative_list": [
+                "不安",
+                "不安的",
+                "不幸",
+                "可怕",
+                "遭遇",
+                "不安",
+                "不幸",
+                "可怕",
+                "老是",
+                "惶恐"
+            ],
+            "positive_list": [
+                "光輝",
+                "榮耀",
+                "克服"
+            ],
+            "datetime": "2022-06-06 15:45"
+        }
+    ]
+}

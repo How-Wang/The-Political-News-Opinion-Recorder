@@ -1,0 +1,663 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "王世堅",
+            "verb": "認為",
+            "opinion": "很有可能,朱立倫最強的就是陣前換將,「就像上次換掉總統候選人,自己再粉墨登場。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:36"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "蔣萬安面對任何事情,態度就是「三不」(意即不犯錯、不得罪、不決定);黃珊珊則相反,哪裡有困難就往哪邊衝,民調上升絕對其來有自。",
+            "negative_score": 9,
+            "positive_score": 1,
+            "negative_list": [
+                "犯錯",
+                "有困難",
+                "困難",
+                "相反",
+                "得罪",
+                "絕對",
+                "不得",
+                "困難",
+                "得罪"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-05-24 14:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "在這波疫情中,黃珊珊讓台北市民看見其堅韌的一面。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "堅韌",
+                "堅韌的"
+            ],
+            "datetime": "2022-05-24 14:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "提到",
+            "opinion": "朱立倫獨斷式提名張善政,馬上就被柯志恩提醒要記取教訓,這概稱了這次朱立倫提名張善政的錯誤。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "獨斷",
+                "錯誤",
+                "獨斷"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 11:15"
+        },
+        {
+            "person": "王世堅",
+            "verb": "批評",
+            "opinion": "朱立倫是橫柴入灶,現在才道歉是先上車後補票。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 11:15"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "請有心人士不要再施加壓力給陳時中,陳時中我們台灣社會的公共財。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "壓力",
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:05"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "陳時中的防疫總指揮已獲得社會信任,以陳時中的責任心、榮譽感,當時防疫是由他帶領大家走過疫情,在疫情最嚴峻的時候要他離開,是陷他於不義!王世堅分析,現在疫情高漲,倘若陳時中離開,會被講成是臨陣脫逃;若現在陳時中談論台北市政,在野黨也會抨擊陳時中是心有旁騖。",
+            "negative_score": 6,
+            "positive_score": 5,
+            "negative_list": [
+                "抨擊",
+                "離開",
+                "嚴峻",
+                "嚴峻的",
+                "不義",
+                "抨擊"
+            ],
+            "positive_list": [
+                "信任",
+                "責任心",
+                "榮譽",
+                "獲得",
+                "榮譽"
+            ],
+            "datetime": "2022-05-25 12:05"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "「對蔣萬安家歷史功過,你要勇敢承擔,該像台灣人道歉認錯謝罪,這些你蔣萬安都該承擔該做,他就是三不軟男,不犯錯不得罪不決定。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "犯錯",
+                "得罪",
+                "不得",
+                "得罪",
+                "道歉"
+            ],
+            "positive_list": [
+                "決定",
+                "勇敢"
+            ],
+            "datetime": "2022-05-27 17:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "強調",
+            "opinion": "民進黨不會這樣做,會根據地方民意,尤其黨主席蔡英文要做裁定之前,會先經過選對會商量,還有根據民調做依據。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 09:53"
+        },
+        {
+            "person": "王世堅",
+            "verb": "批評",
+            "opinion": "「我請問提出這種言論的網軍,你相信你自己嗎?你是父母生的嗎?竟然講這麼沒有人性的話」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有",
+                "竟然"
+            ],
+            "positive_list": [
+                "人性",
+                "人性的",
+                "相信"
+            ],
+            "datetime": "2022-05-28 12:46"
+        },
+        {
+            "person": "王世堅",
+            "verb": "強調",
+            "opinion": "即使是政治敵對者也應該要互相尊重,建議「相信你自己的良知判斷」並說自己相信的話,「連自己都不相信的話不要說。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不相信",
+                "敵對",
+                "不要",
+                "敵對"
+            ],
+            "positive_list": [
+                "相信",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-28 07:38"
+        },
+        {
+            "person": "王世堅",
+            "verb": "指出",
+            "opinion": "柯文哲市長任期剩7、8個月已無心市政,說他四個字就是「笑罵由人」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 17:38"
+        },
+        {
+            "person": "王世堅",
+            "verb": "提到",
+            "opinion": "公共汽車電動化,建議將每年提供民間業者的補助款訂為購買電動公車才能申請補助,至今電動公車仍占不到5%。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-06-02 17:38"
+        },
+        {
+            "person": "王世堅",
+            "verb": "認為",
+            "opinion": "朱立倫是在跟統派唱雙簧,演給台灣人民看,只是要跟台灣人民交差了事。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 10:21"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "國民黨民調低,連那麼扯的民眾黨都輸,可見國民黨在台灣人民心目中,不但親中反美,而且主張終極統一,完全違背台灣人民的意志。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "違背",
+                "違背"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:40"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "照理說這些地方藍營基本盤大,卻因為這種錯誤提名方式把基本盤搞得一團亂,「苗栗、桃園都可以做成這樣子,朱立倫真的是不簡單。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "錯誤",
+                "搞得",
+                "搞得一團亂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 21:19"
+        },
+        {
+            "person": "王世堅",
+            "verb": "指出",
+            "opinion": "過去自己常批評江啟臣,但他近期的發言講得非常好,包括他這次說黨中央要提名就要負責,擔任黨主席不能只享權力、不負責任,朱立倫如果能聽進去,或許國民黨還有一點救。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不負責任",
+                "不能",
+                "批評",
+                "批評"
+            ],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-06-06 21:19"
+        },
+        {
+            "person": "王世堅",
+            "verb": "呼籲",
+            "opinion": "黨內應盡快決定人選,「如果為了等一個人到8月底,這不是荒唐嗎?後續剩不到3個月,這是愧對城市、愧對市民。」",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "荒唐",
+                "不到",
+                "不是",
+                "荒唐",
+                "愧對"
+            ],
+            "positive_list": [
+                "決定"
+            ],
+            "datetime": "2022-06-08 11:52"
+        },
+        {
+            "person": "王世堅",
+            "verb": "指出",
+            "opinion": "賴祥蔚毫無財經專業,質疑民眾黨長期被說寄生北市府,現在要寄生銀行,對此,柯文哲回應,過去的獨董鄧家基、張榮豐也無財經專業,更反擊要王世堅不要雙標。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "毫無",
+                "質疑",
+                "不要"
+            ],
+            "positive_list": [
+                "毫無"
+            ],
+            "datetime": "2022-06-09 17:00"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "自己跟黃珊珊有將近20年同事情誼,並大讚黃珊珊個性堅韌、有深厚法律素養、也有好的行政經驗,更何況黃珊珊還是代表台北市議會的頭一位議員參選首都台北市長,是議會大家共同的光榮,他直言,「感情上我百分之百支持黃珊珊。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "光榮",
+                "法律",
+                "堅韌",
+                "經驗",
+                "光榮"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "理智往往戰勝感情,理智上一定要支持民進黨推出來的人選,但他認為,柯文哲在理智跟感情上應該都要支持黃珊珊,「她這幾年幫你做這麼多事,你不要有事黃珊珊、沒事蔣萬安。」",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不要",
+                "沒事"
+            ],
+            "positive_list": [
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "王世堅",
+            "verb": "質疑",
+            "opinion": "會放生黃珊珊,成全「藍白合」,他反駁此項說法,並要王世堅也表態支持黃珊珊,王世堅則說「感情上百分之百支持,但理智上還是要支持民進黨」,被柯文哲吐槽「不可以黨意超過良心」,雙方互相鬥嘴,笑翻在場不少人。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "反駁",
+                "超過",
+                "不可",
+                "反駁"
+            ],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-09 15:12"
+        },
+        {
+            "person": "王世堅",
+            "verb": "痛批",
+            "opinion": "這就叫沒格、無賴,一個國家怎麼可以自己的主張跟別的國家衝突時,就不承認,他認為,台北市長柯文哲完全取代朱立倫、民眾黨也取代國民黨,民眾黨連民調都贏國民黨,中共現在是寄予厚望在柯文哲身上,因為國台辦發言人還曾公開讚賞柯文哲,他表示,柯文哲就是「中共金孫」。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "無賴",
+                "衝突",
+                "無賴",
+                "衝突"
+            ],
+            "positive_list": [
+                "公開",
+                "承認",
+                "讚賞",
+                "讚賞"
+            ],
+            "datetime": "2022-06-09 10:35"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "感情上,百分百支持黃珊珊,但理智往往戰勝感情,「理智上我一定要支持民進黨推出來的市長候選人」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-09 20:42"
+        },
+        {
+            "person": "王世堅",
+            "verb": "呼籲",
+            "opinion": "不要在最後關頭犧牲黃珊珊成全藍白合,柯P黑文哲表示,「不會」,還反過來要王也堅定支持黃珊珊。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不要",
+                "不會"
+            ],
+            "positive_list": [
+                "堅定",
+                "犧牲"
+            ],
+            "datetime": "2022-06-09 20:42"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "柯文哲感情理智都要兼顧,「你不能有事黃珊珊、沒事蔣萬安,現在做法就是這樣,好幾個活動我看你若即若離」;柯P黑文哲則反擊,總不能抱在一起,「我希望王世堅議員也堅定支持黃珊珊,我們總算有相同意見」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "沒事"
+            ],
+            "positive_list": [
+                "同意",
+                "希望",
+                "堅定",
+                "希望"
+            ],
+            "datetime": "2022-06-09 20:42"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "我真的確實堅定支持她,因為我跟她將近20年同事情誼,而且黃珊珊有堅韌的個性,有深厚的法律素養,也有相當好的行政經驗。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "的確",
+                "堅定",
+                "堅韌",
+                "堅韌的",
+                "經驗",
+                "確實"
+            ],
+            "datetime": "2022-06-09 20:42"
+        },
+        {
+            "person": "王世堅",
+            "verb": "質疑",
+            "opinion": "你會放生黃珊珊」,追問柯文哲到底會不會支持黃珊珊到底?柯黑文哲則強調,會,還反過來喊話王世堅也應堅定支持黃珊珊。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-06-09 14:50"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "柯文哲感情理智都要兼顧,「你不能有事黃珊珊、沒事蔣萬安,現在做法就是這樣,好幾個活動我看你若即若離」;柯黑文哲則反擊,總不能抱在一起,「我希望王世堅議員也堅定支持黃珊珊,我們總算有相同意見」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "沒事"
+            ],
+            "positive_list": [
+                "同意",
+                "希望",
+                "堅定",
+                "希望"
+            ],
+            "datetime": "2022-06-09 14:50"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "我真的確實堅定支持她,因為我跟她將近20年同事情誼,而且黃珊珊有堅韌的個性,有深厚的法律素養,也有相當好的行政經驗。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "法律",
+                "的確",
+                "堅定",
+                "堅韌",
+                "堅韌的",
+                "經驗",
+                "確實"
+            ],
+            "datetime": "2022-06-09 14:50"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "「以前都送過腳踏車、書,也收去了,你就收著吧」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:45"
+        },
+        {
+            "person": "王世堅",
+            "verb": "痛批",
+            "opinion": "「好好看看自己的靈魂」,並送上8個字「承認錯誤、從中學習」,勸柯文哲把握半年任期好好為台北市民做事。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [
+                "把握",
+                "承認",
+                "學習",
+                "把握"
+            ],
+            "datetime": "2022-06-09 15:45"
+        },
+        {
+            "person": "王世堅",
+            "verb": "強調",
+            "opinion": "柯文哲感情、理智上通通都要支持黃珊珊,「你不能有事黃珊珊、沒事蔣萬安!」柯文哲則一再認為,王世堅也應理智跟感情都支持黃珊珊,「不可以黨意超過民意,不可以黨意超過你的良心,這樣不行」。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "一再",
+                "不可",
+                "不能",
+                "超過",
+                "不可",
+                "沒事"
+            ],
+            "positive_list": [
+                "良心",
+                "良心"
+            ],
+            "datetime": "2022-06-09 15:24"
+        },
+        {
+            "person": "王世堅",
+            "verb": "質疑",
+            "opinion": "市長柯文哲會「放生」台北市副市長黃珊珊,而成全藍白合。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 15:24"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "「我現在高度質疑,你會放生黃珊珊」,不要在最後關鍵時刻犧牲她以成全藍白合。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "質疑",
+                "不要"
+            ],
+            "positive_list": [
+                "犧牲"
+            ],
+            "datetime": "2022-06-09 15:24"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "在「感情上」百分百支持黃珊珊,因為2人有20年同事情誼。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 23:15"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "然而理智往往戰勝感情,因此他在理智上一定會力挺民進黨推派出來的人選,但柯文哲就必須全面支持黃珊珊,因為感情上這幾年她幫柯文哲做了那麼多事;理智上她則是民眾黨公開支持的候選人。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "公開",
+                "全面",
+                "戰勝",
+                "戰勝"
+            ],
+            "datetime": "2022-06-09 16:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "在「理智上」一定會支持民進黨候選人。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "呼籲",
+            "opinion": "柯文哲,千萬不要到最後「有事黃珊珊、沒事蔣萬安」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不要",
+                "沒事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 16:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "所謂相由心生,贈送一面大鏡子建議柯文哲能脫下口罩好好照一照,看看自己的靈魂,讓自己「承認錯誤,從中學習」,因為柯文哲還有半年的時間能為台北市做事。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [
+                "承認",
+                "學習"
+            ],
+            "datetime": "2022-06-09 16:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "希望柯文哲能堅持到底,「因為我不行」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "堅持",
+                "希望"
+            ],
+            "datetime": "2022-06-09 16:47"
+        },
+        {
+            "person": "王世堅",
+            "verb": "說",
+            "opinion": "「有事黃珊珊、沒事蔣萬安」是不是藍白合的可能?蔣萬安回應,選舉還有一段時間,各種政治上的算計,並不是市民樂意看到的。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不是",
+                "沒事"
+            ],
+            "positive_list": [
+                "樂意",
+                "樂意"
+            ],
+            "datetime": "2022-06-10 15:01"
+        },
+        {
+            "person": "王世堅",
+            "verb": "表示",
+            "opinion": "感謝柯黑跟柯P的共同支持,看到兩人為了自己鬥嘴,她更笑虧,「我好像電燈泡。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "人為"
+            ],
+            "positive_list": [
+                "感謝",
+                "感謝"
+            ],
+            "datetime": "2022-06-10 09:38"
+        }
+    ]
+}

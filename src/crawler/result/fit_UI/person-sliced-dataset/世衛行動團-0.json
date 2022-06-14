@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/世衛行動團.png",
+    "opinions": [
+        {
+            "person": "世衛行動團",
+            "verb": "說",
+            "opinion": "很多理念相近國家都為台灣發聲,相信有天這扇門能打開,得到國際肯定。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "很多",
+                "相信",
+                "得到"
+            ],
+            "datetime": "2022-05-27 18:09"
+        }
+    ]
+}

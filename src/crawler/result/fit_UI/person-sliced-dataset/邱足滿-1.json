@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱足滿.png",
+    "opinions": [
+        {
+            "person": "邱足滿",
+            "verb": "表示",
+            "opinion": "她在彰基服務長達25年,眼看退休將屆,5月30日卻無預警收到不續聘通知,質疑院方以10天之差規避退休金,更指出許多醫師都曾被同樣對待。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "質疑",
+                "規避"
+            ],
+            "positive_list": [
+                "通知"
+            ],
+            "datetime": "2022-06-07 23:05"
+        }
+    ]
+}

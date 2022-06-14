@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/臺灣資訊環境研究中心.png",
+    "opinions": [
+        {
+            "person": "臺灣資訊環境研究中心",
+            "verb": "表示",
+            "opinion": "至少25個臉書粉專不約而同轉發以「很多孩子走了」為主題的文章,當中有19個導向某一內容農場的文章連結,發布誤差只有不到10秒左右,也掀起了這場相互「認知作戰」的防疫之亂。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "作戰",
+                "誤差",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-06-09 06:10"
+        }
+    ]
+}

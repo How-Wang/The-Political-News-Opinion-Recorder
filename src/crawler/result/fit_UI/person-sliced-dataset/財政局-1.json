@@ -1,0 +1,49 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/財政局.png",
+    "opinions": [
+        {
+            "person": "財政局",
+            "verb": "指出",
+            "opinion": "這次紓困方案,將可追溯到5月1日開始,一直到7月31日,共實施3個月,會依照疫情狀況滾動檢討。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 15:50"
+        },
+        {
+            "person": "財政局",
+            "verb": "表示",
+            "opinion": "這次紓困方案,將可追溯到5月1日開始,一直到7月31日,總共實施3個月,會依照疫情狀況滾動檢討,台北市政府將和市民朋友及民間企業一起攜手,撐過疫情,再一起度過經濟難關。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 16:00"
+        },
+        {
+            "person": "財政局",
+            "verb": "解釋",
+            "opinion": "所有人都有捐,因為次年底才會提供捐贈資料,子公司2021年才有酬金以外的收入。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈"
+            ],
+            "datetime": "2022-06-10 15:14"
+        },
+        {
+            "person": "財政局",
+            "verb": "強調",
+            "opinion": "捐贈都有檢核,不過民眾黨爭議不只一樁。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "捐贈"
+            ],
+            "datetime": "2022-06-10 19:56"
+        }
+    ]
+}

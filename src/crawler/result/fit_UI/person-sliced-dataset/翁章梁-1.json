@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/翁章梁.png",
+    "opinions": [
+        {
+            "person": "翁章梁",
+            "verb": "指出",
+            "opinion": "「這次排名最高大概有78%左右的,嘉義縣民在鼓勵我要繼續連任,這點感謝大家。」",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "最高",
+                "感謝",
+                "鼓勵",
+                "感謝"
+            ],
+            "datetime": "2022-05-28 18:51"
+        },
+        {
+            "person": "翁章梁",
+            "verb": "說",
+            "opinion": "「現在我們不只是改善了,大家生活品質,嘉義整個農工大縣格局,也在往前發展,我們希望乘著這股氣勢,我們嘉義可以越來越好。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "改善",
+                "發展",
+                "希望",
+                "改善"
+            ],
+            "datetime": "2022-06-06 17:40"
+        }
+    ]
+}

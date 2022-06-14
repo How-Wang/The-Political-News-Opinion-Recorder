@@ -1,0 +1,155 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/葉匡時.png",
+    "opinions": [
+        {
+            "person": "葉匡時",
+            "verb": "說",
+            "opinion": "他要選早就出來選了不會等到現在,「最大理由是我們都無法拒絕的理由,是他太太堅決否定、堅決拒絕」,他說太太堅決反對,所以他絕對不會選,黨中央有沒有人可以說服這2位,「顯然上禮拜沒有」,持續勸進是否會有轉機就不知道。",
+            "negative_score": 13,
+            "positive_score": 3,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "不會",
+                "反對",
+                "否定",
+                "沒有",
+                "拒絕",
+                "無法",
+                "絕對",
+                "不知",
+                "不會",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [
+                "知道",
+                "堅決",
+                "說服"
+            ],
+            "datetime": "2022-06-06 10:50"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "表示",
+            "opinion": "國民黨主席朱立倫有找他聊參選可能性,但他表示絕無可能。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "無可"
+            ],
+            "positive_list": [
+                "絕無"
+            ],
+            "datetime": "2022-06-09 16:07"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "說",
+            "opinion": "黨主席朱立倫有找他聊參選可能性,但他表示絕無可能。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "無可"
+            ],
+            "positive_list": [
+                "絕無"
+            ],
+            "datetime": "2022-06-09 11:58"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "指出",
+            "opinion": "過去國民黨高雄市長的提名,都沒有長遠規劃,這次必須要提名一個就算沒選上,但還願意留在高雄打拚的人。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-09 11:58"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "表示",
+            "opinion": "他個人認為柯志恩形象好,經歷豐富,又是屏東出身,與高雄市同一個生活圈,算是在地人,也相對年輕,且過去曾參選過,應能發揮母雞帶小雞、拉抬議員選舉的效果,是不錯的高雄市長人選。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "豐富"
+            ],
+            "datetime": "2022-06-09 11:58"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "強調",
+            "opinion": "「絕無可能」參選高雄市長,且無論他自己或朱立倫、前高雄市長李四川參選高雄市,如果選輸,都不會留下來,國民黨應該找一位願意留在高雄市的人選,認為柯志恩非常適合。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "無可",
+                "不會"
+            ],
+            "positive_list": [
+                "絕無",
+                "適合",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-09 09:30"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "說",
+            "opinion": "「柯志恩嘛,屏東長大的,屏東跟高雄市,事實上是一個生活圈,所以他也可以算是在地人,以她的形象,以她的這個過去的資歷,如果是國民黨提名她,我會非常的覺得非常好,很支持她。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:50"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "強調",
+            "opinion": "自己「絕無可能」參選高雄市長,並推薦國民黨智庫執行長柯志恩參選,但建議就算沒選上也要繼續留在高雄,下屆就會非常有機會選上。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "無可"
+            ],
+            "positive_list": [
+                "推薦",
+                "絕無",
+                "機會"
+            ],
+            "datetime": "2022-06-09 10:17"
+        },
+        {
+            "person": "葉匡時",
+            "verb": "說",
+            "opinion": "確實很早就有人曾向黨主席提議,他個人也認為這樣的方向滿好的,高雄是艱難選區,作為主席願意率頭到艱難地區選舉,對於提振士氣有絕對幫助,但相信朱立倫沒選上也不會留在高雄。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "不會",
+                "絕對",
+                "艱難",
+                "不會"
+            ],
+            "positive_list": [
+                "相信",
+                "確實",
+                "幫助",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-09 10:17"
+        }
+    ]
+}

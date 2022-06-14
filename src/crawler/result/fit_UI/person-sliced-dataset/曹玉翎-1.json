@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曹玉翎.png",
+    "opinions": [
+        {
+            "person": "曹玉翎",
+            "verb": "表示",
+            "opinion": "金管會將與銀行公會討論如何在銀行端發送OTP動態密碼時,統一格式加上警語並註明發送來源,銀行局也將對個案消費爭議上再檢視銀行端風險控管的狀況。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 15:34"
+        }
+    ]
+}

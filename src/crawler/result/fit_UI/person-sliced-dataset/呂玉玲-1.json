@@ -1,0 +1,427 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "呂玉玲",
+            "verb": "表示",
+            "opinion": "錯愕、無法接受,點燃藍營內部與基層怒火。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "怒火",
+                "無法"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-21 20:51"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "表示",
+            "opinion": "「主席要拿出誠意跟桃園人說清楚,讓桃園人來認同才是最重要的,現在情緒都已經放下了,我會努力地繼續在桃園服務。」",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "重要",
+                "重要的",
+                "清楚",
+                "最重要",
+                "最重要的",
+                "認同"
+            ],
+            "datetime": "2022-05-24 13:24"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "至今未接過張善政的電話也未安排見面拜訪,「我們之間沒有任何聯繫。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 13:19"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "表示",
+            "opinion": "已放下個人情緒、給予祝福,呼籲黨中央給支持者交代,她個人的情緒不重要。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不重要"
+            ],
+            "positive_list": [
+                "人情",
+                "重要",
+                "給予"
+            ],
+            "datetime": "2022-05-24 13:19"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "他要向呂玉玲表達對她在桃園耕耘多年的敬意,也希望能徵詢她的意見,會持續的與呂玉玲聯絡,希望她方便時可以碰面。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "方便",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-26 13:37"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "宣布",
+            "opinion": "參選,民調最高的魯明哲也從堅拒參選轉為考慮,國民黨桃園市長提名陷入魚死網破的僵局時,沒想到朱立倫領導的黨中央竟能忍住所有黨內外的駡聲和嘲諷,跳脫亂局,遊說張善政同意徵召。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "忍住",
+                "陷入",
+                "僵局",
+                "沒想",
+                "沒想到",
+                "嘲諷"
+            ],
+            "positive_list": [
+                "同意",
+                "考慮",
+                "最高",
+                "最高的"
+            ],
+            "datetime": "2022-05-26 06:40"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "認為",
+            "opinion": "羅智強是目前最有能力的市長人選,看他過去發動各種議題,且對桃園市政有所論述,發動苦行的活動,相信可以關注到真正在地問題,也能實際和民眾互動。",
+            "negative_score": 3,
+            "positive_score": 6,
+            "negative_list": [
+                "問題",
+                "發動",
+                "問題"
+            ],
+            "positive_list": [
+                "有能力",
+                "有能力的",
+                "相信",
+                "真正",
+                "能力",
+                "實際"
+            ],
+            "datetime": "2022-05-28 05:30"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "呂玉玲委員僅在平鎮龍潭有影響力,無法走出自己選區,雖呂玉玲委員是在地人,恐怕難以承擔市長之責。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "恐怕",
+                "無法",
+                "難以",
+                "恐怕",
+                "無法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 05:30"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "「六十而耳順」,至少也要能聽懂對方的話中之意吧,感嘆呂玉玲立委是當局者迷,無法明白民調第三的含意。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "無法",
+                "無法",
+                "感嘆"
+            ],
+            "positive_list": [
+                "明白"
+            ],
+            "datetime": "2022-05-29 05:40"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "她不重要、只有1票,張善政表示,呂玉玲太客氣、在她後面支持的鄉眾力量龐大,日後當然需要呂玉玲的支持。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不重要"
+            ],
+            "positive_list": [
+                "客氣",
+                "重要",
+                "當然"
+            ],
+            "datetime": "2022-05-31 12:40"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "「(市長輔選的部分),看我們黨中央安排,(張育美善政院長有聯絡上嗎),目前還沒有聯絡。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 18:57"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "認為",
+            "opinion": "地方選舉最重要的就是誠信,對選民的承諾一定要說到做到,前高雄市長韓國瑜的情形大家還歷歷在目,所以這次如果林智堅來桃園選,就要有智慧去化解這樣的況狀。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "有智慧",
+                "承諾",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-06-01 15:57"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "回應",
+            "opinion": "邱奕勝議長是非常優秀的地方和意見領袖,相信他會有很好的決定。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "很好",
+                "很好的",
+                "相信",
+                "優秀",
+                "優秀的"
+            ],
+            "datetime": "2022-06-01 15:57"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "強調",
+            "opinion": "整件事對呂玉玲「非常非常不公平」,也批評黨中央在程序正義這件事情上傷害非常多人。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不公平",
+                "批評",
+                "傷害",
+                "不公",
+                "不公平",
+                "批評",
+                "傷害"
+            ],
+            "positive_list": [
+                "公平",
+                "正義",
+                "公平"
+            ],
+            "datetime": "2022-06-03 15:17"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "指出",
+            "opinion": "「為何要陷我與呂玉玲於兩難」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "兩難",
+                "兩難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-03 11:50"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "強調",
+            "opinion": "自己的參選是有「地方民意基礎」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:38"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "認為",
+            "opinion": "此舉毫無尊重;被提名參選的張善政雖試圖道歉,但是至今仍無法與地方成功整合。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "毫無",
+                "無法",
+                "無法",
+                "道歉"
+            ],
+            "positive_list": [
+                "成功",
+                "毫無",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-04 15:38"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "回應",
+            "opinion": "羅智強抱屈一事,兩人的君子之爭最終敗給黨中央,相當遺憾,希望羅智強能留下來為桃園鄉親繼續努力;另外針對羅智強揚言「未來不再與黨中央和朱立倫進行對話」,呂玉玲則說,黨中央的決定無法獲得地方支持,包括苗栗縣也發生同樣情形,未來整合勢必面臨巨大挑戰,但希望所有爭議到她為止。",
+            "negative_score": 5,
+            "positive_score": 7,
+            "negative_list": [
+                "挑戰",
+                "無法",
+                "遺憾",
+                "無法",
+                "遺憾"
+            ],
+            "positive_list": [
+                "巨大",
+                "努力",
+                "希望",
+                "決定",
+                "進行",
+                "獲得",
+                "希望"
+            ],
+            "datetime": "2022-06-04 14:41"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "自己獲得486位里長聯署支持,本與羅智強展開君子之爭,最後卻敗給黨中央突襲提名,認為都是「黨主席缺乏溝通,才會導致混亂局面」。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "突襲",
+                "缺乏",
+                "混亂"
+            ],
+            "positive_list": [
+                "獲得"
+            ],
+            "datetime": "2022-06-05 14:27"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "「換政」不見得是不讓張善政選,而是先中止張善政是提名人這件事,大家再來比一遍,不能讓朱立倫說是誰就是誰。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不見",
+                "不能",
+                "中止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 16:14"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "「換政」不見得是不讓張善政選,而是先中止張善政是提名人這件事,大家再來比一遍,不能讓朱立倫說是誰就是誰。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不見",
+                "不能",
+                "中止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 15:24"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "「換政」不見得是不讓張善政選,而是先中止張善政是提名人這件事,大家再來比一遍,不能讓朱立倫說是誰就是誰。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "不見",
+                "不能",
+                "中止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "回應",
+            "opinion": "表示自己之後還要答謝很多團體,這部分黨中央會去決定、安排。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "很多"
+            ],
+            "datetime": "2022-06-10 15:05"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "表示",
+            "opinion": "在自己宣布參選桃園市長後,第一個出來支持她的就是13區的婦女姊妹,今天是針對婦女姊妹的感恩之旅,謝謝她們一路走來對自己的支持及鼓勵,之後她還有很多後援會、中心社團要一一答謝,會為美好桃園一起努力向前。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "很多",
+                "美好",
+                "鼓勵",
+                "感恩",
+                "謝謝"
+            ],
+            "datetime": "2022-06-10 15:05"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "回應",
+            "opinion": "在剛開始宣布參選桃園市長時,第一個出來支持的就是13區的婦女姊妹,之後還有許多單位要一一答謝,會繼續與市民朋友為美好桃園一起努力向前。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "美好"
+            ],
+            "datetime": "2022-06-10 17:07"
+        },
+        {
+            "person": "呂玉玲",
+            "verb": "說",
+            "opinion": "到「輔選」二字,只說自己身為國民黨員,會尊重黨的決定,交由黨中央進行安排。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "決定",
+                "尊重",
+                "進行",
+                "尊重"
+            ],
+            "datetime": "2022-06-10 17:07"
+        }
+    ]
+}

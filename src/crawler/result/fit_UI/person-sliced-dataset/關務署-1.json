@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/關務署.png",
+    "opinions": [
+        {
+            "person": "關務署",
+            "verb": "指出",
+            "opinion": "有關媒體於社群網站發文稱,在端午節來臨之際,兩岸攜手將2萬劑中國快篩試劑送抵台灣一事,海關查證結果,並無進口紀錄,貼文所述,顯與事實不符。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不符"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:38"
+        },
+        {
+            "person": "關務署",
+            "verb": "表示",
+            "opinion": "經海關查證,並無快篩進口紀錄,與中國媒體的貼文所述「明顯與事實不符」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不符"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-06-07 09:52"
+        },
+        {
+            "person": "關務署",
+            "verb": "強調",
+            "opinion": "進口中國快篩試劑,除符合本年5月11日至6月30日彈性放寬措施者外,須分別取得衛福部食品藥物管理署及經濟部國際貿易局之輸入許可證,未取得輸入許可案件,將移送地方衛生主管機關依醫療器材管理法規定辦理。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "符合",
+                "許可",
+                "管理",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-07 09:52"
+        }
+    ]
+}

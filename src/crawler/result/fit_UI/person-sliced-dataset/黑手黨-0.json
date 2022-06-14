@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黑手黨.png",
+    "opinions": [
+        {
+            "person": "黑手黨",
+            "verb": "說",
+            "opinion": "到國際級的黑社會組織,義大利黑手黨絕對榜上有名,其中勢力最大的黑手黨「光榮會」('Ndrangheta),更曾控制歐洲8成以上的古柯鹼交易,不僅讓義大利政府相當頭痛,也是歐洲聞之色變的跨國黑手黨,而他們的崛起過程,竟是從檸檬買賣開始。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "絕對",
+                "頭痛",
+                "頭痛"
+            ],
+            "positive_list": [
+                "光榮",
+                "有名",
+                "光榮"
+            ],
+            "datetime": "2022-06-06 17:27"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/疾管署.png",
+    "opinions": [
+        {
+            "person": "疾管署",
+            "verb": "提到",
+            "opinion": "新冠肺炎不同於伊波拉病毒感染、中東呼吸症候群冠狀病毒感染症等6項第五類傳染病,無24小時內入殮並火化要求。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "傳染",
+                "傳染病",
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 15:19"
+        },
+        {
+            "person": "疾管署",
+            "verb": "提到",
+            "opinion": "新冠肺炎不同於伊波拉病毒感染、中東呼吸症候群冠狀病毒感染症等6項第五類傳染病,無24小時內入殮並火化要求。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "傳染",
+                "傳染病",
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 11:37"
+        },
+        {
+            "person": "疾管署",
+            "verb": "提到",
+            "opinion": "新冠肺炎不同於伊波拉病毒感染、中東呼吸症候群冠狀病毒感染症等6項第五類傳染病,無24小時內入殮並火化要求。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "要求",
+                "傳染",
+                "傳染病",
+                "感染"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 10:31"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市議會.png",
+    "opinions": [
+        {
+            "person": "台北市議會",
+            "verb": "表示",
+            "opinion": "若以客觀標準,台北市一定第一,但在六都首長中淪為墊底王,他坦言,並不覺得不公平,「要看比什麼項目,兔子也不敢跟烏龜比游泳。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不公平",
+                "不覺",
+                "淪為",
+                "不公",
+                "不公平"
+            ],
+            "positive_list": [
+                "公平",
+                "公平"
+            ],
+            "datetime": "2022-06-06 14:49"
+        },
+        {
+            "person": "台北市議會",
+            "verb": "表示",
+            "opinion": "邊境管制已經沒有意義,隨時都可以打開,至於拿下口罩,他則認為,可以再討論。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "有意",
+                "沒有"
+            ],
+            "positive_list": [
+                "有意義"
+            ],
+            "datetime": "2022-06-07 17:08"
+        },
+        {
+            "person": "台北市議會",
+            "verb": "批評",
+            "opinion": "林炤宏一事,柯文哲於休息時間接受媒體聯訪時回應,這種東西調查就對了,「有多少證據說多少話,我覺得有人檢舉就調查。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "東西"
+            ],
+            "positive_list": [
+                "休息",
+                "接受"
+            ],
+            "datetime": "2022-06-09 16:06"
+        }
+    ]
+}

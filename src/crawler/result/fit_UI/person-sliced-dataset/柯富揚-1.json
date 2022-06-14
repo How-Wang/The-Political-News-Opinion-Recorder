@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯富揚.png",
+    "opinions": [
+        {
+            "person": "柯富揚",
+            "verb": "指出",
+            "opinion": "目前全國有1391家診所、2492位醫師參與清冠一號視訊公費診療,亦即全國有超過3分之1的中醫師,都在做這樣的工作,中醫師全國聯合會將持續滾動修正,也期盼讓所有需要清冠一號的民眾,都可以得到最好的醫療。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "得到",
+                "最好",
+                "聯合",
+                "期盼"
+            ],
+            "datetime": "2022-05-29 19:05"
+        }
+    ]
+}

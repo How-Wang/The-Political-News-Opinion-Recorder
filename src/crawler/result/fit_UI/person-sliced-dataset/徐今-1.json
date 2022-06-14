@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/徐今.png",
+    "opinions": [
+        {
+            "person": "徐今",
+            "verb": "強調",
+            "opinion": "妻子說好幾次下輩子還要嫁給自己,之前都沒答應,今天為了彌補妻子失望,「我現在懇求她下輩子再嫁給我」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "失望",
+                "失望"
+            ],
+            "positive_list": [
+                "答應",
+                "懇求"
+            ],
+            "datetime": "2022-05-31 12:45"
+        }
+    ]
+}

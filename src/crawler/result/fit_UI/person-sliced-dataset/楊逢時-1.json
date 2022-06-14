@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊逢時.png",
+    "opinions": [
+        {
+            "person": "楊逢時",
+            "verb": "說",
+            "opinion": "「我們所有整個婦女會,我們所有黨員各項組織,支持一個沒有爭議的張善政院長,他是很棒的最佳人選。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "很棒",
+                "很棒的",
+                "最佳"
+            ],
+            "datetime": "2022-06-02 14:06"
+        }
+    ]
+}

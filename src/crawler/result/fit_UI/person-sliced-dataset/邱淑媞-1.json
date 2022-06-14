@@ -1,0 +1,53 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱淑媞.png",
+    "opinions": [
+        {
+            "person": "邱淑媞",
+            "verb": "表示",
+            "opinion": "防堵疫病效果差,原因就出在蔡政府從上到下都把Omicron當流感,其實從國外醫療學術期刊的發表文獻可知,Omicron的致死率是流感的7倍,連輕症的死亡率都比較高,請停止「與病毒共存」的幻想。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "幻想",
+                "死亡",
+                "致死",
+                "停止"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 14:39"
+        },
+        {
+            "person": "邱淑媞",
+            "verb": "質疑",
+            "opinion": "為什麼不準備BNT,而寧可給小朋友打美國都還沒准許的莫德納?她並喊話中央應要公布該場專家會議的逐字稿,看看到底是誰駁回5到11歲幼童接種疫苗的建議,最後才突然要開放6到11歲打莫德納。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "突然",
+                "寧可",
+                "駁回"
+            ],
+            "positive_list": [
+                "專家",
+                "開放",
+                "準備"
+            ],
+            "datetime": "2022-06-04 08:20"
+        },
+        {
+            "person": "邱淑媞",
+            "verb": "指出",
+            "opinion": "5歲以下之所以很重要,是因為雖然18歲以下都可能發生兒童神經系統侵犯,但最常見的年齡層就是5歲以下。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "侵犯",
+                "神經"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-04 08:20"
+        }
+    ]
+}

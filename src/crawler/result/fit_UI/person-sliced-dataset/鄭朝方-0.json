@@ -1,0 +1,129 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭朝方.png",
+    "opinions": [
+        {
+            "person": "鄭朝方",
+            "verb": "宣布",
+            "opinion": "自己已完成黨內竹北市長初選登記,正式宣布參選竹北市長選舉,並提到自己在家鄉深蹲超過五年,縱使在沒有選舉期間,也仍然穿梭在十三鄉鎮之中,沒有一刻停留,盡全力傾聽民瘼從不間斷。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "超過",
+                "沒有"
+            ],
+            "positive_list": [
+                "正式",
+                "全力",
+                "完成"
+            ],
+            "datetime": "2022-06-07 17:19"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "認為",
+            "opinion": "新竹縣的問題「不是政黨」,而是世代,這次讓子彈飛,新世代來努力,當前要選新的人才能帶來改變。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "子彈",
+                "問題",
+                "不是",
+                "問題"
+            ],
+            "positive_list": [
+                "才能",
+                "努力"
+            ],
+            "datetime": "2022-06-07 17:19"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "表示",
+            "opinion": "竹北年輕有活力,擁有完美的條件及背景,但是卻無法承先啟後持續進步,生硬的建設只是冰冷的水泥產物,沒有文化、教育、藝術、親子交流該有的溫度,讓市民有更多陶冶身心的機會。",
+            "negative_score": 6,
+            "positive_score": 9,
+            "negative_list": [
+                "生硬",
+                "生硬的",
+                "沒有",
+                "無法",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [
+                "完美",
+                "完美的",
+                "建設",
+                "進步",
+                "擁有",
+                "機會",
+                "藝術",
+                "完美",
+                "活力"
+            ],
+            "datetime": "2022-06-07 16:12"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "宣布",
+            "opinion": "參選竹北市長;而這也意味,未來民進黨若正式提名他,他將對決國民黨投入竹北市長選戰的立委林為洲。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正式"
+            ],
+            "datetime": "2022-06-07 16:12"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "表示",
+            "opinion": "對於他的家鄉,已深蹲超過5年,縱使在沒有選舉期間,也仍然穿梭在13鄉鎮之中,沒有一刻停留,盡全力傾聽民瘼從不間斷。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "超過",
+                "沒有"
+            ],
+            "positive_list": [
+                "全力"
+            ],
+            "datetime": "2022-06-07 16:12"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "表示",
+            "opinion": "已完成黨內初選登記,盼改變竹北,也承擔竹北市民對於進步的冀望。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "冀望"
+            ],
+            "positive_list": [
+                "完成",
+                "進步",
+                "進步的"
+            ],
+            "datetime": "2022-06-07 19:37"
+        },
+        {
+            "person": "鄭朝方",
+            "verb": "說",
+            "opinion": "未來,他若當選竹北市長,將跨越政黨派系的隔閡,以市民聲音為需求使命,不只和新竹縣政府合作,也會積極爭取中央的計畫預算,建設竹北。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "派系"
+            ],
+            "positive_list": [
+                "合作",
+                "建設",
+                "積極",
+                "合作"
+            ],
+            "datetime": "2022-06-07 19:37"
+        }
+    ]
+}

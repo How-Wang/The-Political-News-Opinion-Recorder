@@ -1,0 +1,50 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高植澎.png",
+    "opinions": [
+        {
+            "person": "高植澎",
+            "verb": "說",
+            "opinion": "「不能貪瀆不能背叛,錯了就要認錯要道歉。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "背叛",
+                "背叛",
+                "道歉"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 18:38"
+        },
+        {
+            "person": "高植澎",
+            "verb": "說",
+            "opinion": "「跟林佳龍祕書講,說這個人雖然是你們正國會的,但是不值得你們為她操心啦。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不值得",
+                "不值",
+                "操心"
+            ],
+            "positive_list": [
+                "值得"
+            ],
+            "datetime": "2022-06-06 18:38"
+        },
+        {
+            "person": "高植澎",
+            "verb": "表示",
+            "opinion": "當年不當支領車馬費一事,曾給予1個月的時間緩衝期,不歸還才移檢方催討;對於陳慧玲記者會又刻意將其誤導變成是他與已故謝明璋間的恩怨。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "誤導"
+            ],
+            "positive_list": [
+                "給予"
+            ],
+            "datetime": "2022-06-06 14:21"
+        }
+    ]
+}

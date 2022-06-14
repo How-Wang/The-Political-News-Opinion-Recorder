@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何文海.png",
+    "opinions": [
+        {
+            "person": "何文海",
+            "verb": "批評",
+            "opinion": "捷運水溝工程隨便做,施工告示牌到現在超過2年未拆,怒批台中市政府「螺絲鬆了!」台中市交通局表示,將邀集相關單位到現場釐清,如確屬捷運工程導致,將責成施工廠商限期處理完畢;告示牌已於17日全數拆除。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "拆除",
+                "超過",
+                "隨便",
+                "隨便"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 09:41"
+        },
+        {
+            "person": "何文海",
+            "verb": "說",
+            "opinion": "台中捷運綠線2020年開放民眾搭乘,軌道工程更在2018年就全數完成。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "完成",
+                "開放"
+            ],
+            "datetime": "2022-05-29 09:41"
+        }
+    ]
+}

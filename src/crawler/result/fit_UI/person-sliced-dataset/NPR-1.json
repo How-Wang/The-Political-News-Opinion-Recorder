@@ -1,0 +1,22 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "NPR",
+            "verb": "表示",
+            "opinion": "台灣將不尋求形式上的獨立,台灣民意基金會董事長游盈隆認為,這代表了蔡英文政府已公開「出賣台獨」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "出賣",
+                "出賣",
+                "台獨"
+            ],
+            "positive_list": [
+                "公開",
+                "獨立"
+            ],
+            "datetime": "2022-06-02 10:56"
+        }
+    ]
+}

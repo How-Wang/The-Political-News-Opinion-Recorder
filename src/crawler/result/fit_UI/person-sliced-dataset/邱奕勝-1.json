@@ -1,0 +1,725 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "是單純聚會不談政治,但就連民進黨籍議員都忍不住替邱奕勝抱屈,國民黨桃園布局內亂,地方反彈醞釀退黨潮,即便秘書長黃健庭隔空喊話向邱奕勝、羅智強、呂玉玲致歉,但短時間想要取得地方的諒解,恐怕沒那麼容易。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不住",
+                "恐怕",
+                "反彈",
+                "恐怕"
+            ],
+            "positive_list": [
+                "容易",
+                "諒解"
+            ],
+            "datetime": "2022-05-21 22:55"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "要去拜訪,結果取消收場.讓邱難掩火氣,雖然認同張善政的資歷最優秀,但黨徵召的動作讓他感到錯愕。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "最優秀",
+                "優秀",
+                "認同"
+            ],
+            "datetime": "2022-05-24 15:43"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "指出",
+            "opinion": "「當下我是蠻錯愕,因為這個名單在地方,或是之前中央都不曾討論過,張善政院長他的資歷在目前這麼多候選人當中,他是屬於最好的一位,可以見面沒有問題,目前沒有聯繫上對目前沒有聯繫。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-05-24 13:24"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "回應",
+            "opinion": "目前沒接到約見面的訊息,但若要見面,只要有時間都可以。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 11:46"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "看到有這多鄉親願意支持候選人非常開心,也樂觀其成,市長候選人本就應該爭取更多鄉親支持。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "樂觀",
+                "願意",
+                "開心",
+                "樂觀",
+                "願意"
+            ],
+            "datetime": "2022-05-24 10:07"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "相信以張善政的資歷,在目前這麼多的候選人中,「他是屬於最好的一位」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "最好"
+            ],
+            "datetime": "2022-05-24 10:07"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "提名市長候選人的權力本來就是主席,自己也不是提名小組成員,中央有無事先告知「對我來講並不重要」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不重要",
+                "不是"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-24 10:07"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "社會大眾最需要的是國民黨要團結,黨中央也給張善政很大壓力,要取得邱奕勝及呂玉玲的諒解,背負許多鄉親對呂玉玲參選的期許。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "壓力"
+            ],
+            "positive_list": [
+                "期許",
+                "諒解"
+            ],
+            "datetime": "2022-05-24 11:48"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "回應",
+            "opinion": "「沒需要做到這樣嘛,對不對。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不對",
+                "不對"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 11:22"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "回應",
+            "opinion": "似乎也透露本次會面將取消,先前媒體問到是否與張善政有約,邱奕勝說,他目前沒有接到這個訊息不好意思。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "沒有",
+                "取消",
+                "透露",
+                "不好",
+                "不好意思",
+                "沒有"
+            ],
+            "positive_list": [
+                "好意",
+                "好意"
+            ],
+            "datetime": "2022-05-24 10:53"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "提到",
+            "opinion": "以張善政的資歷,目前這麼多的候選人當中他是最好的一位,昨天楊敏盛發文支持張善政,也看到有很多鄉親願意支持國民黨候選人,他很開心,也樂觀其成。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "最好",
+                "樂觀",
+                "願意",
+                "開心",
+                "樂觀",
+                "願意"
+            ],
+            "datetime": "2022-05-24 10:35"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "提到",
+            "opinion": "會努力拜託支持國民黨的里長留下來,為黨繼續努力,只有在黨裡面努力,才能讓黨更好。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "才能",
+                "努力"
+            ],
+            "datetime": "2022-05-24 10:35"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "宣布",
+            "opinion": "徵召張善政確實感到很錯愕,這名單在地方或中央都不曾討論過,突然做這樣決定當然感到錯愕。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "突然"
+            ],
+            "positive_list": [
+                "決定",
+                "當然",
+                "確實"
+            ],
+            "datetime": "2022-05-24 10:35"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "他退群與開不開心、高不高興沒有直接關係,不必做太大聯想。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不高",
+                "不高興",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "高興",
+                "高興",
+                "開心"
+            ],
+            "datetime": "2022-05-24 10:19"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說明",
+            "opinion": "當時群組、黨務有相關的群組,是他擔任桃園市黨部主委工作所成立,方便黨務聯繫,而他在去年請辭主委,代理主委也產生,現階段工作也完成了。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "方便",
+                "完成"
+            ],
+            "datetime": "2022-05-24 10:19"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "提到",
+            "opinion": "以張善政的資歷,目前這麼多的候選人當中他是最好的1位,也看到有很多鄉親支持國民黨候選人,他很開心,也樂觀其成。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "最好",
+                "樂觀",
+                "開心",
+                "樂觀"
+            ],
+            "datetime": "2022-05-24 09:47"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "正在主持會議,會再另尋時間與張善政見面暢談,行程宣告取消。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "暢談"
+            ],
+            "datetime": "2022-05-25 20:49"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "正在主持會議,會再另尋時間與張善政見面暢談,行程宣告取消。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "暢談"
+            ],
+            "datetime": "2022-05-25 15:51"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "正在主持會議,會再另尋時間與張善政見面暢談,行程宣告取消。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "暢談"
+            ],
+            "datetime": "2022-05-25 12:41"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "「會改日再另尋時間與張善政院長見面暢談」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "暢談"
+            ],
+            "datetime": "2022-05-25 22:24"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "「羅智強議員也特別展現了,他最高的一個高度跟風度,在這邊我們也都非常的敬佩。」",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "風度",
+                "特別",
+                "最高",
+                "最高的",
+                "敬佩"
+            ],
+            "datetime": "2022-05-25 18:55"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "跟邱奕勝有簡訊連絡,昨天他說因為在議會開會不便會面,會安排適當時間邀約,他寫得非常友善「到時後見面暢談」,覺得很善意,尊重他,等他的辦公室聯絡。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "不便",
+                "不便"
+            ],
+            "positive_list": [
+                "友善",
+                "尊重",
+                "善意",
+                "暢談",
+                "適當",
+                "友善",
+                "尊重"
+            ],
+            "datetime": "2022-05-25 16:43"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "正在主持會議,會再另尋時間與張善政見面暢談,行程宣告取消。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "暢談"
+            ],
+            "datetime": "2022-05-25 21:32"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "開大門歡迎大家,沒多久張善政就公告11點將到議會;但隨後邱奕勝面對突擊卻直呼「沒約好」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-05-25 13:20"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "羅智強祈福行腳行動,讓大家了解,目前疫情處理才是重中之重,特別是市長徵召之後,羅智強並未離開,決定留下來持續關心桃園的疫情,對於羅智強的拋開政治紛擾,並就事論事轉而關懷民生疾苦,予以高度肯定,他特地前來致意,並慰勞羅團隊之辛勞。",
+            "negative_score": 1,
+            "positive_score": 8,
+            "negative_list": [
+                "離開"
+            ],
+            "positive_list": [
+                "了解",
+                "決定",
+                "肯定",
+                "致意",
+                "特別",
+                "關心",
+                "關心",
+                "關懷"
+            ],
+            "datetime": "2022-05-25 13:20"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "正在主持會議,會再另尋時間見面暢談,張善政團隊在拜會前15分鐘臨時喊卡行程。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "暢談"
+            ],
+            "datetime": "2022-05-25 14:51"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "把選民照顧好,不一定要拜會她,張善政回應,對於呂玉玲還在持續聯絡,她當然還是拜會重點,「我覺得選民非常重要,呂玉玲委員也一樣重要,持續聯絡中。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "當然"
+            ],
+            "datetime": "2022-05-25 14:39"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "與朱立倫溝通沒問題,朱立倫要忙全台灣的事,就讓朱立倫去忙。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:54"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "特別擠時間和張善政聊聊,沒有「破冰」問題,很尊敬張善政、會支持張善政。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "特別",
+                "尊敬"
+            ],
+            "datetime": "2022-05-26 10:54"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "指出",
+            "opinion": "「議會都是開大門走大路,非常歡迎張善政院長來訪。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-05-26 13:01"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "指出",
+            "opinion": "張則善政院長這幾天行程多非常急著要碰面,所以特別把時間擠出來,正好張則善政院長上午在中壢有行程,今天也有約其他客人到議長室,因此跟張則善政院長約好見面。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "特別"
+            ],
+            "datetime": "2022-05-26 13:01"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "「(議長全力挺張善政嗎),我會支持他,他也是我們國家非常重要資產,也是算我的前輩,我們也非常尊敬他。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "重要",
+                "尊敬"
+            ],
+            "datetime": "2022-05-26 17:09"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "「(議長全力挺張善政嗎?),我會支持他,他也是我們國家非常重要資產,也是算我的前輩,我們也非常尊敬他。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "全力",
+                "重要",
+                "尊敬"
+            ],
+            "datetime": "2022-05-26 13:18"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "和張善政沒有破不破冰的問題,他是國家重要資產,學經歷也是自己的前輩,「我會支持他」。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-26 11:24"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "沒有什麼破冰問題,議會就是開大門走大路。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:24"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "指出",
+            "opinion": "議會就是開大門走大路,非常歡迎他來訪,「這幾天張善政可能有點急,我也要想辦法把時間擠出來」,剛好張善政有行程在中壢,特別擠出半小時跟他聊聊。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "特別",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-05-26 11:24"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "回應",
+            "opinion": "今日不談政治;另有人問是否像羅智強一樣在桃園落腳,他表示,目前正積極找房子,不限區域只要有適合的價位跟大小就好。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "適合",
+                "適合的",
+                "積極"
+            ],
+            "datetime": "2022-05-26 09:41"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "張善政院長這幾天行程多也急著想碰面,因此才把時間擠出來,正好張上午在中壢有行程,因此順勢約了上午能夠碰面。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 11:20"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "解釋",
+            "opinion": "張善政這幾天行程多也非常急碰面,他就把時間擠出來,剛好今天有其他客人到議長室,因此就跟張約上午見面。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 13:37"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "強調",
+            "opinion": "朱立倫擔任桃園縣長時,他是副議長,雙方互動良好沒有心結;他本身也是國民黨中常委,和張善政間也沒有外傳的心結。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "良好",
+                "良好"
+            ],
+            "datetime": "2022-05-26 13:37"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "強調",
+            "opinion": "連勝文只是來看老朋友,但仍有與會議員爆料,指出連勝文當面坦承黨中央在桃園的提名「太過倉促」,他還安慰邱奕勝說「辛苦你了」。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "太過",
+                "辛苦",
+                "安慰"
+            ],
+            "positive_list": [
+                "安慰",
+                "安慰"
+            ],
+            "datetime": "2022-05-27 17:31"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "認為",
+            "opinion": "這次桃園提名過程「太倉促」,還對邱奕勝說「辛苦你了」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 17:31"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "提到",
+            "opinion": "未來對手可能是新竹市長林智堅時,張善政先是提到「民調」儘管微幅領先,但也不能輕忽、繼續努力,不管未來對手是「誰出來」,只要能為桃園打拼都是好事。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不能",
+                "不管",
+                "好事",
+                "對手"
+            ],
+            "positive_list": [
+                "好事",
+                "努力",
+                "好事",
+                "領先"
+            ],
+            "datetime": "2022-05-30 11:45"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "認為",
+            "opinion": "提名是朱立倫的權力,但整合羅智強跟呂玉玲,以及突襲提名衍生的問題,要自己想辦法解決。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "突襲",
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-05 17:58"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "解釋",
+            "opinion": "這是幾天前臨時約的,端午連假剛好有空,只是很單純的吃飯與選舉無關,順便幫中壢50年老店行銷花生糖,大家想像力不要這麼豐富。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "無關",
+                "不要"
+            ],
+            "positive_list": [
+                "想像",
+                "想像力",
+                "豐富"
+            ],
+            "datetime": "2022-06-05 14:27"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "「任何想為桃園做事的鄉親,以及地方民代或中央民代,我們都歡迎他們到桃園。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 13:20"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "說",
+            "opinion": "只要想要為桃園做事的人,他都歡迎。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 12:59"
+        },
+        {
+            "person": "邱奕勝",
+            "verb": "表示",
+            "opinion": "議長應該超越黨派,不管是藍營、綠營或白色力量,都是希望可以給桃園市民帶來新選擇。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-08 14:52"
+        }
+    ]
+}

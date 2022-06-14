@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭弘儀.png",
+    "opinions": [
+        {
+            "person": "鄭弘儀",
+            "verb": "表示",
+            "opinion": "首都台北真的是重中之重,所以民進黨一定會好好考慮怎麼提名及出場,可能人選也會綜合考慮,包括衛福部長陳時中、交通部前部長林佳龍等。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "考慮"
+            ],
+            "datetime": "2022-06-09 10:42"
+        },
+        {
+            "person": "鄭弘儀",
+            "verb": "表示",
+            "opinion": "如果朱立倫不信任在地型政治人物,要形象、要打出好牌,那就要分析什麼叫做好牌?其實在縣市首長的選舉,最重要的判準就是能否得到該選區選民的認同。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "不信",
+                "不信任",
+                "打出"
+            ],
+            "positive_list": [
+                "信任",
+                "重要",
+                "重要的",
+                "得到",
+                "最重要",
+                "最重要的",
+                "實在",
+                "認同"
+            ],
+            "datetime": "2022-06-09 10:00"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/基進黨.png",
+    "opinions": [
+        {
+            "person": "基進黨",
+            "verb": "表示",
+            "opinion": "台灣的石斑魚養殖業,長期仰賴中國市場,據漁業署資料,2021年1月至11月,出口中國大陸活石斑魚6021公噸,占比高達九成。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 13:09"
+        }
+    ]
+}

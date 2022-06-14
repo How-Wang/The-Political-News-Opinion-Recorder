@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/富邦金.png",
+    "opinions": [
+        {
+            "person": "富邦金",
+            "verb": "呼籲",
+            "opinion": "金管會應嚴審資格不能視而不見。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不見",
+                "不能"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:20"
+        }
+    ]
+}

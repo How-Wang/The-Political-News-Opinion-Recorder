@@ -1,0 +1,24 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/楊吉雄.png",
+    "opinions": [
+        {
+            "person": "楊吉雄",
+            "verb": "認為",
+            "opinion": "涉嫌圖利、財產來源不明,但她捲入爭議案後,綠營質疑她只會塑造自己被政治、司法迫害形象,打悲情牌。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "不明",
+                "迫害",
+                "捲入",
+                "質疑",
+                "迫害",
+                "悲情"
+            ],
+            "positive_list": [
+                "財產"
+            ],
+            "datetime": "2022-06-07 18:43"
+        }
+    ]
+}

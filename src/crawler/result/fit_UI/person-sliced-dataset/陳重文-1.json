@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳重文.png",
+    "opinions": [
+        {
+            "person": "陳重文",
+            "verb": "指出",
+            "opinion": "擔任民眾黨台北市黨部主委林國成曾帶著參選人到議會開記者會,當時被質疑「濫用公家資源」,柯文哲對此也罵到臭頭。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "質疑",
+                "濫用",
+                "濫用"
+            ],
+            "positive_list": [
+                "資源"
+            ],
+            "datetime": "2022-06-07 16:01"
+        },
+        {
+            "person": "陳重文",
+            "verb": "質疑",
+            "opinion": "是濫用公家資源,市長柯文哲備詢時也說,「公務員不可以變成道具」,尤其是用會勘名義就是不好,因為「公務員不是競選道具」。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "不可",
+                "不好",
+                "濫用",
+                "不可",
+                "不好",
+                "不是",
+                "濫用"
+            ],
+            "positive_list": [
+                "資源"
+            ],
+            "datetime": "2022-06-07 16:01"
+        }
+    ]
+}

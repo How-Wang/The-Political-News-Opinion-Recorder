@@ -1,0 +1,280 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "高嘉瑜",
+            "verb": "指出",
+            "opinion": "從前天開始有點喉嚨癢癢不舒服,當下快篩陰;但昨天開始咳嗽,半夜咳醒幾次,今天早上昏昏沉沉,有點喉嚨痛、頭痛、咳嗽,然後就快篩陽了。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不舒服",
+                "頭痛",
+                "頭痛"
+            ],
+            "positive_list": [
+                "舒服"
+            ],
+            "datetime": "2022-05-22 13:13"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "20日當天立委們都有短暫脫下口罩喝咖啡,會不會在這過程中染疫了也不一定,希望大家要小心,把口罩戴好,染疫機會就會小很多。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "小心",
+                "不會",
+                "短暫",
+                "不會"
+            ],
+            "positive_list": [
+                "小心",
+                "希望",
+                "很多",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-05-22 14:49"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "自己快篩結果兩條線,引來外界好奇兩人是否有接觸,對此,高嘉瑜回應,自己與柯文哲已經好幾個月沒見,並懷疑病毒在20日已於立法院散布。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [
+                "好奇"
+            ],
+            "datetime": "2022-05-22 14:49"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "自己前天開始有點喉嚨癢癢不舒服當下快篩陰性,21日開始咳嗽半夜咳醒幾次,22日早上昏昏沉沉,有點喉嚨痛、頭痛、咳嗽,快篩後為陽性。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不舒服",
+                "頭痛",
+                "頭痛"
+            ],
+            "positive_list": [
+                "舒服"
+            ],
+            "datetime": "2022-05-22 12:53"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "說",
+            "opinion": "「我要告訴大家,我們已經好幾個月沒有見面,所以人不是我殺的,兇手也不是我。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "兇手",
+                "沒有",
+                "不是",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:28"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "回應",
+            "opinion": "和柯文哲已經好幾個月沒碰面,「人不是我殺的、凶手不是我」,不過20日立法院開會時,曾短暫脫下口罩喝咖啡,懷疑病毒已經在會場散播。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "短暫",
+                "懷疑",
+                "不是",
+                "懷疑"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 20:22"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "宣布",
+            "opinion": "快篩陽性,引來外界好奇兩人是否有接觸。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "好奇"
+            ],
+            "datetime": "2022-05-22 20:22"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "自己前天開始有點喉嚨癢癢不舒服,當下快篩陰,但昨天開始咳嗽,甚至半夜咳醒幾次。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不舒服"
+            ],
+            "positive_list": [
+                "舒服"
+            ],
+            "datetime": "2022-05-22 13:34"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "說",
+            "opinion": "週五在立法院開會時,病毒可能已經散步了,當天有喝咖啡短暫脫下口罩,是否這過程染疫也不一定,她呼籲大家要小心,若口罩戴緊緊染疫機會少很多,並要注意自身安全。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "小心",
+                "短暫"
+            ],
+            "positive_list": [
+                "小心",
+                "安全",
+                "注意",
+                "很多",
+                "機會"
+            ],
+            "datetime": "2022-05-22 13:01"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "自己前天開始有點喉嚨癢癢不舒服,當下快篩陰,但昨天開始咳嗽,甚至半夜咳醒幾次。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不舒服"
+            ],
+            "positive_list": [
+                "舒服"
+            ],
+            "datetime": "2022-05-22 13:01"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "回應",
+            "opinion": "和柯文哲已經好幾個月沒見過面,直呼「人不是我殺的,兇手不是我」,高嘉瑜推測,20日在立法院會場內可能就已有病毒散布。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "兇手",
+                "有病",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 16:53"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "指出",
+            "opinion": "立委們在20日都有短暫脫下口罩喝咖啡,會不會在這過程中染疫了也不一定,希望大家要小心,若把口罩「戴緊緊」,相信染疫機會就會小很多,提醒大家還是要注意自己的安全。",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "小心",
+                "不會",
+                "短暫",
+                "不會"
+            ],
+            "positive_list": [
+                "小心",
+                "安全",
+                "希望",
+                "注意",
+                "很多",
+                "相信",
+                "機會",
+                "希望"
+            ],
+            "datetime": "2022-05-22 16:53"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "自己前天開始「有點喉嚨癢癢」但當下快篩陰性,直到昨天晚間開始咳嗽、甚至半夜咳醒幾次,今天早上昏沈、有點喉嚨痛、頭痛、咳嗽,方才快篩陽性。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "頭痛",
+                "頭痛"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 13:21"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "因移工地下匯兌檯面下的利潤龐大,進而成為兇殺案的主因,希望主管機關痛定思痛,好好整頓長期以來地下匯兌猖獗所導致的社會、金融問題。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "兇殺",
+                "問題",
+                "猖獗",
+                "問題",
+                "猖獗"
+            ],
+            "positive_list": [
+                "成為",
+                "利潤",
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-11 14:50"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "據勞動部統計,來台就業的外籍移工在2019年達到近72萬人歷史新高,近兩年則受到疫情影響,移工人數略減至約70萬人。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "達到"
+            ],
+            "datetime": "2022-06-11 14:50"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "說",
+            "opinion": "據相關資料,外籍移工幾乎8成透過地下匯兌及非合規交易匯款,最主要除了移工不懂金融法規,還是習慣去傳統的雜貨店交易;更因爲雜貨店法遵、洗防成本低,所以匯率隨便開隨便喊,便宜的手續費及匯差就是最大優勢。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "隨便",
+                "不懂",
+                "隨便"
+            ],
+            "positive_list": [
+                "便宜",
+                "習慣",
+                "優勢"
+            ],
+            "datetime": "2022-06-11 14:50"
+        },
+        {
+            "person": "高嘉瑜",
+            "verb": "表示",
+            "opinion": "這種地下交易往往透過「現金」或「代收代付」方式流通,背後還有洗錢或詐騙疑慮,是金融監理的一大漏洞,且對移工也沒有保障。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "漏洞",
+                "疑慮",
+                "沒有",
+                "疑慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 14:50"
+        }
+    ]
+}

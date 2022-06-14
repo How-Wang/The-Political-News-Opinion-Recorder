@@ -1,0 +1,31 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/沈政男.png",
+    "opinions": [
+        {
+            "person": "沈政男",
+            "verb": "認為",
+            "opinion": "有一部分是因為高齡族群被感染得更多,但主因還是染疫黑數增加了,看能讓最近上路全民適用的「快篩陽性即確診」能否揪出一些黑數。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "感染"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-27 09:48"
+        },
+        {
+            "person": "沈政男",
+            "verb": "指出",
+            "opinion": "台灣人有在防疫,因此R值本來就比歐美低,不需4成染疫,只要2成自然染疫,就可以把R值壓到1以下,讓曲線折彎與探底。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "自然"
+            ],
+            "datetime": "2022-05-27 09:48"
+        }
+    ]
+}

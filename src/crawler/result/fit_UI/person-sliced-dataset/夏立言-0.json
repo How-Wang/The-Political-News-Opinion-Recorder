@@ -1,0 +1,84 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/夏立言.png",
+    "opinions": [
+        {
+            "person": "夏立言",
+            "verb": "說明",
+            "opinion": "訪美期間為6月2日到6月12日,期間停留舊金山、華盛頓特區、紐約、洛杉磯,並拜會行政部門、國會朝野、智庫與僑界,朱立倫還有兩次公開演講。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "公開"
+            ],
+            "datetime": "2022-06-01 15:27"
+        },
+        {
+            "person": "夏立言",
+            "verb": "說明",
+            "opinion": "這是朱立倫競選主席時的政見,且正值俄烏戰爭之際,烏俄戰爭連動台海,須強化台美溝通,未來地緣風險漸增,也需要共同討論因應。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-01 15:14"
+        },
+        {
+            "person": "夏立言",
+            "verb": "強調",
+            "opinion": "國民黨與美國有共同的價值基礎,二戰期間與美國共同對抗日本軍國主義及法西斯主義,冷戰期間又攜手阻擋共產主義擴張,這次國民黨重回華府,就是要以行動展現「重視對美關係」,徹底反駁「國民黨反美」的謊言。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "反駁",
+                "對抗",
+                "謊言",
+                "反駁",
+                "冷戰",
+                "謊言"
+            ],
+            "positive_list": [
+                "重視"
+            ],
+            "datetime": "2022-06-01 16:59"
+        },
+        {
+            "person": "夏立言",
+            "verb": "說明",
+            "opinion": "朱立倫訪美行從6月2日至6月12日,停留城市包含舊金山、華盛頓特區、紐約、洛杉磯。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-01 16:59"
+        },
+        {
+            "person": "夏立言",
+            "verb": "指出",
+            "opinion": "若凡事要講明,可能會為兩岸非政治議題交流帶來困擾。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 07:43"
+        },
+        {
+            "person": "夏立言",
+            "verb": "指出",
+            "opinion": "若凡事要講明,可能會為兩岸非政治議題交流帶來困擾。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "困擾",
+                "困擾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 06:07"
+        }
+    ]
+}

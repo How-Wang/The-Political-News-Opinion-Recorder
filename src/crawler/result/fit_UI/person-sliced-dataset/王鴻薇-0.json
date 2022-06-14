@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/王鴻薇.png",
+    "opinions": [
+        {
+            "person": "王鴻薇",
+            "verb": "表示",
+            "opinion": "感謝陳文茜在受免疫系統攻擊身體的辛苦,贈送了20本新作協助募款,陳文茜也在王鴻薇臉書留言「感謝鴻薇,從記者到議員,始終傑出的女性!以妳為榮!」力挺意味十足。",
+            "negative_score": 3,
+            "positive_score": 7,
+            "negative_list": [
+                "攻擊",
+                "辛苦",
+                "攻擊"
+            ],
+            "positive_list": [
+                "協助",
+                "為榮",
+                "傑出",
+                "傑出的",
+                "感謝",
+                "為榮",
+                "感謝"
+            ],
+            "datetime": "2022-06-07 14:01"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中央公園.png",
+    "opinions": [
+        {
+            "person": "中央公園",
+            "verb": "說明",
+            "opinion": "」;隨後,他致詞時表示,他要代表總統蔡英文衷心感謝台中榮民總醫院與台中市政府齊心合作,在中央公園開闢「快篩PCR給藥得來速」,成功紓解PCR及給藥的人潮,這樣的積極作為令人欽佩。",
+            "negative_score": 0,
+            "positive_score": 10,
+            "negative_list": [],
+            "positive_list": [
+                "令人欽佩",
+                "合作",
+                "成功",
+                "衷心",
+                "欽佩",
+                "感謝",
+                "積極",
+                "合作",
+                "欽佩",
+                "感謝"
+            ],
+            "datetime": "2022-05-29 18:17"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/三重地政事務所.png",
+    "opinions": [
+        {
+            "person": "三重地政事務所",
+            "verb": "回應",
+            "opinion": "「有關本所戴姓同仁在社群媒體發表不當言論乙事,經查該言論是戴姓同仁個人行為,本所已告誡其勿再犯,有關戴員在公務期間從事與公務無關之行為,依規定移送考紀委員會處理」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "告誡",
+                "無關"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 16:17"
+        },
+        {
+            "person": "三重地政事務所",
+            "verb": "回應",
+            "opinion": "有關本所戴姓同仁在社群媒體發表不當言論乙事,經查該言論是戴姓同仁個人行為,本所已告誡其勿再犯,有關戴員在公務期間從事與公務無關之行為,依規定移送考紀委員會處理。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "告誡",
+                "無關"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:41"
+        },
+        {
+            "person": "三重地政事務所",
+            "verb": "發現",
+            "opinion": "上班時間在網路批評恩恩爸爸,羅秉成則說,公務員有言論自由,但在公務時間用公務電腦發表與公務無關言論,這是不好的,相關法規也都有懲處的規範。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不好",
+                "批評",
+                "無關",
+                "不好",
+                "批評"
+            ],
+            "positive_list": [
+                "自由",
+                "規範",
+                "自由"
+            ],
+            "datetime": "2022-06-08 10:13"
+        }
+    ]
+}

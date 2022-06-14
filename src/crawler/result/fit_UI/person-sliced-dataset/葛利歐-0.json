@@ -1,0 +1,312 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/葛利歐.png",
+    "opinions": [
+        {
+            "person": "葛利歐",
+            "verb": "表示",
+            "opinion": "非常榮幸能夠來台訪問,在疫情期間旅行相當不容易,所以他非常開心,其他4名同僚也很高興有機會訪問台灣,訪團在台行程將拜會許多單位,希望能多了解台灣、增進台法關係。",
+            "negative_score": 0,
+            "positive_score": 10,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "希望",
+                "容易",
+                "高興",
+                "增進",
+                "機會",
+                "希望",
+                "高興",
+                "開心",
+                "榮幸"
+            ],
+            "datetime": "2022-06-08 09:03"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "指出",
+            "opinion": "這次同行的4名同僚分屬跨黨派,參議員可選擇不同的與其他國家友好小組,會選擇友台小組是覺得這個小組非常重要,此行將討論成員們想關注的議題。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "重要"
+            ],
+            "datetime": "2022-06-08 09:03"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "說",
+            "opinion": "「台灣是在亞洲的民主典範,是一個充滿活力國家,我們訪團非常開心有機會來訪。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "機會",
+                "活力",
+                "開心"
+            ],
+            "datetime": "2022-06-08 18:07"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "說",
+            "opinion": "訪團每位成員心都向著台灣、由衷喜歡台灣,訪台至今,每場會晤他都印象深刻,而最深刻的就是台灣領導人面對如此複雜情況所展現的勇氣,以及台灣持續跟強大鄰國對抗。",
+            "negative_score": 2,
+            "positive_score": 9,
+            "negative_list": [
+                "對抗",
+                "複雜"
+            ],
+            "positive_list": [
+                "由衷",
+                "勇氣",
+                "強大",
+                "深刻",
+                "深刻的",
+                "喜歡",
+                "由衷",
+                "勇氣",
+                "喜歡"
+            ],
+            "datetime": "2022-06-09 17:58"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "表示",
+            "opinion": "台法有許多共同點,都是民主國家、遵守民主價值、民眾可以自由表達意見,而民主國家之間應該團結與共,加強交流,促進人類的發展、和平以及捍衛民主。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "和平",
+                "促進",
+                "發展",
+                "遵守",
+                "自由"
+            ],
+            "datetime": "2022-06-09 17:58"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "提到",
+            "opinion": "3日參加台北書展線上討論會,他的一本著作受到關注,這本書以華語再版且刊入新的圖畫,插畫家將兩種文化合而為一,慶祝台法友誼;他表示,如果這本書有幸得到認同與成功,他願意將版權運用在對台灣有益的事業。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "友誼",
+                "成功",
+                "有益",
+                "有益的",
+                "參加",
+                "得到",
+                "慶祝",
+                "願意",
+                "認同",
+                "慶祝",
+                "願意"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "表示",
+            "opinion": "這象徵著他已經被納入捍衛台灣的新群體中,他今後有責任證明自己必須無愧於這份殊榮。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "有責任"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "指出",
+            "opinion": "台灣堪稱「楷模」,對民主價值的堅定承諾以及經濟與工業實力,使台灣成為亞洲表現最優異的國家之一,儘管持續受到孤立,但依然向世界敞開大門,日復一日為自己的存在而奮戰。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "孤立"
+            ],
+            "positive_list": [
+                "成為",
+                "承諾",
+                "堅定"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "表示",
+            "opinion": "很榮幸在馬克宏總統剛當選之際,訪團就來到台灣與蔡總統見面,並代表法國參議院議長、也代表參議院同仁感謝台灣這個美麗國家所給予的歡迎。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "美麗",
+                "給予",
+                "感謝",
+                "歡迎",
+                "感謝",
+                "榮幸",
+                "歡迎"
+            ],
+            "datetime": "2022-06-09 12:31"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "認為",
+            "opinion": "在法國大家都知道台灣、稱呼台灣為台灣,在社群網站上談論台灣時也是稱呼台灣,所以這不成問題,且法國訪團一年訪台三次,展現出法國有多重視台灣這個國家,因為台灣在許多領域都是典範,例如去年全球經濟遭受重創時,台灣還能創造6%經濟成長率,令人刮目相看。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "成問題",
+                "問題",
+                "遭受",
+                "不成",
+                "問題"
+            ],
+            "positive_list": [
+                "成長",
+                "知道",
+                "重視",
+                "創造"
+            ],
+            "datetime": "2022-06-10 18:41"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "提到",
+            "opinion": "俄烏戰爭讓大家意識到侵略一個國家將影響全世界,法國是一個重視和平的國家,不希望台灣與烏克蘭有相同命運,同時這場戰爭讓外界意識到台灣半導體在世界上的重要性。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "侵略",
+                "戰爭"
+            ],
+            "positive_list": [
+                "希望",
+                "和平",
+                "和平的",
+                "重要",
+                "重要性",
+                "重視",
+                "希望"
+            ],
+            "datetime": "2022-06-10 18:41"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "指出",
+            "opinion": "此議題事涉國家機密,但台法間當然有軍事交流,台灣軍方也有派遣軍官到北約或其他國家實習。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "當然"
+            ],
+            "datetime": "2022-06-10 18:41"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "回應",
+            "opinion": "法國無法相比中國這樣的強國,但如果是以歐盟層級,透過各國相互合作來應對便能帶來強大力量。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "合作",
+                "強大",
+                "合作"
+            ],
+            "datetime": "2022-06-10 18:41"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "說",
+            "opinion": "「台灣萬歲,法國萬歲。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 14:24"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "表示",
+            "opinion": "法國和台灣的國會議員都能夠將心中的話說出來,而不是像在中國,人民不能夠把心中所想的表達出來。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 14:24"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "說",
+            "opinion": "為什麼不讓台灣也來參與國際刑警組織,一起對抗、打擊恐怖主義。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "打擊",
+                "恐怖",
+                "恐怖主義",
+                "對抗",
+                "打擊",
+                "恐怖"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 14:24"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "表示",
+            "opinion": "法國和台灣的國會議員都能夠將心中的話說出來,而不是像在中國,人民不能夠把心中所想的表達出來。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:12"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "說",
+            "opinion": "「台灣萬歲,法國萬歲。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:12"
+        },
+        {
+            "person": "葛利歐",
+            "verb": "說",
+            "opinion": "為什麼不讓台灣也來參與國際刑警組織,一起對抗、打擊恐怖主義。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "打擊",
+                "恐怖",
+                "恐怖主義",
+                "對抗",
+                "打擊",
+                "恐怖"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:12"
+        }
+    ]
+}

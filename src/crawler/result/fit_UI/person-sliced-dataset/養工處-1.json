@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/養工處.png",
+    "opinions": [
+        {
+            "person": "養工處",
+            "verb": "發現",
+            "opinion": "溝內有許多大小不等的水泥塊。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 09:41"
+        }
+    ]
+}

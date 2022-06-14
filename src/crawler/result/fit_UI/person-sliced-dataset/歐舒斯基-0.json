@@ -1,0 +1,262 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/歐舒斯基.png",
+    "opinions": [
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "很榮幸與副議長、議員們和布拉提斯拉瓦省(Bratislava)省長德若巴(JurajDroba)一起來台,布省是斯洛伐克最繁榮的地方。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "繁榮",
+                "繁榮的",
+                "榮幸"
+            ],
+            "datetime": "2022-06-05 10:53"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "很榮幸與副議長、議員們和布拉提斯拉瓦省(Bratislava)省長德若巴(JurajDroba)一起來台,布省是斯洛伐克最繁榮的地方。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "繁榮",
+                "繁榮的",
+                "榮幸"
+            ],
+            "datetime": "2022-06-05 09:41"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "遺憾的是歐洲有向邪惡低頭的傳統,之前許多國家姑息希特勒,不願起身對抗,造成二戰慘劇,他盼這次歐盟因為俄羅斯侵略醒過來,對可能引發同樣危險的中國採取不同態度。",
+            "negative_score": 8,
+            "positive_score": 0,
+            "negative_list": [
+                "危險",
+                "危險的",
+                "邪惡",
+                "姑息",
+                "侵略",
+                "對抗",
+                "遺憾",
+                "遺憾"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 18:32"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "認為",
+            "opinion": "斯洛伐克應效法立陶宛,逐步退出中國與中東歐國家的17+1合作機制,因為台灣在斯洛伐克是比中國更重要的投資者。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "退出"
+            ],
+            "positive_list": [
+                "合作",
+                "重要",
+                "重要的",
+                "合作"
+            ],
+            "datetime": "2022-06-08 18:32"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "台灣應可在國際使用自己的官方名字中華民國(ROC),不必使用台灣,因為中華民國代表了民主中國的誕生,世界應承認民主中國,不是共產中國。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-06-08 18:32"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "他半生都活在共產鐵幕下,歷史替他打了疫苗,讓他深知人們應該團結捍衛民主,「因此跟2300萬愛好民主的台灣人站在一起,對我來說是再自然不過的事。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自然",
+                "愛好"
+            ],
+            "datetime": "2022-06-08 13:35"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "他期盼總統蔡英文能正式受邀成為訪問斯洛伐克的外交貴賓,與同為女性的斯洛伐克總統查普托娃(ZuzanaCaputova)對談。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "成為",
+                "期盼"
+            ],
+            "datetime": "2022-06-08 13:35"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "只要還有一口氣,都會支持台灣,直言我駐斯國代表處應該正名、以及懸掛國旗,堅定挺台,喊出「我是台灣人」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-06-08 18:07"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "「台灣的國旗應該懸掛在駐斯國代表處外,我也引述甘迺迪的名言『我是台灣人』,因為台灣值得我們的支持。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "值得"
+            ],
+            "datetime": "2022-06-08 18:07"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "台灣和斯洛伐克必須團結一致,確保全世界的民主與自由,他更引用美國前總統甘迺迪的話喊到,「我是台灣人」。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-08 17:51"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "到,台灣與斯洛伐克都是一路篳路藍縷才邁向今日的民主,之前斯洛伐克也在共產意識的背後,蘇聯老大哥的壓迫之下,度過了非常多的歲月,因此自己在年輕時就已經經歷過共產對於民主自由的壓迫。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "壓迫",
+                "老大"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由"
+            ],
+            "datetime": "2022-06-08 17:51"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "到,大家也都有看到,駐斯洛伐克代表李南陽非常努力,為台斯的邦誼建立了非常多的情誼、舖了非常多的路,歐舒斯基表示,遺憾的是,台灣在斯洛伐克的代表處僅能稱為「代表處」,李南陽代表只能被稱作「代表」,歐覺得,事實上,李南陽代表應該被稱作「大使」,其代表辦公室也應該懸掛著國旗才對。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "遺憾",
+                "遺憾"
+            ],
+            "positive_list": [
+                "努力"
+            ],
+            "datetime": "2022-06-08 17:51"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "指出",
+            "opinion": "非常可惜的是,台灣駐斯洛伐克代表處僅能稱為「代表處」、駐斯洛伐克代表李南陽只能被稱作「代表」,實際上應該被稱作「大使」,且代表處也應該懸掛著國旗才對。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "可惜",
+                "可惜的",
+                "可惜"
+            ],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-06-08 17:02"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "台灣現在也隨時面臨著共產大國的壓迫,但是台灣的2300萬人還是非常辛勤工作,過著自由的生活,可惜沒有辦法跟其他國家平起平坐。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "可惜",
+                "沒有",
+                "壓迫",
+                "可惜",
+                "沒有"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "自由"
+            ],
+            "datetime": "2022-06-08 17:02"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "表示",
+            "opinion": "他期盼總統蔡英文有一天也能夠受邀成為斯洛伐克的外交貴賓。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "期盼"
+            ],
+            "datetime": "2022-06-08 14:23"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "說",
+            "opinion": "他半輩子都生活在共產統治下,也因此了解保衛民主的重要性,就如同歷史替他打了疫苗。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "重要",
+                "重要性"
+            ],
+            "datetime": "2022-06-08 14:23"
+        },
+        {
+            "person": "歐舒斯基",
+            "verb": "指出",
+            "opinion": "台灣值得被全世界所有國家公平對待,他希望有一天,台灣不再需要為了加入任何國際組織東奔西走,「台灣理應被國際接受、珍惜,因為台灣是個很棒的國家」。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "公平",
+                "希望",
+                "很棒",
+                "很棒的",
+                "值得",
+                "接受",
+                "公平",
+                "希望"
+            ],
+            "datetime": "2022-06-08 14:23"
+        }
+    ]
+}

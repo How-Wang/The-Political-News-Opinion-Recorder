@@ -1,0 +1,58 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "Twitter",
+            "verb": "回應",
+            "opinion": "指出,感謝克羅克承認「台灣能幫忙」將促進世界衛生組織「全民均健」(HealthforAll)的目標,台灣珍惜美國對台灣2350萬人民堅若磐石的友誼,台美將堅定站在一起。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "友誼",
+                "承認",
+                "促進",
+                "堅定",
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-22 09:35"
+        },
+        {
+            "person": "Twitter",
+            "verb": "表示",
+            "opinion": "吳釗燮專訪刊出沒多久,他就接到中國使館的電話,威脅若不下架文章,中國使館會切斷與郵報的聯繫,並降級中國與以色列的關係。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "切斷",
+                "出沒",
+                "威脅",
+                "降級",
+                "不下",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 13:48"
+        },
+        {
+            "person": "Twitter",
+            "verb": "表示",
+            "opinion": "吳釗燮專訪刊出沒多久,他就接到中國使館的電話,威脅若不下架文章,中國使館會切斷與郵報的聯繫,並降級中國與以色列的關係。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "切斷",
+                "出沒",
+                "威脅",
+                "降級",
+                "不下",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 15:24"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "郭彥均分享相關內容之後,至少有25個臉書粉專發布了以「很多孩子走了」為開頭的相同內容,其中有19個粉專的發文,時差還在10秒內,且都導向同一個內容農場,讓人感受到,台灣正面臨一波強大的認知作戰攻擊。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "作戰",
+                "攻擊",
+                "攻擊"
+            ],
+            "positive_list": [
+                "正面",
+                "很多",
+                "強大",
+                "強大的"
+            ],
+            "datetime": "2022-05-29 22:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "「言論自由」和「煽動恐慌」是兩回事,網路上廣傳的該篇貼文寫法非常容易引發恐慌。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "恐慌",
+                "煽動",
+                "恐慌"
+            ],
+            "positive_list": [
+                "自由",
+                "容易",
+                "自由"
+            ],
+            "datetime": "2022-05-29 22:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "當時台灣的口罩嚴重不足,每個人一星期只能買兩個,偽造這張圖片的人,企圖製造民進黨政府偷偷把口罩捐給日本的假象。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不足",
+                "偽造",
+                "偷偷",
+                "嚴重",
+                "不足",
+                "偽造"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 22:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "的確有10個孩子因為疫情不幸走了,但政府並沒有隱瞞真相,而是經過官方管道公開發表了這些事實。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不幸",
+                "沒有",
+                "隱瞞",
+                "不幸",
+                "沒有"
+            ],
+            "positive_list": [
+                "公開",
+                "的確",
+                "開發"
+            ],
+            "datetime": "2022-05-29 22:11"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "指出",
+            "opinion": "目前日本在台北交流協會有1名退休的防衛省自衛官派駐。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 09:51"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "表示",
+            "opinion": "北京至今還在執行嚴厲的防疫政策,胡錫進每天出門散步買菜,都要先做快篩,乘公車、進商店,也要主動出示手機上的「綠碼」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "嚴厲",
+                "嚴厲的"
+            ],
+            "positive_list": [
+                "主動"
+            ],
+            "datetime": "2022-06-08 21:57"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "到,中國《環球時報》前總編胡錫進前幾天發文嗆聲,「兩岸一旦開戰,力爭以小時計完全摧毀台軍的防線。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "摧毀",
+                "嗆聲"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 21:57"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "有個成語叫做「圖窮匕見」,比喻事情發展到一定程度之後,真相或本意就顯露出來了。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-08 07:08"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "提到",
+            "opinion": "中國著名的經濟學者陳文玲,前幾天在北京召開的一個經濟論壇上提出「我們一定要收復台灣,將台積電這本來屬於中國的企業搶到中國手裡」的說法,引起了很大的反響。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "著名",
+                "著名的"
+            ],
+            "datetime": "2022-06-08 07:08"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "說",
+            "opinion": "胡錫進是軍人出身,曾經作為戰地記者採訪過波斯尼亞戰爭,對相關國際法不可能不了解,他應該也知道,自己說的是毫無價值的「胡話」。",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "不可",
+                "胡話",
+                "毫無",
+                "無價值",
+                "無價值的",
+                "戰爭",
+                "不了",
+                "不可"
+            ],
+            "positive_list": [
+                "了解",
+                "知道",
+                "毫無",
+                "無價"
+            ],
+            "datetime": "2022-06-09 09:58"
+        },
+        {
+            "person": "矢板明夫",
+            "verb": "認為",
+            "opinion": "胡錫進是軍人出身,曾作為戰地記者採訪過波斯尼亞戰爭,對國際法不可能不了解,他應該知道,自己說的是毫無價值的胡話。",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "不可",
+                "胡話",
+                "毫無",
+                "無價值",
+                "無價值的",
+                "戰爭",
+                "不了",
+                "不可"
+            ],
+            "positive_list": [
+                "了解",
+                "知道",
+                "毫無",
+                "無價"
+            ],
+            "datetime": "2022-06-09 10:12"
+        }
+    ]
+}

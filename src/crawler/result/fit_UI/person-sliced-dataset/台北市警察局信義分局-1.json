@@ -1,0 +1,65 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "台北市警察局信義分局",
+            "verb": "表示",
+            "opinion": "執勤員警在個人社群網站發表想法,且經網友轉傳至PTT,導致此事遭誤解,違失部分將依規定處理。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "誤解"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 12:41"
+        },
+        {
+            "person": "台北市警察局信義分局",
+            "verb": "說",
+            "opinion": "謊,記徐巧芯姓員警申誡2支。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 22:11"
+        },
+        {
+            "person": "台北市警察局信義分局",
+            "verb": "表示",
+            "opinion": "執勤員警在個人社群網站發表想法,且經網友轉傳至PTT,導致此事遭誤解,違失部分將依規定處理。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "誤解"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 13:47"
+        },
+        {
+            "person": "台北市警察局信義分局",
+            "verb": "表示",
+            "opinion": "外界連日討論、臆測已偏離事實,所以公布密錄器影像杜絕謠傳。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "謠傳"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 23:51"
+        },
+        {
+            "person": "台北市警察局信義分局",
+            "verb": "說",
+            "opinion": "的,什麼時候變成直接開啊?徐巧芯:沒關係你要開你就開啊,我意思是說,之前我問很多次,都是說如果車上有人的話是直接勸導,然後你在開之前的話就可以開走。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "沒關係"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 05:59"
+        }
+    ]
+}

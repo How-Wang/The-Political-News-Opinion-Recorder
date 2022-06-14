@@ -1,0 +1,70 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市長.png",
+    "opinions": [
+        {
+            "person": "台北市長",
+            "verb": "提出",
+            "opinion": "交通政策,他認要解決為內科塞車,可以把捷運松山新店線延伸到文湖線的港墘站,但在地議員指出,內湖地下管線複雜,要開挖根本不可能,質疑如果他做得到,當交通部長的時候,為什麼不做?林佳龍則強調,他當部長時處理好環狀線,現在內科交通他也能解決。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "複雜",
+                "質疑",
+                "不可"
+            ],
+            "positive_list": [
+                "得到",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-04 18:14"
+        },
+        {
+            "person": "台北市長",
+            "verb": "強調",
+            "opinion": "和陳時中,兩人英雄惜英雄。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "英雄"
+            ],
+            "datetime": "2022-06-04 13:07"
+        },
+        {
+            "person": "台北市長",
+            "verb": "提出",
+            "opinion": "首都願景與未來想像,他的12堂課已經準備好了,民進黨還沒有徵召,他也不能夠停止腳步。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "沒有",
+                "停止",
+                "沒有"
+            ],
+            "positive_list": [
+                "想像",
+                "準備"
+            ],
+            "datetime": "2022-06-07 12:09"
+        },
+        {
+            "person": "台北市長",
+            "verb": "說",
+            "opinion": "」以觀,真令人萬分驚懼及心寒!(註:本文所稱「染疫死者」係指「感染新冠肺炎死亡」)。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "死者",
+                "感染",
+                "驚懼",
+                "心寒"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 06:30"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張澤雄.png",
+    "opinions": [
+        {
+            "person": "張澤雄",
+            "verb": "指出",
+            "opinion": "已調增捷運工程預算,至於廠商不投標原因,並非價格因素,可能是市場已飽和。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 10:52"
+        }
+    ]
+}

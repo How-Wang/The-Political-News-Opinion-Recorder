@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳報狀.png",
+    "opinions": [
+        {
+            "person": "陳報狀",
+            "verb": "指出",
+            "opinion": "他與國民黨團成員將會到刑事局自首散布假消息,請刑事局將他們比照郭彥均,移送法辦。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "刑事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 11:53"
+        }
+    ]
+}

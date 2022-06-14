@@ -1,0 +1,47 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/全國工業總會.png",
+    "opinions": [
+        {
+            "person": "全國工業總會",
+            "verb": "認為",
+            "opinion": "台美經貿倡議談判議題,接近印太經濟架構(IPEF)觸及的格局,有助於台美方談判貿易暨投資架構協定(TIFA)。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "觸及"
+            ],
+            "positive_list": [
+                "有助"
+            ],
+            "datetime": "2022-06-02 17:04"
+        },
+        {
+            "person": "全國工業總會",
+            "verb": "認為",
+            "opinion": "台美經貿倡議談判議題,接近印太經濟架構(IPEF)觸及的格局,有助於台美方談判貿易暨投資架構協定(TIFA)。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "觸及"
+            ],
+            "positive_list": [
+                "有助"
+            ],
+            "datetime": "2022-06-02 11:59"
+        },
+        {
+            "person": "全國工業總會",
+            "verb": "認為",
+            "opinion": "台美經貿倡議談判議題,接近印太經濟架構(IPEF)觸及的格局,有助於台美方談判貿易暨投資架構協定(TIFA)。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "觸及"
+            ],
+            "positive_list": [
+                "有助"
+            ],
+            "datetime": "2022-06-02 13:45"
+        }
+    ]
+}

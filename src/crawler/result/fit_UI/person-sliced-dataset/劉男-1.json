@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉男.png",
+    "opinions": [
+        {
+            "person": "劉男",
+            "verb": "強調",
+            "opinion": "「現在要開走了」,員警仍堅稱「沒辦法,這邊巷子很窄」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "沒辦法"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 21:26"
+        }
+    ]
+}

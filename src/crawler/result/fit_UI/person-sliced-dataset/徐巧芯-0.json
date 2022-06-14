@@ -1,0 +1,48 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "徐巧芯",
+            "verb": "提到",
+            "opinion": "疫情造成基層醫療量能備受衝擊、免疫最脆弱族群孕婦和胎幼兒是無安全藥可用外,同時公布民調結果,針對蔡政府一年以來「防疫政策滿意度」,有50.3%民眾不滿意、54.4%認為防疫政策「超慢」部署。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "不滿",
+                "不滿意",
+                "脆弱",
+                "衝擊",
+                "不滿"
+            ],
+            "positive_list": [
+                "可用",
+                "安全",
+                "滿意",
+                "滿意"
+            ],
+            "datetime": "2022-05-21 17:25"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "說",
+            "opinion": "羅智強能夠不計較先前的紛擾,不意氣用事,真的很不簡單。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "計較"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:44"
+        },
+        {
+            "person": "徐巧芯",
+            "verb": "強調",
+            "opinion": "國民黨需要羅智強的正能量!徐巧芯說,因為桃園的提名爭議,朱立倫主席、黃健庭秘書長都致歉了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-22 11:44"
+        }
+    ]
+}

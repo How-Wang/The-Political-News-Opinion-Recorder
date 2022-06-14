@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林英煌.png",
+    "opinions": [
+        {
+            "person": "林英煌",
+            "verb": "說",
+            "opinion": "羅偉瑞的書面聲明稿在媒體曝光前也從未閱讀過,更無轉交新竹縣警局代發。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 21:03"
+        }
+    ]
+}

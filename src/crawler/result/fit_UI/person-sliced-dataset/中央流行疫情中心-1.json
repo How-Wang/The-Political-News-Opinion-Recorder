@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/中央流行疫情中心.png",
+    "opinions": [
+        {
+            "person": "中央流行疫情中心",
+            "verb": "宣布",
+            "opinion": "今(28)日新增了本土80835例,病歿人數則是127例,各縣市分布仍是新北市最多,為16001例。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:36"
+        },
+        {
+            "person": "中央流行疫情中心",
+            "verb": "表示",
+            "opinion": "請指揮中心多和地方、業者溝通。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 06:30"
+        }
+    ]
+}

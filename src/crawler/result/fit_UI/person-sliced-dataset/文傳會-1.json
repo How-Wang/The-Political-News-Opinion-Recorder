@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/文傳會.png",
+    "opinions": [
+        {
+            "person": "文傳會",
+            "verb": "表示",
+            "opinion": "政府不努力保護民眾、保護兒童,卻動用網軍與國家機器出征、約談說真話的人,打壓言論自由,根本凸顯是防疫無能,只敢處理提出問題的人。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "問題",
+                "無能",
+                "打壓",
+                "問題",
+                "無能"
+            ],
+            "positive_list": [
+                "自由",
+                "努力",
+                "保護",
+                "自由"
+            ],
+            "datetime": "2022-05-28 15:48"
+        }
+    ]
+}

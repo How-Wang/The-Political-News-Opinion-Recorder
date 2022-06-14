@@ -1,0 +1,61 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/夏立言.png",
+    "opinions": [
+        {
+            "person": "夏立言",
+            "verb": "說",
+            "opinion": "「我們要做一個很清楚的表態,就是我們國民黨其實跟美國一直是一個,美國人的好朋友,要把這個說國民黨所謂反美的這個謊言我們要能夠撤底反駁、揭穿。」",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "反駁",
+                "揭穿",
+                "謊言",
+                "反駁",
+                "謊言"
+            ],
+            "positive_list": [
+                "清楚",
+                "清楚的"
+            ],
+            "datetime": "2022-06-04 19:42"
+        },
+        {
+            "person": "夏立言",
+            "verb": "說",
+            "opinion": "現場有美方各界重要友人蒞臨,包括中華民國友邦的前任大使都到場,未來將會連結過去人脈資源,為國民黨在美國打開新局面,結交更多新朋友。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "資源"
+            ],
+            "datetime": "2022-06-09 11:26"
+        },
+        {
+            "person": "夏立言",
+            "verb": "提到",
+            "opinion": "國民黨希望為人民解決問題,不想浪費時間爭論所謂的「沒有共識的共識」。",
+            "negative_score": 8,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "爭論",
+                "浪費",
+                "問題",
+                "沒有",
+                "浪費",
+                "浪費時間",
+                "問題"
+            ],
+            "positive_list": [
+                "希望",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-06-12 06:30"
+        }
+    ]
+}

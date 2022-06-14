@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/基中大.png",
+    "opinions": [
+        {
+            "person": "基中大",
+            "verb": "表示",
+            "opinion": "未來還會繼續攻讀研究所,並向副總統保證,一定會好好努力。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "攻讀",
+                "保證"
+            ],
+            "datetime": "2022-06-11 20:45"
+        }
+    ]
+}

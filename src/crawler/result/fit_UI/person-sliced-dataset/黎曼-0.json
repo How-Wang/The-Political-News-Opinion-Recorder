@@ -1,0 +1,34 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黎曼.png",
+    "opinions": [
+        {
+            "person": "黎曼",
+            "verb": "批評",
+            "opinion": "「這顯示了某些國際權力中心的行為有多愚蠢,因為世衛關乎健康。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "愚蠢",
+                "愚蠢"
+            ],
+            "positive_list": [
+                "健康"
+            ],
+            "datetime": "2022-05-26 16:02"
+        },
+        {
+            "person": "黎曼",
+            "verb": "表示",
+            "opinion": "「中國在瑞士具有很大影響力,到處撒錢購買企業、技術,也想影響政治,作為獨立國家,我們應該停止這種事」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "停止"
+            ],
+            "positive_list": [
+                "獨立"
+            ],
+            "datetime": "2022-05-26 16:02"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/振業集團.png",
+    "opinions": [
+        {
+            "person": "振業集團",
+            "verb": "表示",
+            "opinion": "張曉中目前是離異單身狀態,而賓利女車主是張曉中可能在交往的對象,不是家屬。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 17:03"
+        }
+    ]
+}

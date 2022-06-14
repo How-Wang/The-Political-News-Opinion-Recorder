@@ -1,0 +1,18 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "公廣集團",
+            "verb": "認為",
+            "opinion": "公視將接下國際影音平台「TaiwanPlus」,推動多元國際公共媒體合作,承擔將台灣影視內容行銷全球的任務。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-21 19:55"
+        }
+    ]
+}

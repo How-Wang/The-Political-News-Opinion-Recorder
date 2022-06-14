@@ -1,0 +1,41 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/茶敘.png",
+    "opinions": [
+        {
+            "person": "茶敘",
+            "verb": "表示",
+            "opinion": "此事他不能代答,但基本上疫情要下降才可能開放,如果疫情處於高原期或還在上升中,是不可能開放的。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "不可",
+                "不能",
+                "不可"
+            ],
+            "positive_list": [
+                "開放",
+                "開放的"
+            ],
+            "datetime": "2022-06-11 00:18"
+        },
+        {
+            "person": "茶敘",
+            "verb": "表示",
+            "opinion": "此事他不能代答,但基本上疫情要下降才可能開放,如果疫情處於高原期或還在上升中,是不可能開放的。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "下降",
+                "不可",
+                "不能",
+                "不可"
+            ],
+            "positive_list": [
+                "開放",
+                "開放的"
+            ],
+            "datetime": "2022-06-11 05:13"
+        }
+    ]
+}

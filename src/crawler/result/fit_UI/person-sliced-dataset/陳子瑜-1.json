@@ -1,0 +1,192 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "陳子瑜",
+            "verb": "指出",
+            "opinion": "張善政不選高雄原因,寫道「關於張善政怎麼沒來高雄選,我認為有幾個可能的原因啦,朱立倫知道張善政選不贏,張善政知道自己選不贏。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-05-21 12:13"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "說",
+            "opinion": "可惜的是,民進黨現在是笑到肚子痛,暫時挺不起腰而已;能夠在開戰之前,把有實力的黨內地方人士逼到幾乎聯合叛變,這真的是天上掉下來的禮物,怎能不捧腹大笑?陳子瑜進一步指出,更荒謬的是,朱立倫還稱「綠營朋友全家投張善政」,這位朋友是不是姓「綠」名「營」?自我感覺良好到這種程度,真的是世界奇觀了呀。",
+            "negative_score": 10,
+            "positive_score": 4,
+            "negative_list": [
+                "可惜",
+                "可惜的",
+                "自我",
+                "荒謬",
+                "荒謬的",
+                "掉下",
+                "不是",
+                "不起",
+                "可惜",
+                "荒謬"
+            ],
+            "positive_list": [
+                "良好",
+                "聯合",
+                "大笑",
+                "良好"
+            ],
+            "datetime": "2022-05-24 09:36"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "指出",
+            "opinion": "陣腳大亂一般有兩種,一種是朱立倫希望的,也就是對手民進黨失去節奏、進退失據,一推即倒。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "失去",
+                "對手",
+                "大亂",
+                "失去"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-24 09:17"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "表示",
+            "opinion": "李眉蓁的論點遭高市府打臉,因為當初這是馬英九總統任內的決策。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 15:13"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "說明",
+            "opinion": "依據經建會當時的研商結論,為「左營轉運站部分請交通部以達到交通轉運功能為前提,研析提高自償性方式辦理。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "提高",
+                "達到"
+            ],
+            "datetime": "2022-05-25 15:13"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "表示",
+            "opinion": "「這兩天的違停事件,隨著警方密錄器的曝光與台北市議會議長的說法,都讓徐巧芯的形象跌落谷底。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 12:27"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "發現",
+            "opinion": "AT-3教練機墜毀在人煙稀少的地方,相信飛官努力到最後一刻,保護民眾安全。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "努力",
+                "保護",
+                "相信",
+                "稀少",
+                "稀少的"
+            ],
+            "datetime": "2022-05-31 11:18"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "發現",
+            "opinion": "AT-3教練機墜毀在人煙稀少的地方,相信飛官努力到最後一刻,保護民眾安全。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "努力",
+                "保護",
+                "相信",
+                "稀少",
+                "稀少的"
+            ],
+            "datetime": "2022-05-31 08:59"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "發現",
+            "opinion": "從地圖上看,墜毀地點是相對人煙稀少的地方,「相信飛官一定是努力到最後一刻,保護民眾的安全」。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "努力",
+                "保護",
+                "相信",
+                "稀少",
+                "稀少的"
+            ],
+            "datetime": "2022-05-31 09:30"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "表示",
+            "opinion": "從地圖上看,墜機地點是相對人煙稀少的地方,「相信飛官一定是努力到最後一刻,保護民眾的安全」。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "努力",
+                "保護",
+                "相信",
+                "稀少",
+                "稀少的"
+            ],
+            "datetime": "2022-05-31 09:40"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "發現",
+            "opinion": "是相對人煙稀少的地方,相信該名飛官是努力到最後一刻保護民眾。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "保護",
+                "相信",
+                "稀少",
+                "稀少的"
+            ],
+            "datetime": "2022-05-31 09:51"
+        },
+        {
+            "person": "陳子瑜",
+            "verb": "指出",
+            "opinion": "在疫情和烏俄戰爭的影響下,世界主要國家都面臨到通貨膨漲的困境,像他昨天去常吃的鴨肉麵店,老闆就說光今年成本就已經漲了10%以上。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "困境",
+                "戰爭",
+                "戰爭的"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 11:39"
+        }
+    ]
+}

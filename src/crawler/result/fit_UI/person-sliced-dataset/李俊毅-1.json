@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李俊毅.png",
+    "opinions": [
+        {
+            "person": "李俊毅",
+            "verb": "說",
+            "opinion": "「若民眾發現有賄選情事,可利用,免費檢舉專線0800-024-099檢舉外,亦可向本署或警察、調查機關,提出檢舉。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "免費"
+            ],
+            "datetime": "2022-05-27 18:25"
+        }
+    ]
+}

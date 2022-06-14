@@ -1,0 +1,49 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/邱毅.png",
+    "opinions": [
+        {
+            "person": "邱毅",
+            "verb": "說",
+            "opinion": "所以,朱立倫訪美要有令人震撼的收穫,是絕無可能的。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "無可"
+            ],
+            "positive_list": [
+                "收穫",
+                "絕無"
+            ],
+            "datetime": "2022-06-03 12:39"
+        },
+        {
+            "person": "邱毅",
+            "verb": "指出",
+            "opinion": "朱立倫此行應該使大陸不再對其存在幻想,但他也勢必得不到美國的青睬。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不到",
+                "幻想",
+                "得不到",
+                "不到"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:53"
+        },
+        {
+            "person": "邱毅",
+            "verb": "表示",
+            "opinion": "何況朱立倫也迴避了九二共識,他顯然怕碰觸「一個中國」和「共謀統一」,更畏懼「一國兩制」如猛虎。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "共謀",
+                "畏懼",
+                "畏懼"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:53"
+        }
+    ]
+}

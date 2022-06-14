@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/南投縣社會及勞動處.png",
+    "opinions": [
+        {
+            "person": "南投縣社會及勞動處",
+            "verb": "表示",
+            "opinion": "發放老人假牙補助支票時會附送便當袋、清潔劑、香皂等縣府宣導品。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "清潔"
+            ],
+            "datetime": "2022-06-11 09:53"
+        }
+    ]
+}

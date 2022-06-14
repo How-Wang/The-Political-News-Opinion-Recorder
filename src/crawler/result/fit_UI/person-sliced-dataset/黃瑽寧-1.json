@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黃瑽寧.png",
+    "opinions": [
+        {
+            "person": "黃瑽寧",
+            "verb": "說明",
+            "opinion": "包括,一、居家照顧:目前確診兒童,以輕症、居家照顧為主,建議家長可以觀察精神與活動力,來留意孩子的身體狀況。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "留意"
+            ],
+            "datetime": "2022-06-06 20:57"
+        },
+        {
+            "person": "黃瑽寧",
+            "verb": "說明",
+            "opinion": "包括,一、居家照顧:目前確診兒童,以輕症、居家照顧為主,建議家長可以觀察精神與活動力,來留意孩子的身體狀況。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "留意"
+            ],
+            "datetime": "2022-06-06 19:42"
+        }
+    ]
+}

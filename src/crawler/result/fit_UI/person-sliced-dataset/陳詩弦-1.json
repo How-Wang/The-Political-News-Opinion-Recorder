@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳詩弦.png",
+    "opinions": [
+        {
+            "person": "陳詩弦",
+            "verb": "說",
+            "opinion": "很多弱勢鄉親平常以打零工維生,但受疫情衝擊維生困難,購買快篩試劑成為額外負擔,感謝全聯會愛心捐贈,協助這些需要的民眾。",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "困難",
+                "負擔",
+                "衝擊",
+                "困難"
+            ],
+            "positive_list": [
+                "成為",
+                "協助",
+                "很多",
+                "捐贈",
+                "感謝",
+                "愛心",
+                "感謝",
+                "愛心"
+            ],
+            "datetime": "2022-06-02 09:49"
+        }
+    ]
+}

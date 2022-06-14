@@ -1,0 +1,15 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/何宗勳.png",
+    "opinions": [
+        {
+            "person": "何宗勳",
+            "verb": "呼籲",
+            "opinion": "各界關注陸蟹保育議題,並提出相關主張。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 15:00"
+        }
+    ]
+}

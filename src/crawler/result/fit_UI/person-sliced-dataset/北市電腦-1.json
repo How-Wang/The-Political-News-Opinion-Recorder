@@ -1,0 +1,18 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/北市電腦.png",
+    "opinions": [
+        {
+            "person": "北市電腦",
+            "verb": "說",
+            "opinion": "在網路上批評民進黨政府就是網軍,就說是柯文哲網軍。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 16:49"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/臺北市會展產業發展基金會.png",
+    "opinions": [
+        {
+            "person": "臺北市會展產業發展基金會",
+            "verb": "表示",
+            "opinion": "願配合調查,其文章是否不當及相關懲處,將待獎懲委員會討論處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 22:51"
+        },
+        {
+            "person": "臺北市會展產業發展基金會",
+            "verb": "表示",
+            "opinion": "願配合調查,其文章是否不當及相關懲處,將待獎懲委員會討論處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 22:48"
+        }
+    ]
+}

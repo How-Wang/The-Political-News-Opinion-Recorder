@@ -1,0 +1,90 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市會展產業發展基金會.png",
+    "opinions": [
+        {
+            "person": "台北市會展產業發展基金會",
+            "verb": "表示",
+            "opinion": "願配合調查,其文章是否不當及相關懲處,將待獎懲委員會討論處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 23:15"
+        },
+        {
+            "person": "台北市會展產業發展基金會",
+            "verb": "表示",
+            "opinion": "願配合調查,其文章是否不當及相關懲處,將待獎懲委員會討論處理。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 22:34"
+        },
+        {
+            "person": "台北市會展產業發展基金會",
+            "verb": "說",
+            "opinion": "有關本案為同仁個人家庭成員在疫情之下之親身遭遇,而非惡意中傷造謠,純屬個人抒發不滿情緒之發言,而非報載所述為市府豢養網軍,純為個人之所為。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "不滿",
+                "中傷",
+                "造謠",
+                "惡意",
+                "遭遇",
+                "不滿",
+                "造謠"
+            ],
+            "positive_list": [
+                "抒發"
+            ],
+            "datetime": "2022-06-03 11:09"
+        },
+        {
+            "person": "台北市會展產業發展基金會",
+            "verb": "質疑",
+            "opinion": "養網軍、帶輿論風向,北市府發言人陳智菡表示,不能因共用IP就是網軍,若有證據歡迎檢舉。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-04 22:32"
+        },
+        {
+            "person": "台北市會展產業發展基金會",
+            "verb": "質疑",
+            "opinion": "養網軍、帶輿論風向,北市府發言人陳智菡表示,不能因共用IP就是網軍,若有證據歡迎檢舉。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-04 22:49"
+        },
+        {
+            "person": "台北市會展產業發展基金會",
+            "verb": "質疑",
+            "opinion": "養網軍、帶風向,北市府發言人陳智菡4日晚間回應,不能因共用IP就是網軍,若有證據歡迎檢舉。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-05 09:01"
+        }
+    ]
+}

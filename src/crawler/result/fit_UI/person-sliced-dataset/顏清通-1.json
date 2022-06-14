@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "顏清通",
+            "verb": "指出",
+            "opinion": "顏清通清金寬恒莉敏清標清山家有7個兄弟姊妹,顏清標排行老大,下面有4個弟弟跟2個妹妹,四弟因車禍身亡,其他兄弟皆罹癌。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "老大"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 14:28"
+        }
+    ]
+}

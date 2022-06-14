@@ -1,0 +1,77 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳文玲.png",
+    "opinions": [
+        {
+            "person": "陳文玲",
+            "verb": "表示",
+            "opinion": "在美西方像制裁俄羅斯一樣對中國進行毀滅式制裁的情況下,一定要收復台灣,特別是在進行產業鏈、供應鏈重構方面,「一定要把台積電這本來屬於中國的企業搶到中國手裡」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "毀滅"
+            ],
+            "positive_list": [
+                "特別",
+                "進行"
+            ],
+            "datetime": "2022-06-07 14:40"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "認為",
+            "opinion": "台積電正加快向美國轉移,要在美國建立六個廠,「我們絕對不能讓它轉移的目標全部實現」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不能",
+                "絕對"
+            ],
+            "positive_list": [
+                "實現"
+            ],
+            "datetime": "2022-06-07 10:31"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "強調",
+            "opinion": "「不能讓台積電轉移到美國」,中國一定要收復台灣,尤其是半導體企業台積電,「一定要把台積電這本來屬於中國的企業搶到中國手裡」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 14:12"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "表示",
+            "opinion": "「一定要把台積電這本來屬於中國的企業搶到中國手裡」,在兩岸引起許多討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 12:45"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "表示",
+            "opinion": "「一定要收復台灣」、「要把台積電這本來屬於中國的企業搶到中國手裡。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 00:18"
+        },
+        {
+            "person": "陳文玲",
+            "verb": "表示",
+            "opinion": "「一定要收復台灣」、「要把台積電這本來屬於中國的企業搶到中國手裡。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 05:13"
+        }
+    ]
+}

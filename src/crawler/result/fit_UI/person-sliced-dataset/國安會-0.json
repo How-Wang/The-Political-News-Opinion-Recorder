@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國安會.png",
+    "opinions": [
+        {
+            "person": "國安會",
+            "verb": "說",
+            "opinion": "總統府各項業務正常運作,並持續依照防疫指引,落實相關檢疫措施及防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-06-09 20:41"
+        }
+    ]
+}

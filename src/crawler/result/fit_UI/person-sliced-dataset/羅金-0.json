@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/羅金.png",
+    "opinions": [
+        {
+            "person": "羅金",
+            "verb": "認為",
+            "opinion": "這是澤倫斯基或烏克蘭任何政府成員迄今為止,對台灣與台灣生存權發表的最堅定捍衛言論。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-06-12 13:14"
+        }
+    ]
+}

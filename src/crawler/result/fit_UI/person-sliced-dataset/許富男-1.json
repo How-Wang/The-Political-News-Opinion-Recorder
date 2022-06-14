@@ -1,0 +1,28 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/許富男.png",
+    "opinions": [
+        {
+            "person": "許富男",
+            "verb": "表示",
+            "opinion": "2014年發生衝突時,女兒只是猜到兩人關係,但沒有問清楚,也不可能告訴妻子,妻子並不知道林女是誰。",
+            "negative_score": 9,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "不知",
+                "不知道",
+                "沒有",
+                "衝突",
+                "不可",
+                "不知",
+                "沒有",
+                "衝突"
+            ],
+            "positive_list": [
+                "知道",
+                "清楚"
+            ],
+            "datetime": "2022-06-03 12:48"
+        }
+    ]
+}

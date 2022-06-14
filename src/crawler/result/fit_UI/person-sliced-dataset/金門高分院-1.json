@@ -1,0 +1,26 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/金門高分院.png",
+    "opinions": [
+        {
+            "person": "金門高分院",
+            "verb": "認為",
+            "opinion": "王孝榛的行為「嚴重影響選舉之公平、正確性與社會之風氣,扭曲選舉制度尋求民意之真實性,其民主法治觀念薄弱,且始終否認犯行,難認有何悔意。」",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "否認",
+                "扭曲",
+                "薄弱",
+                "嚴重"
+            ],
+            "positive_list": [
+                "公平",
+                "正確",
+                "正確性",
+                "真實",
+                "公平"
+            ],
+            "datetime": "2022-05-26 11:15"
+        }
+    ]
+}

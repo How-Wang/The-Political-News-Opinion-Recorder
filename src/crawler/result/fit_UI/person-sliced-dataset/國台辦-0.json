@@ -1,0 +1,48 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國台辦.png",
+    "opinions": [
+        {
+            "person": "國台辦",
+            "verb": "表示",
+            "opinion": "吳釗燮之流企圖勾連外部勢力,是徹頭徹尾的台獨頑固分子。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "頑固",
+                "台獨",
+                "頑固"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:46"
+        },
+        {
+            "person": "國台辦",
+            "verb": "回應",
+            "opinion": "稱,「堅決反對美國與中國台灣地區進行任何形式的官方往來和軍事勾連。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "堅決",
+                "進行"
+            ],
+            "datetime": "2022-05-31 18:17"
+        },
+        {
+            "person": "國台辦",
+            "verb": "回應",
+            "opinion": "稱,「堅決反對美國與中國台灣地區商簽任何具有主權意涵或官方性質的協議。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "反對"
+            ],
+            "positive_list": [
+                "堅決"
+            ],
+            "datetime": "2022-06-02 18:40"
+        }
+    ]
+}

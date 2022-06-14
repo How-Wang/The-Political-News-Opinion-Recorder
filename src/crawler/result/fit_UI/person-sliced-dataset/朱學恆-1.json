@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/朱學恆.png",
+    "opinions": [
+        {
+            "person": "朱學恆",
+            "verb": "說",
+            "opinion": "話,明天你說不出話」,結果這場直播被觀眾抖內了2萬3974元。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不出"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 01:31"
+        }
+    ]
+}

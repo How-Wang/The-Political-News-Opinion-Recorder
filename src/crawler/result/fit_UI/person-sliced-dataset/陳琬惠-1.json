@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳琬惠.png",
+    "opinions": [
+        {
+            "person": "陳琬惠",
+            "verb": "指出",
+            "opinion": "財政是國家施政的基礎,尤其最近兩大熱門議題:紓困振興8400億、淨零路徑8800億,分別是SDGs第3項「健康與社會福利」、SDGs第13項「氣候行動」,都需要國家健全財政為基礎。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "健全",
+                "健康",
+                "福利"
+            ],
+            "datetime": "2022-05-27 10:27"
+        }
+    ]
+}

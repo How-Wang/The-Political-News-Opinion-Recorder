@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/暗崁.png",
+    "opinions": [
+        {
+            "person": "暗崁",
+            "verb": "提出",
+            "opinion": "證據,台北市長柯文哲對此則避重就輕,表示「不當發言人的發言人」。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "避重就輕"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 17:13"
+        },
+        {
+            "person": "暗崁",
+            "verb": "質疑",
+            "opinion": "陳智菡散佈不實訊息,已經不適任,應該要調整職務。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "不適",
+                "不適任",
+                "不實"
+            ],
+            "positive_list": [
+                "適任"
+            ],
+            "datetime": "2022-06-06 17:57"
+        }
+    ]
+}

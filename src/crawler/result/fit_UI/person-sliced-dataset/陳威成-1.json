@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳威成.png",
+    "opinions": [
+        {
+            "person": "陳威成",
+            "verb": "說",
+            "opinion": "原有的室內裝修契約範本可能不足夠,因此現在正擬定應記載事項等內容,會盡速訂出。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不足",
+                "不足"
+            ],
+            "positive_list": [
+                "足夠"
+            ],
+            "datetime": "2022-06-02 14:03"
+        }
+    ]
+}

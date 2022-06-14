@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/呂惠卿.png",
+    "opinions": [
+        {
+            "person": "呂惠卿",
+            "verb": "說",
+            "opinion": "「縣長您不要一直跑攤,也不要一直說政治迫害,政治操作來轉移話題,應該專心縣政上。」",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "迫害",
+                "不要",
+                "迫害"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-30 23:20"
+        }
+    ]
+}

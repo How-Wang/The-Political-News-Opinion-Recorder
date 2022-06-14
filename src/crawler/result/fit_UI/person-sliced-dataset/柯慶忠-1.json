@@ -1,0 +1,51 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柯慶忠.png",
+    "opinions": [
+        {
+            "person": "柯慶忠",
+            "verb": "說明",
+            "opinion": "新北市自2020年起按照中央指引,對遺體處理有非常嚴謹的處理,包括裝入屍袋後就不能再打開,且按照規定必須盡速火化,為減少風險,建議在醫院或接體車上就入殮封棺後,就送火化場火化。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "減少"
+            ],
+            "positive_list": [
+                "嚴謹",
+                "嚴謹的"
+            ],
+            "datetime": "2022-06-07 17:27"
+        },
+        {
+            "person": "柯慶忠",
+            "verb": "說明",
+            "opinion": "自2020年起,新北就按照中央指引,對遺體處理有非常嚴謹的處理,裝入屍袋後就不能再打開,並且規定按照傳染病防治法規定必須盡速火化,為減少風險,建議在醫院或接體車上就入殮封棺,然後直接送火化場火化。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "減少",
+                "傳染",
+                "傳染病"
+            ],
+            "positive_list": [
+                "嚴謹",
+                "嚴謹的"
+            ],
+            "datetime": "2022-06-07 16:00"
+        },
+        {
+            "person": "柯慶忠",
+            "verb": "說",
+            "opinion": "去年6月內政部次長陳宗彥就表示,在地方實務機關一直都是24小時內完成,因此,這部分新北目前還是會按照中央指引火化。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "完成"
+            ],
+            "datetime": "2022-06-07 16:00"
+        }
+    ]
+}

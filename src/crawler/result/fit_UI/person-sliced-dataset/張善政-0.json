@@ -1,0 +1,51 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張善政",
+            "verb": "回應",
+            "opinion": "表示,「今天智強『祈福走桃園』的臉書貼文,提起他對這次疫情民眾深受其苦的憂慮。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "苦的",
+                "憂慮",
+                "憂慮"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 17:26"
+        },
+        {
+            "person": "張善政",
+            "verb": "說",
+            "opinion": "「我們彼此憂國憂民理念一致,也期盼未來能與智強兄攜手合作」,一起為台灣和桃園的美好未來打拼,實現「微笑桃園」的願景。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "憂國憂民"
+            ],
+            "positive_list": [
+                "一致",
+                "合作",
+                "美好",
+                "合作",
+                "期盼",
+                "實現"
+            ],
+            "datetime": "2022-05-22 17:26"
+        },
+        {
+            "person": "張善政",
+            "verb": "回應",
+            "opinion": "。前台北市議員(國)羅智強說,「我說過我們現在唯一,關心的事就是走路,然後為桃園祈福為台灣祈福。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-06-07 12:53"
+        }
+    ]
+}

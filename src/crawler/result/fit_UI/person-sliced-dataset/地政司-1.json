@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/地政司.png",
+    "opinions": [
+        {
+            "person": "地政司",
+            "verb": "指出",
+            "opinion": "數據在分析時,也應該清楚說明統計方法,並注意可能影響租金的因素(例如新舊屋、有無裝修等),以免不當統計訊息造成租金炒作。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "注意",
+                "清楚",
+                "說明"
+            ],
+            "datetime": "2022-05-30 17:06"
+        }
+    ]
+}

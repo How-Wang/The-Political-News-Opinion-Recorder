@@ -1,0 +1,38 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/李棟樑.png",
+    "opinions": [
+        {
+            "person": "李棟樑",
+            "verb": "指出",
+            "opinion": "軍友社已邁入70年,從成立以來,始終是不分地域、黨派,沒有任何政治色彩,堅信只要秉持「誠實、熱忱、公益」的服務理念,就能獲得社會大眾的肯定與認同。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "肯定",
+                "誠實",
+                "熱忱",
+                "獲得",
+                "認同",
+                "熱忱"
+            ],
+            "datetime": "2022-05-26 20:16"
+        },
+        {
+            "person": "李棟樑",
+            "verb": "表示",
+            "opinion": "他接任理事長8年來,和全體理、監事與工作夥伴一起打拼,從恢復敬軍團授旗、辦理國軍楷模國外參訪、發起企業敬軍活動及全國各界向國軍致敬餐會等,都是全體社員共同努力,讓國軍感受到軍友社的用心服務。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "夥伴"
+            ],
+            "datetime": "2022-05-26 20:16"
+        }
+    ]
+}

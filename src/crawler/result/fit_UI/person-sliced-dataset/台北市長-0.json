@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台北市長.png",
+    "opinions": [
+        {
+            "person": "台北市長",
+            "verb": "指出",
+            "opinion": "雙城論壇舉辦的前提是中共不再擾台,對台釋出善意,雙方地位對等才有舉辦的意義。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "善意",
+                "地位"
+            ],
+            "datetime": "2022-05-28 11:49"
+        },
+        {
+            "person": "台北市長",
+            "verb": "說",
+            "opinion": "完,黃珊珊就自己站起來,被李傅中武笑說不一定她啊幹嘛自己站起來,引發全場大笑,後來黃珊珊表示是因為議員先洩題給她才這樣。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "大笑"
+            ],
+            "datetime": "2022-06-07 16:27"
+        },
+        {
+            "person": "台北市長",
+            "verb": "評估",
+            "opinion": "外傳陳時中可能會收掉指揮中心投入台北市長選戰,或由前副總統陳建仁接手。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 07:59"
+        }
+    ]
+}

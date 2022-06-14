@@ -1,0 +1,32 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "台大醫院",
+            "verb": "說",
+            "opinion": "自己是被借調,本職還在台大醫學院。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-30 16:13"
+        },
+        {
+            "person": "台大醫院",
+            "verb": "質疑",
+            "opinion": "顏色對了才可以拿到藥,結果被PTT創設人杜奕瑾抓包有爭議後,還自我承認是「幻想文」,造成社會恐慌。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "幻想",
+                "自我",
+                "恐慌",
+                "恐慌"
+            ],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-06-02 23:15"
+        }
+    ]
+}

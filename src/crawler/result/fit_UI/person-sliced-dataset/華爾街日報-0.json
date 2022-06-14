@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/華爾街日報.png",
+    "opinions": [
+        {
+            "person": "華爾街日報",
+            "verb": "宣布",
+            "opinion": "貿易倡議可能使美中關係更加緊繃。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 07:21"
+        },
+        {
+            "person": "華爾街日報",
+            "verb": "宣布",
+            "opinion": "貿易倡議可能使美中關係更加緊繃。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-02 08:09"
+        }
+    ]
+}

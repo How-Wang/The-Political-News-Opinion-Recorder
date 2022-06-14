@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/屏科大.png",
+    "opinions": [
+        {
+            "person": "屏科大",
+            "verb": "發現",
+            "opinion": "屏科大後續雖然「不同意」林秋豐自109年7月4日起延長借調至金屬中心,卻同意林秋豐自109年7月4日至110年1月31日到金屬中心的「研習」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不同意"
+            ],
+            "positive_list": [
+                "同意"
+            ],
+            "datetime": "2022-05-26 20:28"
+        }
+    ]
+}

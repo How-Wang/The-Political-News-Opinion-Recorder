@@ -1,0 +1,29 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/岸信夫.png",
+    "opinions": [
+        {
+            "person": "岸信夫",
+            "verb": "說",
+            "opinion": "「因為日本地理上緊鄰台灣,台灣發生的事,也可能成為日本的事。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-09 17:52"
+        },
+        {
+            "person": "岸信夫",
+            "verb": "說",
+            "opinion": "「因為日本地理上緊鄰台灣,台灣發生的事,也可能成為日本的事。」",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-06-09 13:04"
+        }
+    ]
+}

@@ -1,0 +1,938 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "吳釗燮",
+            "verb": "說",
+            "opinion": "「沒有辦法參加,世界衛生大會的唯一原因,就是中國的阻饒,在對外的發言上面,一直在聲稱他照顧,我們台灣人民的健康權益,那我想這種謊話,大家都知道,只有台灣民主選出的政府,才有權力,在世界上代表台灣來發言。」",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "沒有",
+                "謊話",
+                "沒有"
+            ],
+            "positive_list": [
+                "有權",
+                "有權力",
+                "知道",
+                "健康",
+                "參加",
+                "衛生",
+                "權益",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 21:23"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "中國對外的發言,一直聲稱中國在照顧台灣人民的健康權益,另外也稱可以代表台灣參加國際組織。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "健康",
+                "參加",
+                "權益"
+            ],
+            "datetime": "2022-05-24 16:10"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "大家都有注意到,台灣受到國際支持的力道大於以往,像是以國會來說,今年就已經超過3000多位的國會議員,用不同的方式來力挺台灣,另外也有其他行政部門、重要人士他們用不同方式來支持台灣。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "注意",
+                "重要"
+            ],
+            "datetime": "2022-05-24 16:10"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣不會只滿足於今年的所受到的支持,畢竟依然沒收到邀請函,另外他也說到,台灣今年無法參與WHA的唯一原因,就是中國的阻擾。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "沒收",
+                "無法",
+                "不會",
+                "無法"
+            ],
+            "positive_list": [
+                "滿足",
+                "滿足"
+            ],
+            "datetime": "2022-05-24 16:10"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "在今年的世界衛生大會上,也有看到更多不同國家、更高的層級用更強烈的語氣來為台灣爭取參加世界衛生大會WHA,台灣也對世界各國的支持聲音表達感謝之意。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "強烈"
+            ],
+            "positive_list": [
+                "參加",
+                "感謝",
+                "衛生",
+                "感謝",
+                "衛生"
+            ],
+            "datetime": "2022-05-24 16:10"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣理論上會在IPEF裡面,但美國公布的首輪名單卻未包含台灣,是否台美關係並未如政府所描述的「堅若磐石」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-25 10:18"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "美台雙方一直密切合作,台灣在與美軍的共同合作受益匪淺。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-25 07:21"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣政府將擷取烏克蘭的技巧以抵禦更強大的敵人,台灣軍隊將利用國際支持、不對稱作戰與大規模動員以進行戰鬥,「保衛台灣是我們自己的責任」,但台灣需要國際支持,大聲疾呼對台灣的支持,並為台灣提供必要的手段以保護自己。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "大聲",
+                "不對",
+                "作戰",
+                "敵人",
+                "戰鬥",
+                "不對",
+                "利用"
+            ],
+            "positive_list": [
+                "必要",
+                "技巧",
+                "保護",
+                "強大",
+                "強大的",
+                "進行"
+            ],
+            "datetime": "2022-05-25 07:21"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "提到",
+            "opinion": "台灣要避免戰爭,「台灣將維持現狀」,不尋求正式的獨立,但若發生衝突,會學習5000公里外烏克蘭對抗俄羅斯的戰術經驗。",
+            "negative_score": 5,
+            "positive_score": 6,
+            "negative_list": [
+                "對抗",
+                "衝突",
+                "戰爭",
+                "避免",
+                "衝突"
+            ],
+            "positive_list": [
+                "正式",
+                "正式的",
+                "經驗",
+                "學習",
+                "獨立",
+                "避免"
+            ],
+            "datetime": "2022-05-25 10:00"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "說",
+            "opinion": "但台灣需要的是國際支持,需要國際大聲疾呼支持台灣,並為台灣提供必要的手段來保護自己。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "大聲"
+            ],
+            "positive_list": [
+                "必要",
+                "保護"
+            ],
+            "datetime": "2022-05-25 10:00"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "中國戰狼行徑是區域不穩定的來源,而美國協助台灣獲取自我防衛所需裝備,雙方進行定期安全對話及人員技術交流,均有效嚇阻中國武力犯台的野心。",
+            "negative_score": 6,
+            "positive_score": 6,
+            "negative_list": [
+                "不穩",
+                "不穩定",
+                "不穩定的",
+                "自我",
+                "武力",
+                "野心"
+            ],
+            "positive_list": [
+                "安全",
+                "有效",
+                "協助",
+                "進行",
+                "穩定",
+                "穩定的"
+            ],
+            "datetime": "2022-05-25 14:35"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "美國對台灣支持堅若磐石,拜登政府盛讚我國的民主政體,形容台灣為美國「安全及經濟的重要夥伴」;美國國會也持續提出友我法案,展現對台灣安全的高度重視與跨黨派支持。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "重要",
+                "重視",
+                "夥伴"
+            ],
+            "datetime": "2022-05-25 14:35"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "面對中國可能的侵犯,台灣人民會肩負起自我防衛的責任。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "自我",
+                "侵犯"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-25 14:35"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "中共威權政體對台威脅日益加劇;且中國國內政經問題壓力日增,所以中方藉由犯台轉移內部焦點、尋找替罪羔羊的可能性大幅增加。",
+            "negative_score": 6,
+            "positive_score": 1,
+            "negative_list": [
+                "加劇",
+                "威脅",
+                "問題",
+                "壓力",
+                "威脅",
+                "問題"
+            ],
+            "positive_list": [
+                "增加"
+            ],
+            "datetime": "2022-05-25 14:35"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "美台雙方一直密切合作,台灣在與美軍的共同合作受益匪淺。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-05-25 09:44"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣政府將擷取烏克蘭的技巧以抵禦更強大的敵人,台灣軍隊將利用國際支持、不對稱作戰與大規模動員以進行戰鬥,「保衛台灣是我們自己的責任」,但台灣需要國際支持,大聲疾呼對台灣的支持,並為台灣提供必要的手段以保護自己。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "大聲",
+                "不對",
+                "作戰",
+                "敵人",
+                "戰鬥",
+                "不對",
+                "利用"
+            ],
+            "positive_list": [
+                "必要",
+                "技巧",
+                "保護",
+                "強大",
+                "強大的",
+                "進行"
+            ],
+            "datetime": "2022-05-25 09:44"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣正在極力避免戰爭且將維持現狀、不尋求形式上的獨立。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "戰爭",
+                "避免"
+            ],
+            "positive_list": [
+                "獨立",
+                "避免"
+            ],
+            "datetime": "2022-05-26 17:19"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣「打算避免戰爭」、「不尋求正式的獨立」會繼續「維持現狀」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "戰爭",
+                "避免"
+            ],
+            "positive_list": [
+                "正式",
+                "正式的",
+                "獨立",
+                "避免"
+            ],
+            "datetime": "2022-05-26 19:31"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "美台持續進行「非常高階的安全討論」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "進行"
+            ],
+            "datetime": "2022-05-26 18:40"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "提到",
+            "opinion": "大陸藉犯台轉移內部焦點、尋找替罪羔羊可能性大增,美台持續進行「非常高階的安全討論」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "進行"
+            ],
+            "datetime": "2022-05-26 16:46"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "台灣「打算避免戰爭」、「不尋求正式的獨立」會繼續「維持現狀」。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "戰爭",
+                "避免"
+            ],
+            "positive_list": [
+                "正式",
+                "正式的",
+                "獨立",
+                "避免"
+            ],
+            "datetime": "2022-05-26 17:02"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "中國機艦頻擾台灣,威脅區域的安全,台灣位於民主對抗威權擴張的前線,政府及人民均有高度自我防衛決心。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "自我",
+                "威脅",
+                "對抗",
+                "威脅"
+            ],
+            "positive_list": [
+                "安全",
+                "決心"
+            ],
+            "datetime": "2022-05-28 12:48"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "西方民主國家團結支持烏克蘭,迅速以具體行動援助,對中國可能是一記警鐘,但也不可忽視中國可能從俄羅斯犯下的錯誤中學習,面對中國威脅,台灣深盼民主國家也能共同強化對台灣的支持。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不可",
+                "忽視",
+                "威脅",
+                "錯誤",
+                "不可",
+                "威脅"
+            ],
+            "positive_list": [
+                "迅速",
+                "學習"
+            ],
+            "datetime": "2022-05-28 12:48"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "說",
+            "opinion": "他強調,面對中國威脅,深盼民主國家也能共同強化對台灣的支持。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "威脅",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 14:36"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "西方國家迅速支持烏克蘭,對中國是記警鐘。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "迅速"
+            ],
+            "datetime": "2022-05-28 14:36"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "烏克蘭遭受俄羅斯侵略受創甚鉅,台灣人民因長期面對中國文攻武嚇而感同身受,因此政府向烏國人民傳達休戚與共的支持,並樂願積極參與烏國的重建。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "侵略",
+                "遭受"
+            ],
+            "positive_list": [
+                "積極",
+                "感同身受"
+            ],
+            "datetime": "2022-05-31 19:26"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "中國準備侵略我們,以色列不能相信北京」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "侵略"
+            ],
+            "positive_list": [
+                "相信",
+                "準備"
+            ],
+            "datetime": "2022-05-31 13:48"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "烏克蘭遭受俄羅斯侵略受創甚鉅,台灣人民因長期面對中國文攻武嚇而感同身受,因此我國政府向烏國人民傳達休戚與共的支持,並樂願積極參與烏國的重建。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "侵略",
+                "遭受"
+            ],
+            "positive_list": [
+                "積極",
+                "感同身受"
+            ],
+            "datetime": "2022-05-31 18:56"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "威權主義國家經常將經貿關係當武器,提醒民主國家不要為經貿利益犧牲國家安全,也不要害怕激怒中國,套句外交圈的名言:「如果中國被激怒,就表示你做對了」!外交部指出,在專訪內容刊出後,耶路撒冷郵報主筆馬上接到中國使館威脅,要求撤下專訪,但他們勇敢拒絕,並按原定計畫刊出紙本報導,讓中國踢到鐵板。",
+            "negative_score": 9,
+            "positive_score": 4,
+            "negative_list": [
+                "拒絕",
+                "威脅",
+                "要求",
+                "害怕",
+                "激怒",
+                "不要",
+                "威脅",
+                "害怕",
+                "激怒"
+            ],
+            "positive_list": [
+                "安全",
+                "利益",
+                "勇敢",
+                "犧牲"
+            ],
+            "datetime": "2022-05-31 19:57"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "中國對台灣軍事威脅日增,並持續對台灣採取網路攻擊、認知作戰等灰色地帶戰術。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "作戰",
+                "攻擊",
+                "威脅",
+                "攻擊",
+                "威脅"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 17:18"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "以色列的全民國防概念值得台灣學習,台以雖無正式外交關係,但已在諸多領域簽署合作協議,期盼雙邊經貿往來持續提升。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "合作",
+                "值得",
+                "提升",
+                "學習",
+                "合作",
+                "期盼"
+            ],
+            "datetime": "2022-05-31 17:18"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "說",
+            "opinion": "台灣與以色列共享自由民主的普世價值,也是共同捍衛人權的夥伴。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "夥伴",
+                "自由"
+            ],
+            "datetime": "2022-05-31 17:18"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "中國準備侵略我們,以色列不能相信北京」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不能",
+                "侵略"
+            ],
+            "positive_list": [
+                "相信",
+                "準備"
+            ],
+            "datetime": "2022-05-31 15:24"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "說",
+            "opinion": "「我們這艘船是跟菲律賓一起合作,來做科學研究的,中國的這些做法,是違反聯合國海洋法公約的一個做法,所以我們外交部,今天已經發布嚴厲譴責的一個聲明。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "違反",
+                "嚴厲",
+                "譴責",
+                "違反"
+            ],
+            "positive_list": [
+                "合作",
+                "聯合",
+                "合作"
+            ],
+            "datetime": "2022-06-01 23:10"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "回應",
+            "opinion": "指出,中國海警船是違反聯合國海洋法公約,外交部已嚴厲譴責聲明,菲律賓政府也有譴責。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "違反",
+                "嚴厲",
+                "譴責",
+                "違反"
+            ],
+            "positive_list": [
+                "聯合"
+            ],
+            "datetime": "2022-06-01 23:10"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "此架構更有助於我國參加「跨太平洋夥伴全面進步協定」(CPTPP),以及印太經濟架構(IPEF)等區域經貿整合機制,外交部將繼續與經貿相關部會合作,推動台美後續協商過程,使這項倡議能夠早日簽署落實。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "合作",
+                "有助",
+                "參加",
+                "進步",
+                "夥伴",
+                "合作"
+            ],
+            "datetime": "2022-06-01 22:08"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "過去這段時間以來,國際地緣戰略情勢劇烈變動,俄國入侵烏克蘭,威權專制國家合流,操縱軍事、經貿、網路、認知戰等工具,企圖破壞以規則為基礎的秩序,民主陣營以充分警覺並團結反制。",
+            "negative_score": 6,
+            "positive_score": 3,
+            "negative_list": [
+                "破壞",
+                "專制",
+                "劇烈",
+                "變動",
+                "破壞",
+                "專制"
+            ],
+            "positive_list": [
+                "充分",
+                "秩序",
+                "警覺"
+            ],
+            "datetime": "2022-06-01 22:08"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "提到",
+            "opinion": "台美經貿倡議有助我國爭取參與「跨太平洋夥伴全面進步協定」(CPTPP)及「印太經濟架構」(IPEF)等區域經貿整合機制。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "全面",
+                "有助",
+                "進步",
+                "夥伴"
+            ],
+            "datetime": "2022-06-02 13:24"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "說",
+            "opinion": "「患難見真情,這場戰爭讓我們看到很多國家真的在幫助我們」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "戰爭"
+            ],
+            "positive_list": [
+                "很多",
+                "幫助"
+            ],
+            "datetime": "2022-06-03 12:54"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "立陶宛是勇敢的盟友,去年慨贈台灣疫苗之舉,溫暖台灣人民的心扉,強化了兩國未來各項領域友好發展的基礎。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "勇敢",
+                "勇敢的",
+                "發展",
+                "溫暖",
+                "溫暖"
+            ],
+            "datetime": "2022-06-04 21:08"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "中國頻繁派遣機艦侵擾台灣,威脅區域安全,並持續對台灣採取網攻及認知戰等混合戰術。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "侵擾",
+                "威脅",
+                "頻繁",
+                "威脅"
+            ],
+            "positive_list": [
+                "安全"
+            ],
+            "datetime": "2022-06-04 21:08"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "認為",
+            "opinion": "立陶宛是勇敢的盟友,去年慨贈台灣疫苗之舉,溫暖台灣人民的心扉,強化了兩國未來各項領域友好發展的基礎。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "友好",
+                "勇敢",
+                "勇敢的",
+                "發展",
+                "溫暖",
+                "溫暖"
+            ],
+            "datetime": "2022-06-04 22:30"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "提到",
+            "opinion": "近半年多來,法國參議院及國民議會分別籌組議員團訪台。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 22:30"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "台灣勇敢面對中國,有如大衛挑戰巨人歌利亞,而民主台灣必將勝出;台灣也加入民主國家援助烏克蘭,以具體行動反制俄羅斯,台灣同時與理念相近國家加強合作,持續爭取國際對台灣的支持。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "合作",
+                "勇敢",
+                "合作"
+            ],
+            "datetime": "2022-06-04 21:32"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "認為",
+            "opinion": "近半年多來,法國參議院及國民議會分別籌組議員團訪台。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 21:32"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "吳釗燮也會頒贈外交睦誼獎章給歐舒斯基友台小組主席,表彰他對深化台斯關係的貢獻,並見證簽署「台斯民事暨商事司法合作協議」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作"
+            ],
+            "datetime": "2022-06-05 18:23"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "此協議是台斯雙邊關係的另一個非凡里程碑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "非凡"
+            ],
+            "datetime": "2022-06-08 15:32"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "此協議是台斯雙邊關係的另一個非凡里程碑。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "非凡"
+            ],
+            "datetime": "2022-06-08 16:52"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "法國今年公布最新「印太戰略」報告,不僅再次強調台海和平穩定重要性,更多處提及台灣,感謝法國政府對台灣的重視。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "平穩",
+                "和平",
+                "重要",
+                "重要性",
+                "重視",
+                "感謝",
+                "穩定",
+                "感謝"
+            ],
+            "datetime": "2022-06-09 23:58"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "今年5月葛利歐除參加「福爾摩沙俱樂部」(FormosaClub)連署致函「世界衛生組織」(WHO)幹事長外,也單獨致函為台灣執言,壯大今年歐洲國家支持台灣參與國際組織聲勢。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "參加",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-09 23:58"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "近年來台灣透過國合會於夥伴國執行的援外計畫成果豐碩,而這樣直接嘉惠當地人民的「台灣模式」也深受夥伴國及國際社會重視與肯定。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "重視",
+                "夥伴"
+            ],
+            "datetime": "2022-06-09 21:00"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "強調",
+            "opinion": "台灣長期受鄰國武力威脅,對烏克蘭遭受侵略特別感同身受,因此樂願竭盡棉薄協助烏克蘭,國際社會民主陣營國家當秉持此共同理念支持烏國度過戰爭艱困,相信民主的一方終將戰勝威權勢力。",
+            "negative_score": 6,
+            "positive_score": 6,
+            "negative_list": [
+                "武力",
+                "侵略",
+                "威脅",
+                "遭受",
+                "戰爭",
+                "威脅"
+            ],
+            "positive_list": [
+                "協助",
+                "相信",
+                "特別",
+                "戰勝",
+                "感同身受",
+                "戰勝"
+            ],
+            "datetime": "2022-06-10 19:33"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "北京先是禁止台灣生產的自由鳳梨(FreedomPineapple),現在又瞄準台灣的石斑魚。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "禁止"
+            ],
+            "positive_list": [
+                "生產",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-12 16:27"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "表示",
+            "opinion": "大陸之前禁止台灣的鳳梨進口,如今則是針對石斑魚,這就是中共會做的事,透過大量採購並剽竊技術,把貿易武器化,和大陸自由且公平的做生意只會失敗,「我們只是讓他們的武器庫中的彈藥越來越多」。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "失敗",
+                "禁止",
+                "失敗",
+                "剽竊"
+            ],
+            "positive_list": [
+                "公平",
+                "公平的",
+                "自由",
+                "公平",
+                "自由"
+            ],
+            "datetime": "2022-06-12 16:44"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "批評",
+            "opinion": "這就是共產黨的做法,他們購買和剽竊他人的技術,然後將它武器化,與中國之間的自由和平等貿易是個敗筆(fail),「我們只是在替他們的庫存中添加更多彈藥」,文末以自己的英文縮寫JW作署名。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "剽竊"
+            ],
+            "positive_list": [
+                "平等",
+                "自由",
+                "和平",
+                "自由"
+            ],
+            "datetime": "2022-06-12 17:04"
+        },
+        {
+            "person": "吳釗燮",
+            "verb": "指出",
+            "opinion": "北京先是禁止台灣生產的自由鳳梨(FreedomPineapple),現在又瞄準台灣的石斑魚。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "禁止"
+            ],
+            "positive_list": [
+                "生產",
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-12 16:55"
+        }
+    ]
+}

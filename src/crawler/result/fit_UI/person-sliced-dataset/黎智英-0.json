@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/黎智英.png",
+    "opinions": [
+        {
+            "person": "黎智英",
+            "verb": "說",
+            "opinion": "習近平最大限度地保障了人民當家作主的話,那麼,入侵烏克蘭的俄羅斯總統普丁,也可以說成和平的使者了。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "限度"
+            ],
+            "positive_list": [
+                "和平",
+                "和平的"
+            ],
+            "datetime": "2022-06-06 09:23"
+        }
+    ]
+}

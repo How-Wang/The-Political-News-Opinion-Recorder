@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張桂綿.png",
+    "opinions": [
+        {
+            "person": "張桂綿",
+            "verb": "表示",
+            "opinion": "今天來蘆竹的目的就是要勤走基層跟大家交朋友,準備為桃園打拚。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "準備"
+            ],
+            "datetime": "2022-06-06 12:21"
+        }
+    ]
+}

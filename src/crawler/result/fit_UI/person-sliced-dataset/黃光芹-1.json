@@ -1,0 +1,128 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃光芹",
+            "verb": "表示",
+            "opinion": "張善政要參選桃園市長,現任桃園議長邱奕勝真的很重要,要先把邱奕勝給抓住,旁邊的人才會跟著支持。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "抓住"
+            ],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-05-23 16:27"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "表示",
+            "opinion": "朱立倫知道徵召張善政會引起風波,因此他有兩種做法:第一是快刀斬亂麻直接徵召張善政;第二是以溝通協調的方式來讓各個有意參選的候選人妥協,結果朱立倫選擇前者。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "風波",
+                "有意"
+            ],
+            "positive_list": [
+                "協調",
+                "知道"
+            ],
+            "datetime": "2022-05-23 16:04"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "表示",
+            "opinion": "她與一位國民黨桃園大老通過電話後得到結論,提名張善政是一錯再錯的結果。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "一錯再錯"
+            ],
+            "positive_list": [
+                "得到",
+                "通過"
+            ],
+            "datetime": "2022-05-24 14:53"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "指出",
+            "opinion": "大老十分擔心重蹈2016年「馬英九效應」和1997年的「許信良效應」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "擔心",
+                "擔心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:53"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "說",
+            "opinion": "第一,朱立倫提名過程一錯再錯,當桃園市議長邱奕勝執意支持立委呂玉玲參選,朱立倫天外就應該疏通,呂玉玲也不會一股腦選到現在;二,當魯明哲被勸進成功,所有候選人都鬆了口氣,但沒想到朱天外飛來一筆。",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "不會",
+                "一錯再錯",
+                "不會",
+                "沒想",
+                "沒想到"
+            ],
+            "positive_list": [
+                "成功"
+            ],
+            "datetime": "2022-05-24 14:53"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "表示",
+            "opinion": "民進黨目前還未推出桃園人選,加上國民黨內比較精彩,所以大家比較聚焦在國民黨身上,張善政是張強牌,各方面能力、高度都兼具,所以國民黨等到整合完畢後,就要開始作戰。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "作戰"
+            ],
+            "positive_list": [
+                "能力"
+            ],
+            "datetime": "2022-05-26 20:02"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "指出",
+            "opinion": "先前的提名過程每天都很戲劇化,而一開始黨內的提名機制確實沒出來,本來也是想要以民調作為基準,而後來提名張善政,相信黨主席朱立倫也有自己的考量。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "確實"
+            ],
+            "datetime": "2022-05-26 16:46"
+        },
+        {
+            "person": "黃光芹",
+            "verb": "表示",
+            "opinion": "最後由張善政參選確實讓人有點驚訝,而過去桃園民調幾乎都是魯明哲第一,立委萬美玲跟前北市議員羅智強也趨近打平,現在若再把張善政擺進去不知道結果會如何,而如果不是張善政被徵召,那最後就是魯明哲出線。",
+            "negative_score": 6,
+            "positive_score": 2,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "驚訝",
+                "不知",
+                "不是",
+                "驚訝"
+            ],
+            "positive_list": [
+                "知道",
+                "確實"
+            ],
+            "datetime": "2022-06-09 15:22"
+        }
+    ]
+}

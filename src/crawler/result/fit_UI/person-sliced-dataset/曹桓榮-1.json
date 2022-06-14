@@ -1,0 +1,59 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/曹桓榮.png",
+    "opinions": [
+        {
+            "person": "曹桓榮",
+            "verb": "回應",
+            "opinion": "北市前議員羅智強、高市議員陳美雅與邱于軒等人也留言。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 12:42"
+        },
+        {
+            "person": "曹桓榮",
+            "verb": "提到",
+            "opinion": "家長等不及校園5月30日才開打,紛紛擠爆診所帶小孩搶打兒童BNT疫苗,繼口罩、快篩之後,又引發新一波的兒童BNT疫苗之亂,排隊已經成為疫情期間台灣街頭最不堪的風景。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "成為"
+            ],
+            "datetime": "2022-05-27 16:30"
+        },
+        {
+            "person": "曹桓榮",
+            "verb": "回應",
+            "opinion": "謝謝市長的打氣鼓勵,自己一直跟隨著市長精神與腳步,希望集合所有良善的微光一起照亮高雄、照亮台灣,會繼續秉持市長莫忘世上苦人多的精神,努力讓高雄更好。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "希望",
+                "鼓勵",
+                "希望",
+                "良善",
+                "謝謝"
+            ],
+            "datetime": "2022-06-01 13:23"
+        },
+        {
+            "person": "曹桓榮",
+            "verb": "說",
+            "opinion": "無論是鼓山區哈碼星代天宮交接典禮上、全體董監事及信徒代表對宗教文化的付出,高市柔道選手選拔中、青年對運動競賽的執著,燕巢區南燕社區帶領舉辦慢速壘球賽努力成為運動樂活社區,在高雄每個角落都有令人感動的人、事、物。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "成為",
+                "努力",
+                "感動",
+                "感動"
+            ],
+            "datetime": "2022-06-01 13:23"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/魏鳳和.png",
+    "opinions": [
+        {
+            "person": "魏鳳和",
+            "verb": "說",
+            "opinion": "「如果有人膽敢把台灣分裂出去,中國軍隊必將不惜一戰,不惜代價、堅決粉碎任何『台獨』分裂圖謀,堅決維護國家主權和領土完整」,中國會為台灣不惜一戰。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "分裂",
+                "代價",
+                "粉碎",
+                "圖謀",
+                "膽敢",
+                "分裂",
+                "台獨"
+            ],
+            "positive_list": [
+                "完整",
+                "堅決"
+            ],
+            "datetime": "2022-06-11 10:16"
+        },
+        {
+            "person": "魏鳳和",
+            "verb": "宣布",
+            "opinion": "對台軍售,當面向奧斯汀抗議。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "抗議"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 17:28"
+        },
+        {
+            "person": "魏鳳和",
+            "verb": "說",
+            "opinion": "順利,但傳出其實會中兩人為了台灣問題激烈交鋒。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "人為",
+                "問題",
+                "激烈",
+                "問題"
+            ],
+            "positive_list": [
+                "順利"
+            ],
+            "datetime": "2022-06-11 13:00"
+        },
+        {
+            "person": "魏鳳和",
+            "verb": "指出",
+            "opinion": "堅決反對美國對台軍售,並提到「如果有人膽敢把台灣分裂出去,中國軍隊必將不惜一戰,不惜代價、堅決粉碎任何台獨分裂圖謀,堅決維護國家主權和領土完整」。",
+            "negative_score": 8,
+            "positive_score": 2,
+            "negative_list": [
+                "分裂",
+                "反對",
+                "代價",
+                "粉碎",
+                "圖謀",
+                "膽敢",
+                "分裂",
+                "台獨"
+            ],
+            "positive_list": [
+                "完整",
+                "堅決"
+            ],
+            "datetime": "2022-06-11 08:39"
+        },
+        {
+            "person": "魏鳳和",
+            "verb": "表示",
+            "opinion": "「當年美國為國家的統一打了南北戰爭,中國非常不願意發生這樣的內戰,但將堅決粉碎任何『台獨』的圖謀。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "不願意",
+                "粉碎",
+                "圖謀",
+                "戰爭",
+                "台獨"
+            ],
+            "positive_list": [
+                "堅決",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-12 23:13"
+        },
+        {
+            "person": "魏鳳和",
+            "verb": "表示",
+            "opinion": "「中國政府和軍隊將堅決粉碎任何『台獨』圖謀、堅決維護祖國統一。」",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "粉碎",
+                "圖謀",
+                "台獨"
+            ],
+            "positive_list": [
+                "堅決"
+            ],
+            "datetime": "2022-06-12 23:13"
+        }
+    ]
+}

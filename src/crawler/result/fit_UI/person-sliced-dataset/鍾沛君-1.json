@@ -1,0 +1,57 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鍾沛君.png",
+    "opinions": [
+        {
+            "person": "鍾沛君",
+            "verb": "表示",
+            "opinion": "從政20年在選區就是非藍非綠,台北市是一個最多元、最能夠包容不同聲音的地方,各黨都能在這裡一起做事,不因黨派分崩離析。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "分崩離析"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 09:36"
+        },
+        {
+            "person": "鍾沛君",
+            "verb": "提出",
+            "opinion": "中央在31日公布的「流行病學趨勢分析」並質疑,「我不知道是不是台灣防疫的新奇跡?」,分析中表示台灣Omicron疫情致死率是每百萬人0.2,這樣的數據比鄰近的日本、韓國、香港都低很多,「真的是這樣嗎?如果不是這樣的話原因是什麼?」。",
+            "negative_score": 7,
+            "positive_score": 6,
+            "negative_list": [
+                "不知",
+                "不知道",
+                "流行病",
+                "致死",
+                "質疑",
+                "不知",
+                "不是"
+            ],
+            "positive_list": [
+                "奇跡",
+                "知道",
+                "很多",
+                "流行",
+                "新奇",
+                "新奇"
+            ],
+            "datetime": "2022-06-02 15:13"
+        },
+        {
+            "person": "鍾沛君",
+            "verb": "質疑",
+            "opinion": "政府是否企圖美化疫情,而台北市長柯文哲則給出直率而超猛的回答:「太早統計,會死的還沒死」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "死的"
+            ],
+            "positive_list": [
+                "直率",
+                "美化"
+            ],
+            "datetime": "2022-06-10 06:30"
+        }
+    ]
+}

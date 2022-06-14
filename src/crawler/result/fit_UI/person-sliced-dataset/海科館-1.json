@@ -1,0 +1,64 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/海科館.png",
+    "opinions": [
+        {
+            "person": "海科館",
+            "verb": "表示",
+            "opinion": "「潮境方舟1號」為國人設計與打造的研究船,在國家發展委員會及教育部支持下,打造台灣博物館界首艘量身訂做的船舶,這艘長約12.8公尺、寬約3.6公尺、吃水深約0.5公尺的研究船,由24歲女船長簡汝庭掌舵駕駛。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-07 14:00"
+        },
+        {
+            "person": "海科館",
+            "verb": "指出",
+            "opinion": "方舟部分,則是聖經上為了拯救流離失所的動物而造的大船,因此取名方舟,是希望跟國人一起努力進行海港海灣的生物復育,永續發展漁業及海洋生態。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "流離"
+            ],
+            "positive_list": [
+                "努力",
+                "希望",
+                "發展",
+                "進行",
+                "希望"
+            ],
+            "datetime": "2022-06-07 20:32"
+        },
+        {
+            "person": "海科館",
+            "verb": "說",
+            "opinion": "表示,方舟是大洪水時代要逃命的那艘船,海洋這麼好,怎麼叫方舟,不要隨便取名啦,叫基隆、八斗子也沒關係。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "大洪水",
+                "洪水",
+                "隨便",
+                "不要",
+                "沒關係",
+                "隨便"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 20:32"
+        },
+        {
+            "person": "海科館",
+            "verb": "表示",
+            "opinion": "「潮境方舟1號」為國人設計與打造的研究船,在國家發展委員會及教育部支持下,打造台灣博物館界首艘量身訂做的船舶,這艘長約12.8公尺、寬約3.6公尺、吃水深約0.5公尺的研究船,由24歲女船長簡汝庭掌舵駕駛。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-07 13:11"
+        }
+    ]
+}

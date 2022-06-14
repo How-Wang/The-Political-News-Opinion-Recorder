@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/孫中山.png",
+    "opinions": [
+        {
+            "person": "孫中山",
+            "verb": "說",
+            "opinion": "這次來美國,就是要和全世界民主國家交朋友,持續扮演穩定台海和平的重要力量。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "和平",
+                "和平的",
+                "重要",
+                "穩定"
+            ],
+            "datetime": "2022-06-05 11:43"
+        }
+    ]
+}

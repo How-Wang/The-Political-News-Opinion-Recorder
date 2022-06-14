@@ -1,0 +1,57 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/日本關係協會.png",
+    "opinions": [
+        {
+            "person": "日本關係協會",
+            "verb": "說明",
+            "opinion": "蘇嘉全現年66歲,屏東縣出生,國立中山大學公共事務管理研究所畢業。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "管理"
+            ],
+            "datetime": "2022-05-27 19:59"
+        },
+        {
+            "person": "日本關係協會",
+            "verb": "指出",
+            "opinion": "蘇嘉全出生於1956年,曾任立委、屏東縣長、內政部長、農委會主委、民主進步黨秘書長、立法院長、總統府秘書長等職位。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進步"
+            ],
+            "datetime": "2022-05-27 19:14"
+        },
+        {
+            "person": "日本關係協會",
+            "verb": "指出",
+            "opinion": "蘇嘉全現年66歲,屏東縣出生,國立中山大學公共事務管理研究所畢業,曾任國大代表、立法委員、屏東縣長、內政部長、農委會主委、立法院院長及總統府秘書長等要職,資歷深厚,朝野敬重,且熟稔台日關係,未來台日關係可望再創新猷。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "可望"
+            ],
+            "positive_list": [
+                "創新",
+                "敬重",
+                "管理"
+            ],
+            "datetime": "2022-05-27 20:16"
+        },
+        {
+            "person": "日本關係協會",
+            "verb": "指出",
+            "opinion": "蘇嘉全出生於1956年,曾任立委、屏東縣長、內政部長、農委會主委、民主進步黨秘書長、立法院長、總統府秘書長等職位。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進步"
+            ],
+            "datetime": "2022-05-27 19:42"
+        }
+    ]
+}

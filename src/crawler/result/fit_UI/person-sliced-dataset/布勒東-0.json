@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/布勒東.png",
+    "opinions": [
+        {
+            "person": "布勒東",
+            "verb": "說",
+            "opinion": "台灣在全球半導體製造領域地位非常重要,歐洲使用的半導體可能有50%是在台灣生產,台灣擁有許多專業知識,歐洲當然歡迎包括台積電在內的所有公司。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "生產",
+                "重要",
+                "當然",
+                "擁有",
+                "歡迎",
+                "地位",
+                "歡迎"
+            ],
+            "datetime": "2022-06-09 13:51"
+        }
+    ]
+}

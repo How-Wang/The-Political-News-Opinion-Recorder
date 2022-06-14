@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/張博彥.png",
+    "opinions": [
+        {
+            "person": "張博彥",
+            "verb": "說明",
+            "opinion": "「基本上每天都會將面板打開,然後做陽光的曝曬,以及做防潮措施,避免水氣進到我們電子裝備上造成損壞,目前妥善率是百分百正常的。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "損壞",
+                "避免"
+            ],
+            "positive_list": [
+                "正常",
+                "正常的",
+                "避免"
+            ],
+            "datetime": "2022-06-10 13:51"
+        }
+    ]
+}

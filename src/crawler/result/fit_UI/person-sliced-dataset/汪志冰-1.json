@@ -1,0 +1,66 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/汪志冰.png",
+    "opinions": [
+        {
+            "person": "汪志冰",
+            "verb": "表示",
+            "opinion": "「政府態度傲慢顢頇,草菅人命莫此為甚。」",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "傲慢",
+                "草菅",
+                "草菅人命",
+                "傲慢"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 15:52"
+        },
+        {
+            "person": "汪志冰",
+            "verb": "提到",
+            "opinion": "柯文哲曾在5月提議「快篩陽就給藥」一事,遭陳時中反駁,認為若病急亂投藥、發生副作用,誰負醫療責任?而當時柯文哲表示「行家知道我的意思」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "反駁",
+                "反駁"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-02 21:24"
+        },
+        {
+            "person": "汪志冰",
+            "verb": "批評",
+            "opinion": "政府「態度顢頇」、「草菅人命」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "草菅",
+                "草菅人命"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 21:24"
+        },
+        {
+            "person": "汪志冰",
+            "verb": "強調",
+            "opinion": "若提早準備、採取政策,不要講540人,可以少死很多人,每一條命都是重要、不可替代的。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不可",
+                "不可",
+                "不要"
+            ],
+            "positive_list": [
+                "很多",
+                "重要",
+                "準備"
+            ],
+            "datetime": "2022-06-02 21:24"
+        }
+    ]
+}

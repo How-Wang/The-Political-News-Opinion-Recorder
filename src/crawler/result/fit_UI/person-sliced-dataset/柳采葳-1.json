@@ -1,0 +1,40 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/柳采葳.png",
+    "opinions": [
+        {
+            "person": "柳采葳",
+            "verb": "批評",
+            "opinion": "蘇貞昌、陳時中不要再當言論警察,台灣一個小孩都不能少,蘇貞昌要辦就一起辦,人民不需要言論警察院長,更不需要無良部長,要求政府還給孩子健康環境,同時也還給社會言論自由。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "要求",
+                "不要"
+            ],
+            "positive_list": [
+                "自由",
+                "健康",
+                "自由"
+            ],
+            "datetime": "2022-05-29 13:30"
+        },
+        {
+            "person": "柳采葳",
+            "verb": "說",
+            "opinion": "「拜託蘇貞昌拜託陳時中,不要再當言論警察了,這樣子對大家都不好,一個藝人他現在因為受到壓力,不敢講話沒關係,我們大家一起來幫他講出來。」",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不好",
+                "壓力",
+                "不好",
+                "不要",
+                "沒關係",
+                "拜託"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:57"
+        }
+    ]
+}

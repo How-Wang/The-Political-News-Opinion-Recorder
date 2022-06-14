@@ -1,0 +1,33 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/賴鼎銘.png",
+    "opinions": [
+        {
+            "person": "賴鼎銘",
+            "verb": "說",
+            "opinion": "如果台積電是「護國神山」,那長程預警雷達可比擬為「護國雷達站」,陣地偏遠,國軍卻甘之如飴,他要對長期守護國家安全的預警雷達站官兵表達嘉勉與肯定。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "肯定"
+            ],
+            "datetime": "2022-06-02 18:05"
+        },
+        {
+            "person": "賴鼎銘",
+            "verb": "認為",
+            "opinion": "如果將台積電稱作台灣的「護國神山」,長程預警雷達則可以比擬為「護國雷達站」,陣地處偏遠,官兵卻甘之如飴,監察院對長期守護國家安全的預警雷達站官兵表達嘉勉與肯定。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "安全的",
+                "肯定"
+            ],
+            "datetime": "2022-06-02 19:07"
+        }
+    ]
+}

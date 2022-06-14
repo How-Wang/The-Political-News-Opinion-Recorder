@@ -1,0 +1,52 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/林祖嘉.png",
+    "opinions": [
+        {
+            "person": "林祖嘉",
+            "verb": "說",
+            "opinion": "選民的投票權不容變相剝奪,非常時期應變通。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "剝奪",
+                "剝奪",
+                "變相"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:16"
+        },
+        {
+            "person": "林祖嘉",
+            "verb": "表示",
+            "opinion": "認同「選民的投票權不容變相剝奪」的主張,同時也呼籲政府,非常時期應該有更加變通的作法,讓所有海外國人都能以相對簡便的方式履行自己的公民義務,這也是一個民選政府應盡的責任。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "剝奪",
+                "剝奪",
+                "變相"
+            ],
+            "positive_list": [
+                "義務",
+                "履行",
+                "認同"
+            ],
+            "datetime": "2022-05-26 16:16"
+        },
+        {
+            "person": "林祖嘉",
+            "verb": "指出",
+            "opinion": "近兩年多來,COVID-19疫情在全世界蔓延,兩岸的疫情此起彼伏,再加上隔離檢疫措施的相關規定,不僅造成額外的經濟負擔,同時也嚴重影響既有的跨國移動和來往。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "負擔",
+                "隔離",
+                "蔓延",
+                "嚴重"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 16:16"
+        }
+    ]
+}

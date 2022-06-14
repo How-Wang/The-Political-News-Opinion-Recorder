@@ -1,0 +1,17 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李再立",
+            "verb": "說明",
+            "opinion": "若遠雄實際營收到80億元,60億元至72億元要繳交1%超額營收分潤,而72億元至80億元則要繳交第二級距的超額營收分潤,總計可拿到6080萬元。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "實際"
+            ],
+            "datetime": "2022-05-31 11:42"
+        }
+    ]
+}

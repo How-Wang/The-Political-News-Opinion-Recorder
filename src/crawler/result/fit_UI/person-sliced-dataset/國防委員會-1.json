@@ -1,0 +1,17 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/國防委員會.png",
+    "opinions": [
+        {
+            "person": "國防委員會",
+            "verb": "說明",
+            "opinion": "賴鼎銘偕同陳菊等20名監委,5月31日在國防部副部長柏鴻輝、空軍副司令孫連勝等人的陪同下,巡察空軍第二戰術戰鬥機聯隊,並且在聽取聯隊任務簡報後,現地視導聯隊後勤維修、警戒機待命和起飛實況,以及幻象戰機飛彈、火炮陳展。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "戰鬥"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-02 19:07"
+        }
+    ]
+}

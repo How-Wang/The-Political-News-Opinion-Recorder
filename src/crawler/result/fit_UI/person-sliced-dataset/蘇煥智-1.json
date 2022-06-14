@@ -1,0 +1,79 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "蘇煥智",
+            "verb": "表示",
+            "opinion": "新北市長侯友宜抱怨中央的「傳染病通報資訊系統」一直塞車,以致未能即時通報確診及居家隔離,釀成民怨。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "抱怨",
+                "傳染",
+                "傳染病",
+                "隔離",
+                "抱怨"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 18:35"
+        },
+        {
+            "person": "蘇煥智",
+            "verb": "說",
+            "opinion": "先前立院立法修改《農田水利法》,將水利會收歸國有一事,並指1937年納粹德國元首希特勒(AdolfHitler)將德全國自治管理的水利協會收歸國有,取消自治選舉。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "取消"
+            ],
+            "positive_list": [
+                "管理"
+            ],
+            "datetime": "2022-05-21 18:35"
+        },
+        {
+            "person": "蘇煥智",
+            "verb": "說",
+            "opinion": "答案應該就是一個「美麗的錯誤」。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "錯誤"
+            ],
+            "positive_list": [
+                "美麗",
+                "美麗的"
+            ],
+            "datetime": "2022-05-21 18:35"
+        },
+        {
+            "person": "蘇煥智",
+            "verb": "批評",
+            "opinion": "蔡政府法治思維缺乏對基本人權的尊重,不尊重歷史,為了政治利益,不惜扭曲歴史、霸凌老農民。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不尊重",
+                "扭曲",
+                "缺乏",
+                "不尊重"
+            ],
+            "positive_list": [
+                "利益",
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-05-21 18:35"
+        },
+        {
+            "person": "蘇煥智",
+            "verb": "表示",
+            "opinion": "台灣2021的新生兒只有15萬4000人,創歴史新低。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-21 18:35"
+        }
+    ]
+}

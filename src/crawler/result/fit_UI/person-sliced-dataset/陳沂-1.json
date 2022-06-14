@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳沂.png",
+    "opinions": [
+        {
+            "person": "陳沂",
+            "verb": "質疑",
+            "opinion": "比較好奇的是,之前焦糖哥哥陳嘉行鼓勵大家盡量去傳播染疫,「取得天然疫苗,懂得人就懂」,這樣同為散播謠言的言論,政府卻像沒事一樣。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "謠言",
+                "沒事"
+            ],
+            "positive_list": [
+                "天然",
+                "比較好",
+                "好奇",
+                "好奇的",
+                "較好",
+                "鼓勵"
+            ],
+            "datetime": "2022-05-28 17:54"
+        },
+        {
+            "person": "陳沂",
+            "verb": "說",
+            "opinion": "然後警察在被施壓之下就不敢開了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 00:02"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "羅一鈞",
+            "verb": "表示",
+            "opinion": "今日新增223例中重症患者,中症153例、重症70例,重症個案中有2人是兒童,其中一位5歲男童,本身有肌肉系統疾病,染疫出現肺炎併呼吸衰竭、腦水腫;另一人是9個月大男嬰,上呼吸道哮吼併呼吸窘迫,情況有改善,移除呼吸器,都在家護病房治療中。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "疾病",
+                "衰竭",
+                "患者",
+                "窘迫"
+            ],
+            "positive_list": [
+                "改善",
+                "治療",
+                "改善"
+            ],
+            "datetime": "2022-05-21 14:24"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "表示",
+            "opinion": "國內今年累積本土病例161萬2891人,當中有160萬8860人為輕症,輕症比例99.7%,中重症累積4031例,重症中有931死。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "人為"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 14:23"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "說明",
+            "opinion": "今日新增2例兒童死亡案件,其中1名5歲男童是5月21日公布的重症個案,有肌肉系統疾病,5月17日腿痛、昏厥,送急診發現肺炎、腦水腫,因為肺炎呼吸衰竭過世。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡",
+                "昏厥",
+                "疾病",
+                "衰竭",
+                "過世"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 14:19"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "說",
+            "opinion": "接下來再有發生案例都能即時處理,提早給藥讓預後改善。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "改善",
+                "改善"
+            ],
+            "datetime": "2022-05-31 11:59"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "強調",
+            "opinion": "「無敵星星」一說絕非鼓勵民眾涉險染疫,尤其慢性病患要特別小心,更自曝「像我本身有糖尿病」,一旦染疫都更容易併發中重症。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "小心",
+                "慢性"
+            ],
+            "positive_list": [
+                "小心",
+                "容易",
+                "特別",
+                "無敵",
+                "鼓勵"
+            ],
+            "datetime": "2022-06-03 18:01"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "指出",
+            "opinion": "打疫苗才可能會比先前獲得更多的保護力。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "保護",
+                "獲得"
+            ],
+            "datetime": "2022-06-03 18:01"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "表示",
+            "opinion": "染疫後康復病人可能會出現如掉髮、紅疹,或是憂鬱、焦慮、失眠、腦無、心悸,都是在門診常見的症狀。",
+            "negative_score": 7,
+            "positive_score": 0,
+            "negative_list": [
+                "失眠",
+                "病人",
+                "焦慮",
+                "憂鬱",
+                "失眠",
+                "焦慮",
+                "憂鬱"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:08"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "表示",
+            "opinion": "去年12月健保署已公布國際通用診斷碼UO9.9,不過因非法定傳染病,沒有通報義務,是讓醫師進行統計使用。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "非法",
+                "傳染",
+                "傳染病",
+                "沒有"
+            ],
+            "positive_list": [
+                "法定",
+                "通用",
+                "進行",
+                "義務"
+            ],
+            "datetime": "2022-06-09 17:08"
+        },
+        {
+            "person": "羅一鈞",
+            "verb": "表示",
+            "opinion": "在新增553例中重症個案中,有1名兒童個案中為先前已經揭露的第3例MIS-C(兒童多系統發炎症候群),是一名高雄6歲女童,輕症確診25天後出現發燒38.5度,期間連燒7天,後因懷疑MIS-C收治兒童加護病房治療中,目前狀況穩定、已經退燒。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "揭露",
+                "發炎",
+                "發燒",
+                "懷疑",
+                "懷疑"
+            ],
+            "positive_list": [
+                "治療",
+                "穩定"
+            ],
+            "datetime": "2022-06-10 14:26"
+        }
+    ]
+}

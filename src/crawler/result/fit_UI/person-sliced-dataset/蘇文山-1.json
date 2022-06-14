@@ -1,0 +1,36 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蘇文山.png",
+    "opinions": [
+        {
+            "person": "蘇文山",
+            "verb": "表示",
+            "opinion": "去年、前年著重在防疫,今年是很多人確診染疫,導致民眾不敢逛街,商家則不敢做生意,因此這波疫情比起前2年還苦,希望中央政府能夠苦民所苦,多替店家、攤商想想辦法。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "很多",
+                "希望"
+            ],
+            "datetime": "2022-05-27 12:12"
+        },
+        {
+            "person": "蘇文山",
+            "verb": "說",
+            "opinion": "「補助先決條件說你是要先寫企劃書,很多店家攤商,他很多連智慧型手機都不會使用,你叫他們寫企劃書怎麼寫。」",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "很多",
+                "智慧",
+                "智慧"
+            ],
+            "datetime": "2022-05-27 13:30"
+        }
+    ]
+}

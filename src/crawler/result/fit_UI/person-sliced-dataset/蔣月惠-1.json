@@ -1,0 +1,27 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/蔣月惠.png",
+    "opinions": [
+        {
+            "person": "蔣月惠",
+            "verb": "說",
+            "opinion": "「是去年做統計車禍的死亡人數是30個人,比高雄少了1個人高雄是31,但是高雄的人口數是我們的兩倍。」",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "死亡"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:11"
+        },
+        {
+            "person": "蔣月惠",
+            "verb": "說",
+            "opinion": "「我醉了我醉了,屏東酒駕得第一。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 19:11"
+        }
+    ]
+}

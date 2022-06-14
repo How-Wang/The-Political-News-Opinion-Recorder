@@ -1,0 +1,88 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "李德維",
+            "verb": "說",
+            "opinion": "希望可以讓,不管是中華台北或者台灣,能夠再度回到WHA。」",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-21 07:45"
+        },
+        {
+            "person": "李德維",
+            "verb": "回應",
+            "opinion": "媒體詢問時指出,中華民國和中華人民共和國,統治的區域和範圍,本來就沒有共識,但又必須務實解決兩岸之間的問題,所以產生了所謂九二共識,就是在互相不否認的狀況之下,務實處理兩岸的事務。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "否認",
+                "沒有",
+                "問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "務實",
+                "解決",
+                "解決"
+            ],
+            "datetime": "2022-06-08 14:51"
+        },
+        {
+            "person": "李德維",
+            "verb": "說",
+            "opinion": "九二共識是過去國民黨執政、馬英九擔任總統時,可以穩定處理兩岸關係的基石。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "穩定"
+            ],
+            "datetime": "2022-06-08 14:51"
+        },
+        {
+            "person": "李德維",
+            "verb": "表示",
+            "opinion": "總統蔡英文、行政院長蘇貞昌等人,不要一味只想咒罵中國,這樣只會對農漁民有更多損害。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "咒罵",
+                "損害",
+                "不要",
+                "咒罵"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 11:09"
+        },
+        {
+            "person": "李德維",
+            "verb": "強調",
+            "opinion": "國民黨當然希望中國不要因少數民進黨的政治問題,而暫停輸入農漁產,希望保護農漁民利益。",
+            "negative_score": 4,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "暫停",
+                "不要",
+                "問題"
+            ],
+            "positive_list": [
+                "利益",
+                "希望",
+                "保護",
+                "當然",
+                "希望"
+            ],
+            "datetime": "2022-06-12 11:09"
+        }
+    ]
+}

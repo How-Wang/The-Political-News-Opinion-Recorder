@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/三鳳宮.png",
+    "opinions": [
+        {
+            "person": "三鳳宮",
+            "verb": "表示",
+            "opinion": "尊重警局的處置,這位警官剛從外縣市調到高雄不到4個月時間,除了記大過處份,相關連坐處份、降調工作都從嚴處置。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不到",
+                "處置",
+                "不到"
+            ],
+            "positive_list": [
+                "尊重",
+                "尊重"
+            ],
+            "datetime": "2022-06-03 10:57"
+        }
+    ]
+}

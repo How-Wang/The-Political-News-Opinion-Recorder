@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳添壽.png",
+    "opinions": [
+        {
+            "person": "陳添壽",
+            "verb": "說",
+            "opinion": "未來台灣石斑魚外銷可能要轉做冷凍魚,包含條凍、魚片方式外銷其他市場。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 23:17"
+        },
+        {
+            "person": "陳添壽",
+            "verb": "提到",
+            "opinion": "未來台灣石斑魚外銷可能可以轉做冷凍魚,以其他方式外銷其他市場。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 11:09"
+        }
+    ]
+}

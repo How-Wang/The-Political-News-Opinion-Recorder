@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/羅廷緯.png",
+    "opinions": [
+        {
+            "person": "羅廷緯",
+            "verb": "說",
+            "opinion": "「這樣是否屬於傳播不實訊息?」,警察局長蔡蒼柏答詢時說,「初步認定是惡假害」;衛生局長曾梓展則說確定是假消息,但只解釋觸犯條款,衛生局事後卻表示傾向不罰。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "觸犯",
+                "不實",
+                "觸犯"
+            ],
+            "positive_list": [
+                "確定",
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-02 14:16"
+        }
+    ]
+}

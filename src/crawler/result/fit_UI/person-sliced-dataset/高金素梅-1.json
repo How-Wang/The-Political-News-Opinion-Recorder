@@ -1,0 +1,21 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/高金素梅.png",
+    "opinions": [
+        {
+            "person": "高金素梅",
+            "verb": "表示",
+            "opinion": "明天會告訴大家自己的下一步,也強調,「我對朱立倫主席已經沒有期待」。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "期待",
+                "期待"
+            ],
+            "datetime": "2022-06-04 13:15"
+        }
+    ]
+}

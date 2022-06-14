@@ -1,0 +1,45 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/陳清源.png",
+    "opinions": [
+        {
+            "person": "陳清源",
+            "verb": "提到",
+            "opinion": "金管會已要求金融消費評議中心定期公告申訴及評議狀況,並提供遇有爭議的專人諮詢或服務,以維護消費者權益。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "要求",
+                "申訴"
+            ],
+            "positive_list": [
+                "權益"
+            ],
+            "datetime": "2022-05-26 14:42"
+        },
+        {
+            "person": "陳清源",
+            "verb": "表示",
+            "opinion": "目前在途保單尚有100多萬件,金管會已要求業者在6月底前核保,並供消費者查詢進度。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 14:42"
+        },
+        {
+            "person": "陳清源",
+            "verb": "表示",
+            "opinion": "另對於26日開始「快篩陽即確診」上路,金管會昨天已經正式發佈新聞稿,因為現行快篩陽性仍需要經過醫師確定,既然有經過醫師,仍然要依照契約作為理賠要件。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "正式",
+                "確定"
+            ],
+            "datetime": "2022-05-26 10:56"
+        }
+    ]
+}

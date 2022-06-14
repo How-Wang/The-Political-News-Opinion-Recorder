@@ -1,0 +1,35 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/香格里拉對話.png",
+    "opinions": [
+        {
+            "person": "香格里拉對話",
+            "verb": "說",
+            "opinion": "中強調,維護南海與東海間的台灣海峽和平與穩定至關重要,並表示,日本所在的東海仍有違反國際法、試圖靠實力片面改變現狀的行為不斷發生,日本正用堅決的態度對待。",
+            "negative_score": 3,
+            "positive_score": 5,
+            "negative_list": [
+                "不斷",
+                "違反",
+                "違反"
+            ],
+            "positive_list": [
+                "和平",
+                "重要",
+                "堅決",
+                "堅決的",
+                "穩定"
+            ],
+            "datetime": "2022-06-11 09:10"
+        },
+        {
+            "person": "香格里拉對話",
+            "verb": "認為",
+            "opinion": "俄國侵烏是一記警鐘,提醒了亞洲各國關於中國攻台的可能性。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-12 13:14"
+        }
+    ]
+}

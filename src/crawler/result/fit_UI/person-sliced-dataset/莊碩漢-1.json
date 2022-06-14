@@ -1,0 +1,30 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/莊碩漢.png",
+    "opinions": [
+        {
+            "person": "莊碩漢",
+            "verb": "表示",
+            "opinion": "韓國已經開放國門,台灣應該在疫情高峰之後也會逐漸對外開放,屆時相信台韓會恢復往日密切的實體交流。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "開放"
+            ],
+            "datetime": "2022-06-06 12:24"
+        },
+        {
+            "person": "莊碩漢",
+            "verb": "表示",
+            "opinion": "國經協會與韓國全經聯關係緊密,1968年起每年輪流在台韓兩國主辦雙邊聯席會議,搭建兩國企業界溝通管道,推動台韓經貿交流發展。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "發展"
+            ],
+            "datetime": "2022-06-06 12:24"
+        }
+    ]
+}

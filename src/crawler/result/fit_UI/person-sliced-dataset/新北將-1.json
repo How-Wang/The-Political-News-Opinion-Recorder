@@ -1,0 +1,20 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/新北將.png",
+    "opinions": [
+        {
+            "person": "新北將",
+            "verb": "提出",
+            "opinion": "完整調查報告,遭新北市府質疑是意圖「下指導棋」。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "意圖",
+                "質疑"
+            ],
+            "positive_list": [
+                "完整"
+            ],
+            "datetime": "2022-06-09 13:16"
+        }
+    ]
+}

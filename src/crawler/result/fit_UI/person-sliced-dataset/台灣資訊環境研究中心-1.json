@@ -1,0 +1,135 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/台灣資訊環境研究中心.png",
+    "opinions": [
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "25則貼文共獲7363互動、321次分享,也有1235則留言加入討論,且這些粉專跟上近期粉專經營潮流,知道貼文要用短文搭配背景,連結不能放內文、要放留言。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "知道",
+                "經營"
+            ],
+            "datetime": "2022-05-28 09:42"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "到,5月25、26日至少有25個Facebook粉專發布「很多孩子走了!」貼文,貼文內容完全相同,其中19個Facebook粉專貼文發布時間皆為15時31分,在不到10秒鐘內「群聚發文」,不只貼文內容完全相同,且貼文首則留言都是內容農場的文章連結。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 16:27"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "到,5月25、26日至少有25個Facebook粉專發布「很多孩子走了!」貼文,貼文內容完全相同,其中19個Facebook粉專貼文發布時間皆為15時31分,在不到10秒鐘內「群聚發文」,不只貼文內容完全相同,且貼文首則留言都是內容農場的文章連結。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "發現",
+            "opinion": "19個粉專貼文的發布時間集中在下午3時31分,不到10秒內就有完全相同的貼文內容,貼文首則留言也是內容農場的文章連結;25日到26日至少有25個臉書粉絲專頁出現「很多孩子走了!」貼文,貼文內容完全相同。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-28 19:30"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "「群聚發布相同內容貼文,並分享內容農場連結的這些Facebook粉專,真的有人在看。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 06:21"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "25則貼文共獲7363互動、321次分享,也有1235則留言加入討論,且這些粉專跟上近期粉專經營潮流,知道貼文要用短文搭配背景,連結不能放內文、要放留言。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "知道",
+                "經營"
+            ],
+            "datetime": "2022-05-28 14:31"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "到,5月25、26日至少有25個Facebook粉專發布「很多孩子走了!」貼文,貼文內容完全相同,其中19個Facebook粉專貼文發布時間皆為15時31分,在不到10秒鐘內「群聚發文」,不只貼文內容完全相同,且貼文首則留言都是內容農場的文章連結。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 10:57"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "說",
+            "opinion": "到,5月25、26日至少有25個Facebook粉專發布「很多孩子走了!」貼文,貼文內容完全相同,其中19個Facebook粉專貼文發布時間皆為15時31分,在不到10秒鐘內「群聚發文」,不只貼文內容完全相同,且貼文首則留言都是內容農場的文章連結。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 10:55"
+        },
+        {
+            "person": "台灣資訊環境研究中心",
+            "verb": "指出",
+            "opinion": "5月25、26日至少有25個Facebook粉專發布「很多孩子走了!」貼文,貼文內容完全相同,其中19個Facebook粉專貼文發布時間皆為15時31分,在不到10秒鐘內「群聚發文」,不只貼文內容完全相同,且貼文首則留言都是內容農場的文章連結。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不到",
+                "不到"
+            ],
+            "positive_list": [
+                "很多"
+            ],
+            "datetime": "2022-05-29 09:58"
+        }
+    ]
+}

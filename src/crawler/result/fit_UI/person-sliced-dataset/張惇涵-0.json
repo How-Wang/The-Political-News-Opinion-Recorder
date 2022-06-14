@@ -1,0 +1,925 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統上週四曾打電話給新北市醫師公會的醫師羅浚晅拜託協調基層醫師投入居家照護、遠距問診、第一線篩檢站服務的工作;蔡英文總統過去就曾經打電話給市長侯友宜,像是去年就打過,蔡英文總統關心各地防疫工作的心跟努力不會減少。",
+            "negative_score": 4,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "減少",
+                "不會",
+                "拜託"
+            ],
+            "positive_list": [
+                "努力",
+                "協調",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 19:08"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統非常關心全國防疫工作,尤其是北北基桃疫情比較嚴峻,總統有很多親自協助的部分,希望中央、地方互相合作及互相補位,讓防疫工作更好,這是總統的期待和努力的方向。",
+            "negative_score": 1,
+            "positive_score": 12,
+            "negative_list": [
+                "嚴峻"
+            ],
+            "positive_list": [
+                "合作",
+                "努力",
+                "努力的",
+                "希望",
+                "協助",
+                "很多",
+                "期待",
+                "關心",
+                "合作",
+                "希望",
+                "期待",
+                "關心"
+            ],
+            "datetime": "2022-05-22 12:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統關心全國防疫,北北基桃疫情嚴峻,就曾親自協調台大醫院及新北市醫師公會擴大醫療量能。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "嚴峻"
+            ],
+            "positive_list": [
+                "協調",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 12:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "舉例來說,總統上週4已經打給台大醫院,希望在兒童醫療部分擴大量能,同一天也打給新北市醫師公會幹部表達感謝新北基層醫療的投入並拜託多協調一些力量投入居家照顧、遠距問診、第一線篩檢站服務工作。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "希望",
+                "協調",
+                "感謝",
+                "希望",
+                "感謝"
+            ],
+            "datetime": "2022-05-22 12:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文5月19日曾打電話給新北醫師公會,協調醫護人力。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協調"
+            ],
+            "datetime": "2022-05-22 21:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "全國防疫工作蔡英文都非常關心,尤其是北北基桃,也有很多親自協助,好比週四她就打電話給台大院長,擴大兒童醫院量能,也打給新北醫師公會,拜託多協調基層醫師投入居家照顧、遠距問診等工作。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "協助",
+                "協調",
+                "很多",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 15:56"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文已在19日親自致電協調新北醫師公會投入防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "協調"
+            ],
+            "datetime": "2022-05-22 15:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "蔡英文親自拜託醫師公會幹部,醫師公會也跟指揮中心、新北市政府協調討論,中央、地方互相合作,攜手協力互相補位,大家把工作做好才是人民關心的。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "合作",
+                "協力",
+                "協調",
+                "關心",
+                "合作",
+                "關心"
+            ],
+            "datetime": "2022-05-22 10:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "相關防疫工作跟整備都很關心,只要在不影響第一線防疫工作人員狀況下,蔡英文後續都會規劃相關行程,而幕僚也會來討論。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 10:52"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "回應",
+            "opinion": "侯友宜則透過新聞局長張愛晶開嗆,一句「不要過疫情而不入」,充滿火藥味。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-22 18:04"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "「在篩檢或者是照顧,或者是問診的部分,能夠越來越便利,我想這是民眾所關心的,總統過去就曾經打電話給侯勝茂市長,像去年就有,總統關心各地的心跟努力是不會減少的。」",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "減少",
+                "不會"
+            ],
+            "positive_list": [
+                "努力",
+                "便利",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 13:08"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "總統過去就曾打給侯友宜市長,像去年就有,「總統關心各地方防疫工作的心跟努力是不會減少」。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "不會",
+                "減少",
+                "不會"
+            ],
+            "positive_list": [
+                "努力",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 18:09"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "蔡英文去年曾打電話給侯友宜表示對新北防疫關心不會少,今年疫情這麼嚴箇,有打來過嗎?對此,侯友宜並未回應,而交由新北市發言人、新聞局長張愛晶回應。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 16:31"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "全國的防疫工作,總統都非常的關心,尤其是北北基桃地區,最近疫情比較嚴峻,總統也是親自協助,終究來講,中央地方互相合作,互相補位,讓防疫工作做得更好,這是總統的期待。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "嚴峻"
+            ],
+            "positive_list": [
+                "合作",
+                "協助",
+                "期待",
+                "關心",
+                "合作",
+                "期待",
+                "關心"
+            ],
+            "datetime": "2022-05-22 11:20"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "這個時候防疫工作是最重要的,所以無論如何,中央、地方都應該要攜手合作,同心協力。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "協力",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "合作"
+            ],
+            "datetime": "2022-05-22 11:20"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "這個時候防疫工作是最重要的,所以無論如何,中央、地方都應該要攜手合作,同心協力。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "協力",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "合作"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "張惇涵分享蔡英文近日防疫的日常,強調早有通電話聯繫基層醫師,「總統親自拜託新北市醫師公會的幹部,新北市醫師公會也跟指揮中心協調,我想指揮中心也有跟新北市政府這邊做一些討論,無論如何,我想中央跟地方互相合作,攜手協力補位把防疫工作做好,才是市民、台灣人民所關心的。」",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "拜託"
+            ],
+            "positive_list": [
+                "合作",
+                "協力",
+                "協調",
+                "關心",
+                "合作",
+                "關心"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "相關的防疫工作、整備,蔡英文都非常關心,「在不影響第一線防疫人員的狀況之下,總統都會後續來規劃相關行程,幕僚也會來討論。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-22 10:47"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "全國的防疫工作,總統都非常的關心,尤其是北北基桃地區,最近疫情比較嚴峻,總統也是親自協助,終究來講,中央地方互相合作,互相補位,讓防疫工作做得更好,這是總統的期待。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "嚴峻"
+            ],
+            "positive_list": [
+                "合作",
+                "協助",
+                "期待",
+                "關心",
+                "合作",
+                "期待",
+                "關心"
+            ],
+            "datetime": "2022-05-22 10:21"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "台海及印太區域的和平穩定,不僅對於國際社會的安全繁榮不可或缺,更是區域內各成員的共同責任,台灣會持續展現自我防衛的決心,並與美國在內的理念相近國家,共同捍衛民主自由的價值,並維護區域的和平穩定與繁榮發展。",
+            "negative_score": 3,
+            "positive_score": 10,
+            "negative_list": [
+                "不可",
+                "自我",
+                "不可"
+            ],
+            "positive_list": [
+                "平穩",
+                "安全",
+                "自由",
+                "自由的",
+                "決心",
+                "和平",
+                "發展",
+                "繁榮",
+                "穩定",
+                "自由"
+            ],
+            "datetime": "2022-05-23 18:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "台灣會持續展現自我防衛的決心,並與美國在內的理念相近國家,共同捍衛民主自由的價值,並維護區域的和平穩定與繁榮發展。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "平穩",
+                "自由",
+                "自由的",
+                "決心",
+                "和平",
+                "發展",
+                "繁榮",
+                "穩定",
+                "自由"
+            ],
+            "datetime": "2022-05-23 18:14"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "台灣會持續展現自我防衛的決心,並與美國在內的理念相近國家,共同捍衛民主自由的價值,及維護區域的和平穩定與繁榮發展。",
+            "negative_score": 1,
+            "positive_score": 9,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "平穩",
+                "自由",
+                "自由的",
+                "決心",
+                "和平",
+                "發展",
+                "繁榮",
+                "穩定",
+                "自由"
+            ],
+            "datetime": "2022-05-27 06:00"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "上述案例近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 19:43"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "稍早總統接見美國聯邦參議員達克沃絲訪團時,致詞有所口誤。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:31"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府表達誠摯歡迎,雙方將就區域安全、經貿合作及台美關係等各項議題交換意見。",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "安全",
+                "誠摯",
+                "歡迎",
+                "合作",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-05-31 10:30"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "達克沃絲參議員為「參院台灣連線」成員,長年堅定力挺台灣,並多次在聯邦參議院推動或連署友台議案。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-05-31 10:30"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "去年9月時,斯洛伐克從1萬加碼到16萬,捐贈疫苗予台灣的溫暖情誼,相信台灣人民仍猶記在心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "捐贈",
+                "溫暖",
+                "溫暖"
+            ],
+            "datetime": "2022-06-05 11:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "此次訪問團由斯洛伐克國會副議長勞倫契克(MilanLaurencik)、斯國國會友台小組主席歐舒斯基議員(PeterOsusky),及布拉提斯拉瓦(Bratislava)省長德若巴(JurajDroba)共同組團。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 11:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "訪團成員也皆是堅定挺台的「台灣好朋友」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "堅定"
+            ],
+            "datetime": "2022-06-05 11:27"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "這更是全球疫情蔓延兩年多以來,斯洛伐克國會領袖及重要行政首長首度聯合組團訪台,不僅展現台斯友好關係持續深化,也充分彰顯斯洛伐克從行政部門到國會部門、從中央到地方,對於深化台斯合作連結的高度重視。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "蔓延"
+            ],
+            "positive_list": [
+                "友好",
+                "充分",
+                "合作",
+                "重要",
+                "重視",
+                "聯合",
+                "合作"
+            ],
+            "datetime": "2022-06-05 11:25"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "訪團成員也皆是堅定挺台的「台灣好朋友」,勞倫契克副議長、歐舒斯基主席,長期不遺餘力推動友台決議案。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "堅定",
+                "不遺餘力"
+            ],
+            "datetime": "2022-06-05 11:25"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府表達誠摯歡迎,總統蔡英文將在6月7日上午於總統府接見訪團,就深化兩國經貿及科技等各領域合作關係交換意見。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "誠摯",
+                "歡迎",
+                "合作",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-06-05 11:25"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "去年9月時,斯洛伐克從1萬加碼到16萬,捐贈疫苗予台灣的溫暖情誼,相信台灣人民仍猶記在心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "捐贈",
+                "溫暖",
+                "溫暖"
+            ],
+            "datetime": "2022-06-05 11:42"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "此次訪問團由斯洛伐克國會副議長勞倫契克(MilanLaurencik)、斯國國會友台小組主席歐舒斯基議員(PeterOsusky),及布拉提斯拉瓦(Bratislava)省長德若巴(JurajDroba)共同組團。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 11:42"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "這次訪問團由斯洛伐克國會副議長勞倫契克(MilanLaurencik)、斯國國會友台小組主席歐舒斯基議員(PeterOsusky),及布拉提斯拉瓦(Bratislava)省長德若巴(JurajDroba)共同組團。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 11:54"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說",
+            "opinion": "訪團成員皆是堅定挺台的「台灣好朋友」,總統7日將在總統府接見訪團,就深化兩國經貿及科技等領域合作關係交換意見。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "堅定",
+                "合作"
+            ],
+            "datetime": "2022-06-05 11:54"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "去年9月斯洛伐克捐贈疫苗予台灣,從1萬加碼到16萬,這份溫暖情誼,相信台灣人民仍猶記在心。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "相信",
+                "捐贈",
+                "溫暖",
+                "溫暖"
+            ],
+            "datetime": "2022-06-05 11:54"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "葛利歐長年力挺台灣,為支持台灣參與「世界衛生大會」(WHA)及「國際刑警組織」(INTERPOL),過去多次向法國政府提出書面及口頭質詢。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "衛生",
+                "衛生"
+            ],
+            "datetime": "2022-06-08 11:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府除表達誠摯歡迎之意,蔡總統並將在9日上午於總統府接見訪團,頒贈葛利歐「大綬卿雲勳章」,表彰並感謝他對台法國會交流的卓著貢獻。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "感謝",
+                "誠摯",
+                "歡迎",
+                "感謝",
+                "誠摯",
+                "歡迎"
+            ],
+            "datetime": "2022-06-08 11:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "此行也是葛利歐繼2018年之後,第2度訪問台灣。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:23"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "此行是繼去年10月法國參議院友台小組主席李察(AlainRichard)訪團,及去年12月法國國民議會前議長戴扈傑(FrançoisdeRugy)訪團後,在短短一年內法國國會第三度組團訪台,再次印證台法關係日益緊密友好。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "友好"
+            ],
+            "datetime": "2022-06-08 10:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "葛里歐副主席是長年力挺台灣的國際重要友人。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-08 10:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "台灣與法國為理念相近的民主夥伴,共享自由、平等、博愛與人權等普世價值,訪問團此行將就全球及區域安全情勢、科技創新、產業供應鏈及其他台法共同關注議題,與台灣各界交換意見。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "平等",
+                "安全",
+                "自由",
+                "創新",
+                "博愛",
+                "夥伴",
+                "自由",
+                "博愛"
+            ],
+            "datetime": "2022-06-08 10:49"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "台灣與法國為理念相近的民主夥伴,共享自由、平等、博愛與人權等普世價值,訪問團此行將就全球及區域安全情勢、科技創新、產業供應鏈及其他台法共同關注議題,與台灣各界交換意見。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "平等",
+                "安全",
+                "自由",
+                "創新",
+                "博愛",
+                "夥伴",
+                "自由",
+                "博愛"
+            ],
+            "datetime": "2022-06-08 10:37"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "說明",
+            "opinion": "葛里歐副主席是長年力挺台灣的國際重要友人。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "重要"
+            ],
+            "datetime": "2022-06-08 10:37"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "此行是繼去年10月法國參議院友台小組主席李察(AlainRichard)訪團,及去年12月法國國民議會前議長戴扈傑(FrançoisdeRugy)訪團後,在短短一年內法國國會第三度組團訪台,再次印證台法關係日益緊密友好。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "友好"
+            ],
+            "datetime": "2022-06-08 10:37"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統府新增1名憲兵確診案例,該名憲兵無匡列同寢密切接觸者,且近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 20:41"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統蔡英文7日接見訪問團時,全程戴口罩,目前健康狀況良好,公務行程一切正常,醫療團隊會嚴密掌握總統健康狀況。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "良好",
+                "健康",
+                "掌握",
+                "嚴密",
+                "良好"
+            ],
+            "datetime": "2022-06-09 13:42"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "按照慣例,總統府都會在相關行程後進行清消作業,落實防疫作為。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 13:42"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "強調",
+            "opinion": "總統府各項業務正常運作,並持續依照防疫指引,落實相關檢疫措施及防疫工作。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "正常"
+            ],
+            "datetime": "2022-06-09 20:32"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "指出",
+            "opinion": "總統府新增1名憲兵確診案例,該名憲兵無匡列同寢密切接觸者,且近期與總統、副總統及總統府、國安會等官員皆無接觸史。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 20:32"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "接見斯洛伐克訪問團時均按照防疫指引,全程佩戴口罩,對談時與訪團主賓間並設有隔板。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 13:28"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "按照慣例,總統府皆會在相關行程後進行清消作業,落實防疫作為。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "進行"
+            ],
+            "datetime": "2022-06-09 13:28"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統於6月7日接見斯洛伐克訪問團時,依照防疫指引,全程皆佩戴口罩,對談時與訪團主賓間並設有隔板,目前健康狀況良好,公務行程一切正常。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "良好",
+                "健康",
+                "良好"
+            ],
+            "datetime": "2022-06-09 14:42"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "總統於6月7日接見斯洛伐克訪問團時,依照防疫指引,全程皆佩戴口罩,對談時與訪團主賓間並設有隔板,目前健康狀況良好,公務行程一切正常。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "正常",
+                "良好",
+                "健康",
+                "良好"
+            ],
+            "datetime": "2022-06-09 13:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "按照慣例,總統府皆會在相關行程後進行清消作業,落實防疫作為,總統府除請外交部持續依照指揮中心指引,給予訪團妥善照顧,也祝福勞倫契克副議長及歐舒斯基主席能夠早日康復。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "給予",
+                "進行"
+            ],
+            "datetime": "2022-06-09 13:16"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "處於威權擴張主義前線的台灣,會持續堅定展現自我防衛的決心,捍衛國家安全和民主自由的生活方式,並持續與理念相近國家深化合作,致力維護台海及印太區域的和平穩定,共同強化全球民主韌性。",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "平穩",
+                "合作",
+                "安全",
+                "自由",
+                "自由的",
+                "決心",
+                "和平",
+                "堅定",
+                "穩定",
+                "合作",
+                "自由"
+            ],
+            "datetime": "2022-06-09 14:12"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "處於威權擴張主義前線的台灣,會持續堅定展現自我防衛的決心,捍衛國家安全和民主自由的生活方式,並持續與理念相近國家深化合作,致力維護台海及印太區域的和平穩定,共同強化全球民主韌性。",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "平穩",
+                "合作",
+                "安全",
+                "自由",
+                "自由的",
+                "決心",
+                "和平",
+                "堅定",
+                "穩定",
+                "合作",
+                "自由"
+            ],
+            "datetime": "2022-06-09 13:44"
+        },
+        {
+            "person": "張惇涵",
+            "verb": "表示",
+            "opinion": "處於威權擴張主義前線的台灣,會持續堅定展現自我防衛的決心,捍衛國家安全和民主自由的生活方式,並持續與理念相近國家深化合作,致力維護台海及印太區域的和平穩定,共同強化全球民主韌性。",
+            "negative_score": 1,
+            "positive_score": 11,
+            "negative_list": [
+                "自我"
+            ],
+            "positive_list": [
+                "平穩",
+                "合作",
+                "安全",
+                "自由",
+                "自由的",
+                "決心",
+                "和平",
+                "堅定",
+                "穩定",
+                "合作",
+                "自由"
+            ],
+            "datetime": "2022-06-09 13:55"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/賴嘉倫.png",
+    "opinions": [
+        {
+            "person": "賴嘉倫",
+            "verb": "說明",
+            "opinion": "時力第四波地方公職提名參選名單。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 12:50"
+        },
+        {
+            "person": "賴嘉倫",
+            "verb": "宣布",
+            "opinion": "2022年第四波地方公職參選人名單。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 11:12"
+        }
+    ]
+}

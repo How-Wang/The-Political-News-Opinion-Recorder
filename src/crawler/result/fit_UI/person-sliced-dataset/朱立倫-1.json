@@ -1,0 +1,2907 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "今天與黃健庭及黨務幹部共同召開會議,討論桃園市長提名後地方選情、各界意見及支持者心聲,他跟黃健庭也代表黨中央對所有關心桃園提名的民代、鄉親及支持者表達歉意。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-21 22:37"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "所有的責難,他都會一肩扛起,但桃園一定要贏。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 22:37"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "所有的責難他會一肩扛起,這幾天都在跟桃園的在地議員溝通,表達溝通不周的歉意,也懇請大家支持張善政,讓張善政帶領桃園發展,接下來也會用最大的誠意拜訪,希望大家團結,贏回桃園。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [
+                "希望",
+                "發展",
+                "希望"
+            ],
+            "datetime": "2022-05-21 22:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「自己只會修補市政,不懂政治,更不會操弄選舉」,似乎對不選心意已定,此後也未聽說黨中央再勸進李四川,倒是一直傳出朱屬意張善政及柯志恩參選的說法,秘書長黃健庭也未否認,但兩人會在哪裡選眾說紛紜。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "否認",
+                "不會",
+                "不懂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 08:00"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "所有的責難,他都會一肩扛起,但桃園一定要贏。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 23:11"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "今天與黃健庭及黨務幹部共同召開會議,討論桃園市長提名後地方選情、各界意見及支持者心聲,他跟黃健庭也代表黨中央對所有關心桃園提名的民代、鄉親及支持者表達歉意。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-21 23:11"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "所有的責難,他都會一肩扛起,但桃園一定要贏。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 22:38"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「自己只會修補市政,不懂政治,更不會操弄選舉」,似乎對不選心意已定,此後也未聽說黨中央再勸進李四川,倒是一直傳出朱屬意張善政及柯志恩參選的說法,秘書長黃健庭也未否認,但兩人會在哪裡選眾說紛紜。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不會",
+                "否認",
+                "不會",
+                "不懂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 09:51"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "引發桃園藍營地方反彈。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "反彈"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 20:35"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "的是,當初指羅智強不是在地人(空降)、基層議員說他弱(太弱)等理由,如今套在張善政身上也成立,宛若迴力鏢逆襲。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不是"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-21 06:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "自己是溫和、理性、中間,不像洪秀柱馬英九一樣對自己的理念寸步不讓,比較像協調者角色,朱立倫也以此為傲,覺得自己可以協調大家,是「不是那麼政治的人」。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不像",
+                "不是",
+                "不像"
+            ],
+            "positive_list": [
+                "協調",
+                "理性",
+                "溫和",
+                "為傲"
+            ],
+            "datetime": "2022-05-21 14:18"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「民進黨陣腳大亂我所知道的,民進黨現在很緊張,偏綠的朋友都還直接跟我說,我已經決定我跟我全家都要投給張善政,包括綠營的前議員都跟我這樣說。」",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "緊張",
+                "大亂",
+                "緊張"
+            ],
+            "positive_list": [
+                "決定",
+                "知道"
+            ],
+            "datetime": "2022-05-23 18:36"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "謝謝,不願回應高雄的提名問題,但對手陳其邁倒是老神在哉。",
+            "negative_score": 3,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "對手",
+                "問題"
+            ],
+            "positive_list": [
+                "謝謝"
+            ],
+            "datetime": "2022-05-23 18:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨會走到桃園各個角落,一次再一次努力溝通,自己身為桃園老縣長,先前出來選時也遭遇過不少軟釘子、閉門羹,但表達誠意最重要,議長部分、立委部分都會努力溝通,「朱立倫初次參選時被多少人擋在外面」相信最重要的是堅持信念,困難一定可克服。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "困難",
+                "遭遇",
+                "困難"
+            ],
+            "positive_list": [
+                "努力",
+                "相信",
+                "重要",
+                "重要的",
+                "堅持",
+                "最重要",
+                "最重要的",
+                "克服"
+            ],
+            "datetime": "2022-05-23 14:56"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "自己是桃園老縣長,會用最大的誠意一一去打電話登門拜訪,透過各種說法希望大家都支持張善政,「這是國民黨對桃園提出最負責任的人才」,民進黨陣腳大亂,「我們自己要定住我們心」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "大亂"
+            ],
+            "positive_list": [
+                "希望",
+                "負責",
+                "希望"
+            ],
+            "datetime": "2022-05-23 14:38"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "只有一個目標就是桃園好桃園贏。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 14:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "。」不只羅智強跟呂玉玲都很努力耕耘,有自己的組織都很肯定,「最終決定我不清楚希望能夠解決歧異點」。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "不清",
+                "不清楚",
+                "不清"
+            ],
+            "positive_list": [
+                "努力",
+                "希望",
+                "決定",
+                "肯定",
+                "清楚",
+                "解決",
+                "希望",
+                "解決"
+            ],
+            "datetime": "2022-05-23 12:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "前幾天,但考慮到那麼晚才決定的原因,是知道如果一旦答應,選舉過程的挑戰,以及順利當選的4年、8年,將來的日子都非常辛苦,每天要從早到晚為桃園鄉親打拚,但他想到自己曾在桃園工作12年,雖然是以前,但跟桃園從此結下不解之緣,現在對桃園仍有非常深的感情,這2個因素讓他想了很久,最終決定為桃園打拚。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "辛苦",
+                "挑戰"
+            ],
+            "positive_list": [
+                "考慮",
+                "決定",
+                "知道",
+                "答應",
+                "順利"
+            ],
+            "datetime": "2022-05-23 18:29"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說明",
+            "opinion": "會時表示,協調溝通做不好,代表國民黨致歉,大家對張善政都非常肯定,認為張善政是國民黨推出對桃園最負責任、最優秀人才,甚至連綠營前議員都表示支持。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "協調",
+                "肯定",
+                "負責",
+                "最優秀",
+                "優秀"
+            ],
+            "datetime": "2022-05-23 17:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨在本周和下周都會陸續提名候選人,至於苗栗縣長部分,國民黨中央及地方也正在積極協調凝聚共識當中。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "凝聚",
+                "積極"
+            ],
+            "datetime": "2022-05-23 17:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "張善政對桃園充滿情感,會用最大誠意一次再一次跟鄉親、意見領袖溝通。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-23 17:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "這段期間做重要的就是要讓桃園人看見,張善政能夠提出非常具體、明確的願景,讓桃園作為國門之都、亞洲矽谷展現出科技、數位的新形象,同時桃園的重大工程,無論是航空城、鐵路地下化或捷運建設等,許多重要工程的延宕都需要張善政以及團隊提出相關規劃,他和國民黨秘書長黃健庭也會持續跟地方溝通協調。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "明確",
+                "建設",
+                "重大",
+                "重要",
+                "重要的"
+            ],
+            "datetime": "2022-05-23 17:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "過程中協調溝通不好的地方,他代表黨致歉,「我希望所有紛擾我來扛」,希望張善政趕緊帶領所有同志們一同努力為桃園打拚。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "不好",
+                "不好"
+            ],
+            "positive_list": [
+                "努力",
+                "希望",
+                "協調",
+                "希望"
+            ],
+            "datetime": "2022-05-24 09:36"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "不該這麼軟骨頭,把責任都推到議長邱奕勝身上,如果認為強推張善政是不妥的,就應該跳出來講清楚,不要連站都不敢站出來。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "清楚"
+            ],
+            "datetime": "2022-05-24 17:22"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "桃園提名五大條件,第一、科學民調,第二、必須為桃園在地人,第三、必須是在地議員支持的人選,第四、民調要贏過陳時中,第五、要等民進黨先出牌,王世堅批評,結果這5點通通跳票,所以他鄭重呼籲朱立倫,「自己做的事情要自己承擔」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:36"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "柯文哲將見縫插針拉走一些人,但民眾黨在桃園已推出賴香伶,竹市也有高虹安備戰,這些藍營人士不太可能屈居賴高兩人之下。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不太"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 14:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "徵召張善政讓民進黨陣腳大亂,他的綠營朋友全家都投張。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "大亂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 09:17"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "自己是桃園老縣長,會用最大的誠意一一去打電話登門拜訪,透過各種說法希望大家都支持張善政,「這是國民黨對桃園提出最負責任的人才」,民進黨陣腳大亂,「我們自己要定住我們心」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "大亂"
+            ],
+            "positive_list": [
+                "希望",
+                "負責",
+                "希望"
+            ],
+            "datetime": "2022-05-24 08:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "民進黨陣腳大亂?此外,黃暐瀚也指出,在張善政接受國民黨徵召後,朱立倫透過臉書上傳的圖卡,其實隱含著2大意涵。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "大意",
+                "大亂"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-05-24 16:40"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "提名張善政絕對是正確選擇,已讓民進黨陣腳大亂。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "絕對",
+                "大亂"
+            ],
+            "positive_list": [
+                "正確"
+            ],
+            "datetime": "2022-05-24 16:40"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "會一肩扛起所有責難,近日都在和桃園在地議員溝通,盼黨內團結贏回桃園。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "責難",
+                "責難"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-24 11:15"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "雙北有侯友宜、蔣萬安,桃園有張善政,基隆則是有謝國樑,就是要展現出國民黨是最負責任的政黨,提出最優秀的人選,為台灣、中華民國打拚。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "負責",
+                "最優秀",
+                "最優秀的",
+                "優秀",
+                "優秀的"
+            ],
+            "datetime": "2022-05-25 15:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "許淑華從擔任南投市長開始,就受到鄉親的肯定,參選立委更是每次都高票當選,這次獲得地方鄉親肯定參選南投縣長,未來一定會是最好的父母官;謝國樑在基隆長大,服務鄉親獲得肯定,未來謝國樑加上新北市長侯友宜、蔣萬安、以及國民黨桃園市長參選人張善政,讓北北基桃連成一線,給市民最快樂、幸福的生活。",
+            "negative_score": 0,
+            "positive_score": 8,
+            "negative_list": [],
+            "positive_list": [
+                "快樂",
+                "幸福",
+                "幸福的",
+                "肯定",
+                "最好",
+                "獲得",
+                "快樂",
+                "幸福"
+            ],
+            "datetime": "2022-05-25 15:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "讓北北基桃連成一線,給市民最快樂、幸福的生活。",
+            "negative_score": 0,
+            "positive_score": 5,
+            "negative_list": [],
+            "positive_list": [
+                "快樂",
+                "幸福",
+                "幸福的",
+                "快樂",
+                "幸福"
+            ],
+            "datetime": "2022-05-25 15:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「北北桃有張善政院長,擔任桃園市長,侯友宜擔任新北市長,台北市蔣萬安市長,隔壁基隆有謝國樑市長,國民黨是最負責任政黨,提出最優秀同志。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "負責",
+                "最優秀",
+                "優秀"
+            ],
+            "datetime": "2022-05-25 18:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「做不好的地方,我代表黨表示致歉,我希望所有的紛擾我來扛」,但孫文學校總校長張亞中則對此批評,稱「朱立倫的道歉,到底是怎樣的道歉?」,呼籲黨中央應讓桃園回歸初選。",
+            "negative_score": 7,
+            "positive_score": 2,
+            "negative_list": [
+                "不好",
+                "批評",
+                "不好",
+                "批評",
+                "怎樣",
+                "是怎樣",
+                "道歉"
+            ],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-05-25 16:03"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "許淑華是最有戰鬥力的同志,參選立委每次都是高票當選,這次獲得南投所有鄉親認同支持,將來擔任縣長一定能成為最優秀的父母官;謝國樑則是國民黨在基隆最優秀的同志,基隆鄉親給予很多肯定,從最有價值單身男立委,到很有愛心的小愛爸爸,現在要來愛基隆,就像一位爸爸媽媽一樣,讓基隆有快樂未來。",
+            "negative_score": 1,
+            "positive_score": 17,
+            "negative_list": [
+                "戰鬥"
+            ],
+            "positive_list": [
+                "成為",
+                "有愛心",
+                "有愛心的",
+                "有價值",
+                "快樂",
+                "肯定",
+                "很多",
+                "最優秀",
+                "最優秀的",
+                "給予",
+                "愛心",
+                "優秀",
+                "優秀的",
+                "獲得",
+                "快樂",
+                "愛心",
+                "認同"
+            ],
+            "datetime": "2022-05-25 14:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "都是羞辱,甚至奇恥大辱,誰能忍?誰願意吞?黃暐瀚指出,張善政當過行政院長,還是高雄前市長韓國瑜副總統搭擋,政治經歷不能說是空白,怎麼朱立倫強行提名時,都沒想過地方會反彈?邱奕勝、呂玉玲與羅智強會不爽?事前不多想,提名之後再來公開道歉,有意思嗎?黃暐瀚認為,既然要補破網,就得展現誠意。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "羞辱",
+                "不爽",
+                "反彈",
+                "有意",
+                "沒想",
+                "道歉"
+            ],
+            "positive_list": [
+                "公開",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-05-25 14:51"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "每一個孩子的去世,不只是一個家庭的傷心事,更是整個社會的悲劇。",
+            "negative_score": 5,
+            "positive_score": 0,
+            "negative_list": [
+                "去世",
+                "悲劇",
+                "傷心",
+                "傷心事",
+                "傷心"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-26 18:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "台北市、新北市、基隆市是一個生活圈,將來有侯友宜市長、蔣萬安市長、謝國樑市長,三位一體,再加上桃園的張善政市長,北北基桃連成一線,展現出國民黨是最負責任的政黨。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "負責"
+            ],
+            "datetime": "2022-05-26 10:20"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "蔣萬安在台北擔任主帥,是最強母雞,帶領市議員同志一起打拼,台北是首都「動見觀瞻」,蔣萬安原來擔任律師,到最優秀的立委,這幾年在立法院衛環委員會,更能夠從媽媽的心情、爸爸的心情、家長的心情去關心老人、婦女、幼兒,關心我們的環境與社會。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "媽的"
+            ],
+            "positive_list": [
+                "最優秀",
+                "最優秀的",
+                "優秀",
+                "優秀的",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-26 06:31"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "基隆跟新北、台北是一個生活圈,將來新北市長侯友宜、蔣萬安跟謝國樑,還有桃園的張善政,北北基桃連成一線。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 06:31"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "提名蔣萬安選北市長、謝國樑選基隆市長,加上先前宣布徵召的張善政,盼當選後會與侯友宜形成北北基桃連線,給市民最好的生活。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-05-26 11:05"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "北北基是生活圈,「未來侯友宜市長、蔣萬安市長跟謝國樑市長,三位一體」,似乎替侯友宜提前預告將角逐連任。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 10:54"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「看到這麼多孩子,就這樣走了」,講出父母的真心話,沒有錯。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-27 20:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "政府應該負起責任,明確針對孩童疫苗施打、適合孩童的「唾液」快篩、就診就醫等問題,迅速擬定有效計畫及指引,讓家長安心。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "有效",
+                "迅速",
+                "明確",
+                "適合",
+                "安心"
+            ],
+            "datetime": "2022-05-27 20:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "是「保密到家」,就連身兼副主席的連勝文,也是在中常會前5分鐘,才知道要提名張善政參選桃園市長,認為「整個過程太倉促」。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "知道",
+                "保密"
+            ],
+            "datetime": "2022-05-27 17:31"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "若朱立倫心中已有「口袋名單」,應該先提前到高雄來拜會黨團,並與地方大老、企業人士討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 17:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "綠營朋友全家投張善政了,綠營網軍側翼應該也會投張,沒必要攪局。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "必要"
+            ],
+            "datetime": "2022-05-27 05:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「要擴大決策圈」,並邀請侯友宜、盧秀燕,以及韓國瑜加入決策團隊。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-27 05:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "立即號召全國黨公職,聲援郭彥均;如果講真話要被法辦,那就通通法辦,連他也法辦。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "他要問行政院長蘇貞昌、衛福部長陳時中,有沒有看到20名重症的孩童,有沒有同理心。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "質疑",
+            "opinion": "「十位孩子的生命算少嗎?」、「我要問問蘇貞昌院長、陳時中部長,有沒有看到20位重症的孩童?有沒有同理心?」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-28 16:17"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "痛批",
+            "opinion": "如果說真話要被法辦,那就連他也辦好了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 18:51"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "立即號召全國黨公職,通通聲援郭彥均、聲援小小孩,「如果講真話要被法辦,那就通通法辦,連我也法辦,如果憐憫孩子要被抓,就把全台灣為孩子發聲的人都抓起來」,文末更附上「很多孩子都走了」標籤。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "很多",
+                "憐憫",
+                "憐憫"
+            ],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "這是假訊息,更號召全國黨公職聲援郭彥均。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "即刻號召全國黨公職聲援郭彥均、聲援小小孩。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:53"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "幼小的生命在消逝,今天又有2位5歲、6歲孩童離去,已經有10位孩子走了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 15:53"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "質疑",
+            "opinion": "。對此,美麗島電子報董事長吳子嘉認為,朱立倫現在敲定台北及桃園市長人選,就是因為他即將出訪美國,他要給美國人交代,中華民國歷史上現在最聽美國人話的總統是蔡英文,「他要超過蔡英文,他要去聽美國人的話,他要去抱美國人的大腿」。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "超過"
+            ],
+            "positive_list": [
+                "美麗"
+            ],
+            "datetime": "2022-05-28 08:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "提名張善政代表國民黨的桃園市長參選人後,全毀了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-28 05:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "痛批",
+            "opinion": "如果說真話要被法辦,那就連他也辦好了。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 08:23"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "國民黨立即號召全國黨公職,通通聲援郭彥均。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-29 12:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "徐欣瑩可能會參與2024年立委選舉,或若參選竹北市長的立委林為洲當選後的新竹縣第1選區;另外最有「即戰力」的另一人選鄭正鈐,若要參選,則需要國民黨中央強力徵召,才能解套首屆立委任期內即參選市長的問題。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-05-30 08:20"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "空軍AT-3教練機於高雄失事墜機,沉痛哀悼,願殉職學官家屬節哀保重,軍人保家衛國、時刻艱辛、承擔風險,「我們一起支持國軍,為國軍加油!」國民黨官方粉專也發文,高雄空軍官校稍早傳出一架AT-3教練機失事意外,機上飛官少尉徐大鈞不幸殉職。",
+            "negative_score": 6,
+            "positive_score": 0,
+            "negative_list": [
+                "不幸",
+                "失事",
+                "哀悼",
+                "意外",
+                "不幸",
+                "失事"
+            ],
+            "positive_list": [],
+            "datetime": "2022-05-31 11:24"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "宣布",
+            "opinion": "徵召張善政前一刻才通知兼任中常委的邱奕勝,氣得邱向黨奕勝抵達中央黨部卻不參加中常會、退出黨部相關聯繫群組、打包黨部辦公室私人物品。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "不參加",
+                "退出",
+                "氣得"
+            ],
+            "positive_list": [
+                "參加",
+                "通知"
+            ],
+            "datetime": "2022-06-01 11:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "會以在地為優先,並以科學方法找出最強人選;且黃健庭、柯志恩也曾說會透過民調來選出最強人選,如今朱立倫提名張善政可說毫無依據,因此違背他們過去的承諾,言而無信的後果,便成了這次提名所欠缺的程序正義,造成國民黨內部炸鍋的重要原因。",
+            "negative_score": 6,
+            "positive_score": 4,
+            "negative_list": [
+                "欠缺",
+                "欠缺的",
+                "毫無",
+                "無依",
+                "違背",
+                "違背"
+            ],
+            "positive_list": [
+                "正義",
+                "承諾",
+                "重要",
+                "毫無"
+            ],
+            "datetime": "2022-06-01 05:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "這次重返美國,就是要告訴美國各界及朝野政黨,國民黨會跟全世界民主國家站在一起,「我們回來了,我們在這裡(Wearehere)!」對此,議員張之豪表示,自己特別提供3個外交詞彙、4個參訪城市,「希望藍營把過去兩年來的每一句狠話,帥氣地再講一遍,大快人心。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "特別",
+                "希望"
+            ],
+            "datetime": "2022-06-02 21:36"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "將思考要不要繼續參選桃園市長,更將提出對張善政參選的看法。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "思考"
+            ],
+            "datetime": "2022-06-02 18:05"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "自己常說沒提到名的通通來罵他,因為黨主席就是要挨罵,但是請不要罵國民黨參選人;國民黨只有在年底地方選舉勝選,在2024年團結起來,共同支持會贏的候選人,才能重返執政。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "不要",
+                "罵他"
+            ],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-06-03 16:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「瘋豬肉」,前總統馬英九說「美國只會賣武器給台灣但不會出兵」,退將、立委吳斯懷赴中聽中國國家主席習近平訓話、以及前國民黨主席洪秀柱赴新疆替中國「擦脂抹粉」,這些都是民進黨貼標籤嗎?林飛帆指出,台美關係的穩健發展有賴政府明確的以民主自由為核心的外交路線,並要感謝很多外交人員的付出。",
+            "negative_score": 2,
+            "positive_score": 8,
+            "negative_list": [
+                "不會",
+                "不會"
+            ],
+            "positive_list": [
+                "自由",
+                "明確",
+                "很多",
+                "發展",
+                "感謝",
+                "穩健",
+                "自由",
+                "感謝"
+            ],
+            "datetime": "2022-06-03 14:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "事實上這幾十年來,真正流血、流汗捍衛中華民國、保衛台灣的是國民黨,真正打過仗、站過戰場的也是國民黨,國際外交舞台上或兩岸工作上,能力爭權益的也是國民黨。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "流血",
+                "戰場"
+            ],
+            "positive_list": [
+                "真正",
+                "能力",
+                "權益"
+            ],
+            "datetime": "2022-06-03 13:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩岸保持對話、避免衝突,是為了台灣人整體安全,為了台海和平而做的努力。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "衝突",
+                "避免",
+                "衝突"
+            ],
+            "positive_list": [
+                "安全",
+                "努力",
+                "和平",
+                "避免"
+            ],
+            "datetime": "2022-06-03 13:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "民進黨貼國民黨標籤從來沒少過一天,不管今天是任何職位、立場,民進黨認為兩岸一接觸,就是親中賣台,但事實上國民黨是為了愛台灣,為了協助台灣同胞或台商、在大陸的學生,這些立場都是國民黨向來願意做的,也不怕民進黨貼標籤。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "協助",
+                "願意",
+                "願意"
+            ],
+            "datetime": "2022-06-03 13:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「民進黨貼國民黨的標籤,從來沒有少過一天,每次只要兩岸一接觸就是所謂的親中賣談,做為一個政治鬥爭的手段,覺得非常嗤之以鼻,但兩岸要對話而不要只是對抗,希望美方能夠了解我們跟對岸有溝通、交流的管道,避免衝突。」",
+            "negative_score": 11,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "鬥爭",
+                "對抗",
+                "衝突",
+                "避免",
+                "不要",
+                "沒有",
+                "鬥爭",
+                "夠了",
+                "嗤之以鼻",
+                "衝突"
+            ],
+            "positive_list": [
+                "了解",
+                "希望",
+                "避免",
+                "希望"
+            ],
+            "datetime": "2022-06-03 21:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「瘋豬肉」,其國際部主任說「美國訪賓來台沒有幫助」、馬英九前總統說「美國只會賣武器給台灣但不會出兵」,吳斯懷赴中聽中國國家主席習近平訓話、以及洪秀柱赴新疆替中國擦脂抹粉,這些都民進黨貼標籤嗎?林飛帆指出,台美關係的穩健發展有賴政府明確的以民主自由為核心的外交路線,並要感謝很多外交人員的付出。",
+            "negative_score": 4,
+            "positive_score": 10,
+            "negative_list": [
+                "不會",
+                "沒有",
+                "不會",
+                "沒有"
+            ],
+            "positive_list": [
+                "有幫助",
+                "自由",
+                "明確",
+                "很多",
+                "發展",
+                "感謝",
+                "幫助",
+                "穩健",
+                "自由",
+                "感謝"
+            ],
+            "datetime": "2022-06-03 14:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「常說沒提到名的可以通通來罵我,因為黨主席就是要挨罵」,但是請不要罵國民黨的候選人;國民黨只有在年底地方選舉勝選,在2024年團結起來,共同支持會贏的候選人,才能重返執政。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "才能"
+            ],
+            "datetime": "2022-06-03 12:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "台美關係的提升,不只民進黨,前總統馬英九過去執政也是不斷在提升,「如果2024國民黨能夠重返執政,也希望不斷能提升」。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "希望",
+                "提升",
+                "希望"
+            ],
+            "datetime": "2022-06-03 11:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "至於兩岸的保持對話避免衝突,這也是為了整體台灣的安全,民進黨要醜化國民黨,在華府也是貼標籤,「但在過去幾十年真正流血流汗、上過戰場和保衛中華民國的是國民黨」,在國際外交舞台和兩岸關係上能夠力爭權力的也是國民黨。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "流血",
+                "衝突",
+                "戰場",
+                "避免",
+                "衝突"
+            ],
+            "positive_list": [
+                "安全",
+                "真正",
+                "避免"
+            ],
+            "datetime": "2022-06-03 11:01"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨促進兩岸和平交流,除了長期的親美立場不變之外,也希望透過兩岸不斷溝通、協調的交流管道,避免戰爭與衝突發生,非常歡迎與美國有更高層級的交流,「不會因為中共的立場有任何一點退縮」;朱立倫也說,「國民黨是和平促進者,不是麻煩製造者」。",
+            "negative_score": 13,
+            "positive_score": 8,
+            "negative_list": [
+                "不會",
+                "不斷",
+                "突發",
+                "退縮",
+                "麻煩",
+                "衝突",
+                "戰爭",
+                "避免",
+                "不是",
+                "不會",
+                "退縮",
+                "麻煩",
+                "衝突"
+            ],
+            "positive_list": [
+                "希望",
+                "協調",
+                "和平",
+                "促進",
+                "避免",
+                "歡迎",
+                "希望",
+                "歡迎"
+            ],
+            "datetime": "2022-06-03 10:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「要讓美國的朋友、全世界的朋友聽到國民黨聲音,了解我們從頭到尾一致的親美立場從未改變,重返美國,告訴美國朋友WEAREHERE、WEAREBACK,是最重要的訊息。」",
+            "negative_score": 0,
+            "positive_score": 7,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "一致的",
+                "了解",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的"
+            ],
+            "datetime": "2022-06-04 19:42"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "沒被提名到的人「通通來罵朱立倫,因為主席就是要挨罵」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-04 15:38"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "痛批",
+            "opinion": "民進黨,只會用去中國化,當作政治手段,讓他非常嗤之以鼻。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "嗤之以鼻"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 11:54"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "都是「黨主席缺乏溝通,才會導致混亂局面」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "缺乏",
+                "混亂"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 14:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "時表示國民黨親美的立場不會改變,不會因中共的立場有任何一點退縮,希望台美密切合作能更提升,「國民黨是和平促進者,不會是麻煩製造者」。",
+            "negative_score": 6,
+            "positive_score": 7,
+            "negative_list": [
+                "不會",
+                "退縮",
+                "麻煩",
+                "不會",
+                "退縮",
+                "麻煩"
+            ],
+            "positive_list": [
+                "合作",
+                "希望",
+                "和平",
+                "促進",
+                "提升",
+                "合作",
+                "希望"
+            ],
+            "datetime": "2022-06-04 14:18"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "非常高興能夠與僑學界在端午節齊聚一堂,並逐一列舉上任後完成的重要工作,以及此次訪美的目標和九合一選舉進度,此番發言獲得僑胞的熱烈迴響,現場加油聲與掌聲不斷。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "不斷"
+            ],
+            "positive_list": [
+                "完成",
+                "完成的",
+                "重要",
+                "高興",
+                "熱烈",
+                "獲得",
+                "高興"
+            ],
+            "datetime": "2022-06-04 09:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨現在的困境,比不上總理當年創黨時拋頭顱、灑熱血,但民進黨執政六年來,不斷清算、凍結國民黨的黨產,「每一天我桌上的公文,又是民進黨在清算我們哪一塊的黨產」,只要發現有任何一塊錢就查封,讓國民黨動彈不得。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "不斷",
+                "困境",
+                "清算",
+                "不得"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-04 09:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "即使面對再多困難,自己仍然與國民黨的同志團結一心共同完成許多重要工作。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "困難",
+                "困難"
+            ],
+            "positive_list": [
+                "完成",
+                "重要"
+            ],
+            "datetime": "2022-06-04 09:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "批評",
+            "opinion": "為覬覦2024總統大位;但令人傻眼的是,民進黨上下猛戳朱立倫訪美與國民黨內訌,看不見執政黨的大器與格局,難道民進黨是在吃美國的飛醋嗎?按政黨倫理,政黨發展政黨外交,各政黨應當抱以祝福與期許。",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "不見",
+                "看不見",
+                "內訌",
+                "覬覦"
+            ],
+            "positive_list": [
+                "倫理",
+                "發展",
+                "期許"
+            ],
+            "datetime": "2022-06-04 06:10"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨會持續捍衛中華民國、貫徹自總理孫中山先生創黨建國以來的自由民主價值。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-05 11:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "他訪美第一站來到史丹佛大學胡佛研究所,距離他上次訪問胡佛已經3年,很高興再次見到許多老朋友,也結交許多新朋友。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-05 11:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "他已經不再想跟朱立倫對話,跟朱立倫對話沒有任何意義。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-05 10:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「沒提到你的通通來罵朱立倫,因為主席就是要挨罵,但候選人大家要支持。」",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-05 17:58"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "痛批",
+            "opinion": "他不守信用,根本是刻意欺騙,並且喊話張善政「補正程序正義」,請黨中央挑選有公信力的民調機構,做一次對比民調讓大家心服口服。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不守",
+                "欺騙",
+                "欺騙"
+            ],
+            "positive_list": [
+                "正義",
+                "信用",
+                "守信",
+                "信用"
+            ],
+            "datetime": "2022-06-05 14:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨會持續捍衛中華民國、貫徹孫中山創黨建國以來的自由民主價值,並宣稱此次訪美行程,「就是要和全世界民主國家交朋友,持續扮演穩定台海和平的重要力量!」。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "和平",
+                "和平的",
+                "重要",
+                "穩定",
+                "自由"
+            ],
+            "datetime": "2022-06-05 11:51"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "面對自由主義國際秩序面臨挑戰,國民黨會持續捍衛中華民國、貫徹我們自總理孫中山先生創黨建國以來的自由民主價值。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "自由",
+                "秩序",
+                "自由"
+            ],
+            "datetime": "2022-06-05 11:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "你的統統來罵朱立倫,因為主席就是要挨罵」,但不但立委呂玉玲回「但黨主席缺乏溝通,才會演變至此」,前台北市議員羅智強也批朱立倫「已是失格、失信也失能的領導者」,但羅智強的說法也有藍軍不表認同,先前參選立委被開除黨籍的前立委李嘉進之子李縉穎,則發文批羅智強已成了「挾聲量以自重的恐怖情人、極端分子」。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "恐怖",
+                "缺乏",
+                "開除",
+                "極端",
+                "失信",
+                "恐怖",
+                "極端"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-06-05 11:45"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "面對自由主義國際秩序面臨挑戰,國民黨會持續捍衛中華民國、貫徹創黨建國以來的自由民主價值。",
+            "negative_score": 1,
+            "positive_score": 3,
+            "negative_list": [
+                "挑戰"
+            ],
+            "positive_list": [
+                "自由",
+                "秩序",
+                "自由"
+            ],
+            "datetime": "2022-06-05 13:09"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "此次訪美之行,第一站來到史丹佛大學胡佛研究所,距離他上次訪問已過3年,很高興再次見到許多老朋友,也結交許多新朋友。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-05 13:09"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「我們給張善政一些時間看看,不行的話等我回國再說」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-06 09:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "韓國與菲律賓今年的總統選舉都有相當令人驚奇的結果,韓國選擇了保守政黨執政並準備進一步重啟核能,菲律賓也因為期待經濟發展因素選出政治世家後人,顯示民意持續改變,候選人因素也相當吃重,鄰國的民主發展,都可能多少影響台灣的選舉。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "保守"
+            ],
+            "positive_list": [
+                "令人驚奇",
+                "令人驚奇的",
+                "期待",
+                "發展",
+                "準備",
+                "驚奇",
+                "期待"
+            ],
+            "datetime": "2022-06-06 09:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "反而民進黨在諸多重要縣市,特別是北部目前還無法整合提名候選人,國民黨有信心依靠理性路線與政策願景爭取大多數民眾的支持。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "有信心",
+                "信心",
+                "重要",
+                "特別",
+                "理性",
+                "信心"
+            ],
+            "datetime": "2022-06-06 09:41"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "兩岸應該保有溝通管道、交流平台,持續交流溝通是降低衝突、降低誤解的最好方式。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "降低",
+                "誤解",
+                "衝突",
+                "衝突"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-06 08:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "國民黨駐美代表處在2008年關閉,之後華府就沒有國民黨的聲音,這次重啟代表處將能讓大家知道國民黨的立場,並呈現不同聲音。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-06 08:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "中華民國的立國精神,從國父孫中山開始就是民主自由,跟美國的民有、民治、民享,跟三民主義是一致的,可以看得出來堅定的立場到今天沒有改變。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "一致",
+                "一致的",
+                "自由",
+                "堅定",
+                "堅定的",
+                "自由"
+            ],
+            "datetime": "2022-06-06 16:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "對於兩岸,從過去的對抗、戰爭到冷戰,到現在和平的交往交流,這是國民黨一路走來的基本態度,但國民黨從來不是一個「pro-China」的政黨,這個pro被認為是「親中反美」,是民進黨貼給國民黨的標籤。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "對抗",
+                "戰爭",
+                "不是",
+                "冷戰"
+            ],
+            "positive_list": [
+                "和平",
+                "和平的"
+            ],
+            "datetime": "2022-06-06 16:47"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "南韓與菲律賓今年的總統選舉都有相當令人驚奇的結果,南韓選擇了保守政黨執政並準備進一步重啟核能、菲律賓也因為期待經濟發展因素選出政治世家後人,顯示民意持續改變,候選人因素也相當吃重,周遭國家的民主發展,也都有可能多少影響台灣的選舉。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "保守"
+            ],
+            "positive_list": [
+                "令人驚奇",
+                "令人驚奇的",
+                "期待",
+                "發展",
+                "準備",
+                "驚奇",
+                "期待"
+            ],
+            "datetime": "2022-06-06 12:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "國民黨的選情審慎樂觀,反而是民進黨在北部目前還無法整合提名候選人,國民黨有信心依靠理性路線與政策願景爭取大多數民眾支持。",
+            "negative_score": 2,
+            "positive_score": 7,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "有信心",
+                "信心",
+                "理性",
+                "審慎",
+                "樂觀",
+                "信心",
+                "樂觀"
+            ],
+            "datetime": "2022-06-06 12:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "這次訪美就是希望透過重啟駐美代表處,擴大與美方各界的溝通,才能更完整呈現台灣內部整體的聲音,不為少數人或特定政黨壟斷,他也期待這樣的作為可以提供台灣研究者更平衡的視角。",
+            "negative_score": 3,
+            "positive_score": 8,
+            "negative_list": [
+                "不為",
+                "壟斷",
+                "壟斷"
+            ],
+            "positive_list": [
+                "才能",
+                "平衡",
+                "完整",
+                "希望",
+                "期待",
+                "平衡",
+                "希望",
+                "期待"
+            ],
+            "datetime": "2022-06-06 12:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "韓國與菲律賓今年的總統選舉都有相當令人驚奇的結果,韓國選擇了保守政黨執政並準備進一步重啟核能,菲律賓也因為期待經濟發展因素選出政治世家後人,顯示民意持續改變,候選人因素也相當吃重,鄰國的民主發展,都可能多少影響台灣的選舉。",
+            "negative_score": 1,
+            "positive_score": 7,
+            "negative_list": [
+                "保守"
+            ],
+            "positive_list": [
+                "令人驚奇",
+                "令人驚奇的",
+                "期待",
+                "發展",
+                "準備",
+                "驚奇",
+                "期待"
+            ],
+            "datetime": "2022-06-06 09:19"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "反而民進黨在諸多重要縣市,特別是北部目前還無法整合提名候選人,國民黨有信心依靠理性路線與政策願景爭取大多數民眾的支持。",
+            "negative_score": 2,
+            "positive_score": 6,
+            "negative_list": [
+                "無法",
+                "無法"
+            ],
+            "positive_list": [
+                "有信心",
+                "信心",
+                "重要",
+                "特別",
+                "理性",
+                "信心"
+            ],
+            "datetime": "2022-06-06 09:19"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "兩岸應該保有溝通管道、交流平台,持續交流溝通是降低衝突、降低誤解的最好方式。",
+            "negative_score": 4,
+            "positive_score": 1,
+            "negative_list": [
+                "降低",
+                "誤解",
+                "衝突",
+                "衝突"
+            ],
+            "positive_list": [
+                "最好"
+            ],
+            "datetime": "2022-06-06 07:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "國民黨駐美代表處在2008年關閉,之後華府就沒有國民黨的聲音,這次重啟代表處將能讓大家知道國民黨的立場,並呈現不同聲音。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "知道"
+            ],
+            "datetime": "2022-06-06 07:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "重啟駐美代表處,是希望讓大家看到國民黨願意跟美國走在一起、站在一起的決心,而在台北中央黨部也有國際事務部,隨時支援華府,讓美方的朋友看到、聽到國民黨。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "支援",
+                "希望",
+                "決心",
+                "願意",
+                "希望",
+                "願意"
+            ],
+            "datetime": "2022-06-06 13:27"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識是沒有共識的共識,國民黨內部為他緩頰,強調九二共識要不要維持,以後可以一起討論。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "不要",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 13:22"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "「國民黨是親美的」,遭中國官媒環球時報前總編胡錫進批評,「百年爛黨將被台泡沫化」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "批評",
+                "批評"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 11:18"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨不親中,還稱九二共識是「沒有共識的共識」,讓中國官煤環球時報前總編輯胡錫進痛批國民黨是「百年爛黨」,讓九二共識議題再度掀起熱議。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-08 17:46"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "國民黨是與美國擁有緊密連結的親美政黨等語,李德維對此表示,其實沒有問題,但的確是有人帶風向,帶成是朱立倫否定國民黨過去對於九二共識的想法和立論,被曲解了,這部分講清楚就好。",
+            "negative_score": 7,
+            "positive_score": 3,
+            "negative_list": [
+                "曲解",
+                "否定",
+                "沒有",
+                "問題",
+                "有問題",
+                "沒有",
+                "問題"
+            ],
+            "positive_list": [
+                "的確",
+                "清楚",
+                "擁有"
+            ],
+            "datetime": "2022-06-08 16:40"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "認為",
+            "opinion": "柯志恩形象好,經歷豐富,是不錯的人選。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "豐富"
+            ],
+            "datetime": "2022-06-09 16:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「絕無可能」,過去幾次選舉也都有人勸進他,但他太太堅決反對,必須要尊重太太的決定,如果他要選,早就選了。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "反對",
+                "無可"
+            ],
+            "positive_list": [
+                "決定",
+                "堅決",
+                "尊重",
+                "絕無",
+                "尊重"
+            ],
+            "datetime": "2022-06-09 11:58"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨會透過民調與地方訪談,從目前有意願或潛在候選人中找出最能獲得選民認同的,也會跟地方協調溝通,團結一致推出最好的人選。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "有意"
+            ],
+            "positive_list": [
+                "一致",
+                "協調",
+                "最好",
+                "獲得",
+                "認同"
+            ],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨一向是親美政黨,而非如外界錯誤標籤的親中;他奉勸北京,軍機擾台等強硬作法只會激起台灣民眾反感。",
+            "negative_score": 3,
+            "positive_score": 0,
+            "negative_list": [
+                "反感",
+                "錯誤",
+                "反感"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩岸應該要透過溝通對話交流,能夠大家提升善意、求同存異,甚至進一步能夠相互尊重不同點,這才是努力的目標。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "尊重",
+                "提升",
+                "善意",
+                "尊重"
+            ],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "訪團除跟美國行政部門見面外,也跟國會、學界與智庫會面,智庫當中有傾民主黨的,也包含傾共和黨的,國會也是兩黨議員都見。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "可以感受到美方對台灣的支持,尤其是非常重視安全議題;美方也很關心國民黨的態度,他們堅定表達國民黨捍衛台灣的決心,畢竟是中華民國創建的政黨,國民黨一定守護中華民國,守護民主自由,這樣的立場大家都能接受。",
+            "negative_score": 0,
+            "positive_score": 9,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "自由",
+                "決心",
+                "重視",
+                "堅定",
+                "接受",
+                "關心",
+                "自由",
+                "關心"
+            ],
+            "datetime": "2022-06-09 08:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "自國民黨14年前關閉駐美代表處以來,世界首都華府就聽不見國民黨的聲音。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不見"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 04:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨是捍衛台灣的政黨,是保護台灣民主的政黨,也是為和平、安全與繁榮奮戰的政黨。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "和平",
+                "保護",
+                "繁榮"
+            ],
+            "datetime": "2022-06-09 04:07"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "柯志恩,要她慎重考慮,而她建議朱立倫回國後,也可以多跑幾趟高雄,先了解議員等在地想法,整合、參考各方意見。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "考慮",
+                "慎重"
+            ],
+            "datetime": "2022-06-09 15:50"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "柯志恩,要她慎重考慮,而她建議朱立倫回國後,也可以多跑幾趟高雄,先了解議員等在地想法,整合、參考各方意見。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "考慮",
+                "慎重"
+            ],
+            "datetime": "2022-06-09 14:49"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "美方清楚知道國民黨一直與民主自由站在一起,親美是絕對不會改變的立場。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "不會",
+                "絕對",
+                "不會"
+            ],
+            "positive_list": [
+                "自由",
+                "知道",
+                "清楚",
+                "自由"
+            ],
+            "datetime": "2022-06-09 11:43"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "侯友宜領導新北市政非常獲市民肯定,任何事情誠心誠意面對,一定會獲得市民認同。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "獲得",
+                "誠心誠意",
+                "認同"
+            ],
+            "datetime": "2022-06-09 11:02"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "提名過程還是會跟地方溝通協調,黨秘書長黃健庭正與高雄地區積極溝通協調,黨最後一定會團結一致、推出最好的高雄市長候選人。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "協調",
+                "最好",
+                "積極"
+            ],
+            "datetime": "2022-06-09 10:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩人現在都在議會總質詢期間,也還有防疫工作,「會尊重兩人認為最適當時間,來做相關提名工作。」",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "尊重",
+                "適當",
+                "尊重"
+            ],
+            "datetime": "2022-06-09 10:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "侯友宜領導新北市政非常獲市民肯定,任何事情誠心誠意面對,一定會獲得市民認同。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "獲得",
+                "誠心誠意",
+                "認同"
+            ],
+            "datetime": "2022-06-09 10:48"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩岸應該要透過溝通對話交流,能夠大家提升善意、求同存異,甚至進一步能夠相互尊重不同點,這才是努力的目標。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "努力",
+                "努力的",
+                "尊重",
+                "提升",
+                "善意",
+                "尊重"
+            ],
+            "datetime": "2022-06-09 10:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨設立駐美代表處,「大家都很恭喜,大家都很歡迎」,至於部分人認為國民黨是親中政黨,但美國把中國視為戰略競爭對手,國民黨重設駐美代表處,打算如何經營與美方關係?朱立倫回應,打從國父孫中山創黨以來一直到今日,國民黨都是親美、挺民主、挺和平、挺安全與挺繁榮的政黨,從來都不是外界錯誤標籤的親中。",
+            "negative_score": 4,
+            "positive_score": 8,
+            "negative_list": [
+                "對手",
+                "錯誤",
+                "競爭",
+                "不是"
+            ],
+            "positive_list": [
+                "安全",
+                "和平",
+                "恭喜",
+                "經營",
+                "繁榮",
+                "繁榮的",
+                "歡迎",
+                "歡迎"
+            ],
+            "datetime": "2022-06-09 10:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "朱立倫擔任黨主席,其這局決策要有一定的信賴度,不管用初選、用民調、用徵召,各種方案最重要的是要能夠說服大家。",
+            "negative_score": 1,
+            "positive_score": 6,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "信賴",
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "說服"
+            ],
+            "datetime": "2022-06-09 10:00"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「九二共識」為兩岸創造性的模糊,是「沒有共識的共識」,引發爭議。",
+            "negative_score": 3,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性",
+                "創造性的"
+            ],
+            "datetime": "2022-06-09 09:55"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨是捍衛台灣的政黨,是保護台灣民主的政黨,也是為和平、安全與繁榮奮戰的政黨。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "和平",
+                "保護",
+                "繁榮"
+            ],
+            "datetime": "2022-06-09 05:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "自國民黨14年前關閉駐美代表處以來,世界首都華府就聽不見國民黨的聲音。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不見"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 05:16"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "柯志恩,要她慎重考慮,而她建議朱立倫回國後,也可以多跑幾趟高雄,先了解議員等在地想法,整合、參考各方意見。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "了解",
+                "考慮",
+                "慎重"
+            ],
+            "datetime": "2022-06-09 15:15"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「16年前國民黨駐美代表處關了,首都華盛頓就再也沒有,國民黨的聲音,所以這次我們回來了,我們在這裡我們回來了。」",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 18:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "兩岸的事是兩岸同胞的家裡事,應該由家裡人商量著辦。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-09 17:45"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「高雄有很多人提到你,你要好好思考一下,要慎重考慮」。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "考慮",
+                "很多",
+                "思考",
+                "慎重"
+            ],
+            "datetime": "2022-06-09 16:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "「絕無可能」,過去有好幾次機會,上一屆、上上屆都有人勸他出來選,但太太堅決反對,所以自己才會說,要選早就選了。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "反對",
+                "無可"
+            ],
+            "positive_list": [
+                "堅決",
+                "絕無",
+                "機會"
+            ],
+            "datetime": "2022-06-09 10:17"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "自國民黨14年前關閉駐美代表處以來,世界首都華府就聽不見國民黨的聲音。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "不見"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-09 07:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨是捍衛台灣的政黨,是保護台灣民主的政黨,也是為和平、安全與繁榮奮戰的政黨。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "安全",
+                "和平",
+                "保護",
+                "繁榮"
+            ],
+            "datetime": "2022-06-09 07:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "國民黨親美而非親中,承認九二共識是「沒有共識的共識」,引起關注。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "承認"
+            ],
+            "datetime": "2022-06-09 18:06"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨在華府一直沒有代表,如今這樣的空缺被填上了,重設駐美辦公室有助於重建在台灣的中華民國,未來與美國的信任與合作。",
+            "negative_score": 2,
+            "positive_score": 4,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "合作",
+                "有助",
+                "信任",
+                "合作"
+            ],
+            "datetime": "2022-06-09 11:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨會積極徵詢並與地方協調,推出最好候選人,他也強調,國民黨桃園市長提名人張善政從被提名至今,每次民調支持度都勝過民進黨潛在人選。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "協調",
+                "最好",
+                "勝過",
+                "積極"
+            ],
+            "datetime": "2022-06-09 11:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "回應",
+            "opinion": "藍白合作的話題,只說「現在談2024實在太早了」。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "合作",
+                "合作的",
+                "實在",
+                "合作"
+            ],
+            "datetime": "2022-06-09 11:26"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "指出",
+            "opinion": "對於兩岸關係,他要強調國民黨中央黨部門口高掛的標語正是「護台灣,保民主,拚未來」。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "利用在旅館的時間,和來自哈佛大學費正清中國研究中心的教授戈迪溫等人透過視訊見面,共同探討台海局勢、兩岸政策及年底選舉議題。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "很高興在緊湊的行程中,也能利用在旅館的時間坐下來和老朋友們見面,讓更多人聽見國民黨的聲音。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "利用"
+            ],
+            "positive_list": [
+                "高興",
+                "高興"
+            ],
+            "datetime": "2022-06-10 13:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "在國內選舉方面,國民黨在地方執政縣市是多數黨,也都繳出亮麗的治理成績單。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-10 13:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "在全球地緣政治風險上升的今天,台灣要有穩健策略:透過同時加強自我防衛(defense)和不放棄對話(dialogue),有原則地交流溝通(principledengagement),來降低台海衝突風險並減少意外和誤判,才是對區域和平與兩岸人民福祉最好的做法。",
+            "negative_score": 7,
+            "positive_score": 4,
+            "negative_list": [
+                "自我",
+                "放棄",
+                "降低",
+                "減少",
+                "意外",
+                "衝突",
+                "衝突"
+            ],
+            "positive_list": [
+                "和平",
+                "最好",
+                "穩健",
+                "福祉"
+            ],
+            "datetime": "2022-06-10 13:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "大家在孫中山銅像前鞠躬獻花,是對國民黨總理最高的敬意與緬懷,期許大家以孫中山遺志為共同目標,以孫中山的精神做為精神,現在國民黨再辛苦、再困難,也沒有比當年更辛苦、困難,只要大家團結努力,一定可以重返執政。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "困難",
+                "沒有",
+                "辛苦",
+                "困難",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "最高",
+                "最高的",
+                "期許"
+            ],
+            "datetime": "2022-06-10 12:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨一直與美方關係密切,堅定支持民主自由的立場;而他也否認此行與2024年大選有關,此行是宣示國民黨重返華府,進行政黨外交。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "否認"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "堅定",
+                "進行",
+                "自由"
+            ],
+            "datetime": "2022-06-10 12:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "很欣慰朱熹敦儒立倫氏子孫在美國發展得很好,他是北宋詞人朱敦儒第29代孫,雖然自己沒有像祖先學問那麼好,但總是很高興有朱熹敦儒立倫家大儒朱熹等歷代祖先,每一位都才高八斗,朱熹敦儒立倫家最重要的傳承就是忠孝,希望這樣的精神可以不斷傳承下去。",
+            "negative_score": 3,
+            "positive_score": 10,
+            "negative_list": [
+                "不斷",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "很好",
+                "重要",
+                "重要的",
+                "高興",
+                "最重要",
+                "最重要的",
+                "發展",
+                "希望",
+                "高興"
+            ],
+            "datetime": "2022-06-10 12:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "自己不選2024,黃暐瀚也暗指2024朱立倫要扶植侯友宜。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "暗指"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 16:12"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "大家在孫中山銅像前鞠躬獻花,是對國民黨總理最高的敬意與緬懷,期許大家以孫中山遺志為共同目標,以孫中山的精神做為精神,現在國民黨再辛苦、再困難,也沒有比當年更辛苦、困難,只要大家團結努力,一定可以重返執政。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "困難",
+                "沒有",
+                "辛苦",
+                "困難",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "最高",
+                "最高的",
+                "期許"
+            ],
+            "datetime": "2022-06-10 12:35"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨一直與美方關係密切,堅定支持民主自由的立場;而他也否認此行與2024年大選有關,此行是宣示國民黨重返華府,進行政黨外交。",
+            "negative_score": 1,
+            "positive_score": 5,
+            "negative_list": [
+                "否認"
+            ],
+            "positive_list": [
+                "自由",
+                "自由的",
+                "堅定",
+                "進行",
+                "自由"
+            ],
+            "datetime": "2022-06-10 12:35"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "很欣慰朱熹敦儒立倫氏子孫在美國發展得很好,他是北宋詞人朱敦儒第29代孫,雖然自己沒有像祖先學問那麼好,但總是很高興有朱熹敦儒立倫家大儒朱熹等歷代祖先,每一位都才高八斗,朱熹敦儒立倫家最重要的傳承就是忠孝,希望這樣的精神可以不斷傳承下去。",
+            "negative_score": 3,
+            "positive_score": 10,
+            "negative_list": [
+                "不斷",
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [
+                "希望",
+                "很好",
+                "重要",
+                "重要的",
+                "高興",
+                "最重要",
+                "最重要的",
+                "發展",
+                "希望",
+                "高興"
+            ],
+            "datetime": "2022-06-10 12:35"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "侯友宜領導新北市政非常獲市民肯定,任何事情誠心誠意面對,一定會獲得市民認同。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "肯定",
+                "獲得",
+                "誠心誠意",
+                "認同"
+            ],
+            "datetime": "2022-06-10 12:08"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "大家在孫中山銅像前鞠躬獻花,是對國民黨總理最高的敬意與緬懷,期許所有同志以總理遺志為共同目標,以總理的精神做為精神,現在國民黨再辛苦、再困難,也沒有比當年總理更辛苦、更困難,只要大家團結努力,一定可以重返執政。",
+            "negative_score": 5,
+            "positive_score": 4,
+            "negative_list": [
+                "困難",
+                "沒有",
+                "辛苦",
+                "困難",
+                "沒有"
+            ],
+            "positive_list": [
+                "努力",
+                "最高",
+                "最高的",
+                "期許"
+            ],
+            "datetime": "2022-06-10 09:55"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "「九二共識就像美國的一中政策,是沒有共識的共識」是創造性模糊,被國台辦以「九二共識有白紙黑字,不容任意扭曲」回應。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "任意",
+                "扭曲",
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-10 09:13"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "法,坦白講比較接近1992年兩岸兩會香港會談的歷史事實。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "坦白"
+            ],
+            "datetime": "2022-06-10 15:32"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "提到",
+            "opinion": "國民黨親美不親中,更稱「九二共識是沒有共識的共識」。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "沒有",
+                "沒有"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 15:32"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "真的,辯解也沒用,只是會招來更多的謾罵。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "辯解",
+                "沒用"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-10 05:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨一定要團結、爭取更多中間選民支持。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:42"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨非常重視縣市長,尤其是六都提名,要爭取最多中間選民認同,不管是北市蔣萬安、新北侯友宜、桃園張善政,台中盧秀燕,台南提名謝龍介,每一位都強棒,爭取最多市民支持。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "不管"
+            ],
+            "positive_list": [
+                "重視",
+                "認同"
+            ],
+            "datetime": "2022-06-11 10:32"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨要爭取最多中間選民認同,回台後會提名高雄市長人選,還反嗆民進黨擴大藍營矛盾。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "矛盾",
+                "矛盾"
+            ],
+            "positive_list": [
+                "認同"
+            ],
+            "datetime": "2022-06-11 10:32"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "呼籲",
+            "opinion": "僑界在今年底選舉一定要發揮影響力,支持所有國民黨提名的候選人,2024年大選也一定要團結,國民黨會推出最強的候選人,「朱立倫保證無私無我」,只要國民黨贏,就是中華民國贏,呼籲大家不要再有個人的想法,團結一致才能讓國民黨重返執政,才是幫助中華民國與台灣。",
+            "negative_score": 1,
+            "positive_score": 4,
+            "negative_list": [
+                "不要"
+            ],
+            "positive_list": [
+                "一致",
+                "才能",
+                "保證",
+                "幫助"
+            ],
+            "datetime": "2022-06-11 15:45"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "國民黨被民進黨清算鬥爭後,雖然已經完全沒有任何一分黨產、沒有一塊錢,但依然有決心,千千萬萬的僑界朋友,可以幫助國民黨連結美國朋友支持。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "沒有",
+                "鬥爭",
+                "清算",
+                "沒有",
+                "鬥爭"
+            ],
+            "positive_list": [
+                "有決心",
+                "決心",
+                "幫助"
+            ],
+            "datetime": "2022-06-11 15:45"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "出,若她民調最高,「我就認了」。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "最高"
+            ],
+            "datetime": "2022-06-11 12:36"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "返台之後,盡力將黨內不同意見逐步消弭,最後整合團結,力拚年底勝選,「我們不像民進黨派系這麼複雜、有那麼多問題」,國民黨只有一派,就是通通國民黨派、通通正藍軍,「都要團結在一起」。",
+            "negative_score": 7,
+            "positive_score": 1,
+            "negative_list": [
+                "不同意",
+                "不像",
+                "派系",
+                "問題",
+                "複雜",
+                "不像",
+                "問題"
+            ],
+            "positive_list": [
+                "同意"
+            ],
+            "datetime": "2022-06-11 09:57"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "強調",
+            "opinion": "國民黨重返美國,會永遠和民主自由站一起,刻意迴避相關問題。",
+            "negative_score": 2,
+            "positive_score": 2,
+            "negative_list": [
+                "問題",
+                "問題"
+            ],
+            "positive_list": [
+                "自由",
+                "自由"
+            ],
+            "datetime": "2022-06-12 13:00"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "隔離期間仍可透過視訊、線上會議方式溝通,可以開中常會,返國後會優先處理黨務工作,也談到這段時間秘書長很辛苦,待會會與秘書長討論。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "辛苦",
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:21"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "「我們都已經chcekin了,才發覺突然宣布了(3+4居家檢疫),好像這樣子的話,變成我們檢疫的時間,比15日回來還要多,當然也沒辦法,政府的規定就是如此啊,不過聽到很多人抱怨,剛剛在飛機上很多人抱怨。」",
+            "negative_score": 4,
+            "positive_score": 3,
+            "negative_list": [
+                "抱怨",
+                "突然",
+                "沒辦法",
+                "抱怨"
+            ],
+            "positive_list": [
+                "很多",
+                "發覺",
+                "當然"
+            ],
+            "datetime": "2022-06-12 08:34"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "痛批",
+            "opinion": "破壞程序正義,並獻出「三策」,擬要國民黨桃園市長參選人張善政同意回歸初選,但最後仍自行宣布退出參選桃園市長。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "破壞",
+                "退出",
+                "破壞"
+            ],
+            "positive_list": [
+                "正義",
+                "同意"
+            ],
+            "datetime": "2022-06-12 16:51"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "說",
+            "opinion": "他們在美國登機報到才知道這件事情,檢疫時間竟然比15日回國者還多天,但沒辦法,政府規定就是如此,飛機上也很多人抱怨此事。",
+            "negative_score": 4,
+            "positive_score": 2,
+            "negative_list": [
+                "抱怨",
+                "沒辦法",
+                "抱怨",
+                "竟然"
+            ],
+            "positive_list": [
+                "知道",
+                "很多"
+            ],
+            "datetime": "2022-06-12 10:46"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "雖然入境需要隔離,但仍可以透過視訊、線上會議方式溝通,也可以開中常會。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "隔離"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-12 10:46"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "九二共識是「沒有共識的共識」,是「創造性模糊」,在沒有更好的方案以前,還是用這樣的方式持續交流。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "模糊",
+                "沒有"
+            ],
+            "positive_list": [
+                "創造",
+                "創造性"
+            ],
+            "datetime": "2022-06-12 06:30"
+        },
+        {
+            "person": "朱立倫",
+            "verb": "表示",
+            "opinion": "國民黨一向是親美政黨,而非如外界錯誤標籤的親中;國民黨都是親美、挺民主、挺和平、挺安全與挺繁榮的政黨,他也奉勸北京,軍機擾台等強硬作法只會激起台灣民眾反感。",
+            "negative_score": 3,
+            "positive_score": 4,
+            "negative_list": [
+                "反感",
+                "錯誤",
+                "反感"
+            ],
+            "positive_list": [
+                "安全",
+                "和平",
+                "繁榮",
+                "繁榮的"
+            ],
+            "datetime": "2022-06-12 06:30"
+        }
+    ]
+}

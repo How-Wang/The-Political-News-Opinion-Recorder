@@ -1,0 +1,31 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "楊植斗",
+            "verb": "說",
+            "opinion": "自己和黨中央一起打過罷免陳柏惟以及四大公投的戰役,也盡力運用自己的職務來監督民進黨。",
+            "negative_score": 1,
+            "positive_score": 0,
+            "negative_list": [
+                "戰役"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-07 15:16"
+        },
+        {
+            "person": "楊植斗",
+            "verb": "提到",
+            "opinion": "看到媒體報導,有不具名的黨內人士指出,黨中央有既定的選戰基調,像立委蔣萬安、新北市長侯友宜、前行政院長張善政及前立委謝國樑,都是走中間、理性且支持自由民主價值的參選人。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "自由",
+                "理性",
+                "自由"
+            ],
+            "datetime": "2022-06-07 15:16"
+        }
+    ]
+}

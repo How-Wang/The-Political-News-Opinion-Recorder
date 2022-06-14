@@ -1,0 +1,117 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/劉建忻.png",
+    "opinions": [
+        {
+            "person": "劉建忻",
+            "verb": "表示",
+            "opinion": "證書數位化可以創造「使用者存取便利、驗證者即時查驗、管理者優化管理」的三贏局面。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "便利",
+                "創造",
+                "管理"
+            ],
+            "datetime": "2022-05-26 15:18"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "提出",
+            "opinion": "「國家考試及格證書數位化辦理情形」專案報告;考試院長黃榮村期許,未來推動證書數位化的各項設計,都要以「簡政便民」為最高原則,以提升考試院證書服務品質。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "最高",
+                "提升",
+                "期許"
+            ],
+            "datetime": "2022-05-26 15:18"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "指出",
+            "opinion": "國家考試及格證書數位化將分兩階段推動。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "及格"
+            ],
+            "datetime": "2022-05-26 15:18"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "表示",
+            "opinion": "證書數位化可以創造「使用者存取便利、驗證者即時查驗、管理者優化管理」的三贏局面,對於「使用者」而言,可視需要隨時重複下載,不必擔心遺失保管的問題。",
+            "negative_score": 5,
+            "positive_score": 3,
+            "negative_list": [
+                "問題",
+                "擔心",
+                "遺失",
+                "問題",
+                "擔心"
+            ],
+            "positive_list": [
+                "便利",
+                "創造",
+                "管理"
+            ],
+            "datetime": "2022-05-26 13:06"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "表示",
+            "opinion": "考試院將從兩階段推動國家考試及格證書數位化,今年8月1日以後會推動試行階段,訓練期滿或結訓的考試及格公務人員、升官等訓練合格人員,將開始領取電子證書;2023年起則為全面實施階段,各種國家考試類別都以發給電子證書為原則。",
+            "negative_score": 0,
+            "positive_score": 4,
+            "negative_list": [],
+            "positive_list": [
+                "及格",
+                "全面",
+                "合格",
+                "訓練"
+            ],
+            "datetime": "2022-05-26 13:06"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "提出",
+            "opinion": "專案報告,與會的考試委員也就證書數位化推動多所討論。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-26 13:06"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "指出",
+            "opinion": "國家考試及格證書數位化將分2階段推動。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "及格"
+            ],
+            "datetime": "2022-05-26 15:33"
+        },
+        {
+            "person": "劉建忻",
+            "verb": "表示",
+            "opinion": "證書數位化可以創造「使用者存取便利、驗證者即時查驗、管理者優化管理」的三贏局面。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "便利",
+                "創造",
+                "管理"
+            ],
+            "datetime": "2022-05-26 15:33"
+        }
+    ]
+}

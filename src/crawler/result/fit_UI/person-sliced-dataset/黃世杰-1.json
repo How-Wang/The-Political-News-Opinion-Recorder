@@ -1,0 +1,130 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "黃世杰",
+            "verb": "說",
+            "opinion": "國民黨提名張善政是國民黨的家務事,民進黨目前相關縣市長提名作業並未有任何新進度,更遑論什麼點頭參選,相關報導前應先行查證,也避免影響縣市長防疫工作。",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "避免"
+            ],
+            "positive_list": [
+                "避免"
+            ],
+            "datetime": "2022-05-24 20:35"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "表示",
+            "opinion": "現階段國人最關心的就是疫情的變化,桃園市長鄭文燦與新竹市長林智堅目前都以防疫為優先,這也是民進黨政府目前最重要的工作。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 20:23"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "表示",
+            "opinion": "目前防疫優先,民進黨目前相關縣市長提名作業並未有任何新進度,相關報導前應先行查證。",
+            "negative_score": 0,
+            "positive_score": 0,
+            "negative_list": [],
+            "positive_list": [],
+            "datetime": "2022-05-24 20:23"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "表示",
+            "opinion": "現階段國人最關心的就是疫情的變化,桃園市長鄭文燦與新竹市長林智堅目前都以防疫為優先,這也是民進黨政府目前最重要的工作。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "重要",
+                "重要的",
+                "最重要",
+                "最重要的",
+                "關心",
+                "關心"
+            ],
+            "datetime": "2022-05-24 19:35"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "提出",
+            "opinion": "修正動議,改為人權委員會進行調查時,得先以書面要求各政府機關構、公法人說明或提供相關資料。",
+            "negative_score": 1,
+            "positive_score": 2,
+            "negative_list": [
+                "要求"
+            ],
+            "positive_list": [
+                "進行",
+                "說明"
+            ],
+            "datetime": "2022-05-26 19:14"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "提到",
+            "opinion": "是否選擇換軌,牽涉到對於舊制的信心及對新制的期待,新舊制各有優劣,不一定哪個就比較好,因此銓敘部、教育部要準備好相關數字資料,未來協商時才有辦法討論,做出一個讓大家都滿意的決定。",
+            "negative_score": 0,
+            "positive_score": 11,
+            "negative_list": [],
+            "positive_list": [
+                "比較好",
+                "決定",
+                "信心",
+                "期待",
+                "準備",
+                "較好",
+                "滿意",
+                "滿意的",
+                "信心",
+                "期待",
+                "滿意"
+            ],
+            "datetime": "2022-05-26 13:21"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "強調",
+            "opinion": "下個會期將力推相關修法,讓資源到位、守護孩子的權益。",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "資源",
+                "權益"
+            ],
+            "datetime": "2022-06-01 12:38"
+        },
+        {
+            "person": "黃世杰",
+            "verb": "呼籲",
+            "opinion": "新北市府回頭是岸,趕快檢討相關環節有哪些錯誤並改進,避免悲劇再次發生。",
+            "negative_score": 3,
+            "positive_score": 2,
+            "negative_list": [
+                "悲劇",
+                "錯誤",
+                "避免"
+            ],
+            "positive_list": [
+                "改進",
+                "避免"
+            ],
+            "datetime": "2022-06-08 12:36"
+        }
+    ]
+}

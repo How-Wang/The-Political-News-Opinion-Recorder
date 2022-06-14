@@ -1,0 +1,69 @@
+{
+    "pict_path": null,
+    "opinions": [
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "宣布",
+            "opinion": "23日起,原住民、離島地區居民適用「快篩陽=確診」政策,目前共有6類對象符合規定。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "符合"
+            ],
+            "datetime": "2022-05-22 16:27"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "衡酌國際及本土疫情趨勢,並參考新加坡、日本及韓國等國作法,在維持入境對象及來台事由,並且調控入境總量的前提下,應可逐步開放邊境,縮短檢疫天數。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-06-11 13:00"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "衡酌國際及國內疫情趨勢,並參考新加坡、日本及韓國等國作法,在維持入境對象及來台事由,且調控入境總量的前提下,應可逐步開放邊境,縮短檢疫天數。",
+            "negative_score": 0,
+            "positive_score": 1,
+            "negative_list": [],
+            "positive_list": [
+                "開放"
+            ],
+            "datetime": "2022-06-11 12:39"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "全球疫情上下波動持平,各國因檢測量縮減,可能低估病例數,國內疫情近一周略有下降趨勢,北部及東部縣市新增病例數下降,中南部縣市病例增長幅度趨緩,研判可能已近高峰。",
+            "negative_score": 2,
+            "positive_score": 0,
+            "negative_list": [
+                "下降",
+                "縮減"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-11 12:39"
+        },
+        {
+            "person": "中央流行疫情指揮中心",
+            "verb": "表示",
+            "opinion": "有關快篩試劑實名制第二輪之販售情形,本月6日實施後買氣明顯趨緩,目前各實名制據點已可隨到隨買,擬自下週一(本月13日)起,取消快篩試劑實名制購買單雙號之限制。",
+            "negative_score": 2,
+            "positive_score": 1,
+            "negative_list": [
+                "取消",
+                "限制"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-06-11 12:47"
+        }
+    ]
+}

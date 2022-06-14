@@ -1,0 +1,22 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/連勝文.png",
+    "opinions": [
+        {
+            "person": "連勝文",
+            "verb": "說",
+            "opinion": "蔣萬安從4、5年前就很關心霹靂舞的運動,所以找蔣萬安來也是希望能繼續為年輕人奮鬥,將來幫更大的忙。",
+            "negative_score": 0,
+            "positive_score": 6,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "奮鬥",
+                "關心",
+                "希望",
+                "奮鬥",
+                "關心"
+            ],
+            "datetime": "2022-05-28 10:58"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/鄭暐.png",
+    "opinions": [
+        {
+            "person": "鄭暐",
+            "verb": "指出",
+            "opinion": "「基隆市民已經接受了,協和電廠40多年來的空汙,為什麼協和電廠的能源轉型,基隆市政府不能和我們站在一起。」",
+            "negative_score": 1,
+            "positive_score": 1,
+            "negative_list": [
+                "不能"
+            ],
+            "positive_list": [
+                "接受"
+            ],
+            "datetime": "2022-06-01 17:18"
+        }
+    ]
+}

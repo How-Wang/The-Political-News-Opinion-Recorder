@@ -1,0 +1,23 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/簡松樹.png",
+    "opinions": [
+        {
+            "person": "簡松樹",
+            "verb": "說",
+            "opinion": "「宜蘭縣政府的記者會,我們覺得是不倫不類,是不是明顯誤導宜蘭縣民,靈芝對防疫有什麼作為,是不是違反藥事法。」",
+            "negative_score": 5,
+            "positive_score": 1,
+            "negative_list": [
+                "違反",
+                "誤導",
+                "不是",
+                "不倫不類",
+                "違反"
+            ],
+            "positive_list": [
+                "明顯"
+            ],
+            "datetime": "2022-06-08 18:21"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/Politico.png",
+    "opinions": [
+        {
+            "person": "Politico",
+            "verb": "指出",
+            "opinion": "布林肯26日的演說將向政府部會、外國政府與中國共產黨闡明,拜登政府聚焦中國的政策與管控行動符合一致性的藍圖,具有明確具體對外政策目標。",
+            "negative_score": 0,
+            "positive_score": 3,
+            "negative_list": [],
+            "positive_list": [
+                "一致",
+                "明確",
+                "符合"
+            ],
+            "datetime": "2022-05-26 12:19"
+        }
+    ]
+}

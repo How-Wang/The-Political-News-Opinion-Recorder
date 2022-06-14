@@ -1,0 +1,105 @@
+{
+    "pict_path": "../crawler/result/fit_UI/pic/魏文元.png",
+    "opinions": [
+        {
+            "person": "魏文元",
+            "verb": "說",
+            "opinion": "市府將依據王閔生要求,8日送交調查報告給議會,未來也會針對同仁加強宣導,若再發現違失事實,查明後絕不寬貸。",
+            "negative_score": 4,
+            "positive_score": 0,
+            "negative_list": [
+                "失事",
+                "要求",
+                "失事",
+                "絕不"
+            ],
+            "positive_list": [],
+            "datetime": "2022-06-06 20:19"
+        },
+        {
+            "person": "魏文元",
+            "verb": "表示",
+            "opinion": "北市府資訊局非調查局,更不是柯南,還有許多重要市政公務要處理,人力及資源要有效運用,希望外界不要無限上綱。",
+            "negative_score": 2,
+            "positive_score": 5,
+            "negative_list": [
+                "不是",
+                "不要"
+            ],
+            "positive_list": [
+                "有效",
+                "希望",
+                "重要",
+                "資源",
+                "希望"
+            ],
+            "datetime": "2022-06-09 10:58"
+        },
+        {
+            "person": "魏文元",
+            "verb": "表示",
+            "opinion": "依照「台北市政府網路管理規範」,網路日誌保存規定至少一年,因此超過一年以上,沒有使用北市府網路上PTT,帳號無法追查。",
+            "negative_score": 5,
+            "positive_score": 2,
+            "negative_list": [
+                "沒有",
+                "無法",
+                "超過",
+                "沒有",
+                "無法"
+            ],
+            "positive_list": [
+                "規範",
+                "管理"
+            ],
+            "datetime": "2022-06-09 14:03"
+        },
+        {
+            "person": "魏文元",
+            "verb": "說",
+            "opinion": "北市府資訊局非調查局,更不是柯南,還有許多重要市政公務要處理,人力及資源要有效運用,不能無限上綱。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [
+                "有效",
+                "重要",
+                "資源"
+            ],
+            "datetime": "2022-06-09 14:03"
+        },
+        {
+            "person": "魏文元",
+            "verb": "表示",
+            "opinion": "北市府資訊局非調查局,更不是柯南,還有許多重要市政公務要處理,人力及資源要有效運用,不能無限上綱。",
+            "negative_score": 2,
+            "positive_score": 3,
+            "negative_list": [
+                "不能",
+                "不是"
+            ],
+            "positive_list": [
+                "有效",
+                "重要",
+                "資源"
+            ],
+            "datetime": "2022-06-09 12:18"
+        },
+        {
+            "person": "魏文元",
+            "verb": "表示",
+            "opinion": "「市府同仁在上班的時候,可能因為也許不當使用PTT,但卻被外界這樣擴大渲染,就是希望發言體系可以為市政來辯護。」",
+            "negative_score": 0,
+            "positive_score": 2,
+            "negative_list": [],
+            "positive_list": [
+                "希望",
+                "希望"
+            ],
+            "datetime": "2022-06-10 19:56"
+        }
+    ]
+}
