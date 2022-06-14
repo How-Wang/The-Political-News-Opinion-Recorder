@@ -41,11 +41,12 @@
 ## Implementation
 
 ```shell
-# requirements.txt may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
+# create an environment
 # platform: win-64
+$ conda create --name <env> --file requirements.txt
 
-..\The-Political-News-Opinion-Recorder\src\UI>$ python app.py
+# under path ..\src\UI\
+$ python app.py
 ```
 
 ## Analysis
@@ -66,7 +67,8 @@
 | version 0 | ***0.689*** | 0.521     | 0.575     |
 | version 1 | 0.679     | 0.518     | 0.569     |
 | version 2 | 0.609     | ***0.699*** | ***0.639*** |
-（使用100篇手動標記 ettoday 政治新聞意見）
+
+（使用100篇手動標記 ettoday 政治新聞意見做驗證）
 ## Contributor
 ### Author / Maintainers
 - [@Howard](https://github.com/How-Wang)
