@@ -24,6 +24,7 @@
 9. 最後根據需要的 UI 模式，調整檔案形式，並自行設定自動化爬取、以 `Flask` 為框架，將系統架設在 `Google Cloud Platform` 以供閱聽者使用。
 ## Website Demo
 - [🔗 Website Link](http://34.80.42.37:5000/)
+- [🔗 Introduction Video Link](https://youtu.be/UJtKTw_9lxM)
 1. **首頁呈現新聞分群結果**
 ![image](https://user-images.githubusercontent.com/62500402/173529497-df0451b3-35d0-49fb-ada7-a025aac95841.png)
     
