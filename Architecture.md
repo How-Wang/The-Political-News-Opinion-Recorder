@@ -1,10 +1,3 @@
-# 檔案架構
-- src
-    - crawler
-        - result
-            - fit_UI
-                >==`所有網頁上需要呈現的資料`==
-                - person-slice-dataset# TW-test 檔案架構
 檔案架構
 - src
     - crawler
