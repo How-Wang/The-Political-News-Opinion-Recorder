@@ -114,9 +114,11 @@ $ python app.py
 - [@TCHuang](https://github.com/tc-huang)
 ### Reference
 - [CKIP CoreNLP Toolkit](https://github.com/ckiplab/ckipnlp)
-    - Peng-Hsuan Li, Tsu-Jui Fu, Wei-Yun Ma. “Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER”. AAAI, Feb 2020.
-    - Yu-Ming Hsieh, Duen-Chi Yang, Keh-Jiann Chen. “Grammar Extraction, Generalization and Specialization”. ROCLING, Sep 2004.
 - [BERTopic](https://github.com/MaartenGr/BERTopic)
-    - Maarten Grootendorst (2022). "BERTopic: Neural topic modeling with a class-based TF-IDF procedure". arΧiv:0707.0835
 - [sentence-transformer](https://github.com/UKPLab/sentence-transformers)
 - [IKMLab/Taiwan_news_dataset](https://github.com/IKMLab/Taiwan_news_dataset)
+- [中文情感語意分析套件 CSentiPackage](https://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/view/732)
+- Maarten Grootendorst (2022). "BERTopic: Neural topic modeling with a class-based TF-IDF procedure". arΧiv:0707.0835
+- Peng-Hsuan Li, Tsu-Jui Fu, Wei-Yun Ma. “Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER”. AAAI, Feb 2020.
+- Yu-Ming Hsieh, Duen-Chi Yang, Keh-Jiann Chen. “Grammar Extraction, Generalization and Specialization”. ROCLING, Sep 2004.
+- Wei-Fan Chen, 陳., & Lun-Wei Ku, 古. (2018). 中文情感語意分析套件 CSentiPackage簡介. 圖書館學與資訊科學, 44(1), 24-41. 引自：https://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/view/732
