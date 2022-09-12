@@ -64,7 +64,7 @@
 - [🔗 Website Link](http://34.80.42.37:5000/)
 - [🔗 Introduction Video Link](https://youtu.be/UJtKTw_9lxM)
 1. **首頁呈現新聞分群結果**
-![](https://i.imgur.com/PoDxgvk.jpg)
+![image](https://user-images.githubusercontent.com/62500402/173529497-df0451b3-35d0-49fb-ada7-a025aac95841.png)
 
 2. **新聞分群列表**
 ![](https://i.imgur.com/MWJaCxx.png)
