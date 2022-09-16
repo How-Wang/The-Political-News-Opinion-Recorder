@@ -60,7 +60,7 @@
                     >==`暫時存放當日的新聞分群資訊`==
                 - total_opinions.csv
                     >==`暫時存放當日的新聞資訊`==
-                - cluster_cluster_table.scv
+                - cluster_cluster_table.csv
                     >==`每日新聞分群（small cluster）vs 每日分群後標題的再次分群（big cluster 就是為了呈現出跨天的議題分群）`==
             - sentiment_dict
                  >==`NTUSD 情緒字典`==
@@ -71,7 +71,7 @@
                     >==`置換代名詞`==
                 - v0_cluster_news.py
                     >==`BerTopic 新聞分群`==
-                - v0_knn_cluster_news.py
+                - v0_kmeans_cluster_news.py
                     >==`knn 新聞分群`== (不使用)
                 - v0_cluster_opinions.py
                     >==`knn 同篇新聞意見分群`==
